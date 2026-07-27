@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>반도체 뉴스 브리핑</title>
+<script src="data.js"></script>
+<style>
+  :root{
+    --paper:#F5F2EA; --ink:#1C1E22; --ink-soft:#3A3D43; --slate:#6B7280; --line:#DED7C7; --card:#FFFFFF;
+    --copper:#B0692C; --copper-soft:#F1E2CF; --wafer:#2E6178; --wafer-soft:#DCE9EC;
+    --graphite:#4B4F58; --graphite-soft:#E7E5E0; --moss:#5E6E3F; --moss-soft:#E5E9DA;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#15171A; --ink:#ECE9E1; --ink-soft:#C7C3B9; --slate:#93958F; --line:#33352F; --card:#1D1F22;
+      --copper:#E0A15E; --copper-soft:#3A2E1D; --wafer:#7FB3C7; --wafer-soft:#1C2E33;
+      --graphite:#B7B9BE; --graphite-soft:#2B2C2F; --moss:#A2B67F; --moss-soft:#242A1C;
+    }
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Pretendard Variable','Apple SD Gothic Neo','Malgun Gothic',-apple-system,sans-serif;}
+  .mono{font-family:ui-monospace,'SF Mono',Consolas,monospace;font-variant-numeric:tabular-nums;}
+  .wrap{max-width:820px;margin:0 auto;padding:0 20px 80px;}
+  header{padding:48px 20px 24px;max-width:820px;margin:0 auto;border-bottom:1px solid var(--line);}
+  h1{font-size:clamp(24px,4vw,32px);margin:0 0 10px;letter-spacing:-.01em;}
+  .sub{color:var(--slate);font-size:14.5px;margin:0 0 18px;}
+  .meta-row{display:flex;flex-wrap:wrap;gap:8px;}
+  .chip{font-size:12px;padding:5px 10px;border-radius:999px;border:1px solid var(--line);color:var(--ink-soft);background:var(--card);}
+
+  .control-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding:20px 0 8px;}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filters button{font-size:13px;cursor:pointer;border:1px solid var(--line);padding:6px 12px;border-radius:8px;background:var(--card);color:var(--ink-soft);}
+  .filters button.active{border-color:var(--copper);color:var(--copper);}
+  .groupswitch{display:flex;gap:2px;border:1px solid var(--line);border-radius:8px;padding:2px;background:var(--card);}
+  .groupswitch button{font-size:12.5px;cursor:pointer;border:none;padding:6px 12px;border-radius:6px;background:transparent;color:var(--ink-soft);}
+  .groupswitch button.active{background:var(--copper-soft);color:var(--copper);}
+
+  .group-header{font-size:13px;font-weight:700;color:var(--ink-soft);padding:22px 0 6px;letter-spacing:-.01em;}
+  .group-header .count{font-weight:400;color:var(--slate);font-family:ui-monospace,Consolas,monospace;font-size:11.5px;margin-left:6px;}
+  .group-header:first-child{padding-top:0;}
+
+  .row{display:grid;grid-template-columns:120px 1fr auto;gap:14px;padding:14px 0;border-top:1px solid var(--line);}
+  .row:first-child{border-top:none;}
+  .group-header + .row{border-top:none;}
+  .tag{font-size:11px;font-family:ui-monospace,Consolas,monospace;padding:3px 8px;border-radius:5px;white-space:nowrap;height:fit-content;}
+  .tag--kr{background:var(--copper-soft);color:var(--copper);}
+  .tag--corp{background:var(--wafer-soft);color:var(--wafer);}
+  .tag--intl{background:var(--graphite-soft);color:var(--graphite);}
+  .tag--digest{background:var(--moss-soft);color:var(--moss);}
+  .body a{color:var(--ink);text-decoration:none;font-weight:600;font-size:15px;line-height:1.5;}
+  .body a:hover{color:var(--copper);}
+  .body p{margin:5px 0 0;font-size:13px;color:var(--ink-soft);line-height:1.6;}
+  .src{font-size:11px;color:var(--slate);margin-top:4px;}
+  .date{font-size:12px;color:var(--slate);white-space:nowrap;}
+  .empty{padding:40px 0;color:var(--slate);text-align:center;}
+
+  .explain{margin-top:8px;}
+  .explain summary{cursor:pointer;font-size:12.5px;color:var(--moss);list-style:none;display:inline-flex;align-items:center;gap:4px;}
+  .explain summary::-webkit-details-marker{display:none;}
+  .explain summary:hover{text-decoration:underline;}
+  .explain[open] summary{margin-bottom:8px;}
+  .explain-box{background:var(--moss-soft);border-radius:8px;padding:14px 16px;font-size:13.5px;line-height:1.75;color:var(--ink-soft);}
+  .explain-box p{margin:0 0 12px;}
+  .explain-box p:last-child{margin-bottom:0;}
+
+  @media (max-width:640px){.row{grid-template-columns:1fr;}.date{order:-1;}}
+</style>
+</head>
+<body>
+<header>
+  <p class="chip mono" style="display:inline-block;margin-bottom:10px;">SEMICONDUCTOR NEWS · LOCAL</p>
+  <h1>반도체 뉴스 브리핑</h1>
+  <p class="sub" id="fetchedAt">수집 시각 확인 중...</p>
+  <div class="meta-row" id="metaRow"></div>
+</header>
+<div class="wrap">
+  <div class="control-bar">
+    <div class="filters" id="filters"></div>
+    <div class="groupswitch" id="groupswitch">
+      <button data-group="source" class="active">소스별</button>
+      <button data-group="date">날짜별</button>
+    </div>
+  </div>
+  <div id="list"></div>
+</div>
+
+<script>
+  const payload = window.NEWS_DATA || { fetchedAt: null, items: [] };
+  const items = payload.items || [];
+  let explanations = {};
+  let state = { filter: 'all', group: 'source' };
+
+  document.getElementById('fetchedAt').textContent = payload.fetchedAt
+    ? '마지막 수집: ' + new Date(payload.fetchedAt).toLocaleString('ko-KR')
+    : 'data.js가 없습니다. node fetch-news.js를 먼저 실행하세요.';
+
+  const bySource = {};
+  items.forEach(it => { bySource[it.source] = (bySource[it.source] || 0) + 1; });
+  document.getElementById('metaRow').innerHTML =
+    `<span class="chip mono">${items.length}건</span>` +
+    Object.keys(bySource).map(s => `<span class="chip">${s} ${bySource[s]}</span>`).join('');
+
+  const TAG_LABEL = { kr: 'KR PRESS', corp: 'CORP', intl: 'GLOBAL', digest: 'DIGEST' };
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function formatDate(d) {
+    const date = new Date(d);
+    if (isNaN(date)) return '';
+    return date.toLocaleDateString('ko-KR', { month: '2-digit', day: '2-digit' }) + ' ' +
+      date.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
+  }
+
+  // "오늘 · 07.27" / "어제 · 07.26" / "07.20" 같은 날짜 그룹 라벨 만들기
+  function dateGroupLabel(d) {
+    const date = new Date(d);
+    if (isNaN(date)) return '날짜 미상';
+    const today = new Date(); today.setHours(0,0,0,0);
+    const yesterday = new Date(today); yesterday.setDate(today.getDate() - 1);
+    const target = new Date(date); target.setHours(0,0,0,0);
+    const md = date.toLocaleDateString('ko-KR', { month: '2-digit', day: '2-digit' });
+    if (target.getTime() === today.getTime()) return `오늘 · ${md}`;
+    if (target.getTime() === yesterday.getTime()) return `어제 · ${md}`;
+    return md;
+  }
+
+  function dateGroupKey(d) {
+    const date = new Date(d);
+    if (isNaN(date)) return '0000-00-00';
+    // toISOString()은 UTC 기준이라 한국 시간(KST) 자정 근처 기사가 엉뚱한 날짜로 묶이는 문제가 있어서,
+    // 화면에 보이는 날짜(로컬 시간) 기준으로 그룹 키를 만든다.
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${y}-${m}-${day}`;
+  }
+
+  function rowHtml(it) {
+    const explanation = explanations[it.link];
+    return `
+      <div class="row">
+        <span class="tag tag--${it.type}">${TAG_LABEL[it.type] || it.type}</span>
+        <div class="body">
+          <a href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
+          ${it.desc ? `<p>${escapeHtml(it.desc)}</p>` : ''}
+          <div class="src">${escapeHtml(it.source)}</div>
+          ${explanation ? `
+            <details class="explain">
+              <summary>🔰 쉬운 설명 보기</summary>
+              <div class="explain-box">${explanation.split('\n\n').map(p => `<p>${escapeHtml(p)}</p>`).join('')}</div>
+            </details>
+          ` : ''}
+        </div>
+        <span class="date mono">${formatDate(it.date)}</span>
+      </div>
+    `;
+  }
+
+  function render() {
+    const list = document.getElementById('list');
+    const filtered = state.filter === 'all' ? items : items.filter(it => it.type === state.filter);
+
+    if (filtered.length === 0) {
+      list.innerHTML = '<div class="empty">표시할 뉴스가 없습니다.</div>';
+      return;
+    }
+
+    if (state.group === 'source') {
+      // 소스가 등장하는 순서(=최신 기사가 있는 소스 순)대로 그룹 구성
+      const order = [];
+      const groups = {};
+      filtered.forEach(it => {
+        if (!groups[it.source]) { groups[it.source] = []; order.push(it.source); }
+        groups[it.source].push(it);
+      });
+      list.innerHTML = order.map(source => `
+        <div class="group-header">${escapeHtml(source)}<span class="count">${groups[source].length}</span></div>
+        ${groups[source].map(rowHtml).join('')}
+      `).join('');
+    } else {
+      const order = [];
+      const groups = {};
+      filtered.forEach(it => {
+        const key = dateGroupKey(it.date);
+        if (!groups[key]) { groups[key] = { label: dateGroupLabel(it.date), items: [] }; order.push(key); }
+        groups[key].items.push(it);
+      });
+      list.innerHTML = order.map(key => `
+        <div class="group-header">${groups[key].label}<span class="count">${groups[key].items.length}</span></div>
+        ${groups[key].items.map(rowHtml).join('')}
+      `).join('');
+    }
+  }
+
+  const TYPES = [['all','전체'], ['kr','KR 언론'], ['corp','기업 뉴스룸'], ['intl','해외 전문지'], ['digest','업계 요약']];
+  document.getElementById('filters').innerHTML = TYPES.map(([t, label], i) =>
+    `<button data-type="${t}" class="${i === 0 ? 'active' : ''}">${label}</button>`
+  ).join('');
+  document.querySelectorAll('.filters button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.filter = btn.dataset.type;
+      render();
+    });
+  });
+
+  document.querySelectorAll('#groupswitch button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#groupswitch button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.group = btn.dataset.group;
+      render();
+    });
+  });
+
+  fetch('explanations.json')
+    .then(res => res.ok ? res.json() : {})
+    .catch(() => ({}))
+    .then(data => { explanations = data || {}; render(); });
+
+  render();
+</script>
+</body>
+</html>
