@@ -1,0 +1,36 @@
+name: Fetch semiconductor news
+
+on:
+  schedule:
+    # 매일 07:00 KST(UTC 22:00)에 자동 실행
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: node fetch-news.js
+
+      - name: data.js 변경 시 커밋 및 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data.js; then
+            echo "새 기사가 없어 변경 사항 없음"
+          else
+            git add data.js
+            git commit -m "뉴스 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
