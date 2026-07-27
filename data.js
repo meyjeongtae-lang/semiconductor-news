@@ -1,12 +1,28 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-07-27T02:18:19.483Z",
+  "fetchedAt": "2026-07-27T05:35:06.832Z",
   "items": [
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[하이피디아 3편 – System Architecture & Software Solution] 데이터 이동의 한계를 넘어서다, 메모리에서 연산하는 ‘PIM’",
+      "link": "https://news.skhynix.co.kr/ambassador-hypidia-3/",
+      "date": "Mon, 27 Jul 2026 05:00:33 +0000",
+      "desc": "하이피디아는 SK하이닉스의 직무별 핵심 키워드를 하나씩 뽑아 알기 쉽게 풀이하는 시리즈다. 낯선 용어 속에 담긴 직무의 역할과 산업의 작동 원리를 명쾌하게 정리해, 반도체 산업에 대한 쉬운 이해를 돕는다. 3화에서는 AI 혁신을 이끌 차세대 지능형 메"
+    },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "[속보] '中 반도체 첨병' CXMT 상장…단숨에 中본토 시총 1위",
-      "link": "https://www.hankyung.com/article/2026072776857",
-      "date": "Mon, 27 Jul 2026 10:33:25 +0900",
+      "title": "창신메모리 상장 직후 470% 급등…중국 증시 시총 1위 달성",
+      "link": "https://www.hankyung.com/article/202607277926i",
+      "date": "Mon, 27 Jul 2026 12:24:27 +0900",
+      "desc": ""
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI가 바꾼 반도체 공급망 지도…네덜란드, 한국 장비 최대 수입국으로",
+      "link": "https://www.hankyung.com/article/202607277493i",
+      "date": "Mon, 27 Jul 2026 12:00:05 +0900",
       "desc": ""
     },
     {
@@ -16,14 +32,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260726-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-26%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Mon, 27 Jul 2026 00:53:37 GMT",
       "desc": "이재용, 美 오픈AI 본사 찾아 올트먼과 전격 회동 (2026년 7월 26일, 아주경제, 김나윤 기자) 원문보기 : https://www.ajunews.com/view/20260726141829914 [핵심 요약] [1] 이재용 회장, 오픈AI 본사에"
-    },
-    {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "[샌프란 AI선언] 이재용·최태원·정의선, 美 반도체·피지컬 AI 연쇄 회동",
-      "link": "https://www.etnews.com/20260726000112",
-      "date": "Sun, 26 Jul 2026 14:12:21 +0900",
-      "desc": "24일(현지시간) 이재명 대통령의 미국 방문 일정과 연계된 '샌프란시스코 AI' 서밋과 관련, 국내 주요 대기업 총수들은 글로벌 빅테크와 대규모 반도체 공급 계약 등 성과를 잇달아 창출하며 활발한 움직임을 보였다. 이재용 삼성전자 회장은 현지시간 25"
     },
     {
       "source": "SPTA TIMES",
@@ -306,14 +314,6 @@ window.NEWS_DATA = {
       "desc": "메모리 반도체 3사, HBM4 수율 경쟁 점화…하반기 수익 판가름 (2026년 7월 21일, 전자신문, 권동준 기자) 원문보기: https://www.etnews.com/20260721000240 [핵심 요약] [1] 메모리 3사, HBM4 수율 경쟁"
     },
     {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "삼성전자, 대표 직속 '로봇 사업 조직' 신설",
-      "link": "https://www.etnews.com/20260721000188",
-      "date": "Tue, 21 Jul 2026 13:11:19 +0900",
-      "desc": "삼성전자가 전사 역량을 결집한 로봇사업 조직을 신설했다. 반도체에 이어 미래 성장 가능성이 높고 피지컬AI 핵심으로 꼽히는 로봇 사업에서 초격차 실현을 위한 승부수를 띄웠다는 분석이다. 삼성전자는 로봇을 미래 성장동력의 핵심 축으로 육성하고, 차세대 "
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260720-TE-01호] 2026년 7월 20일 반도체 장비 관련 주요 뉴스 요약",
@@ -416,14 +416,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/future-talents-class-ep2-01/",
       "date": "Wed, 15 Jul 2026 04:00:41 +0000",
       "desc": "▲차승민 SK하이닉스 대학생 앰버서더 Source"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "[미래인재 CLASS 제2강] 뇌를 닮은 메모리가 있다? 연산하는 메모리 ‘PIM’의 현재와 미래",
-      "link": "https://news.skhynix.co.kr/future-talents-class-ep2-03/",
-      "date": "Wed, 15 Jul 2026 04:00:35 +0000",
-      "desc": "▲ 한시연 SK하이닉스 대학생 앰버서더 Source"
     },
     {
       "source": "SPTA TIMES",
