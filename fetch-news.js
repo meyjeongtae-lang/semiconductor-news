@@ -7,12 +7,17 @@ const { XMLParser } = require('fast-xml-parser');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const KEYWORD = '반도체'; // 이 단어가 제목/요약에 있어야 통과시키는 소스들이 있음 (filter: true)
+// 이 단어들 중 하나라도 제목/요약에 있어야 통과시키는 소스들이 있음 (filter: true)
+// 'AI'나 '인공지능'만 넣으면 반도체와 상관없는 AI 소프트웨어/인사 뉴스까지 다 걸려서,
+// AI 중에서도 반도체·하드웨어와 확실히 관련된 단어들로만 좁혔다.
+const KEYWORDS = ['반도체', 'GPU', 'HBM', 'AI칩', 'AI 칩', 'AI 서버', 'AI 인프라', 'NPU'];
 
 // RSS로 가져오는 소스 목록
 const RSS_SOURCES = [
   { name: '전자신문', url: 'http://rss.etnews.com/06.xml', type: 'kr', filter: true },
   { name: '한국경제', url: 'https://www.hankyung.com/feed/all-news', type: 'kr', filter: true },
+  { name: '디일렉', url: 'https://www.thelec.kr/rss/S1N2.xml', type: 'kr', filter: false },
+  { name: 'ZDNet Korea', url: 'https://feeds.feedburner.com/zdkorea', type: 'kr', filter: true },
   { name: '삼성 뉴스룸', url: 'https://news.samsung.com/kr/feed', type: 'corp', filter: true },
   { name: 'SK하이닉스 뉴스룸', url: 'https://news.skhynix.co.kr/feed/', type: 'corp', filter: false },
   { name: 'EE Times', url: 'https://www.eetimes.com/feed/', type: 'intl', filter: false },
@@ -50,7 +55,7 @@ async function fetchRSS(source) {
         desc,
       };
     })
-    .filter((item) => !source.filter || item.title.includes(KEYWORD) || item.desc.includes(KEYWORD));
+    .filter((item) => !source.filter || KEYWORDS.some((kw) => item.title.includes(kw) || item.desc.includes(kw)));
 }
 
 // SK 뉴스는 RSS가 없어서 페이지 HTML을 직접 읽어서 뽑아낸다 (= 크롤링)
@@ -82,7 +87,7 @@ async function fetchSK() {
     }
   });
 
-  return items.filter((item) => item.title.includes(KEYWORD));
+  return items.filter((item) => KEYWORDS.some((kw) => item.title.includes(kw)));
 }
 
 async function main() {
