@@ -7,7 +7,17 @@ const { XMLParser } = require('fast-xml-parser');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const KEYWORD = '반도체'; // 이 단어가 제목/요약에 있어야 통과시키는 소스들이 있음 (filter: true)
+// 이 중 하나라도 제목/요약에 있으면 통과시키는 소스들이 있음 (filter: true).
+// '반도체'라는 글자가 없어도 메모리·HBM·파운드리·AI 반도체 관련 기사면 잡히도록 넓게 잡았다.
+const KEYWORDS = [
+  '반도체', '메모리', 'HBM', 'D램', '디램', '낸드', 'NAND',
+  '파운드리', '웨이퍼', '팹리스', 'GPU', 'AI칩', 'AI 반도체', 'EUV', '노광',
+];
+
+function hasKeyword(text) {
+  const lower = String(text || '').toLowerCase();
+  return KEYWORDS.some((kw) => lower.includes(kw.toLowerCase()));
+}
 
 // RSS로 가져오는 소스 목록
 const RSS_SOURCES = [
@@ -50,7 +60,7 @@ async function fetchRSS(source) {
         desc,
       };
     })
-    .filter((item) => !source.filter || item.title.includes(KEYWORD) || item.desc.includes(KEYWORD));
+    .filter((item) => !source.filter || hasKeyword(item.title) || hasKeyword(item.desc));
 }
 
 // SK 뉴스는 RSS가 없어서 페이지 HTML을 직접 읽어서 뽑아낸다 (= 크롤링)
@@ -82,7 +92,7 @@ async function fetchSK() {
     }
   });
 
-  return items.filter((item) => item.title.includes(KEYWORD));
+  return items.filter((item) => hasKeyword(item.title));
 }
 
 async function main() {
