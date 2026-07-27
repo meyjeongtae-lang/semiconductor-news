@@ -1,6 +1,150 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-07-27T06:41:55.365Z",
+  "fetchedAt": "2026-07-27T22:24:42.282Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202607289209i",
+      "date": "Tue, 28 Jul 2026 02:01:25 +0900",
+      "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Warning Shots Fired as AMD Announces New Data Center GPUs",
+      "link": "https://www.eetimes.com/warning-shots-fired-as-amd-announces-new-data-center-gpus-at-advancing-ai-event/",
+      "date": "Mon, 27 Jul 2026 16:58:23 +0000",
+      "desc": "Red team’s new Helios racks offer 30% more tokens per dollar than Nvidia. The post Warning Shots Fired as AMD Announces New Data Center GPUs"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automotive Ethernet and Time Sensitive Networking (TSN) for Next Generation Vehicles",
+      "link": "https://www.eetimes.com/automotive-ethernet-and-time-sensitive-networking-tsn-for-next-generation-vehicles/",
+      "date": "Mon, 27 Jul 2026 15:59:39 +0000",
+      "desc": "In this session, our expert will provide a practical overview of Automotive Ethernet, TSN, and much more. The post Automotive Ethernet and T"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "美증시, 반도체주식 급락에 나스닥 하락 전환",
+      "link": "https://www.hankyung.com/article/202607289204i",
+      "date": "Tue, 28 Jul 2026 00:18:56 +0900",
+      "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Bringing Inference to the Patient: Systems Architecture for Healthcare Edge AI",
+      "link": "https://www.eetimes.com/bringing-inference-to-the-patient-systems-architecture-for-healthcare-edge-ai/",
+      "date": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "desc": "Scaling healthcare AI effectively—starting with the right edge infrastructure. The post Bringing Inference to the Patient: Systems Architect"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Adaptive Hardware Could Change How EV Chargers Are Designed",
+      "link": "https://www.eetimes.com/adaptive-hardware-could-change-how-ev-chargers-are-designed/",
+      "date": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "desc": "Vanix bets adaptive AMD hardware can make India’s EV chargers upgradeable, not disposable. The post Adaptive Hardware Could Change How EV Ch"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "中 CXMT, 상장 첫날 466% 상승…시총 712조 1위",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60129",
+      "date": "2026-07-27 20:44:15",
+      "desc": "창신메모리테크놀로지(CXMT)가 중국 시장에서 상장한 첫날 바로 중국 본토 시가총액(시총) 1위를 차지했다.27일(현지시간) CXMT는 상하이증권거래소 과학기술주 전용 시장(과창판)에 상장해 공모가 8.66위안(약 1879원) 대비 465.82% 급등"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 기반 차세대 통신·실감형 미디어 세계 시장 선도",
+      "link": "https://zdnet.co.kr/view/?no=20260727200808",
+      "date": "Mon, 27 Jul 2026 20:08:08 +0900",
+      "desc": "[지디넷코리아]1가구 1전화 시대를 연 전전자교환기(TDX), 반도체 강국 초석을 놓은 DRAM, 지금도 전세계 스마트폰 통신 방식인 부호분할다중접속(CDMA)과 함께 디지털멀티미디어방송(DMB), 휴대인터넷(WiBro), LTE, 5G·6G, 인공지"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+      "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
+      "date": "Mon, 27 Jul 2026 11:00:01 +0000",
+      "desc": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built from copper due to its high con"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "제엠제코, 엔비디아향 수요 증가에 신규 팹 짓는다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60090",
+      "date": "2026-07-27 18:42:36",
+      "desc": "제엠제코가 전력반도체 소재 수요 증가에 맞춰 팹을 증축한다. 제엠제코는 올해 말부터 사전에 확보한 부지에 연건평 2178평 규모의 추가 팹을 세운다고 27일 밝혔다. 양산은 내년 2분기로 예정됐다. 제엠제코는 지난해 기준 부산 기장에 약 1553평(본"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "RFHIC, 2분기 영업익 전년비 35%↑...\"하반기 더 크다\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60114",
+      "date": "2026-07-27 18:27:36",
+      "desc": "RFHIC가 올해 2분기 연결 실적으로 매출이 515억원, 영업이익이 112억원이라고 27일 공시했다. 각각 전년 동기 대비 15.37%, 34.69% 성장한 수치다.RFHIC 관계자는 \"RF머트리얼즈의 매출과 영업이익률이 높았다\"며 실적이 개선된 배"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'삼전닉스' 보안 투자는...4121억 vs 685억",
+      "link": "https://zdnet.co.kr/view/?no=20260727172731",
+      "date": "Mon, 27 Jul 2026 18:23:06 +0900",
+      "desc": "[지디넷코리아]국내 대표 종합 반도체 기업 삼성전자와 SK하이닉스가 지난해 정보보호 부문 투자액 전년보다 10% 이상 늘렸다. 투자 규모만 놓고 보면 삼성전자가 SK하이닉스 대비 6배 이상 더 많이 투자했다. 하지만 정보기술(IT) 투자 대비 정보보호"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "에코프로에이치엔, 삼성E&A에 반도체 공정 RCS 공급…330억 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260727180551",
+      "date": "Mon, 27 Jul 2026 18:16:18 +0900",
+      "desc": "[지디넷코리아]에코프로에이치엔이 삼성E&amp;A에 중앙식 온실가스 저감 시스템(RCS)을 공급한다. 이번 계약은 330억원 규모로, 공급된 설비는 국내 반도체사에 도입될 예정이다.에코프로에이치엔은 삼성E&amp;A와 RCS 공급 계약을 체결했다고 2"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "배경훈 \"AI인프라 민간투자 뒷받침…규제혁신 아끼지 않겠다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260727173825",
+      "date": "Mon, 27 Jul 2026 17:58:16 +0900",
+      "desc": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 AI 인프라 분야 민간 투자를 촉진하기 위해 정부가 규제 혁신과 제도 개선에 적극 나서겠다고 밝혔다.배 부총리는 27일 자신의 인스타그램을 통해 최근 통신 3사 CEO 간담회를 소개하며 “민관 "
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "CXMT IPO: Where China’s Largest DRAM Maker Stands?",
+      "link": "https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/",
+      "date": "Mon, 27 Jul 2026 07:20:00 +0000",
+      "desc": "CXMT eyes one of China’s largest semiconductor IPOs amid once-in-four-decades memory shortage. The post CXMT IPO: Where China’s Largest DRAM"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Agent Orchestration For ASIC Autonomy",
+      "link": "https://semiengineering.com/ai-agent-orchestration-for-asic-autonomy/",
+      "date": "Mon, 27 Jul 2026 07:01:53 +0000",
+      "desc": "How to achieve a 10X productivity improvement using AI agents. The post AI Agent Orchestration For ASIC Autonomy appeared first on Semicondu"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Preparing For AI-Driven Chip Design And Verification",
+      "link": "https://semiengineering.com/preparing-for-ai-driven-chip-design-and-verification/",
+      "date": "Mon, 27 Jul 2026 07:01:32 +0000",
+      "desc": "Jobs, markets, and economics are undergoing dramatic changes, but it's still too early to know how this will all shake out. The post Prepari"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why the Semiconductor Industry Needs A Common Language For Functional Safety",
+      "link": "https://semiengineering.com/why-the-semiconductor-industry-needs-a-common-language-for-functional-safety/",
+      "date": "Mon, 27 Jul 2026 07:01:27 +0000",
+      "desc": "A standardized way for future automation. The post Why the Semiconductor Industry Needs A Common Language For Functional Safety appeared fir"
+    },
     {
       "source": "SK하이닉스 뉴스룸",
       "type": "corp",
@@ -8,38 +152,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/ambassador-hypidia-3/",
       "date": "Mon, 27 Jul 2026 05:00:33 +0000",
       "desc": "하이피디아는 SK하이닉스의 직무별 핵심 키워드를 하나씩 뽑아 알기 쉽게 풀이하는 시리즈다. 낯선 용어 속에 담긴 직무의 역할과 산업의 작동 원리를 명쾌하게 정리해, 반도체 산업에 대한 쉬운 이해를 돕는다. 3화에서는 AI 혁신을 이끌 차세대 지능형 메"
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "'AI 투자 증가 = 반도체 호재' 공식 깨졌다…숨죽인 개미들",
-      "link": "https://www.hankyung.com/article/202607277420i",
-      "date": "Mon, 27 Jul 2026 13:48:22 +0900",
-      "desc": ""
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "창신메모리 상장 직후 470% 급등…중국 증시 시총 1위 달성",
-      "link": "https://www.hankyung.com/article/202607277926i",
-      "date": "Mon, 27 Jul 2026 12:24:27 +0900",
-      "desc": ""
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "AI가 바꾼 반도체 공급망 지도…네덜란드, 한국 장비 최대 수입국으로",
-      "link": "https://www.hankyung.com/article/202607277493i",
-      "date": "Mon, 27 Jul 2026 12:00:05 +0900",
-      "desc": ""
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "AMD, 국산 NPU 생태계 힘 보탠다...한국에 R&D센터 설립",
-      "link": "https://zdnet.co.kr/view/?no=20260727112320",
-      "date": "Mon, 27 Jul 2026 12:00:03 +0900",
-      "desc": "[지디넷코리아]정부가 AMD와 AI반도체 분야에 맞손을 잡기로 했다. GPU 중심의 AI 컴퓨팅을 넘어 CPU, NPU 등 다양한 방식을 결합하는 이기종 컴퓨팅에 대비하기 위한 것이다.27일 과학기술정보통신부에 따르면 배경훈 부총리 겸 과기정통부 장관"
     },
     {
       "source": "SPTA TIMES",
@@ -56,6 +168,14 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60040",
       "date": "2026-07-27 07:13:21",
       "desc": "엔비디아와 SK그룹은 24일(현지시간) 5000억달러(약 731조5500억원) 이상 규모 파트너십을 추진한다고 공동 발표했다. 글로벌 컴퓨팅 수요에 대응하기 위해 인공지능(AI) 인프라 구축을 함께한다.양사는 이날 미국 샌프란시스코 페어몬트 호텔에서 "
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+      "link": "https://spectrum.ieee.org/ai-in-robotics",
+      "date": "Sun, 26 Jul 2026 13:00:01 +0000",
+      "desc": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED em"
     },
     {
       "source": "전자신문",
@@ -266,28 +386,12 @@ window.NEWS_DATA = {
       "desc": "What does it take to build agentic AI for EDA that users can trust and verify? Listen in on this behind-the-scenes conversation around the d"
     },
     {
-      "source": "EE Times",
+      "source": "IEEE Spectrum",
       "type": "intl",
-      "title": "Etched Raises $300M with $1B in Pre-Orders",
-      "link": "https://www.eetimes.com/etched-raises-300m-with-1b-in-pre-orders/",
-      "date": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "desc": "AI chip startup Etched will start shipping its racks this summer. The post Etched Raises $300M with $1B in Pre-Orders appeared first on EE T"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "DAC 2026: Users Are Not Waiting; DIY AI Is Now in Vogue",
-      "link": "https://www.eetimes.com/dac-2026-users-are-not-waiting-diy-ai-is-now-in-vogue/",
-      "date": "Thu, 23 Jul 2026 07:45:00 +0000",
-      "desc": "At DAC 2026, chip giants stop waiting for EDA vendors and build their own AI brains—see who’s seizing control. The post DAC 2026: Users Are "
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Untangling Chip Traffic Jams",
-      "link": "https://semiengineering.com/untangling-chip-traffic-jams/",
-      "date": "Thu, 23 Jul 2026 07:11:26 +0000",
-      "desc": "Scaling NoCs across chiplets requires earlier validation of coherency, congestion, thermal effects, and fault behavior. The post Untangling "
+      "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+      "link": "https://spectrum.ieee.org/sleep-monitoring-device",
+      "date": "Thu, 23 Jul 2026 12:00:01 +0000",
+      "desc": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a system only discovered in 2012 that"
     },
     {
       "source": "Semiconductor Engineering",
@@ -296,6 +400,14 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/designing-electro-optical-chips/",
       "date": "Thu, 23 Jul 2026 07:11:26 +0000",
       "desc": "Photonics is forcing EDA to verify not just chips, but the physics of light inside full electro-optical systems. The post Designing Electro-"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Untangling Chip Traffic Jams",
+      "link": "https://semiengineering.com/untangling-chip-traffic-jams/",
+      "date": "Thu, 23 Jul 2026 07:11:26 +0000",
+      "desc": "Scaling NoCs across chiplets requires earlier validation of coherency, congestion, thermal effects, and fault behavior. The post Untangling "
     },
     {
       "source": "Semiconductor Engineering",
@@ -328,30 +440,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/from-future-vision-to-running-hardware-verification-at-dac-2026/",
       "date": "Thu, 23 Jul 2026 07:05:43 +0000",
       "desc": "Last year, DAC's Engineering Track debated where verification is headed. This year in Long Beach, the emulation and prototyping hardware tha"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Why Chip Engineers Should Care About AI-Created Behavioral Models",
-      "link": "https://semiengineering.com/why-chip-engineers-should-care-about-ai-created-behavioral-models/",
-      "date": "Thu, 23 Jul 2026 07:04:28 +0000",
-      "desc": "Automating the most repetitive and time-consuming parts of behavioral model creation while keeping humans in the loop. The post Why Chip Eng"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "The Impact Of AI Automation On Chip Design",
-      "link": "https://semiengineering.com/the-impact-of-ai-automation-on-chip-design/",
-      "date": "Thu, 23 Jul 2026 07:03:31 +0000",
-      "desc": "Change is coming, but how quickly depends on the availability of data and when chipmakers are confident enough to let AI take over. The post"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Enhancing System Observability",
-      "link": "https://semiengineering.com/enhancing-system-observability/",
-      "date": "Thu, 23 Jul 2026 07:03:15 +0000",
-      "desc": "Integrating real-time voltage telemetry and functional monitoring for deeper insights. The post Enhancing System Observability appeared firs"
     },
     {
       "source": "디일렉",
@@ -394,22 +482,6 @@ window.NEWS_DATA = {
       "desc": "중국 반도체기업들 IPO 러시…'반도체굴기 시즌2' 시작됐다 (2026년 7월 22일, 아주경제, 류소현 기자) 원문보기: https://www.ajunews.com/view/20260722153301497 [핵심 요약] [1] CXMT·YMTC 등 "
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "From Rhetoric to Metrics: Raghib Hussain’s First Year as Altera CEO",
-      "link": "https://www.eetimes.com/from-rhetoric-to-metrics-raghib-hussain-first-year-as-altera-ceo/",
-      "date": "Wed, 22 Jul 2026 22:00:00 +0000",
-      "desc": "Altera has taped out six chips in nine months, three ahead of schedule, as new CEO focuses on execution. The post From Rhetoric to Metrics: "
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "AI in EDA Is Real, It’s Now, and It’s on Show at DAC 2026",
-      "link": "https://www.eetimes.com/ai-in-eda-is-real-its-now-and-its-on-show-at-dac-2026/",
-      "date": "Wed, 22 Jul 2026 18:00:00 +0000",
-      "desc": "AI in chip design has left the slide deck and hit DAC 2026’s floor—walk the stack and test the hype. The post AI in EDA Is Real, It’s Now, a"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "인텔 파운드리, 포티넷과 차세대 보안 칩 만든다",
@@ -432,14 +504,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=59907",
       "date": "2026-07-22 22:07:14",
       "desc": "SK하이닉스가 청주 P&T7 첨단 패키징 공장 건설 투자 집행 시기를 앞당긴다. 클린룸 개방 일정을 단축하면서 이사회 결의 금액을 늘렸다. 다만 당초 발표한 P&T7 전체 투자 규모 약 19조원은 변동이 없는 것으로 알려졌다.SK하이닉스는 22일 이사"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "CEA-Leti Looks Beyond SRAM and DRAM as AI Reshapes the Memory Roadmap",
-      "link": "https://www.eetimes.com/cea-leti-looks-beyond-sram-and-dram-as-ai-reshapes-the-memory-roadmap/",
-      "date": "Wed, 22 Jul 2026 07:53:34 +0000",
-      "desc": "CEA-Leti’s François Andrieu describes more embedded, persistent, and low-energy memories that will meet the growing demands of AI. The post "
     },
     {
       "source": "SK하이닉스 뉴스룸",
@@ -482,14 +546,6 @@ window.NEWS_DATA = {
       "desc": "AMD는 올해 하반기부터 마이크로소프트(MS)에 '핼리오스'를 공급한다고 20일(현지시간) 밝혔다.MS는 클라우드 컴퓨팅 플랫폼 '애저'에 핼리오스를 도입해 고객 인공지능(AI) 모델, 추론 워크로드를 처리한다. 지난 2023년 AMD 그래픽처리장치("
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성, 평택에 하이브리드 본딩 50대 규모 양산 라인 만든다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=59804",
-      "date": "2026-07-21 17:49:20",
-      "desc": "삼성전자가 평택캠퍼스에 다이-투-웨이퍼(D2W) 하이브리드 본딩 50대 규모의 양산 라인을 구축한다. 차세대 고대역폭 메모리(HBM)와 로직 반도체를 생산하기 위해서다. 올 연말부터 장비 반입과 설치가 시작될 예정이다.21일 반도체 업계에 따르면 삼성"
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "삼성전자, 대표 직속 '로봇 사업 조직' 신설",
@@ -522,20 +578,20 @@ window.NEWS_DATA = {
       "desc": "\"기존 D램 갉아먹을라\"…메모리 3사, CXL 자체 컨트롤러 개발 않기로 (2026년 7월 20일, ZDNET Korea, 전화평 기자) 원문보기: https://zdnet.co.kr/view/?no=20260720150435 [핵심 요약] [1] 메"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "AMD, 하이엔드 PC용 '라이젠 7 7700X3D' 출시",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=59766",
-      "date": "2026-07-20 17:31:32",
-      "desc": "AMD가 자체 기술로 게이밍 성능을 향상시킨 프로세서인 '라이젠 7 7700X3D'을 출시했다고 20일 밝혔다. 출시가는 329달러(약 48만7500원)다.라이젠 7 7700X3D는 기존 라이젠 7 7700X 개선 버전으로 하이엔드 PC용이다. AMD"
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+      "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+      "date": "Mon, 20 Jul 2026 15:55:00 +0000",
+      "desc": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. Thi"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "엔비디아, 전력 효율 높인 '젯슨 토르' 공개",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=59757",
-      "date": "2026-07-20 17:24:03",
-      "desc": "엔비디아가 젯슨 토르 기반 모듈 'T3000'과 'T2000'을 20일 공개했다. 기존 제품 대비 전력 효율을 높인 제품군으로 휴머노이드와 로보틱스 상용화를 앞당긴다. 출시일은 2027년 1분기다.젯슨 토르는 엔비디아 엣지 AI용 컴퓨팅 플랫폼이다. "
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+      "link": "https://spectrum.ieee.org/led-light-pollution",
+      "date": "Mon, 20 Jul 2026 13:00:01 +0000",
+      "desc": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, "
     },
     {
       "source": "SPTA TIMES",
@@ -626,12 +682,212 @@ window.NEWS_DATA = {
       "desc": "앤비젼, 차세대 SerDes 머신비전 카메라 솔루션 출시 (2026년 7월 14일, 전자신문, 권상희 기자) 원문보기: https://www.etnews.com/20260714000170 [핵심 요약] [1] SerDes 기반 차세대 머신비전 카메라 "
     },
     {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The Memory in Your Thumb Drive Could Fix AI’s Big Problem",
+      "link": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "date": "Tue, 14 Jul 2026 13:00:01 +0000",
+      "desc": "Large Language Models (LLMs) demand immense amounts of memory, and the more people use them, the more memory is required. Memory makers resp"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Stacking Chips Sideways Gives AI More Memory",
+      "link": "https://spectrum.ieee.org/stacking-chips-sideways",
+      "date": "Wed, 08 Jul 2026 10:00:02 +0000",
+      "desc": "GPUs and other big AI chips just can’t get enough memory. Today’s data center computers stack DRAM 12 dies high. But as memory makers try to"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
+      "link": "https://spectrum.ieee.org/hybrid-phototransistor",
+      "date": "Tue, 07 Jul 2026 13:00:01 +0000",
+      "desc": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, t"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Chip R&D Is Accelerating to Keep Pace With AI",
+      "link": "https://spectrum.ieee.org/ai-chip-design-fab-ucla",
+      "date": "Thu, 02 Jul 2026 11:00:02 +0000",
+      "desc": "Semiconductor companies and universities are trying to shorten their feedback loop to meet the challenges of the AI era. In recent years, Na"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The Lab Mistake That Might Revolutionize Computing",
+      "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "date": "Mon, 29 Jun 2026 13:00:01 +0000",
+      "desc": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended vi"
+    },
+    {
       "source": "SK 뉴스",
       "type": "corp",
       "title": "SK, 전국 AI 인프라 구축 본격화… “AI 소비국서 수출국으로”",
       "link": "https://www.sk.co.kr/ko/media/news_view.jsp?idx=1768",
       "date": "2026-06-29",
       "desc": "계열사: SK"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Records Fall for 3D Chip Tech",
+      "link": "https://spectrum.ieee.org/hybrid-bonding-2677022836",
+      "date": "Thu, 25 Jun 2026 14:00:01 +0000",
+      "desc": "As transistor sizes shrink to their atomic limits, computing demands are only growing. Sending chips to the third dimension is the future: C"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Future Transistor Stacking Plans Start to Diverge",
+      "link": "https://spectrum.ieee.org/cfet-ibm-plan",
+      "date": "Thu, 25 Jun 2026 11:41:45 +0000",
+      "desc": "Chipmakers agree that the transistor of the next decade will actually be two transistors stacked atop one another, packing in many more devi"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+      "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "date": "Wed, 24 Jun 2026 13:00:01 +0000",
+      "desc": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite comm"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The EU Wants Its Own Tech Supply Chain",
+      "link": "https://spectrum.ieee.org/europe-tech-sovereignty-package",
+      "date": "Tue, 23 Jun 2026 10:00:03 +0000",
+      "desc": "It’s little secret that Europe is dependent on foreign technology—particularly U.S. tech—for office software, cloud services, AI, and more. "
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Semiconductor Startup Builds Alternatives for Vital Legacy Chips",
+      "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems",
+      "date": "Tue, 16 Jun 2026 10:00:02 +0000",
+      "desc": "When the U.S. Navy’s fleet of F/A-18F Super Hornet fighter jets is headed for the scrap heap because an essential chip is unavailable, what "
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "NSF Experiments With New Kind of Science Funding",
+      "link": "https://spectrum.ieee.org/nsf-x-labs",
+      "date": "Thu, 04 Jun 2026 13:00:01 +0000",
+      "desc": "Uncle Sam wants you to solve big scientific and engineering bottlenecks outside the hallowed walls of academia. On 14 May, the U.S. National"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Finding Success in Industry as a Chip Designer",
+      "link": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+      "date": "Thu, 28 May 2026 13:00:01 +0000",
+      "desc": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajec"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Understanding Phase Noise and Its Impact on RF System Performance",
+      "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
+      "date": "Thu, 28 May 2026 10:00:01 +0000",
+      "desc": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, "
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Junctionless Transistors Show a New Path to 3D Chips",
+      "link": "https://spectrum.ieee.org/3d-chips",
+      "date": "Wed, 27 May 2026 15:00:02 +0000",
+      "desc": "Chipmakers are struggling to shrink the amount of area a transistor takes up, so researchers are trying to build layers of devices on top of"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Pavona Launches Open-Hardware Ecosystem for Secure Chips",
+      "link": "https://spectrum.ieee.org/pavona-open-source-hardware",
+      "date": "Mon, 25 May 2026 14:00:01 +0000",
+      "desc": "Open-source software is ubiquitous: Linux is the dominant operating system on servers and supercomputers worldwide; Wordpress powers over 40"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics",
+      "link": "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
+      "date": "Thu, 21 May 2026 13:00:02 +0000",
+      "desc": "Darwesh Singh thinks Nvidia has a weakness. The last decade of Nvidia’s history was among the most consequential stories in technology ever."
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The Next 15 Years of Moore’s Law, According to Imec",
+      "link": "https://spectrum.ieee.org/semiconductor-technology-roadmap",
+      "date": "Tue, 19 May 2026 12:51:55 +0000",
+      "desc": "Want to know what the next 10 years of Moore’s Law is going to look like? Maybe the next 15? The Belgium-based nanotech research institution"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+      "link": "https://spectrum.ieee.org/applied-materials-epic-center",
+      "date": "Thu, 14 May 2026 10:00:01 +0000",
+      "desc": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has required more than individual br"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+      "link": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+      "date": "Tue, 12 May 2026 17:15:15 +0000",
+      "desc": "This sponsored article is brought to you by Ampace . As AI workloads grow to gigascale levels, the global data center industry has hit a hid"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Chip Fab-in-a-Box Could Democratize Semiconductors",
+      "link": "https://spectrum.ieee.org/inchfab",
+      "date": "Wed, 06 May 2026 14:00:01 +0000",
+      "desc": "When Mitchell Hsing was a grad student at MIT, he and his classmates were doing cutting-edge things using what was essentially chip-industry"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
+      "link": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
+      "date": "Wed, 06 May 2026 10:00:02 +0000",
+      "desc": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wir"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Chips Sense Free Radicals With Speed",
+      "link": "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip",
+      "date": "Thu, 30 Apr 2026 15:00:01 +0000",
+      "desc": "When things go bad—be it beer, batteries, or blood—they generate a certain class of molecules called free radicals. Scientists use a techniq"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "GPU Renters Are Playing a Silicon Lottery",
+      "link": "https://spectrum.ieee.org/gpu-performance-comparison",
+      "date": "Thu, 23 Apr 2026 18:06:01 +0000",
+      "desc": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
+      "link": "https://spectrum.ieee.org/ai-chip-design",
+      "date": "Wed, 22 Apr 2026 11:00:01 +0000",
+      "desc": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits ; in 2023, researchers used GPT-4 to help design an 8-bi"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
+      "link": "https://spectrum.ieee.org/soft-photonics",
+      "date": "Mon, 13 Apr 2026 12:00:01 +0000",
+      "desc": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electro"
     }
   ]
 };
