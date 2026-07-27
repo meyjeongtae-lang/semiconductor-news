@@ -265,18 +265,22 @@
   }
 
   function rowHtml(it, i) {
-    const explanation = explanations[it.link];
+    const entry = explanations[it.link];
+    // 원문 사이트가 자동으로 주는 짧은 스니펫(it.desc) 대신, 직접 읽고 쓴 요약(summary)만 보여준다.
+    // summary가 아직 없는 기사는 본문 미리보기 없이 제목만 보인다.
+    const summary = entry && entry.summary;
+    const detail = entry && entry.detail;
     return `
       <div class="row" style="animation-delay:${Math.min(i, 24) * 18}ms">
         <span class="tag tag--${it.type}">${TAG_LABEL[it.type] || it.type}</span>
         <div class="body">
           <a href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
-          ${it.desc ? `<p>${escapeHtml(it.desc)}</p>` : ''}
+          ${summary ? `<p>${escapeHtml(summary)}</p>` : ''}
           <div class="src">${escapeHtml(it.source)}</div>
-          ${explanation ? `
+          ${detail ? `
             <details class="explain">
-              <summary>🔰 쉬운 설명 보기</summary>
-              <div class="explain-box">${explanation.split('\n\n').map(p => `<p>${escapeHtml(p)}</p>`).join('')}</div>
+              <summary>🔰 친절한 설명 보기</summary>
+              <div class="explain-box">${detail.split('\n\n').map(p => `<p>${escapeHtml(p)}</p>`).join('')}</div>
             </details>
           ` : ''}
         </div>
