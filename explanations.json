@@ -14,5 +14,62 @@
   "https://www.sptatimeskorea.com/post/%EC%A0%9C-20260726-ai-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D": {
     "summary": "삼성전자·SK하이닉스·마이크론이 CXL 메모리 컨트롤러 자체 개발을 중단하고 전문 업체에 맡기기로 했다. 메모리 대기업들이 설계·생산을 전부 직접 하던 방식에서, 전문 업체와 역할을 나누는 방식으로 옮겨가고 있음을 보여주는 사례다.",
     "detail": "이 기사는 조금 전문적이라 차근차근 풀어볼게요. 먼저 'CXL'이 뭔지부터요. 서버(회사들이 대량의 데이터를 처리하려고 쓰는 크고 성능 좋은 컴퓨터)들은 보통 각자 자기만의 메모리(D램)를 갖고 있어요. 그런데 AI 모델이 점점 커지면서, 서버 한 대에 달린 메모리만으로는 부족한 상황이 자주 생겨요. CXL은 여러 대의 서버가 메모리를 마치 하나의 공용 창고처럼 '같이 나눠 쓸 수 있게' 연결해주는 새로운 기술 규격이에요. 각자 자기 방(서버)에 냉장고(메모리)를 따로 두는 대신, 건물 전체가 큰 공용 냉장고를 함께 쓰는 것과 비슷한 그림이에요.\n\n이 CXL 기술이 실제로 작동하려면 '컨트롤러'라는 부품이 필요해요. 컨트롤러는 '지금 어느 서버가 어떤 데이터를 어디서 가져가려고 하는지'를 실시간으로 관리하고 교통정리해주는, 말하자면 두뇌 역할을 하는 칩이에요. 그동안 삼성전자·SK하이닉스·마이크론(미국) 같은 메모리 대기업들은 이 컨트롤러까지 자기들이 직접 설계하려고 했었어요. 그런데 이번 기사에 따르면, 세 회사가 약속이라도 한 듯 이 컨트롤러를 직접 만드는 걸 사실상 그만두고, 컨트롤러만 전문적으로 설계하는 별도 회사에 맡기기로 했다는 거예요.\n\n이게 왜 의미가 있냐면, 예전 반도체 업계의 방식은 '큰 회사가 설계부터 생산까지 다 틀어쥐는' 쪽이었거든요. 그런데 이제는 기술이 너무 복잡해지고 빠르게 바뀌다 보니, '나는 내가 제일 잘하는 것(메모리 자체를 만드는 것)에 집중하고, 잘 모르는 분야(컨트롤러 설계 같은 것)는 그걸 전문으로 하는 다른 회사한테 맡기자'는 쪽으로 업계 전체의 방식이 바뀌고 있다는 뜻이에요. 기사 제목에 나온 것처럼, 이제 반도체 산업의 승부는 '어느 회사가 제일 센가'보다 '어떤 생태계(여러 전문 회사들이 서로 잘 맞물려 돌아가는 네트워크) 안에 속해 있는가'로 옮겨가고 있다는 게 이 분석의 핵심이에요."
+  },
+  "https://www.hankyung.com/article/202607289209i": {
+    "summary": "엔비디아가 오픈AI에 약 250억 달러 규모 금융보증을 제공한 사실이 알려지며 'AI 수요가 과장된 것 아니냐'는 우려가 나왔다. 중국 CXMT 상장, 키옥시아 추종 레버리지 ETF 상장 이슈까지 겹치며 국내외 반도체주가 약세를 보였다."
+  },
+  "https://www.hankyung.com/article/202607289204i": {
+    "summary": "엔비디아가 오픈AI 데이터센터 이용료에 2500억 달러 규모 지급보증을 선 것으로 알려지며 주가가 4% 급락, 나스닥 전체를 하락 전환시켰다. 마이크론(-5%)·SK하이닉스(-7%)·AMD(-7%)·인텔(-3%) 등 관련주도 동반 하락했다."
+  },
+  "https://www.eetimes.com/warning-shots-fired-as-amd-announces-new-data-center-gpus-at-advancing-ai-event/": {
+    "summary": "AMD가 'Advancing AI' 행사에서 새 CPU·GPU와 72개 GPU를 묶은 랙 시스템 '헬리오스'를 공개하며 엔비디아의 경쟁작(Vera Rubin NVL72)에 맞불을 놨다. 세레브라스와의 파트너십, 앤트로픽 대규모 도입 사례도 함께 발표됐다."
+  },
+  "https://www.eetimes.com/bringing-inference-to-the-patient-systems-architecture-for-healthcare-edge-ai/": {
+    "summary": "인텔 엔지니어가 쓴 기고문으로, 병원·진단검사 현장에 AI를 도입할 때는 모델 정확도보다 데이터 접근성·컴퓨팅 아키텍처·규제 준수 같은 인프라 문제가 실제 확산의 병목이라고 짚었다."
+  },
+  "https://www.eetimes.com/adaptive-hardware-could-change-how-ev-chargers-are-designed/": {
+    "summary": "인도 벵갈루루의 Vanix Technologies가 AMD Zynq 기반 적응형 반도체(SoC)로, 배포 이후에도 하드웨어 기능 일부를 업데이트할 수 있는 EV 충전기를 개발해 시범 운영 중이며 상용 출시를 앞두고 있다."
+  },
+  "https://www.thelec.kr/news/articleView.html?idxno=60129": {
+    "summary": "중국 CXMT가 상하이거래소 상장 첫날 공모가 대비 466% 급등, 시총 712조원으로 중국 본토 1위·세계 24위에 올랐다. 다만 삼성전자·SK하이닉스·마이크론과의 기술 격차는 3년 이상으로 분석된다."
+  },
+  "https://zdnet.co.kr/view/?no=20260727200808": {
+    "summary": "ETRI(한국전자통신연구원)가 설립 50주년을 맞아, 과거 D램 개발이 한국 반도체 산업의 초석이 됐다는 점과 이후 디스플레이 등 후속 기술 개발 성과를 되짚었다."
+  },
+  "https://spectrum.ieee.org/topological-material-nanowire-interconnect": {
+    "summary": "니오븀비소 나노와이어가 40나노미터 폭에서 벌크 결정보다 저항이 70% 낮게 측정돼, 구리를 대체할 차세대 반도체 배선 소재 후보로 연구되고 있다. 삼성전자와 IBM도 유사한 위상학적 반금속 소재 연구를 발표했다."
+  },
+  "https://www.thelec.kr/news/articleView.html?idxno=60090": {
+    "summary": "반도체 웰딩 소재업체 제엠제코가 텍사스인스트루먼츠·르네사스(최종 고객 엔비디아)向 서버용 전력 반도체 소재 수요 증가에 대응해 신규 팹을 짓는다. 내년 소재 수요 예상치는 최대 1000억원이다."
+  },
+  "https://www.thelec.kr/news/articleView.html?idxno=60114": {
+    "summary": "RF 부품업체 RFHIC의 2분기 영업이익이 전년 대비 35% 증가한 112억원을 기록했다. 방산 납품 일정이 3분기로 밀리면서 하반기 매출은 상반기 대비 1.8배 규모로 예상된다."
+  },
+  "https://zdnet.co.kr/view/?no=20260727172731": {
+    "summary": "삼성전자와 SK하이닉스의 보안 투자를 비교한 기사로, 삼성전자는 4121억원, SK하이닉스는 685억원을 투자해 절대 금액은 약 6배 차이가 나지만, IT 투자 대비 보안 비중은 SK하이닉스(8.0%)가 삼성전자(3.6%)보다 높다."
+  },
+  "https://zdnet.co.kr/view/?no=20260727180551": {
+    "summary": "에코프로에이치엔이 삼성E&A에 반도체 공정용 온실가스 저감 시스템(RCS)을 330억원 규모로 공급하는 계약을 체결했다. 기존 방식보다 낮은 온도(750~800도)에서 작동해 에너지 사용량을 약 95% 줄인다는 게 회사 설명이다."
+  },
+  "https://zdnet.co.kr/view/?no=20260727173825": {
+    "summary": "배경훈 과학기술정보통신부 장관이 AI데이터센터와 네트워크를 국가 핵심 인프라로 규정하고, 통신 3사와의 민관협의체를 통해 규제 혁신·세액공제 등 투자 지원 방안을 추진하겠다고 밝혔다."
+  },
+  "https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/": {
+    "summary": "CXMT는 프리IPO 단계에서 약 86억 달러를 조달했고 세계 4위 메모리 업체로 올라섰다. 시장 전망에 따르면 2030년까지 마이크론의 D램 웨이퍼 생산능력(월 37만5000장)에 근접하는 월 35만장 규모를 갖출 것으로 예상된다."
+  },
+  "https://semiengineering.com/ai-agent-orchestration-for-asic-autonomy/": {
+    "summary": "ChipAgents의 엔지니어링 총괄 Mehir Arora는 AI 에이전트의 역할을 코딩·툴 연동을 넘어 반도체 설계의 의미론과 물리적 특성까지 다루도록 확장하면 생산성을 10배 이상 높일 수 있다고 설명했다."
+  },
+  "https://semiengineering.com/preparing-for-ai-driven-chip-design-and-verification/": {
+    "summary": "ChipAgents·Silvaco·Breker 등 EDA 업계 임원들이 참여한 패널 토론에서, 에이전트형 AI가 설계·검증·레이아웃 등 엔지니어 역할 구분을 흐릿하게 만들 것이며, AI가 '블랙박스'인 만큼 샌드박싱 등 외부 관찰 장치가 신뢰성 확보에 필요하다는 의견이 나왔다."
+  },
+  "https://semiengineering.com/why-the-semiconductor-industry-needs-a-common-language-for-functional-safety/": {
+    "summary": "반도체의 기능안전 정보가 스프레드시트·사내 데이터베이스 등 제각각의 형식으로 관리돼 조직·툴 간 데이터가 중복 작성되고 있다는 문제를 지적하며, ISO 26262 같은 표준이 데이터 교환 방식까지는 정의하지 않는다는 공백을 짚은 기고문이다."
+  },
+  "https://news.skhynix.co.kr/ambassador-hypidia-3/": {
+    "summary": "SK하이닉스가 프로세서-메모리 간 데이터 이동 병목을 줄이기 위해 메모리 내부에 연산 기능을 넣은 PIM 기술(GDDR6-AiM, AI 가속 카드 AiMX)을 소개하는 사내 시리즈 기사다."
+  },
+  "https://www.thelec.kr/news/articleView.html?idxno=60040": {
+    "summary": "SK그룹과 엔비디아가 5년간 5000억달러 이상 규모의 AI 인프라 파트너십을 체결했다. SK텔레콤은 SK하이닉스 HBM4 기반 엔비디아 컴퓨팅을 활용해 최대 2기가와트급 데이터센터를 2027년 가동할 계획이며, 엔비디아 외 빅테크와도 2500억달러 규모 AI 메모리 협력을 추진 중이다."
   }
 }
