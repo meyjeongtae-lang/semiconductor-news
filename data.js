@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-07-27T06:35:38.435Z",
+  "fetchedAt": "2026-07-27T06:41:55.365Z",
   "items": [
     {
       "source": "SK하이닉스 뉴스룸",
@@ -15,6 +15,14 @@ window.NEWS_DATA = {
       "title": "'AI 투자 증가 = 반도체 호재' 공식 깨졌다…숨죽인 개미들",
       "link": "https://www.hankyung.com/article/202607277420i",
       "date": "Mon, 27 Jul 2026 13:48:22 +0900",
+      "desc": ""
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "창신메모리 상장 직후 470% 급등…중국 증시 시총 1위 달성",
+      "link": "https://www.hankyung.com/article/202607277926i",
+      "date": "Mon, 27 Jul 2026 12:24:27 +0900",
       "desc": ""
     },
     {

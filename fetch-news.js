@@ -7,10 +7,19 @@ const { XMLParser } = require('fast-xml-parser');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-// 이 단어들 중 하나라도 제목/요약에 있어야 통과시키는 소스들이 있음 (filter: true)
+// 이 중 하나라도 제목/요약에 있으면 통과시키는 소스들이 있음 (filter: true).
 // 'AI'나 '인공지능'만 넣으면 반도체와 상관없는 AI 소프트웨어/인사 뉴스까지 다 걸려서,
-// AI 중에서도 반도체·하드웨어와 확실히 관련된 단어들로만 좁혔다.
-const KEYWORDS = ['반도체', 'GPU', 'HBM', 'AI칩', 'AI 칩', 'AI 서버', 'AI 인프라', 'NPU'];
+// 반도체 제조 용어 + AI 중에서도 하드웨어와 확실히 관련된 단어들로만 좁혔다.
+const KEYWORDS = [
+  '반도체', '메모리', 'HBM', 'D램', '디램', '낸드', 'NAND',
+  '파운드리', '웨이퍼', '팹리스', 'GPU', 'NPU', 'EUV', '노광',
+  'AI칩', 'AI 칩', 'AI 반도체', 'AI 서버', 'AI 인프라',
+];
+
+function hasKeyword(text) {
+  const lower = String(text || '').toLowerCase();
+  return KEYWORDS.some((kw) => lower.includes(kw.toLowerCase()));
+}
 
 // RSS로 가져오는 소스 목록
 const RSS_SOURCES = [
@@ -55,7 +64,7 @@ async function fetchRSS(source) {
         desc,
       };
     })
-    .filter((item) => !source.filter || KEYWORDS.some((kw) => item.title.includes(kw) || item.desc.includes(kw)));
+    .filter((item) => !source.filter || hasKeyword(item.title) || hasKeyword(item.desc));
 }
 
 // SK 뉴스는 RSS가 없어서 페이지 HTML을 직접 읽어서 뽑아낸다 (= 크롤링)
@@ -87,7 +96,7 @@ async function fetchSK() {
     }
   });
 
-  return items.filter((item) => KEYWORDS.some((kw) => item.title.includes(kw)));
+  return items.filter((item) => hasKeyword(item.title));
 }
 
 async function main() {
