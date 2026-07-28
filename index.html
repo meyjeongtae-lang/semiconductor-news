@@ -202,6 +202,7 @@
     <div class="groupswitch" id="groupswitch">
       <button data-group="source" class="active">소스별</button>
       <button data-group="date">날짜별</button>
+      <button data-group="week">주별</button>
     </div>
   </div>
   <div id="list"></div>
@@ -301,6 +302,43 @@
     return `${y}-${m}-${day}`;
   }
 
+  // 그 주의 월요일 자정을 반환 (일요일은 0으로 나오는 걸 보정해서 항상 월요일을 시작으로 삼는다)
+  function getWeekStart(d) {
+    const date = new Date(d);
+    date.setHours(0, 0, 0, 0);
+    const day = date.getDay();
+    const diff = (day === 0 ? -6 : 1) - day;
+    date.setDate(date.getDate() + diff);
+    return date;
+  }
+
+  function weekGroupKey(d) {
+    const date = new Date(d);
+    if (isNaN(date)) return '0000-00-00';
+    const start = getWeekStart(date);
+    const y = start.getFullYear();
+    const m = String(start.getMonth() + 1).padStart(2, '0');
+    const day = String(start.getDate()).padStart(2, '0');
+    return `${y}-${m}-${day}`;
+  }
+
+  // "이번 주 · 07.21~07.27" / "지난 주 · 07.14~07.20" / "07.07~07.13" 같은 라벨 만들기
+  function weekGroupLabel(d) {
+    const date = new Date(d);
+    if (isNaN(date)) return '날짜 미상';
+    const start = getWeekStart(date);
+    const end = new Date(start);
+    end.setDate(start.getDate() + 6);
+    const thisWeekStart = getWeekStart(new Date());
+    const lastWeekStart = new Date(thisWeekStart);
+    lastWeekStart.setDate(thisWeekStart.getDate() - 7);
+    const md = (dt) => dt.toLocaleDateString('ko-KR', { month: '2-digit', day: '2-digit' });
+    const range = `${md(start)}~${md(end)}`;
+    if (start.getTime() === thisWeekStart.getTime()) return `이번 주 · ${range}`;
+    if (start.getTime() === lastWeekStart.getTime()) return `지난 주 · ${range}`;
+    return range;
+  }
+
   function rowHtml(it, i) {
     const entry = explanations[it.link];
     // 원문 사이트가 자동으로 주는 짧은 스니펫(it.desc) 대신, 직접 읽고 쓴 요약(summary)만 보여준다.
@@ -336,7 +374,19 @@
     }
 
     let i = 0;
-    if (state.group === 'source') {
+    if (state.group === 'week') {
+      const order = [];
+      const groups = {};
+      filtered.forEach(it => {
+        const key = weekGroupKey(it.date);
+        if (!groups[key]) { groups[key] = { label: weekGroupLabel(it.date), items: [] }; order.push(key); }
+        groups[key].items.push(it);
+      });
+      list.innerHTML = order.map(key => `
+        <div class="group-header">${groups[key].label}<span class="count">${groups[key].items.length}</span></div>
+        ${groups[key].items.map(it => rowHtml(it, i++)).join('')}
+      `).join('');
+    } else if (state.group === 'source') {
       // 소스가 등장하는 순서(=최신 기사가 있는 소스 순)대로 그룹 구성
       const order = [];
       const groups = {};
