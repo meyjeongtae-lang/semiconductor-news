@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-07-28T11:05:26.436Z",
+  "fetchedAt": "2026-07-28T11:09:05.854Z",
   "items": [
     {
       "source": "한국경제",
@@ -632,14 +632,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/hyknowledge_1-1/",
       "date": "Thu, 16 Jul 2026 07:17:01 +0000",
       "desc": "SK하이닉스의 오리지널 시리즈 ‘하이널리지’는 AI 시대 속 최신 기술과 이를 가능하게하는 메모리의 역할을 파헤쳐보는 콘텐츠 입니다. 첫 시간에는 김상욱 경희대학교 물리학 교수와 함께 세상 모든 것을 이루는 근본 단위인 원자를 탐구하는 양자역학과 양자"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "[미래인재 CLASS 제2강] 뇌를 닮은 메모리가 있다? 연산하는 메모리 ‘PIM’의 현재와 미래",
-      "link": "https://news.skhynix.co.kr/future-talents-class-ep2-07/",
-      "date": "Wed, 15 Jul 2026 04:00:58 +0000",
-      "desc": "▲ 메모리 셀 하나하나에 연산기를 삽입하는 미래의 PIM Source"
     },
     {
       "source": "IEEE Spectrum",

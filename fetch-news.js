@@ -56,6 +56,7 @@ async function fetchRSS(source) {
   return items
     .map((item) => {
       const desc = stripHtml(item.description || item['content:encoded'] || '').slice(0, 140);
+      const categories = Array.isArray(item.category) ? item.category : item.category ? [item.category] : [];
       return {
         source: source.name,
         type: source.type,
@@ -63,8 +64,14 @@ async function fetchRSS(source) {
         link: item.link || '',
         date: item.pubDate || '',
         desc,
+        categories,
       };
     })
+    // SK하이닉스 뉴스룸의 'MEDIA' 카테고리는 실제 기사가 아니라 같은 콘텐츠에 딸린
+    // 사진/영상 자료를 각각 별도 글로 등록해둔 것이라, 제목이 통째로 중복돼서 나온다.
+    // 그래서 이 카테고리는 애초에 뉴스 목록에서 제외한다.
+    .filter((item) => !item.categories.includes('MEDIA'))
+    .map(({ categories, ...item }) => item)
     .filter((item) => !source.filter || hasKeyword(item.title) || hasKeyword(item.desc));
 }
 
