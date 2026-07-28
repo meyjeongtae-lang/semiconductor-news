@@ -84,6 +84,8 @@
     transition:transform .15s ease, box-shadow .15s ease;
   }
   .chip.mono{color:var(--ink);font-weight:600;}
+  button.chip{cursor:pointer;font-family:inherit;}
+  button.chip:hover{border-color:var(--copper);color:var(--copper);transform:translateY(-1px);}
 
   /* ---------- Controls ---------- */
   .control-bar{
@@ -112,6 +114,12 @@
     display:flex;align-items:center;gap:10px;
     font-size:12.5px;font-weight:700;color:var(--ink-soft);
     padding:28px 0 12px;letter-spacing:.01em;
+    scroll-margin-top:74px;
+  }
+  .group-header.flash{animation:flash-highlight 1.1s ease;}
+  @keyframes flash-highlight{
+    0%{color:var(--copper);}
+    100%{color:var(--ink-soft);}
   }
   .group-header::before{content:'';width:14px;height:2px;border-radius:2px;background:var(--copper);}
   .group-header .count{font-weight:500;color:var(--slate);font-family:ui-monospace,Consolas,monospace;font-size:11px;}
@@ -222,10 +230,39 @@
 
   const bySource = {};
   items.forEach(it => { bySource[it.source] = (bySource[it.source] || 0) + 1; });
+
+  function sourceSlug(s) {
+    return 'src-' + encodeURIComponent(s).replace(/%/g, '');
+  }
+
   document.getElementById('metaRow').innerHTML =
     `<span class="chip mono">기사 ${items.length}건</span>` +
     `<span class="chip mono">소스 ${Object.keys(bySource).length}곳</span>` +
-    Object.keys(bySource).map(s => `<span class="chip">${s} ${bySource[s]}</span>`).join('');
+    Object.keys(bySource).map(s =>
+      `<button type="button" class="chip" data-source="${escapeHtml(s)}">${escapeHtml(s)} ${bySource[s]}</button>`
+    ).join('');
+
+  document.getElementById('metaRow').addEventListener('click', e => {
+    const btn = e.target.closest('button[data-source]');
+    if (!btn) return;
+    goToSource(btn.dataset.source);
+  });
+
+  function goToSource(source) {
+    // 소스별 보기로 전환 + 필터 초기화(안 그러면 필터 때문에 해당 소스 기사가 안 보일 수 있음)
+    state.group = 'source';
+    state.filter = 'all';
+    document.querySelectorAll('#groupswitch button').forEach(b => b.classList.toggle('active', b.dataset.group === 'source'));
+    document.querySelectorAll('.filters button').forEach(b => b.classList.toggle('active', b.dataset.type === 'all'));
+    render();
+    const target = document.getElementById(sourceSlug(source));
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      target.classList.remove('flash');
+      void target.offsetWidth;
+      target.classList.add('flash');
+    }
+  }
 
   const TAG_LABEL = { kr: 'KR PRESS', corp: 'CORP', intl: 'GLOBAL', digest: 'DIGEST' };
 
@@ -308,7 +345,7 @@
         groups[it.source].push(it);
       });
       list.innerHTML = order.map(source => `
-        <div class="group-header">${escapeHtml(source)}<span class="count">${groups[source].length}</span></div>
+        <div class="group-header" id="${sourceSlug(source)}">${escapeHtml(source)}<span class="count">${groups[source].length}</span></div>
         ${groups[source].map(it => rowHtml(it, i++)).join('')}
       `).join('');
     } else {
