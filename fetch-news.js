@@ -124,11 +124,25 @@ async function main() {
 
   results.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  const payload = { fetchedAt: new Date().toISOString(), items: results };
+  // 같은 소스가 제목이 완전히 같은 글을 여러 링크로 중복 발행하는 경우가 있어서
+  // (예: SK하이닉스 뉴스룸이 "미래인재 CLASS 제2강"을 몇 초 간격으로 6번 발행한 사례),
+  // 소스+제목이 같으면 가장 최근 글 하나만 남기고 나머지는 걸러낸다.
+  const seen = new Set();
+  const deduped = results.filter((item) => {
+    const key = item.source + '|' + item.title.trim().toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+  if (deduped.length < results.length) {
+    console.log(`\n중복 제목 ${results.length - deduped.length}건을 걸러냈습니다.`);
+  }
+
+  const payload = { fetchedAt: new Date().toISOString(), items: deduped };
   const output = 'window.NEWS_DATA = ' + JSON.stringify(payload, null, 2) + ';\n';
   fs.writeFileSync('data.js', output, 'utf-8');
 
-  console.log(`\n총 ${results.length}건을 data.js에 저장했습니다.`);
+  console.log(`\n총 ${deduped.length}건을 data.js에 저장했습니다.`);
   console.log('index.html을 브라우저로 열어서 확인하세요.');
 }
 
