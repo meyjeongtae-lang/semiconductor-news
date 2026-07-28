@@ -87,6 +87,34 @@
   button.chip{cursor:pointer;font-family:inherit;}
   button.chip:hover{border-color:var(--copper);color:var(--copper);transform:translateY(-1px);}
 
+  /* ---------- Daily brief ---------- */
+  .daily-brief{
+    margin:22px 0 0;padding:20px 22px;border-radius:16px;
+    background:linear-gradient(155deg, var(--copper-soft), var(--card) 55%);
+    border:1px solid color-mix(in srgb, var(--copper) 30%, var(--line));
+    box-shadow:var(--shadow);
+  }
+  .daily-brief-label{
+    display:inline-flex;align-items:center;gap:6px;
+    font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--copper);
+    margin-bottom:8px;
+  }
+  .daily-brief-label::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--copper);}
+  .daily-brief h2{
+    font-family:'Noto Serif KR',serif;font-weight:700;font-size:18px;
+    margin:0 0 12px;color:var(--ink);line-height:1.4;
+  }
+  .daily-brief ul{margin:0;padding:0;list-style:none;}
+  .daily-brief li{
+    font-size:13.5px;line-height:1.7;color:var(--ink-soft);
+    padding-left:16px;position:relative;margin-bottom:8px;
+  }
+  .daily-brief li:last-child{margin-bottom:0;}
+  .daily-brief li::before{
+    content:'';position:absolute;left:0;top:9px;width:5px;height:5px;
+    border-radius:50%;background:var(--copper);
+  }
+
   /* ---------- Controls ---------- */
   .control-bar{
     display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;
@@ -197,6 +225,7 @@
   </div>
 </header>
 <div class="wrap">
+  <div id="dailyBrief"></div>
   <div class="control-bar">
     <div class="filters" id="filters"></div>
     <div class="groupswitch" id="groupswitch">
@@ -444,6 +473,24 @@
     .then(res => res.ok ? res.json() : {})
     .catch(() => ({}))
     .then(data => { explanations = data || {}; render(); });
+
+  // "오늘의 주요 뉴스" - 그날 가장 중요한 흐름을 손으로 정리해둔 요약(daily-brief.json)이 있으면 상단에 보여준다.
+  fetch('daily-brief.json')
+    .then(res => res.ok ? res.json() : {})
+    .catch(() => ({}))
+    .then(data => {
+      const todayKey = dateGroupKey(new Date());
+      const brief = (data || {})[todayKey];
+      const box = document.getElementById('dailyBrief');
+      if (!brief) { box.innerHTML = ''; return; }
+      box.innerHTML = `
+        <div class="daily-brief">
+          <div class="daily-brief-label">오늘의 주요 뉴스</div>
+          <h2>${escapeHtml(brief.headline || '')}</h2>
+          <ul>${(brief.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
+        </div>
+      `;
+    });
 
   render();
 </script>
