@@ -115,6 +115,18 @@
     border-radius:50%;background:var(--copper);
   }
 
+  /* 주별 보기 안에서 각 주 상단에 끼워 넣는 요약 카드 (daily-brief와 같은 구조, 색만 wafer로 구분) */
+  .weekly-brief{
+    margin:0 0 14px;padding:18px 20px;border-radius:14px;
+    background:linear-gradient(155deg, var(--wafer-soft), var(--card) 55%);
+    border:1px solid color-mix(in srgb, var(--wafer) 30%, var(--line));
+    box-shadow:var(--shadow);
+  }
+  .weekly-brief .daily-brief-label{color:var(--wafer);}
+  .weekly-brief .daily-brief-label::before{background:var(--wafer);}
+  .weekly-brief h2{font-size:16px;}
+  .weekly-brief li::before{background:var(--wafer);}
+
   /* ---------- Controls ---------- */
   .control-bar{
     display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;
@@ -242,6 +254,7 @@
   const payload = window.NEWS_DATA || { fetchedAt: null, items: [] };
   const items = payload.items || [];
   let explanations = {};
+  let weeklyBriefs = {};
   let state = { filter: 'all', group: 'source' };
 
   function relativeTime(d) {
@@ -411,10 +424,21 @@
         if (!groups[key]) { groups[key] = { label: weekGroupLabel(it.date), items: [] }; order.push(key); }
         groups[key].items.push(it);
       });
-      list.innerHTML = order.map(key => `
-        <div class="group-header">${groups[key].label}<span class="count">${groups[key].items.length}</span></div>
-        ${groups[key].items.map(it => rowHtml(it, i++)).join('')}
-      `).join('');
+      list.innerHTML = order.map(key => {
+        const brief = weeklyBriefs[key];
+        const briefHtml = brief ? `
+          <div class="weekly-brief">
+            <div class="daily-brief-label">이 주의 요약</div>
+            <h2>${escapeHtml(brief.headline || '')}</h2>
+            <ul>${(brief.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
+          </div>
+        ` : '';
+        return `
+          <div class="group-header">${groups[key].label}<span class="count">${groups[key].items.length}</span></div>
+          ${briefHtml}
+          ${groups[key].items.map(it => rowHtml(it, i++)).join('')}
+        `;
+      }).join('');
     } else if (state.group === 'source') {
       // 소스가 등장하는 순서(=최신 기사가 있는 소스 순)대로 그룹 구성
       const order = [];
@@ -473,6 +497,12 @@
     .then(res => res.ok ? res.json() : {})
     .catch(() => ({}))
     .then(data => { explanations = data || {}; render(); });
+
+  // 주별 보기에서 각 주 상단에 끼워 넣을 "이 주의 요약"(weekly-brief.json)
+  fetch('weekly-brief.json')
+    .then(res => res.ok ? res.json() : {})
+    .catch(() => ({}))
+    .then(data => { weeklyBriefs = data || {}; render(); });
 
   // "오늘의 주요 뉴스" - 그날 가장 중요한 흐름을 손으로 정리해둔 요약(daily-brief.json)이 있으면 상단에 보여준다.
   fetch('daily-brief.json')
