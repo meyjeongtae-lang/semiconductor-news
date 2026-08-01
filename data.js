@@ -1,6 +1,254 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-07-30T01:04:01.124Z",
+  "fetchedAt": "2026-08-01T00:48:34.193Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 7월 반도체 수출 410억달러…두 달 연속 400억원대",
+      "link": "https://www.hankyung.com/article/2026080190627",
+      "date": "Sat, 01 Aug 2026 09:02:46 +0900",
+      "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits",
+      "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
+      "date": "Fri, 31 Jul 2026 15:48:06 +0000",
+      "desc": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushe"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Hybrid Architectures for Space Missions: Frameworks and Consequence",
+      "link": "https://www.eetimes.com/hybrid-architectures-for-space-missions-frameworks-and-consequence/",
+      "date": "Fri, 31 Jul 2026 15:38:20 +0000",
+      "desc": "Join this webinar and explore how Microchip's framework translates architectural intent into component choices that preserve differentiation"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "몽타주 테크놀로지, 업계 최초 CXL 3.2 MXC 칩 시범 양산 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260801001014",
+      "date": "Sat, 01 Aug 2026 00:10:14 +0900",
+      "desc": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL&reg"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Commercial Space Race: Powering the Next Comms Network",
+      "link": "https://www.eetimes.com/the-commercial-space-race-powering-the-next-comms-network/",
+      "date": "Fri, 31 Jul 2026 13:34:44 +0000",
+      "desc": "Join us to learn how Altera is supporting commercial deployments in orbit today and what's coming next. The post The Commercial Space Race: "
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SK실트론 품는 두산…반도체 매출 키우지만 시너지 창출 '난망'",
+      "link": "https://zdnet.co.kr/view/?no=20260731091047",
+      "date": "Fri, 31 Jul 2026 17:55:28 +0900",
+      "desc": "[지디넷코리아]SK가 웨이퍼 제조기업 SK실트론 지분을 두산에 매각한다. SK실트론의 연 매출은 2조원대로, 두산이 추진해 온 반도체 사업 확대 크게 기여할 것으로 기대된다.다만 SK실트론 인수에 따른 시너지 효과는 기대하기 힘들다는 게 업계 전망이다"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "매출 반등 이끈 이미지스 대표, 4개월만 사임",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60412",
+      "date": "2026-07-31 17:52:55",
+      "desc": "이미지스테크놀로지(이미지스)가 지난 3월 선임한 이동섭 대표가 31일 사임했다고 공시했다.이미지스는 이날 이사회를 열고 이 같은 내용의 안건을 결의했다. 이 전 대표는 2029년 3월까지였던 임기를 채우지 못한 채 사임하게 됐다. 회사는 이 대표가 사"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성 GaN 파운드리 양산 또 해 넘기나...시험생산서 '불량' 확인",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60391",
+      "date": "2026-07-31 17:40:44",
+      "desc": "삼성전자 차세대 전력반도체 8인치 위탁생산(파운드리) 프로젝트가 시험생산에서 복병을 만났다. 시험 생산한 일부 칩이 고온에서 작동하지 않는 불량이 나타났기 때문이다. 당초 목표였던 연내 양산 가동 일정이 차질을 빚을 것으로 예상된다. 31일 복수의 업"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Military AI Agents Under Cyberthreat: The Route Forward",
+      "link": "https://www.eetimes.com/military-ai-agents-under-cyberthreat-the-route-forward/",
+      "date": "Fri, 31 Jul 2026 07:30:00 +0000",
+      "desc": "Rapid military AI adoption brings critical security risks, leaving autonomous battlefield systems vulnerable to cyberattacks. The post Milit"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-149/",
+      "date": "Fri, 31 Jul 2026 07:01:48 +0000",
+      "desc": "DAC's big buzz; CHIPS Act $; China's immersion DUV; UMC expands; SIA's state of the industry; DRAM shortages; earnings; PCB design credentia"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[알림] GPU·HBM 다음 병목은? 반도체 '패키지&테스트'의 세계로 초대합니다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60398",
+      "date": "2026-07-31 15:41:58",
+      "desc": "인공지능(AI)의 시대입니다. 빅테크 기업들의 융단폭격급 투자로 그래픽처리장치(GPU), 고대역폭메모리(HBM), 중앙처리장치(CPU) 등 고성능 반도체가 부족해 아우성입니다. 삼성전자, SK하이닉스, 마이크론 등 주요 메모리 반도체 기업이 생산 능력"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260731-TT-01호] 2026년 7월 31일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-tt-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 04:35:55 GMT",
+      "desc": "양자컴도 ‘반도체의 길’ 간다… IBM, 실리콘 양자칩 승부수 (2026년 7월 31일, 동아일보, 이병구 기자) 원문보기 : https://www.donga.com/news/It/article/all/20260731/134397165/2 [핵심 요약"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260731-TM-01호] 2026년 7월 31일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-tm-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 04:34:25 GMT",
+      "desc": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다” (2026년 7월 31일, 중앙일보, 김인경·김경미 기자) 원문보기 : https://www.joongang.co.kr/article/25449626 [핵심 요약] [1] 테일러 2공장 연말 착"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260731-TI-01호] 2026년 7월 31일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 04:32:40 GMT",
+      "desc": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진 (2026년 7월 31일, 조선일보, 박지민•강다은 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/31/CUPCLRYBOFE3ZEGCG6ORUHV"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 \"주주환원 못 밝힌 이유는 ADR 규제\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60370",
+      "date": "2026-07-31 12:37:55",
+      "desc": "SK하이닉스가 2분기 실적 컨퍼런스 콜에서 주주환원 정책 등 중요한 정보를 공개하지 않은 것은 미국 주식예탁증서(ADR) 공모 절차에 따른 미국 증권법 규제 때문인 것으로 나타났다. 미 증권법은 상장 후 일정 기간 동안 민감한 정보를 공개하지 못하도록"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260730-TE-01호] 2026년 7월 30일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260730-te-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-30%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 01:09:11 GMT",
+      "desc": "GPU 품귀에 '재사용' 뜬다…이큐글로벌, 서버 복원 사업 진출 (2026년 7월 30일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260730000127 [핵심 요약] [1] GPU 서버 복원 사업 본격 진출"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260730-TM-01호] 2026년 7월 30일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260730-tm-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-30%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 01:08:06 GMT",
+      "desc": "소니, 日 지진 여파에 핵심 반도체 공장 '스톱'…이미지센서 공급 차질 우려 (2026년 7월 30일, 디지털투데이, 홍진주 기자) 원문보기 : https://www.digitaltoday.co.kr/news/articleView.html?idxno="
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260730-TI-01호] 2026년 7월 30일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260730-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-30%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 01:06:40 GMT",
+      "desc": "中 CXMT, 美 안보 위협하는 시한폭탄 (2026년 7월 30일, 조선일보, 안별 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/30/JFSPBCX6L5DK3GZBSNYCVDMI7U/?utm_"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
+      "link": "https://www.eetimes.com/space-grown-semiconductors-the-next-frontier-for-ai-compute/",
+      "date": "Thu, 30 Jul 2026 21:03:54 +0000",
+      "desc": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Buildin"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why Qualcomm Bought An Open AI Software Stack",
+      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
+      "date": "Thu, 30 Jul 2026 14:43:40 +0000",
+      "desc": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nidec Positions Precision Reducers for Cobots, Humanoids, and Automation",
+      "link": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
+      "date": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "desc": "Discover Nidec's gear reducer solutions offering precise gear alignment, and low backlash for smooth, reliable operation under load. The pos"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, SK하이닉스 첫 직접 매수…48억원 규모 장내 매입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60365",
+      "date": "2026-07-30 19:00:00",
+      "desc": "최태원 SK그룹 회장이 SK하이닉스 주식을 처음으로 직접 장내 매수했다. 사상 최대 실적 발표 이후 책임경영 의지를 드러낸 것으로 풀이된다.30일 금융감독원 전자공시시스템에 따르면 최 회장은 이날 SK하이닉스 보통주 3620주를 장내 매수했다. 이날 "
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, 반도체·DX 스타트업에 8000억원 출자",
+      "link": "https://www.etnews.com/20260730000442",
+      "date": "Thu, 30 Jul 2026 17:40:26 +0900",
+      "desc": "삼성전자가 반도체 스타트업 투자와 완제품(DX) 부문 유망 기술 확보를 위해 총 8000억원을 출자한다. 삼성전자는 30일 국내외 반도체 분야 스타트업 지분 투자를 통한 기술 및 사업적 협력 창출을 위해 삼성벤처투자(50억원)와 5000억원을 출자한다"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자 \"미국 테일러 팹2 연말 착공...LTA 60~70% 할당\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60335",
+      "date": "2026-07-30 17:00:51",
+      "desc": "삼성전자가 올해 말 미국 텍사스 테일러에 2번째 반도체 생산 공장(팹) 건설을 시작한다. 또 글로벌 5대 데이터센터 고객사와 메모리 반도체 장기공급계약(LTA)을 체결했으며 전체 물량의 60~70%를 LTA에 할당한다.30일 강석채 삼성전자 파운드리 "
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍 파운드리 증설 '비상'…수공 \"물 공급 어려워\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60330",
+      "date": "2026-07-30 16:04:28",
+      "desc": "DB하이텍 파운드리 증설 계획에 빨간불이 켜졌다. 반도체 생산에 필요한 산업용수를 확보하지 못했기 때문이다. 내년 중반기까지 용수를 확보하지 못하면 증설 일정에 영향을 미칠 수밖에 없다고 전문가들은 설명했다. 30일 본지 취재를 종합하면 한국수자원공사"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Compute Clusters Break Out Of National Labs To Scale AI",
+      "link": "https://semiengineering.com/compute-clusters-break-out-of-national-labs-to-scale-ai/",
+      "date": "Thu, 30 Jul 2026 07:01:21 +0000",
+      "desc": "For compute-intensive applications, clusters of nodes that act as a single computer offer a way to scale performance and provide a workaroun"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Indian Startup Vimag Labs Develops Wirelessly Excited Motor Without Rare-Earth Magnets",
+      "link": "https://www.eetimes.com/indian-startup-vimag-labs-develops-wirelessly-excited-motor-without-rare-earth-magnets/",
+      "date": "Thu, 30 Jul 2026 07:00:00 +0000",
+      "desc": "Vimag Labs ditches rare-earth magnets with a wirelessly excited EV motor claiming PMSM-level punch. The post Indian Startup Vimag Labs Devel"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메모리 값 급등에 유탄 맞은 퀄컴... 실적 부진에 가격인상 예고",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60275",
+      "date": "2026-07-30 15:26:05",
+      "desc": "모바일 프로세서 강자 퀄컴이 메모리 반도체 가격 급등에 따른 스마트폰 시장 위축 여파로 부진한 실적을 기록했다. 원가 비용 부담에 9월부터 제품 가격도 인상한다.퀄컴은 29일(현지시간) 회계연도 3분기(2026년 3월 30일~2026년 6월 28일) "
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[이슈플러스] 삼성전자 DA·VD, 메모리 단가 상승 파고…돌파구는 'AI 패키지'",
+      "link": "https://www.etnews.com/20260730000271",
+      "date": "Thu, 30 Jul 2026 14:12:15 +0900",
+      "desc": "삼성전자 생활가전(DA)과 영상디스플레이(VD) 사업부가 메모리 반도체 가격 급등 여파에 직면했다. 반도체(DS) 부문 실적을 견인한 메모리 단가 상승이 완제품을 만드는 DA·VD에는 부품 구매 비용 증가로 직결, 수익성 방어가 하반기 최대 과제로 떠"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, 메모리 호조 분기 기준 '역대 최대 실적' …“하반기도 메모리 숏티지”",
+      "link": "https://www.etnews.com/20260730000257",
+      "date": "Thu, 30 Jul 2026 14:07:11 +0900",
+      "desc": "삼성전자가 메모리 슈퍼사이클에 힘입어 역대 최대 분기 실적을 수립했다. 반도체(DS) 부문이 영업이익 89조2000억 원을 기록하며 최대 매출과 최대 영업이익 등 호실적을 견인했다. 삼성전자는 2분기 연결기준 매출 171조5000억원, 영업이익 89조"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AI 열풍에 메모리 이익률 70% 시대 개막",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60305",
+      "date": "2026-07-30 12:07:32",
+      "desc": "인공지능(AI) 투자 확대로 고대역폭메모리(HBM), 범용 D램, 낸드플래시 가격이 급등하며 영업이익률 70%대 시대가 열렸다. 메모리 반도체 사업은 삼성전자, SK하이닉스가 글로벌 주요 기업 중 가장 높은 수익성을 기록했다.30일 증권가 따르면 삼성"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
@@ -39,7 +287,7 @@ window.NEWS_DATA = {
       "title": "IoT Tech Expo Europe Returns to Amsterdam as Industrial AI and Edge Intelligence Reshape Connected Industry",
       "link": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
       "date": "Thu, 30 Jul 2026 00:42:04 +0000",
-      "desc": "https://www.iottechexpo.com/europe/ From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations ar"
+      "desc": "From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected"
     },
     {
       "source": "디일렉",
@@ -50,44 +298,12 @@ window.NEWS_DATA = {
       "desc": "삼성전자가 지난 2분기 매출 171조4995억원, 영업이익 89조4924억원을 기록했다고 30일 공시했다. 전년 대비 매출은 130.0%, 영업이익은 1813.8% 증가했다. 전분기 대비로는 각각 28.1%, 56.4% 늘었다.영업이익률은 52.2%를"
     },
     {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "삼성전자, 1년 만에 '1800% 잭팟'…반도체로 89조 벌었다",
-      "link": "https://www.hankyung.com/article/202607304729g",
-      "date": "Thu, 30 Jul 2026 09:11:00 +0900",
-      "desc": ""
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "'영업익 89.5조' 삼성 메모리 날았지만...MX 결국 첫 적자",
       "link": "https://www.etnews.com/20260730000030",
       "date": "Thu, 30 Jul 2026 09:00:07 +0900",
       "desc": "삼성전자가 2026년 2분기 연결기준 영업이익 89조5000억원을 기록하며 분기 기준 역대 최대 실적을 재경신했다. 매출은 171조5000억원으로 전분기 대비 28%, 전년 동기 대비 130% 증가했다. 영업이익은 전분기 대비 56%, 전년 동기 대비"
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "[속보] 삼성전자, 2분기 반도체 부문 영업이익 89.2조원",
-      "link": "https://www.hankyung.com/article/202607304675g",
-      "date": "Thu, 30 Jul 2026 08:51:39 +0900",
-      "desc": ""
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "韓반도체 세계 1위 지켰지만…배터리·조선은 중국에 밀렸다 [도쿄나우]",
-      "link": "https://www.hankyung.com/article/202607304610i",
-      "date": "Thu, 30 Jul 2026 08:40:34 +0900",
-      "desc": ""
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "메모리 품귀에 주가도 '털썩'…경고음 울린 퀄컴, 무슨 일?",
-      "link": "https://www.hankyung.com/article/202607304544g",
-      "date": "Thu, 30 Jul 2026 08:09:37 +0900",
-      "desc": ""
     },
     {
       "source": "Semiconductor Engineering",
@@ -146,62 +362,6 @@ window.NEWS_DATA = {
       "desc": "AI workloads aren't creating new memory categories—they're sharpening the trade-offs between capacity, latency, and power. The post Dynamic "
     },
     {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "씨이랩, 'AIDC 얼라이언스' 참여…GPU 인프라 엔지니어링 역량 강화",
-      "link": "https://zdnet.co.kr/view/?no=20260729231253",
-      "date": "Wed, 29 Jul 2026 23:12:53 +0900",
-      "desc": "[지디넷코리아]AI 인프라 소프트웨어 전문기업 씨이랩(대표 윤세혁·채정환)이 과학기술정보통신부가 주도하는 민관 협의체 'AIDC 얼라이언스'에 참여한다.29일 회사에 따르면, AIDC 얼라이언스는 인공지능 데이터센터(AIDC)를 국가전략산업 및 새로운"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Commercial Space Screening Approach for Agile, High-Reliability Payloads",
-      "link": "https://www.eetimes.com/commercial-space-screening-approach-for-agile-high-reliability-payloads-2/",
-      "date": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "desc": "As satellite deployments accelerate and mission economics evolve, engineers face a growing challenge: balancing the reliability demands of s"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Physical AI Isn’t Just Bigger AI; It’s a Systems Architecture Challenge",
-      "link": "https://www.eetimes.com/physical-ai-isnt-just-bigger-ai-its-a-systems-architecture-challenge/",
-      "date": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "desc": "Physical AI wins by fusing sensors, edge compute, and feedback loops. Learn why systems, not TOPS, matter. The post Physical AI Isn&#8217;t "
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Designing Efficient Signal Chains with Easy Drive ADCs",
-      "link": "https://www.eetimes.com/designing-efficient-signal-chains-with-easy-drive-adcs/",
-      "date": "Wed, 29 Jul 2026 12:50:29 +0000",
-      "desc": "Date: Wednesday, August 19, 2026 or Wednesday, August 26, 2026 This webcast will explain how and why Easy Drive SAR ADCs from Analog Devices"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "원자력연-SK하이닉스 반도체 방사선 검증 '협약",
-      "link": "https://zdnet.co.kr/view/?no=20260729190450",
-      "date": "Wed, 29 Jul 2026 19:04:50 +0900",
-      "desc": "[지디넷코리아]한국원자력연구원은 SK하이닉스와 경주 양성자과학연구단에서 반도체 방사선 검증과 관련한 상호협력 협약을 체결했다고 29일 밝혔다.협약식에는 임인철 원자력연 원장 직무대행과 송준호 SK하이닉스 부사장을 비롯한 양 기관 주요 관계자가 참석했다"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "정부, 호남권 반도체 국가산단 후보지 ‘광주군공항 부지 250만평’ 우선 지정",
-      "link": "https://zdnet.co.kr/view/?no=20260729183321",
-      "date": "Wed, 29 Jul 2026 18:34:22 +0900",
-      "desc": "[지디넷코리아]국토교통부는 29일 산업입지정책심의회 심의·의결을 거쳐 정부의 3대 메가프로젝트 추진계획의 하나인 호남권 반도체 첨단 국가산업단지 후보지로 광주군공항 부지 일원 약 250만평을 지정했다고 밝혔다.후보지 지정은 산업통상부가 삼성전자와 SK"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "From Co-Packaged Optics to Nanolasers, Photonics Moves Inward",
-      "link": "https://www.eetimes.com/from-co-packaged-optics-to-nanolasers-photonics-moves-inward/",
-      "date": "Wed, 29 Jul 2026 08:02:27 +0000",
-      "desc": "CEA-Leti, Scintil Photonics, and NcodiN show how optical interconnects are moving from data center racks toward co-packaged optics and chipl"
-    },
-    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
@@ -240,14 +400,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/q2-2026-business-results-yb/",
       "date": "Wed, 29 Jul 2026 02:01:40 +0000",
       "desc": "SK하이닉스가 올해 2분기 매출액 79조 3,187억 원, 영업이익 60조 5,426억 원(영업이익률 76%), 순이익 93조 9,226억 원(순이익률 118%)으로 분기 사상 최대 경영실적을 기록했습니다. 핵심 고객을 포함해 장기공급계약을 완료한 S"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "SK하이닉스 2026년 2분기 실적발표 컨퍼런스콜 전문",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60209",
-      "date": "2026-07-29 10:50:45",
-      "desc": "SK하이닉스가 2026년 2분기 연결 기준 매출 79조3187억원, 영업이익 60조5426억원을 기록했다고 29일 밝혔다. 전년 동기 대비 각각 256.8%, 557.2% 증가한 수치다. 전분기 대비는 매출 50.9%, 영업이익은 61% 늘었다. 영업"
     },
     {
       "source": "SPTA TIMES",
@@ -290,30 +442,6 @@ window.NEWS_DATA = {
       "desc": "앤씨앤이 올해 2분기 영업이익이 6억2300만원을 기록하며 흑자 전환에 성공했다고 28일 공시했다.비용 효율화, 수익성 높은 사업 확대 전략이 통했다는 것이 앤씨앤의 설명이다. 자체 브랜드 판매 비중이 늘어나기도 했다. 회사는 블랙박스 브랜드 '뷰로이"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Microchip Acquires Edge AI Chip Startup Hailo",
-      "link": "https://www.eetimes.com/microchip-acquires-edge-ai-chip-startup-hailo/",
-      "date": "Tue, 28 Jul 2026 17:04:30 +0000",
-      "desc": "Return to playbook for the acquisition-driven embedded giant. The post Microchip Acquires Edge AI Chip Startup Hailo appeared first on EE Ti"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "How to Build a 100Gbps Server-Grade AOI Platform for Next-Generation Semiconductor Inspection",
-      "link": "https://www.eetimes.com/how-to-build-a-100gbps-server-grade-aoi-platform-for-next-generation-semiconductor-inspection/",
-      "date": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "desc": "Discover how to overcome the bandwidth, scalability, thermal, and system integration challenges of modern AI-powered AOI. This white paper e"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Vibe Coding in Safety-Critical Software: Promise, Pitfalls, and a Path Forward",
-      "link": "https://www.eetimes.com/vibe-coding-in-safety-critical-software-promise-pitfalls-and-a-path-forward/",
-      "date": "Tue, 28 Jul 2026 13:52:38 +0000",
-      "desc": "Vibe coding can’t fly solo in safety-critical software; demand deterministic gates, human review, and proof before trusting AI-generated cod"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "퓨리오사AI, PCIe 16개 확장한 AI 서버 개발한다",
@@ -338,14 +466,6 @@ window.NEWS_DATA = {
       "desc": "칩스앤미디어가 올해 2분기 영업이익이 약 11억원으로 전년 동기 대비 18.1% 하락했다고 28일 공시했다.칩스앤미디어 관계자는 \"전년 동기 대비 내부 인원이 증가했다\"면서 \"차량용 인증 국제표준화기구(ISO) 26262 비용도 포함됐다\"고 설명했다."
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Will Purging Chinese Tech Cost Europe Its Digital Future?",
-      "link": "https://www.eetimes.com/will-purging-chinese-tech-cost-europe-its-digital-future/",
-      "date": "Tue, 28 Jul 2026 08:19:26 +0000",
-      "desc": "The EU faces challenges in building its digital defenses, as the cost of replacing Chinese telecom equipment across Europe could reach $46 b"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "삼성전기, 솔브레인과 유리기판 소재 개발…식각 이어 도금·연마까지",
@@ -360,14 +480,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/",
       "date": "Tue, 28 Jul 2026 07:01:45 +0000",
       "desc": "HW methods to throttle AI; M3D DRAM; interconnect signal-integrity analysis; 3D mask effects in high/hyper-NA EUV litho; compute-in-intercon"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Research Bits: July 28",
-      "link": "https://semiengineering.com/research-bits-july-28/",
-      "date": "Tue, 28 Jul 2026 07:01:02 +0000",
-      "desc": "Photonics: Inverse design; slowing down light; on-chip electro-optic isolator. The post Research Bits: July 28 appeared first on Semiconduct"
     },
     {
       "source": "디일렉",
@@ -418,30 +530,6 @@ window.NEWS_DATA = {
       "desc": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built from copper due to its high con"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "제엠제코, 엔비디아향 수요 증가에 신규 팹 짓는다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60090",
-      "date": "2026-07-27 18:42:36",
-      "desc": "제엠제코가 전력반도체 소재 수요 증가에 맞춰 팹을 증축한다. 제엠제코는 올해 말부터 사전에 확보한 부지에 연건평 2178평 규모의 추가 팹을 세운다고 27일 밝혔다. 양산은 내년 2분기로 예정됐다. 제엠제코는 지난해 기준 부산 기장에 약 1553평(본"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "RFHIC, 2분기 영업익 전년비 35%↑...\"하반기 더 크다\"",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60114",
-      "date": "2026-07-27 18:27:36",
-      "desc": "RFHIC가 올해 2분기 연결 실적으로 매출이 515억원, 영업이익이 112억원이라고 27일 공시했다. 각각 전년 동기 대비 15.37%, 34.69% 성장한 수치다.RFHIC 관계자는 \"RF머트리얼즈의 매출과 영업이익률이 높았다\"며 실적이 개선된 배"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "AI Agent Orchestration For ASIC Autonomy",
-      "link": "https://semiengineering.com/ai-agent-orchestration-for-asic-autonomy/",
-      "date": "Mon, 27 Jul 2026 07:01:53 +0000",
-      "desc": "How to achieve a 10X productivity improvement using AI agents. The post AI Agent Orchestration For ASIC Autonomy appeared first on Semicondu"
-    },
-    {
       "source": "SK하이닉스 뉴스룸",
       "type": "corp",
       "title": "[하이피디아 3편 – System Architecture & Software Solution] 데이터 이동의 한계를 넘어서다, 메모리에서 연산하는 ‘PIM’",
@@ -458,44 +546,12 @@ window.NEWS_DATA = {
       "desc": "이재용, 美 오픈AI 본사 찾아 올트먼과 전격 회동 (2026년 7월 26일, 아주경제, 김나윤 기자) 원문보기 : https://www.ajunews.com/view/20260726141829914 [핵심 요약] [1] 이재용 회장, 오픈AI 본사에"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "SK, 글로벌 빅테크들과 AI 인프라 협력 확대",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60040",
-      "date": "2026-07-27 07:13:21",
-      "desc": "엔비디아와 SK그룹은 24일(현지시간) 5000억달러(약 731조5500억원) 이상 규모 파트너십을 추진한다고 공동 발표했다. 글로벌 컴퓨팅 수요에 대응하기 위해 인공지능(AI) 인프라 구축을 함께한다.양사는 이날 미국 샌프란시스코 페어몬트 호텔에서 "
-    },
-    {
       "source": "IEEE Spectrum",
       "type": "intl",
       "title": "Optical Tech Would Update a Robot’s AI on the Fly",
       "link": "https://spectrum.ieee.org/ai-in-robotics",
       "date": "Sun, 26 Jul 2026 13:00:01 +0000",
       "desc": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED em"
-    },
-    {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "[샌프란 AI선언] 이재용·최태원·정의선, 美 반도체·피지컬 AI 연쇄 회동",
-      "link": "https://www.etnews.com/20260726000112",
-      "date": "Sun, 26 Jul 2026 14:12:21 +0900",
-      "desc": "24일(현지시간) 이재명 대통령의 미국 방문 일정과 연계된 '샌프란시스코 AI' 서밋과 관련, 국내 주요 대기업 총수들은 글로벌 빅테크와 대규모 반도체 공급 계약 등 성과를 잇달아 창출하며 활발한 움직임을 보였다. 이재용 삼성전자 회장은 현지시간 25"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "망고부스트, AI 추론 서비스 '망고 인퍼런스' 공개",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60034",
-      "date": "2026-07-26 11:28:33",
-      "desc": "AMD 파트너사 망고부스트가 AMD 연례 행사에서 신규 인공지능(AI) 모델을 소개했다고 24일 밝혔다.망고부스트는 22일(현지시간) 미국 캘리포니아에서 개최된 AMD 행사 AMD 어드밴싱 AI 2026에서 부스를 꾸리고 AI 모델 '망고 인퍼런스'를"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성전자, 브로드컴과 HBM 기반 차세대 AI 가속기 만든다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60039",
-      "date": "2026-07-26 11:28:25",
-      "desc": "삼성전자가 브로드컴과 고대역폭메모리(HBM) 기반 차세대 인공지능(AI) 가속기를 공동 개발하며, 메모리·위탁생산(파운드리) 영역에서 협력한다.24일(현지시간) 삼성전자는 미국 샌프란시스코에서 열린 'AI 서밋' 행상에서 브로드컴과 만나 전략적 업무협"
     },
     {
       "source": "SPTA TIMES",
@@ -514,22 +570,6 @@ window.NEWS_DATA = {
       "desc": "삼성전자는 24일(현지시간) 미국 샌프란시스코 더 미드웨이(The Midway)에서 열린 ‘AI 서밋’ 행사에서 글로벌 AI 반도체 기업 브로드컴과 차세대 AI 핵심 인프라 구축을 위한 전략적 업무협약(MOU)을 체결했다. ‘AI 서밋’ 행사에는 한진"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "젠슨 황 \"SK그룹과 5000억달러 규모 협력 발표할 것\"",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60037",
-      "date": "2026-07-25 14:32:29",
-      "desc": "젠슨 황 엔비디아 최고경영자(CEO)가 SK그룹과 5000억달러(약 731조5500억원) 규모 협력을 예고했다. 젠슨 황 CEO는 24일(현지시간) 미국 샌프란시스코 한 호텔에서 이재명 대통령과 회담을 갖고 \"우리는 이날 SK그룹과 비즈니스 파트너십을"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성·SK 등 美빅테크와 1391조 협력 발표...삼성, 브로드컴 칩 생산",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60036",
-      "date": "2026-07-25 14:28:43",
-      "desc": "삼성전자와 SK하이닉스를 포함한 국내 기업들이 미국 빅테크 기업들과 총 9500억달러(약 1391조2750억원) 규모의 협력을 추진한다.25일 김용범 청와대 정책실장은 '샌프란시스코 인공지능(AI) 서밋'에서 이 같은 사실을 알렸다. 이날 행사에는 이"
-    },
-    {
       "source": "SK하이닉스 뉴스룸",
       "type": "corp",
       "title": "SK, 美 실리콘밸리서 글로벌 빅테크와 AI 인프라 협력 확대",
@@ -546,28 +586,12 @@ window.NEWS_DATA = {
       "desc": "계열사: SK"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "LX세미콘, 2분기 영업익 220억원…전년비 115.1%↑",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60033",
-      "date": "2026-07-24 18:41:38",
-      "desc": "LX세미콘이 실적이 좋지 못했던 지난해 기저 효과로 올해 2분기 영업이익이 전년 동기 대비 2배 이상 뛰었다. 영업이익률이 개선된 영향이다.LX세미콘은 올해 2분기 영업이익이 약 206억원으로 지난해보다 115.1% 급등했다고 24일 공시했다. 올해 "
-    },
-    {
       "source": "SK하이닉스 뉴스룸",
       "type": "corp",
       "title": "AI 시대가 요구하는 차세대 메모리의 기준 [System Architecture & Software Solution] | N잡러2 EP.3",
       "link": "https://news.skhynix.co.kr/ambassador-job-report-ep3-yb/",
       "date": "Fri, 24 Jul 2026 07:56:20 +0000",
       "desc": "AI 시대가 요구하는 완전히 새로운 메모리 반도체?!🔍 기존의 메모리 반도체를 넘어, AI 인프라의 새로운 판🛠️을 짜는 System Architecture & Software Solution 직무. Full Stack AI Memory Creat"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "[하이널리지 EP.2] 양자 컴퓨터 시대, 우리의 삶은 어떻게 달라질까? | 물리학자 김상욱 교수",
-      "link": "https://news.skhynix.co.kr/hyknowledge_2/",
-      "date": "Fri, 24 Jul 2026 07:53:46 +0000",
-      "desc": "SK하이닉스의 오리지널 시리즈 ‘하이널리지’는 AI 시대 속 최신 기술과 이를 가능하게 하는 메모리의 역할을 파헤쳐보는 콘텐츠입니다. 김상욱 경희대학교 물리학 교수와 함께하는 두 번째 시간에는 양자 컴퓨터가 우리의 삶과 산업을 어떻게 바꿔놓을지, 그리"
     },
     {
       "source": "SPTA TIMES",
@@ -586,60 +610,12 @@ window.NEWS_DATA = {
       "desc": "반도체 속도전… '수퍼 乙' 장비 업체 즐거운 비명 (2026년 7월 24일, 조선일보, 김성민 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/24/MQPXTVIZTZBMTHCT3FGKY3VVK"
     },
     {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260724-TI-01호] 2026년 7월 24일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260724-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-24%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 04:44:18 GMT",
-      "desc": "AMD, 앤스로픽에 최대 7.4조원 투자 (2026년 7월 24일, 조선일보, 구아모 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/24/6LZCIIWY2BGNFB6OF3KLPMELNI/ [핵심"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260723-TE-01호] 2026년 7월 23일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260723-te-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-23%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 01:05:29 GMT",
-      "desc": "'HBM 다음은 우주'…한미반도체, 새 성장축 키운다 (2026년 7월 23일, 머니투데이, 김아영 기자) 원문보기 : https://www.mt.co.kr/industry/2026/07/23/2026072313514066585 [핵심 요약] [1] "
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260723-TM-01호] 2026년 7월 23일 반도체 제조 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260723-tm-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-23%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 01:02:07 GMT",
-      "desc": "머스크 \"삼성 땡큐, AI5 내년 중반 양산\"…파운드리 기대 커진다 (2026년 7월 23일, 머니투데이, 김남이 기자) 원문보기 : https://www.mt.co.kr/industry/2026/07/23/2026072310564055473 [핵심 "
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260723-TI-01호] 2026년 7월 23일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260723-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-23%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 01:00:25 GMT",
-      "desc": "中상무부, 자국 기업의 TSMC 파운드리 외주 막는다 (2026년 7월 23일, 아시아경제, 차민영 기자) 원문보기 : https://www.asiae.co.kr/article/2026072315220021300 [핵심 요약] [1] 중국, 자국 기업"
-    },
-    {
       "source": "IEEE Spectrum",
       "type": "intl",
       "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
       "link": "https://spectrum.ieee.org/sleep-monitoring-device",
       "date": "Thu, 23 Jul 2026 12:00:01 +0000",
       "desc": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a system only discovered in 2012 that"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260722-TM-01호] 2026년 7월 22일 반도체 제조 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260722-tm-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-22%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Thu, 23 Jul 2026 01:20:38 GMT",
-      "desc": "용인 반도체 팹 2년 조기 가동에… \"전력 11년, 물 20개월 빨리\" 공급 속도전 (2026년 7월 22일, 한국일보, 강지수·전예현 기자) 원문보기: https://www.hankookilbo.com/news/article/A202607221623"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260722-TI-01호] 2026년 7월 22일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260722-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-22%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Thu, 23 Jul 2026 01:19:27 GMT",
-      "desc": "중국 반도체기업들 IPO 러시…'반도체굴기 시즌2' 시작됐다 (2026년 7월 22일, 아주경제, 류소현 기자) 원문보기: https://www.ajunews.com/view/20260722153301497 [핵심 요약] [1] CXMT·YMTC 등 "
     },
     {
       "source": "IEEE Spectrum",
@@ -696,14 +672,6 @@ window.NEWS_DATA = {
       "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
       "date": "Mon, 29 Jun 2026 13:00:01 +0000",
       "desc": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended vi"
-    },
-    {
-      "source": "SK 뉴스",
-      "type": "corp",
-      "title": "SK, 전국 AI 인프라 구축 본격화… “AI 소비국서 수출국으로”",
-      "link": "https://www.sk.co.kr/ko/media/news_view.jsp?idx=1768",
-      "date": "2026-06-29",
-      "desc": "계열사: SK"
     },
     {
       "source": "IEEE Spectrum",
