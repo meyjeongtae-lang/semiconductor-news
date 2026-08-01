@@ -1,6 +1,22 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-01T02:21:10.618Z",
+  "fetchedAt": "2026-08-01T07:35:45.354Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "반도체 제조장비 시장도 호황…글로벌 기업들 실적 눈높이 상향",
+      "link": "https://zdnet.co.kr/view/?no=20260731110050",
+      "date": "Sat, 01 Aug 2026 14:00:02 +0900",
+      "desc": "[지디넷코리아]램리서치·TEL(도쿄일렉트론) 등 글로벌 반도체 장비 기업들이 역대 최고 분기 실적을 경신하고 있다. 인공지능(AI) 반도체 수요 급증 결과로, 이들 기업은 일제히 올해 장비 시장 규모가 당초 예상 대비 커질 것으로 내다봤다.1일 업계에"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "7월 수출 988억 달러…반도체가 전체 수출 40% 이끌었다",
+      "link": "https://www.hankyung.com/article/202608019176i",
+      "date": "Sat, 01 Aug 2026 12:14:21 +0900",
+      "desc": ""
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
@@ -16,6 +32,22 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/2026080190627",
       "date": "Sat, 01 Aug 2026 09:02:46 +0900",
       "desc": ""
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "매출 반등 이끈 이미지스 대표, 4개월만 사임",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60412",
+      "date": "2026-07-31 17:52:55",
+      "desc": "이미지스테크놀로지(이미지스)가 지난 3월 선임한 이동섭 대표가 31일 사임했다고 공시했다.이미지스는 이날 이사회를 열고 이 같은 내용의 안건을 결의했다. 이 전 대표는 2029년 3월까지였던 임기를 채우지 못한 채 사임하게 됐다. 회사는 이 대표가 사"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성 GaN 파운드리 양산 또 해 넘기나...시험생산서 '불량' 확인",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60391",
+      "date": "2026-07-31 17:40:44",
+      "desc": "삼성전자 차세대 전력반도체 8인치 위탁생산(파운드리) 프로젝트가 시험생산에서 복병을 만났다. 시험 생산한 일부 칩이 고온에서 작동하지 않는 불량이 나타났기 때문이다. 당초 목표였던 연내 양산 가동 일정이 차질을 빚을 것으로 예상된다. 31일 복수의 업"
     },
     {
       "source": "EE Times",
@@ -34,28 +66,12 @@ window.NEWS_DATA = {
       "desc": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL&reg"
     },
     {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "SK실트론 품는 두산…반도체 매출 키우지만 시너지 창출 '난망'",
-      "link": "https://zdnet.co.kr/view/?no=20260731091047",
-      "date": "Fri, 31 Jul 2026 17:55:28 +0900",
-      "desc": "[지디넷코리아]SK가 웨이퍼 제조기업 SK실트론 지분을 두산에 매각한다. SK실트론의 연 매출은 2조원대로, 두산이 추진해 온 반도체 사업 확대 크게 기여할 것으로 기대된다.다만 SK실트론 인수에 따른 시너지 효과는 기대하기 힘들다는 게 업계 전망이다"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
-      "title": "매출 반등 이끈 이미지스 대표, 4개월만 사임",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60412",
-      "date": "2026-07-31 17:52:55",
-      "desc": "이미지스테크놀로지(이미지스)가 지난 3월 선임한 이동섭 대표가 31일 사임했다고 공시했다.이미지스는 이날 이사회를 열고 이 같은 내용의 안건을 결의했다. 이 전 대표는 2029년 3월까지였던 임기를 채우지 못한 채 사임하게 됐다. 회사는 이 대표가 사"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성 GaN 파운드리 양산 또 해 넘기나...시험생산서 '불량' 확인",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60391",
-      "date": "2026-07-31 17:40:44",
-      "desc": "삼성전자 차세대 전력반도체 8인치 위탁생산(파운드리) 프로젝트가 시험생산에서 복병을 만났다. 시험 생산한 일부 칩이 고온에서 작동하지 않는 불량이 나타났기 때문이다. 당초 목표였던 연내 양산 가동 일정이 차질을 빚을 것으로 예상된다. 31일 복수의 업"
+      "title": "SK하이닉스 \"주주환원 못 밝힌 이유는 ADR 규제\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60370",
+      "date": "2026-07-31 12:37:55",
+      "desc": "SK하이닉스가 2분기 실적 컨퍼런스 콜에서 주주환원 정책 등 중요한 정보를 공개하지 않은 것은 미국 주식예탁증서(ADR) 공모 절차에 따른 미국 증권법 규제 때문인 것으로 나타났다. 미 증권법은 상장 후 일정 기간 동안 민감한 정보를 공개하지 못하도록"
     },
     {
       "source": "EE Times",
@@ -98,14 +114,6 @@ window.NEWS_DATA = {
       "desc": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진 (2026년 7월 31일, 조선일보, 박지민•강다은 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/31/CUPCLRYBOFE3ZEGCG6ORUHV"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "SK하이닉스 \"주주환원 못 밝힌 이유는 ADR 규제\"",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60370",
-      "date": "2026-07-31 12:37:55",
-      "desc": "SK하이닉스가 2분기 실적 컨퍼런스 콜에서 주주환원 정책 등 중요한 정보를 공개하지 않은 것은 미국 주식예탁증서(ADR) 공모 절차에 따른 미국 증권법 규제 때문인 것으로 나타났다. 미 증권법은 상장 후 일정 기간 동안 민감한 정보를 공개하지 못하도록"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260730-TE-01호] 2026년 7월 30일 반도체 장비 관련 주요 뉴스 요약",
@@ -138,36 +146,12 @@ window.NEWS_DATA = {
       "desc": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Buildin"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Why Qualcomm Bought An Open AI Software Stack",
-      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
-      "date": "Thu, 30 Jul 2026 14:43:40 +0000",
-      "desc": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Nidec Positions Precision Reducers for Cobots, Humanoids, and Automation",
-      "link": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
-      "date": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "desc": "Discover Nidec's gear reducer solutions offering precise gear alignment, and low backlash for smooth, reliable operation under load. The pos"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "최태원, SK하이닉스 첫 직접 매수…48억원 규모 장내 매입",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60365",
       "date": "2026-07-30 19:00:00",
       "desc": "최태원 SK그룹 회장이 SK하이닉스 주식을 처음으로 직접 장내 매수했다. 사상 최대 실적 발표 이후 책임경영 의지를 드러낸 것으로 풀이된다.30일 금융감독원 전자공시시스템에 따르면 최 회장은 이날 SK하이닉스 보통주 3620주를 장내 매수했다. 이날 "
-    },
-    {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "삼성전자, 반도체·DX 스타트업에 8000억원 출자",
-      "link": "https://www.etnews.com/20260730000442",
-      "date": "Thu, 30 Jul 2026 17:40:26 +0900",
-      "desc": "삼성전자가 반도체 스타트업 투자와 완제품(DX) 부문 유망 기술 확보를 위해 총 8000억원을 출자한다. 삼성전자는 30일 국내외 반도체 분야 스타트업 지분 투자를 통한 기술 및 사업적 협력 창출을 위해 삼성벤처투자(50억원)와 5000억원을 출자한다"
     },
     {
       "source": "디일렉",
@@ -186,6 +170,62 @@ window.NEWS_DATA = {
       "desc": "DB하이텍 파운드리 증설 계획에 빨간불이 켜졌다. 반도체 생산에 필요한 산업용수를 확보하지 못했기 때문이다. 내년 중반기까지 용수를 확보하지 못하면 증설 일정에 영향을 미칠 수밖에 없다고 전문가들은 설명했다. 30일 본지 취재를 종합하면 한국수자원공사"
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메모리 값 급등에 유탄 맞은 퀄컴... 실적 부진에 가격인상 예고",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60275",
+      "date": "2026-07-30 15:26:05",
+      "desc": "모바일 프로세서 강자 퀄컴이 메모리 반도체 가격 급등에 따른 스마트폰 시장 위축 여파로 부진한 실적을 기록했다. 원가 비용 부담에 9월부터 제품 가격도 인상한다.퀄컴은 29일(현지시간) 회계연도 3분기(2026년 3월 30일~2026년 6월 28일) "
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why Qualcomm Bought An Open AI Software Stack",
+      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
+      "date": "Thu, 30 Jul 2026 14:43:40 +0000",
+      "desc": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nidec Positions Precision Reducers for Cobots, Humanoids, and Automation",
+      "link": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
+      "date": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "desc": "Discover Nidec's gear reducer solutions offering precise gear alignment, and low backlash for smooth, reliable operation under load. The pos"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AI 열풍에 메모리 이익률 70% 시대 개막",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60305",
+      "date": "2026-07-30 12:07:32",
+      "desc": "인공지능(AI) 투자 확대로 고대역폭메모리(HBM), 범용 D램, 낸드플래시 가격이 급등하며 영업이익률 70%대 시대가 열렸다. 메모리 반도체 사업은 삼성전자, SK하이닉스가 글로벌 주요 기업 중 가장 높은 수익성을 기록했다.30일 증권가 따르면 삼성"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 2분기 영업익 89.4조…DX는 8000억 적자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60281",
+      "date": "2026-07-30 09:20:04",
+      "desc": "삼성전자가 지난 2분기 매출 171조4995억원, 영업이익 89조4924억원을 기록했다고 30일 공시했다. 전년 대비 매출은 130.0%, 영업이익은 1813.8% 증가했다. 전분기 대비로는 각각 28.1%, 56.4% 늘었다.영업이익률은 52.2%를"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, 반도체·DX 스타트업에 8000억원 출자",
+      "link": "https://www.etnews.com/20260730000442",
+      "date": "Thu, 30 Jul 2026 17:40:26 +0900",
+      "desc": "삼성전자가 반도체 스타트업 투자와 완제품(DX) 부문 유망 기술 확보를 위해 총 8000억원을 출자한다. 삼성전자는 30일 국내외 반도체 분야 스타트업 지분 투자를 통한 기술 및 사업적 협력 창출을 위해 삼성벤처투자(50억원)와 5000억원을 출자한다"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 보급형 그래픽카드 '라데온 RX 9050' 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60258",
+      "date": "2026-07-30 07:47:14",
+      "desc": "AMD가 라데온 RX 9000 시리즈 보급형 제품 '라데온 RX 9050'을 출시했다고 29일 밝혔다. 소비자가는 279달러(약 40만5000원)다.라데온 RX 9050은 게이밍 특화 그래픽카드로, 데스크톱 등에 장착할 수 있다.신규 AMD 아키텍처 "
+    },
+    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Compute Clusters Break Out Of National Labs To Scale AI",
@@ -202,14 +242,6 @@ window.NEWS_DATA = {
       "desc": "Vimag Labs ditches rare-earth magnets with a wirelessly excited EV motor claiming PMSM-level punch. The post Indian Startup Vimag Labs Devel"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "메모리 값 급등에 유탄 맞은 퀄컴... 실적 부진에 가격인상 예고",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60275",
-      "date": "2026-07-30 15:26:05",
-      "desc": "모바일 프로세서 강자 퀄컴이 메모리 반도체 가격 급등에 따른 스마트폰 시장 위축 여파로 부진한 실적을 기록했다. 원가 비용 부담에 9월부터 제품 가격도 인상한다.퀄컴은 29일(현지시간) 회계연도 3분기(2026년 3월 30일~2026년 6월 28일) "
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "[이슈플러스] 삼성전자 DA·VD, 메모리 단가 상승 파고…돌파구는 'AI 패키지'",
@@ -224,14 +256,6 @@ window.NEWS_DATA = {
       "link": "https://www.etnews.com/20260730000257",
       "date": "Thu, 30 Jul 2026 14:07:11 +0900",
       "desc": "삼성전자가 메모리 슈퍼사이클에 힘입어 역대 최대 분기 실적을 수립했다. 반도체(DS) 부문이 영업이익 89조2000억 원을 기록하며 최대 매출과 최대 영업이익 등 호실적을 견인했다. 삼성전자는 2분기 연결기준 매출 171조5000억원, 영업이익 89조"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "AI 열풍에 메모리 이익률 70% 시대 개막",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60305",
-      "date": "2026-07-30 12:07:32",
-      "desc": "인공지능(AI) 투자 확대로 고대역폭메모리(HBM), 범용 D램, 낸드플래시 가격이 급등하며 영업이익률 70%대 시대가 열렸다. 메모리 반도체 사업은 삼성전자, SK하이닉스가 글로벌 주요 기업 중 가장 높은 수익성을 기록했다.30일 증권가 따르면 삼성"
     },
     {
       "source": "SPTA TIMES",
@@ -266,14 +290,6 @@ window.NEWS_DATA = {
       "desc": "美, 자국 반도체 기업에 '4000억 실탄'…해외 의존도 낮춘다 (2026년 7월 29일, 한국경제, 김대영 기자) 원문보기 : https://www.hankyung.com/article/2026072941117 [핵심 요약] [1] 글로벌파운드리스에"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성전자, 2분기 영업익 89.4조…DX는 8000억 적자",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60281",
-      "date": "2026-07-30 09:20:04",
-      "desc": "삼성전자가 지난 2분기 매출 171조4995억원, 영업이익 89조4924억원을 기록했다고 30일 공시했다. 전년 대비 매출은 130.0%, 영업이익은 1813.8% 증가했다. 전분기 대비로는 각각 28.1%, 56.4% 늘었다.영업이익률은 52.2%를"
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "'영업익 89.5조' 삼성 메모리 날았지만...MX 결국 첫 적자",
@@ -296,14 +312,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/ai-talent-recruit-2026-02/",
       "date": "Wed, 29 Jul 2026 22:55:01 +0000",
       "desc": "▪ 8월 20일 신입 수시채용 시작…‘반나절 심층면접’ 도입해 AI 응용 및 근원적 사고력 평가 ▪ 기존 ‘자소서’ 틀 탈피… ‘AI 활용 및 직무 역량’ 집중 검증 서식 도입 ▪ 4분기 ‘AI 해커톤’ 개최… 우수자 대상 면접 직행 ‘패스트트랙’ 부"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "AMD, 보급형 그래픽카드 '라데온 RX 9050' 출시",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60258",
-      "date": "2026-07-30 07:47:14",
-      "desc": "AMD가 라데온 RX 9000 시리즈 보급형 제품 '라데온 RX 9050'을 출시했다고 29일 밝혔다. 소비자가는 279달러(약 40만5000원)다.라데온 RX 9050은 게이밍 특화 그래픽카드로, 데스크톱 등에 장착할 수 있다.신규 AMD 아키텍처 "
     },
     {
       "source": "Semiconductor Engineering",
@@ -338,6 +346,30 @@ window.NEWS_DATA = {
       "desc": "AI workloads aren't creating new memory categories—they're sharpening the trade-offs between capacity, latency, and power. The post Dynamic "
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "하이닉스, 빅테크 10여곳과 장기계약…올 40조원 후반 투자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60222",
+      "date": "2026-07-29 13:40:42",
+      "desc": "SK하이닉스가 내년 빅테크 기업 인공지능(AI) 투자로 메모리 반도체 수요 지속을 예상했다. 고객사 10여곳이 5년 장기공급계약(LTA) 협상을 체결해 '반도체 피크아웃(정점 후 하락)' 우려를 불식했다.송현종 SK하이닉스 코퍼레이트센터 사장은 29일"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 2분기 영업이익 60.5조…전년비 557.2%↑",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60200",
+      "date": "2026-07-29 08:27:48",
+      "desc": "SK하이닉스가 인공지능(AI) 메모리 수요 확대로 올해 2분기 매출과 영업이익 모두 사상 최대 실적을 기록했다. 엔비디아를 비롯한 10개 이상 고객사와 장기공급계약(LTA)을 체결하며 중장기 수요 가시성을 높였다. 다만 시장기대치에 미치지 못하는 실적"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "앤씨앤, 2분기 흑자전환...적자 회사도 떼어냈다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60196",
+      "date": "2026-07-29 07:41:32",
+      "desc": "앤씨앤이 올해 2분기 영업이익이 6억2300만원을 기록하며 흑자 전환에 성공했다고 28일 공시했다.비용 효율화, 수익성 높은 사업 확대 전략이 통했다는 것이 앤씨앤의 설명이다. 자체 브랜드 판매 비중이 늘어나기도 했다. 회사는 블랙박스 브랜드 '뷰로이"
+    },
+    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
@@ -352,14 +384,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/blog-review-july-29-3/",
       "date": "Wed, 29 Jul 2026 07:01:00 +0000",
       "desc": "Rethinking AI compute; DFI 6; 3D-IC reliability; local AI in browser; surface prep and cleaning. The post Blog Review: July 29 appeared firs"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "하이닉스, 빅테크 10여곳과 장기계약…올 40조원 후반 투자",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60222",
-      "date": "2026-07-29 13:40:42",
-      "desc": "SK하이닉스가 내년 빅테크 기업 인공지능(AI) 투자로 메모리 반도체 수요 지속을 예상했다. 고객사 10여곳이 5년 장기공급계약(LTA) 협상을 체결해 '반도체 피크아웃(정점 후 하락)' 우려를 불식했다.송현종 SK하이닉스 코퍼레이트센터 사장은 29일"
     },
     {
       "source": "Semiconductor Engineering",
@@ -404,22 +428,6 @@ window.NEWS_DATA = {
     {
       "source": "디일렉",
       "type": "kr",
-      "title": "SK하이닉스, 2분기 영업이익 60.5조…전년비 557.2%↑",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60200",
-      "date": "2026-07-29 08:27:48",
-      "desc": "SK하이닉스가 인공지능(AI) 메모리 수요 확대로 올해 2분기 매출과 영업이익 모두 사상 최대 실적을 기록했다. 엔비디아를 비롯한 10개 이상 고객사와 장기공급계약(LTA)을 체결하며 중장기 수요 가시성을 높였다. 다만 시장기대치에 미치지 못하는 실적"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "앤씨앤, 2분기 흑자전환...적자 회사도 떼어냈다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60196",
-      "date": "2026-07-29 07:41:32",
-      "desc": "앤씨앤이 올해 2분기 영업이익이 6억2300만원을 기록하며 흑자 전환에 성공했다고 28일 공시했다.비용 효율화, 수익성 높은 사업 확대 전략이 통했다는 것이 앤씨앤의 설명이다. 자체 브랜드 판매 비중이 늘어나기도 했다. 회사는 블랙박스 브랜드 '뷰로이"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
       "title": "퓨리오사AI, PCIe 16개 확장한 AI 서버 개발한다",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60165",
       "date": "2026-07-28 19:01:21",
@@ -450,20 +458,20 @@ window.NEWS_DATA = {
       "desc": "삼성전기가 솔브레인과 차세대 유리기판 제조에 필요한 핵심 화학소재 개발 범위를 확대했다. 지난해 식각액 공동 연구로 시작한 협력이 구리 도금액과 화학기계연마(CMP:Chemical Mechanical Polishing) 슬러리까지 넓어진 것으로 파악됐"
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Technical Paper Roundup: July 28",
-      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/",
-      "date": "Tue, 28 Jul 2026 07:01:45 +0000",
-      "desc": "HW methods to throttle AI; M3D DRAM; interconnect signal-integrity analysis; 3D mask effects in high/hyper-NA EUV litho; compute-in-intercon"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "잠실에 어린이 반도체 공장...도쿄일렉트론, '반도체 드림랩' 개소",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60156",
       "date": "2026-07-28 13:00:00",
       "desc": "서울 잠실에 아이들을 대상으로 반도체 생산라인이 들어섰다. 도쿄일렉트론(TEL)코리아가 미래 세대에게 반도체를 친근하게 알리고자 만든 몰입형 체험 공간 'TEL 반도체 드림랩'이다.28일 도쿄일렉트론코리아는 어린이 직업 체험 테마파크 '키자니아 서울'"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: July 28",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/",
+      "date": "Tue, 28 Jul 2026 07:01:45 +0000",
+      "desc": "HW methods to throttle AI; M3D DRAM; interconnect signal-integrity analysis; 3D mask effects in high/hyper-NA EUV litho; compute-in-intercon"
     },
     {
       "source": "SPTA TIMES",
