@@ -1,6 +1,14 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-01T01:04:06.500Z",
+  "fetchedAt": "2026-08-01T02:21:10.618Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "美 상원 6인, 애플에 \"중국산 메모리 쓰지마\"…SK하이닉스 미국 공장도 근거로",
+      "link": "https://zdnet.co.kr/view/?no=20260801104239",
+      "date": "Sat, 01 Aug 2026 10:42:39 +0900",
+      "desc": "[지디넷코리아]현지 시각 7월 30일 척 슈머 미국 상원 원내대표를 비롯한 초당파 상원의원 6명이 팀 쿡 애플 최고경영자에게 서한을 보내 중국 메모리 반도체를 쓰지 말 것을 요구했다. 대상은 창신메모리(CXMT)와 양쯔메모리(YMTC)다. 의원들은 두"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -18,28 +26,12 @@ window.NEWS_DATA = {
       "desc": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushe"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Hybrid Architectures for Space Missions: Frameworks and Consequence",
-      "link": "https://www.eetimes.com/hybrid-architectures-for-space-missions-frameworks-and-consequence/",
-      "date": "Fri, 31 Jul 2026 15:38:20 +0000",
-      "desc": "Join this webinar and explore how Microchip's framework translates architectural intent into component choices that preserve differentiation"
-    },
-    {
       "source": "ZDNet Korea",
       "type": "kr",
       "title": "몽타주 테크놀로지, 업계 최초 CXL 3.2 MXC 칩 시범 양산 발표",
       "link": "https://zdnet.co.kr/view/?no=20260801001014",
       "date": "Sat, 01 Aug 2026 00:10:14 +0900",
       "desc": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL&reg"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "The Commercial Space Race: Powering the Next Comms Network",
-      "link": "https://www.eetimes.com/the-commercial-space-race-powering-the-next-comms-network/",
-      "date": "Fri, 31 Jul 2026 13:34:44 +0000",
-      "desc": "Join us to learn how Altera is supporting commercial deployments in orbit today and what's coming next. The post The Commercial Space Race: "
     },
     {
       "source": "ZDNet Korea",
@@ -80,14 +72,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/chip-industry-week-in-review-149/",
       "date": "Fri, 31 Jul 2026 07:01:48 +0000",
       "desc": "DAC's big buzz; CHIPS Act $; China's immersion DUV; UMC expands; SIA's state of the industry; DRAM shortages; earnings; PCB design credentia"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "[알림] GPU·HBM 다음 병목은? 반도체 '패키지&테스트'의 세계로 초대합니다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60398",
-      "date": "2026-07-31 15:41:58",
-      "desc": "인공지능(AI)의 시대입니다. 빅테크 기업들의 융단폭격급 투자로 그래픽처리장치(GPU), 고대역폭메모리(HBM), 중앙처리장치(CPU) 등 고성능 반도체가 부족해 아우성입니다. 삼성전자, SK하이닉스, 마이크론 등 주요 메모리 반도체 기업이 생산 능력"
     },
     {
       "source": "SPTA TIMES",
@@ -280,14 +264,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260729-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-29%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Thu, 30 Jul 2026 00:49:23 GMT",
       "desc": "美, 자국 반도체 기업에 '4000억 실탄'…해외 의존도 낮춘다 (2026년 7월 29일, 한국경제, 김대영 기자) 원문보기 : https://www.hankyung.com/article/2026072941117 [핵심 요약] [1] 글로벌파운드리스에"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "IoT Tech Expo Europe Returns to Amsterdam as Industrial AI and Edge Intelligence Reshape Connected Industry",
-      "link": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
-      "date": "Thu, 30 Jul 2026 00:42:04 +0000",
-      "desc": "From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected"
     },
     {
       "source": "디일렉",
@@ -620,14 +596,6 @@ window.NEWS_DATA = {
     {
       "source": "IEEE Spectrum",
       "type": "intl",
-      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-      "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-      "date": "Mon, 20 Jul 2026 15:55:00 +0000",
-      "desc": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. Thi"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "type": "intl",
       "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
       "link": "https://spectrum.ieee.org/led-light-pollution",
       "date": "Mon, 20 Jul 2026 13:00:01 +0000",
@@ -732,14 +700,6 @@ window.NEWS_DATA = {
     {
       "source": "IEEE Spectrum",
       "type": "intl",
-      "title": "Understanding Phase Noise and Its Impact on RF System Performance",
-      "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "date": "Thu, 28 May 2026 10:00:01 +0000",
-      "desc": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, "
-    },
-    {
-      "source": "IEEE Spectrum",
-      "type": "intl",
       "title": "Junctionless Transistors Show a New Path to 3D Chips",
       "link": "https://spectrum.ieee.org/3d-chips",
       "date": "Wed, 27 May 2026 15:00:02 +0000",
@@ -792,14 +752,6 @@ window.NEWS_DATA = {
       "link": "https://spectrum.ieee.org/inchfab",
       "date": "Wed, 06 May 2026 14:00:01 +0000",
       "desc": "When Mitchell Hsing was a grad student at MIT, he and his classmates were doing cutting-edge things using what was essentially chip-industry"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "type": "intl",
-      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
-      "link": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
-      "date": "Wed, 06 May 2026 10:00:02 +0000",
-      "desc": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wir"
     },
     {
       "source": "IEEE Spectrum",

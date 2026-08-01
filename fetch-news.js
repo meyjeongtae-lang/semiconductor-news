@@ -22,18 +22,25 @@ function hasKeyword(text) {
 }
 
 // RSS로 가져오는 소스 목록
+// excludeCategories: RSS의 <category>가 이 목록에 하나라도 걸리면 광고/홍보성 글로 보고 아예 제외한다.
+//  - EE Times의 'Webinars + Bitcasts'(웹세미나 등록), 'Press Releases'(보도자료성 홍보글)
+//  - IEEE Spectrum의 'Type-webinar'(웹세미나), 'Type-whitepaper'(가입해야 보는 백서 다운로드 페이지)
+//  - SK하이닉스 뉴스룸의 'MEDIA'(기사가 아니라 같은 글에 딸린 사진/영상 자료가 중복 등록된 것)
 const RSS_SOURCES = [
   { name: '전자신문', url: 'http://rss.etnews.com/06.xml', type: 'kr', filter: true },
   { name: '한국경제', url: 'https://www.hankyung.com/feed/all-news', type: 'kr', filter: true },
   { name: '디일렉', url: 'https://www.thelec.kr/rss/S1N2.xml', type: 'kr', filter: false },
   { name: 'ZDNet Korea', url: 'https://feeds.feedburner.com/zdkorea', type: 'kr', filter: true },
   { name: '삼성 뉴스룸', url: 'https://news.samsung.com/kr/feed', type: 'corp', filter: true },
-  { name: 'SK하이닉스 뉴스룸', url: 'https://news.skhynix.co.kr/feed/', type: 'corp', filter: false },
-  { name: 'EE Times', url: 'https://www.eetimes.com/feed/', type: 'intl', filter: false },
+  { name: 'SK하이닉스 뉴스룸', url: 'https://news.skhynix.co.kr/feed/', type: 'corp', filter: false, excludeCategories: ['MEDIA'] },
+  { name: 'EE Times', url: 'https://www.eetimes.com/feed/', type: 'intl', filter: false, excludeCategories: ['Webinars + Bitcasts', 'Press Releases'] },
   { name: 'Semiconductor Engineering', url: 'https://semiengineering.com/feed/', type: 'intl', filter: false },
-  { name: 'IEEE Spectrum', url: 'https://spectrum.ieee.org/feeds/topic/semiconductors.rss', type: 'intl', filter: false },
+  { name: 'IEEE Spectrum', url: 'https://spectrum.ieee.org/feeds/topic/semiconductors.rss', type: 'intl', filter: false, excludeCategories: ['Type-webinar', 'Type-whitepaper'] },
   { name: 'SPTA TIMES', url: 'https://www.sptatimeskorea.com/blog-feed.xml', type: 'digest', filter: false },
 ];
+
+// 제목이 이걸로 시작하면 기사가 아니라 자체 행사·세미나 광고인 경우가 많아서 제외한다 (예: 디일렉의 컨퍼런스 홍보).
+const TITLE_PREFIX_EXCLUDE = ['[알림]'];
 
 function stripHtml(text) {
   return String(text || '')
@@ -67,10 +74,11 @@ async function fetchRSS(source) {
         categories,
       };
     })
-    // SK하이닉스 뉴스룸의 'MEDIA' 카테고리는 실제 기사가 아니라 같은 콘텐츠에 딸린
-    // 사진/영상 자료를 각각 별도 글로 등록해둔 것이라, 제목이 통째로 중복돼서 나온다.
-    // 그래서 이 카테고리는 애초에 뉴스 목록에서 제외한다.
-    .filter((item) => !item.categories.includes('MEDIA'))
+    .filter((item) => {
+      const exclude = source.excludeCategories || [];
+      return !item.categories.some((c) => exclude.includes(c));
+    })
+    .filter((item) => !TITLE_PREFIX_EXCLUDE.some((prefix) => item.title.startsWith(prefix)))
     .map(({ categories, ...item }) => item)
     .filter((item) => !source.filter || hasKeyword(item.title) || hasKeyword(item.desc));
 }
