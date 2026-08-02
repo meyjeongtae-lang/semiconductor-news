@@ -1,37 +1,53 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-01T07:35:45.354Z",
+  "fetchedAt": "2026-08-02T07:40:33.161Z",
   "items": [
     {
       "source": "ZDNet Korea",
       "type": "kr",
-      "title": "반도체 제조장비 시장도 호황…글로벌 기업들 실적 눈높이 상향",
-      "link": "https://zdnet.co.kr/view/?no=20260731110050",
-      "date": "Sat, 01 Aug 2026 14:00:02 +0900",
-      "desc": "[지디넷코리아]램리서치·TEL(도쿄일렉트론) 등 글로벌 반도체 장비 기업들이 역대 최고 분기 실적을 경신하고 있다. 인공지능(AI) 반도체 수요 급증 결과로, 이들 기업은 일제히 올해 장비 시장 규모가 당초 예상 대비 커질 것으로 내다봤다.1일 업계에"
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "7월 수출 988억 달러…반도체가 전체 수출 40% 이끌었다",
-      "link": "https://www.hankyung.com/article/202608019176i",
-      "date": "Sat, 01 Aug 2026 12:14:21 +0900",
-      "desc": ""
+      "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+      "link": "https://zdnet.co.kr/view/?no=20260802083652",
+      "date": "Sun, 02 Aug 2026 10:25:01 +0900",
+      "desc": "[지디넷코리아]정부가 엔비디아에 이어 AMD와도 인공지능(AI) 컴퓨팅 협력을 확대하면서 국내 AI 인프라 생태계가 다변화하고 있다.특정 그래픽처리장치(GPU) 중심 구조에서 벗어나 중앙처리장치(CPU)·GPU·신경망처리장치(NPU)를 함께 활용하는 "
     },
     {
       "source": "ZDNet Korea",
       "type": "kr",
-      "title": "美 상원 6인, 애플에 \"중국산 메모리 쓰지마\"…SK하이닉스 미국 공장도 근거로",
-      "link": "https://zdnet.co.kr/view/?no=20260801104239",
-      "date": "Sat, 01 Aug 2026 10:42:39 +0900",
-      "desc": "[지디넷코리아]현지 시각 7월 30일 척 슈머 미국 상원 원내대표를 비롯한 초당파 상원의원 6명이 팀 쿡 애플 최고경영자에게 서한을 보내 중국 메모리 반도체를 쓰지 말 것을 요구했다. 대상은 창신메모리(CXMT)와 양쯔메모리(YMTC)다. 의원들은 두"
+      "title": "상반기 스마트폰 AP 출하량 15% 감소…메모리값 폭등 직격탄",
+      "link": "https://zdnet.co.kr/view/?no=20260801120346",
+      "date": "Sun, 02 Aug 2026 10:00:03 +0900",
+      "desc": "[지디넷코리아]올해 상반기 스마트폰 '두뇌' AP 시장이 축소됐다. 메모리 반도체 가격 폭등으로 스마트폰 판매량이 감소한 영향이다. 2일 시장조사업체 카운터포인트에 따르면 올해 상반기 글로벌 스마트폰 AP 출하량이 전년 동기보다 15% 줄었다. 카운터"
     },
     {
-      "source": "한국경제",
+      "source": "ZDNet Korea",
       "type": "kr",
-      "title": "[속보] 7월 반도체 수출 410억달러…두 달 연속 400억원대",
-      "link": "https://www.hankyung.com/article/2026080190627",
-      "date": "Sat, 01 Aug 2026 09:02:46 +0900",
-      "desc": ""
+      "title": "중국 전기차, 역대 최대 판매에도 돈은 못 번다",
+      "link": "https://zdnet.co.kr/view/?no=20260802004712",
+      "date": "Sun, 02 Aug 2026 08:00:03 +0900",
+      "desc": "[지디넷코리아]중국 신에너지차 판매가 역대 최대 수준으로 늘었지만 완성차 업체들의 수익성은 악화한 것으로 나타났다. 중국 업체들은 배터리와 차량용 반도체, 자율주행 소프트웨어 등 핵심 기술을 직접 확보하거나 공급망을 다변화하는 방식으로 수익성 개선에 "
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"中 AI 유니콘 문샷 AI, 알리바바서 엔비디아 칩 2만대 제공받아\"",
+      "link": "https://zdnet.co.kr/view/?no=20260801161743",
+      "date": "Sun, 02 Aug 2026 08:00:02 +0900",
+      "desc": "[지디넷코리아]최근 오픈소스 인공지능(AI) 모델 '키미 K3(Kimi K3)'를 공개하며 주목을 받은 중국 AI 스타트업 문샷 AI가 알리바바 그룹으로부터 엔비디아 칩 2만 대를 제공받아왔다고 보도됐다. 급성장 중인 중국 AI 기업의 미국 반도체 의"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Humanoid Manipulation at the Edge of Physical Interaction",
+      "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
+      "date": "Sat, 01 Aug 2026 14:00:00 +0000",
+      "desc": "This white paper examines emerging humanoid robot architectures, focusing on how joints and dexterous hands are becoming intelligent, sensor"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "ERP Statistics: Insights From 70 Manufacturing Case Studies",
+      "link": "https://www.eetimes.com/erp-statistics-insights-from-70-manufacturing-case-studies/",
+      "date": "Sat, 01 Aug 2026 13:00:00 +0000",
+      "desc": "We analyzed 70 customer case studies to better understand the ERP experiences of small manufacturers. Here’s what electronics manufacturers "
     },
     {
       "source": "디일렉",
@@ -56,14 +72,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
       "date": "Fri, 31 Jul 2026 15:48:06 +0000",
       "desc": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushe"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "몽타주 테크놀로지, 업계 최초 CXL 3.2 MXC 칩 시범 양산 발표",
-      "link": "https://zdnet.co.kr/view/?no=20260801001014",
-      "date": "Sat, 01 Aug 2026 00:10:14 +0900",
-      "desc": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL&reg"
     },
     {
       "source": "디일렉",
@@ -338,14 +346,6 @@ window.NEWS_DATA = {
       "desc": "Researchers from NMIMS Hyderabad, IIT Roorkee, and BITS Pilani published a technical paper titled “Benchmarking LLMs for Verilog Design Flow"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Dynamic AI Demands Drive Memory Diversity",
-      "link": "https://www.eetimes.com/dynamic-ai-demands-drive-memory-diversity/",
-      "date": "Wed, 29 Jul 2026 18:00:00 +0000",
-      "desc": "AI workloads aren't creating new memory categories—they're sharpening the trade-offs between capacity, latency, and power. The post Dynamic "
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "하이닉스, 빅테크 10여곳과 장기계약…올 40조원 후반 투자",
@@ -560,14 +560,6 @@ window.NEWS_DATA = {
       "link": "https://news.skhynix.co.kr/k-ai-summit-2026/",
       "date": "Sat, 25 Jul 2026 04:39:48 +0000",
       "desc": "▪ 최태원 회장-젠슨 황 엔비디아 CEO, AI 팩토리·AI 메모리 등 총 5,000억 달러 이상 규모 AI 인프라 협력키로 ▪ 마이크로소프트와 AI 메모리 장기 공급 협력 … 앤트로픽·AWS와 AI 데이터센터 구축 등 협력 확대 ▪ 빅테크 협력으로 "
-    },
-    {
-      "source": "SK 뉴스",
-      "type": "corp",
-      "title": "SK, 美 실리콘밸리서 글로벌 빅테크와 AI 인프라 협력 확대",
-      "link": "https://www.sk.co.kr/ko/media/news_view.jsp?idx=1771",
-      "date": "2026-07-25",
-      "desc": "계열사: SK"
     },
     {
       "source": "SK하이닉스 뉴스룸",
