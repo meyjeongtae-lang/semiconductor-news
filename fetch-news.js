@@ -33,7 +33,7 @@ const RSS_SOURCES = [
   { name: 'ZDNet Korea', url: 'https://feeds.feedburner.com/zdkorea', type: 'kr', filter: true },
   { name: '삼성 뉴스룸', url: 'https://news.samsung.com/kr/feed', type: 'corp', filter: true },
   { name: 'SK하이닉스 뉴스룸', url: 'https://news.skhynix.co.kr/feed/', type: 'corp', filter: false, excludeCategories: ['MEDIA'] },
-  { name: 'EE Times', url: 'https://www.eetimes.com/feed/', type: 'intl', filter: false, excludeCategories: ['Webinars + Bitcasts', 'Press Releases'] },
+  { name: 'EE Times', url: 'https://www.eetimes.com/feed/', type: 'intl', filter: false, excludeCategories: ['Webinars + Bitcasts', 'Press Releases', 'White Papers', 'Sponsored content'] },
   { name: 'Semiconductor Engineering', url: 'https://semiengineering.com/feed/', type: 'intl', filter: false },
   { name: 'IEEE Spectrum', url: 'https://spectrum.ieee.org/feeds/topic/semiconductors.rss', type: 'intl', filter: false, excludeCategories: ['Type-webinar', 'Type-whitepaper'] },
   { name: 'SPTA TIMES', url: 'https://www.sptatimeskorea.com/blog-feed.xml', type: 'digest', filter: false },

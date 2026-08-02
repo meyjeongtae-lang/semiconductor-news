@@ -1,21 +1,37 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-01T02:21:10.618Z",
+  "fetchedAt": "2026-08-02T22:41:17.964Z",
   "items": [
     {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "美 상원 6인, 애플에 \"중국산 메모리 쓰지마\"…SK하이닉스 미국 공장도 근거로",
-      "link": "https://zdnet.co.kr/view/?no=20260801104239",
-      "date": "Sat, 01 Aug 2026 10:42:39 +0900",
-      "desc": "[지디넷코리아]현지 시각 7월 30일 척 슈머 미국 상원 원내대표를 비롯한 초당파 상원의원 6명이 팀 쿡 애플 최고경영자에게 서한을 보내 중국 메모리 반도체를 쓰지 말 것을 요구했다. 대상은 창신메모리(CXMT)와 양쯔메모리(YMTC)다. 의원들은 두"
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+      "link": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw/",
+      "date": "Sun, 02 Aug 2026 19:00:14 +0000",
+      "desc": "Researchers from MIT, Google, and University of Washington published a technical paper titled “Granite: A Modular Methodology for Foundation"
     },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "[속보] 7월 반도체 수출 410억달러…두 달 연속 400억원대",
-      "link": "https://www.hankyung.com/article/2026080190627",
-      "date": "Sat, 01 Aug 2026 09:02:46 +0900",
+      "title": "日, 10년 前 강진 뒤 내진 설계…반도체 생산라인 빠르게 회복",
+      "link": "https://www.hankyung.com/article/2026080202091",
+      "date": "Sun, 02 Aug 2026 18:26:05 +0900",
       "desc": ""
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+      "link": "https://zdnet.co.kr/view/?no=20260802083652",
+      "date": "Sun, 02 Aug 2026 10:25:01 +0900",
+      "desc": "[지디넷코리아]정부가 엔비디아에 이어 AMD와도 인공지능(AI) 컴퓨팅 협력을 확대하면서 국내 AI 인프라 생태계가 다변화하고 있다.특정 그래픽처리장치(GPU) 중심 구조에서 벗어나 중앙처리장치(CPU)·GPU·신경망처리장치(NPU)를 함께 활용하는 "
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "상반기 스마트폰 AP 출하량 15% 감소…메모리값 폭등 직격탄",
+      "link": "https://zdnet.co.kr/view/?no=20260801120346",
+      "date": "Sun, 02 Aug 2026 10:00:03 +0900",
+      "desc": "[지디넷코리아]올해 상반기 스마트폰 '두뇌' AP 시장이 축소됐다. 메모리 반도체 가격 폭등으로 스마트폰 판매량이 감소한 영향이다. 2일 시장조사업체 카운터포인트에 따르면 올해 상반기 글로벌 스마트폰 AP 출하량이 전년 동기보다 15% 줄었다. 카운터"
     },
     {
       "source": "EE Times",
@@ -24,22 +40,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
       "date": "Fri, 31 Jul 2026 15:48:06 +0000",
       "desc": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushe"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "몽타주 테크놀로지, 업계 최초 CXL 3.2 MXC 칩 시범 양산 발표",
-      "link": "https://zdnet.co.kr/view/?no=20260801001014",
-      "date": "Sat, 01 Aug 2026 00:10:14 +0900",
-      "desc": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL&reg"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "SK실트론 품는 두산…반도체 매출 키우지만 시너지 창출 '난망'",
-      "link": "https://zdnet.co.kr/view/?no=20260731091047",
-      "date": "Fri, 31 Jul 2026 17:55:28 +0900",
-      "desc": "[지디넷코리아]SK가 웨이퍼 제조기업 SK실트론 지분을 두산에 매각한다. SK실트론의 연 매출은 2조원대로, 두산이 추진해 온 반도체 사업 확대 크게 기여할 것으로 기대된다.다만 SK실트론 인수에 따른 시너지 효과는 기대하기 힘들다는 게 업계 전망이다"
     },
     {
       "source": "디일렉",
@@ -144,14 +144,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
       "date": "Thu, 30 Jul 2026 14:43:40 +0000",
       "desc": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Nidec Positions Precision Reducers for Cobots, Humanoids, and Automation",
-      "link": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
-      "date": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "desc": "Discover Nidec's gear reducer solutions offering precise gear alignment, and low backlash for smooth, reliable operation under load. The pos"
     },
     {
       "source": "디일렉",
@@ -330,14 +322,6 @@ window.NEWS_DATA = {
       "desc": "Researchers from NMIMS Hyderabad, IIT Roorkee, and BITS Pilani published a technical paper titled “Benchmarking LLMs for Verilog Design Flow"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Dynamic AI Demands Drive Memory Diversity",
-      "link": "https://www.eetimes.com/dynamic-ai-demands-drive-memory-diversity/",
-      "date": "Wed, 29 Jul 2026 18:00:00 +0000",
-      "desc": "AI workloads aren't creating new memory categories—they're sharpening the trade-offs between capacity, latency, and power. The post Dynamic "
-    },
-    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
@@ -448,14 +432,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60177",
       "date": "2026-07-28 16:32:04",
       "desc": "삼성전기가 솔브레인과 차세대 유리기판 제조에 필요한 핵심 화학소재 개발 범위를 확대했다. 지난해 식각액 공동 연구로 시작한 협력이 구리 도금액과 화학기계연마(CMP:Chemical Mechanical Polishing) 슬러리까지 넓어진 것으로 파악됐"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Technical Paper Roundup: July 28",
-      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/",
-      "date": "Tue, 28 Jul 2026 07:01:45 +0000",
-      "desc": "HW methods to throttle AI; M3D DRAM; interconnect signal-integrity analysis; 3D mask effects in high/hyper-NA EUV litho; compute-in-intercon"
     },
     {
       "source": "디일렉",
