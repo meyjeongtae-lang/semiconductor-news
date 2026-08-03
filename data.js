@@ -1,6 +1,134 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-02T22:41:45.466Z",
+  "fetchedAt": "2026-08-03T23:00:28.712Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Renesas Tackles Memory Bottleneck with MRDIMM Update",
+      "link": "https://www.eetimes.com/renesas-tackles-memory-bottleneck-with-mrdimm-update/",
+      "date": "Mon, 03 Aug 2026 19:00:00 +0000",
+      "desc": "Renesas’s Gen 3 DDR5 MRDIMM attacks AI’s memory choke point with 16,000 MT/s bandwidth and no platform overhaul. The post Renesas Tackles Me"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+      "link": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden/",
+      "date": "Mon, 03 Aug 2026 15:51:42 +0000",
+      "desc": "Researchers from Technische Universität Dresden and University of Manchester published a technical paper titled “The SpiNNaker2 Chip: A Many"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA",
+      "link": "https://www.eetimes.com/video-interview-chipagents-ceo-on-latest-funding-for-agentic-ai-in-eda/",
+      "date": "Mon, 03 Aug 2026 14:07:19 +0000",
+      "desc": "ChipAgents raises $60M as EDA’s AI gold rush heats up, pitching autonomous chip-design agents over tired copilots. The post Video Interview:"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "로이터 \"中 CXMT, 베이징에 12인치 메모리 공장 신설 추진\"",
+      "link": "https://www.hankyung.com/article/2026080327677",
+      "date": "Mon, 03 Aug 2026 21:27:14 +0900",
+      "desc": ""
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60492",
+      "date": "2026-08-03 18:54:32",
+      "desc": "반도체 후공정 외주(OSAT) 업체 LB세미콘이 이달부터 퀄컴의 전력 관리 반도체(PMIC) 제품을 양산한다고 3일 밝혔다.LB세미콘은 퀄컴의 인공지능(AI) 데이터센터와 차량용 반도체용 PMIC의 범핑과 테스트, 백엔드까지 포함한 후공정을 맡았다. "
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "아크릴-퓨리오사AI, 소버린 AI 시장 공략 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260803181357",
+      "date": "Mon, 03 Aug 2026 18:13:57 +0900",
+      "desc": "[지디넷코리아]인공지능 전환(AX) 인프라 전문기업 아크릴은 AI 반도체 기업 퓨리오사AI와 AI 인프라 기술 협력 및 공동 사업 추진을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다.이날 아크릴 본사(서울 강남구 청담빌딩)에서 열린 체결식에는 박외"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "시높시스코리아, S&A 대표로 문성수 전 지멘스 부사장 선임",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60487",
+      "date": "2026-08-03 18:13:46",
+      "desc": "시높시스코리아가 시뮬레이션&분석(S&A) 비즈니스 총괄 대표로 문성수 전 지멘스 글로벌 시뮬레이션 부문 부사장을 선임했다고 3일 밝혔다.문 신임 대표는 시높시스에 합류하기 이전까지 지멘스에서 글로벌 시뮬레이션 사업 전략을 이끌었다. 알테어에서 한국법인"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "NXP Eying Ambarella: Is It About Automotive or Edge AI?",
+      "link": "https://www.eetimes.com/nxp-eying-ambarella-is-it-about-automotive-or-edge-ai/",
+      "date": "Mon, 03 Aug 2026 08:24:34 +0000",
+      "desc": "Ambarella has quietly transformed its automotive computer-vision technology to serve edge AI applications. The post NXP Eying Ambarella: Is "
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"국가AI컴퓨팅센터 GPU, B200 확정 아냐…최신 AI 반도체 도입\"",
+      "link": "https://zdnet.co.kr/view/?no=20260803165045",
+      "date": "Mon, 03 Aug 2026 17:10:35 +0900",
+      "desc": "[지디넷코리아]국가인공지능(AI)컴퓨팅센터 구축을 총괄하는 정부와 사업 추진 기관이 첨단 그래픽처리장치(GPU) 도입 계획과 공공 활용 방식, 냉각 기술 등 주요 운영 방향을 공개했다.정부는 당초 사업 제안 당시 제시된 엔비디아 B200 기준을 고정하"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "범용 D램, 7월도 최고가 갱신...3분기 20% 뛴다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60443",
+      "date": "2026-08-03 16:04:23",
+      "desc": "7월 범용 D램과 낸드플래시 메모리 가격이 최고가를 기록했다.3일 시장조사업체 D램익스체인지에 따르면 PC용 범용 제품 DDR4 8Gb의 7월 평균 가격은 24달러로, 전월(21달러) 대비 14.29% 증가했다. 2016년 6월 집계 이래 최고가다.메"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Self-Driving Cars Have An Aging Problem",
+      "link": "https://semiengineering.com/self-driving-cars-have-an-aging-problem/",
+      "date": "Mon, 03 Aug 2026 07:01:41 +0000",
+      "desc": "AI workloads are pushing automotive sensors harder, forcing engineers to rethink how long safety-critical systems can be trusted. The post S"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "가천대, AI 반도체 팹리스 전문대학원 만든다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60437",
+      "date": "2026-08-03 15:32:34",
+      "desc": "가천대학교가 실무 중심의 인공지능(AI) 반도체 설계 전문(팹리스) 대학원을 설립한다. 3일 가천대와 업계에 따르면 학교는 올해부터 경기 성남 소재 글로벌 캠퍼스에 'AI반도체설계전문대학원' 석사과정을 개설하고 신입생을 모집한다. 오는 9월부터 모집공"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리벨리온, 경남·울산 AI CCTV용 서버 NPU 이달 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60450",
+      "date": "2026-08-03 15:22:36",
+      "desc": "리벨리온이 경상남도와 울산광역시 CCTV 관제센터에 서버용 신경망처리장치(NPU) 아톰맥스를 이달부터 공급한다고 3일 밝혔다.이번 공급은 과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 지난달 발표한 '국산 NPU 기반 공공 인공지능(AI) CCT"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "SK하이닉스, ‘2026 하인슈타인 올림피아드-AI챌린지&플레이’ 개최… AI와 함께 도전하고 즐기다",
+      "link": "https://news.skhynix.co.kr/2026-heinstein-olympiad/",
+      "date": "Mon, 03 Aug 2026 05:59:55 +0000",
+      "desc": "SK하이닉스가 지난 1일 서울 코엑스(COEX) 컨퍼런스룸 E에서 ‘2026 하인슈타인 올림피아드-AI챌린지&플레이’를 개최했다. 하인슈타인은 하이닉스(Hynix)와 아인슈타인(Einstein)의 합성어로, SK하이닉스는 이 이름을 딴 교육 사업을 통"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260802-TE-01호] 2026년 8월 2일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260802-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 03 Aug 2026 00:56:12 GMT",
+      "desc": "세계 최대 반도체 중고장비·부품 마켓, 용인서 문 연다 (2026년 8월 2일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260731000217 [핵심 요약] [1] 용인에 세계 최대 규모 중고장비·부품 상설 "
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260802-TI-01호] 2026년 8월 2일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260802-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 03 Aug 2026 00:55:02 GMT",
+      "desc": "AI가 바꾼 '반도체 거래판'…LTA로 슈퍼사이클 길어진다 (2026년 8월 2일, 파이낸셜뉴스, 정원일 기자) 원문보기 : https://www.fnnews.com/news/202608021822279031 [핵심 요약] [1] AI 확산으로 장기공"
+    },
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
@@ -10,33 +138,9 @@ window.NEWS_DATA = {
       "desc": "Researchers from MIT, Google, and University of Washington published a technical paper titled “Granite: A Modular Methodology for Foundation"
     },
     {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "日, 10년 前 강진 뒤 내진 설계…반도체 생산라인 빠르게 회복",
-      "link": "https://www.hankyung.com/article/2026080202091",
-      "date": "Sun, 02 Aug 2026 18:26:05 +0900",
-      "desc": ""
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
-      "link": "https://zdnet.co.kr/view/?no=20260802083652",
-      "date": "Sun, 02 Aug 2026 10:25:01 +0900",
-      "desc": "[지디넷코리아]정부가 엔비디아에 이어 AMD와도 인공지능(AI) 컴퓨팅 협력을 확대하면서 국내 AI 인프라 생태계가 다변화하고 있다.특정 그래픽처리장치(GPU) 중심 구조에서 벗어나 중앙처리장치(CPU)·GPU·신경망처리장치(NPU)를 함께 활용하는 "
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "상반기 스마트폰 AP 출하량 15% 감소…메모리값 폭등 직격탄",
-      "link": "https://zdnet.co.kr/view/?no=20260801120346",
-      "date": "Sun, 02 Aug 2026 10:00:03 +0900",
-      "desc": "[지디넷코리아]올해 상반기 스마트폰 '두뇌' AP 시장이 축소됐다. 메모리 반도체 가격 폭등으로 스마트폰 판매량이 감소한 영향이다. 2일 시장조사업체 카운터포인트에 따르면 올해 상반기 글로벌 스마트폰 AP 출하량이 전년 동기보다 15% 줄었다. 카운터"
-    },
-    {
       "source": "EE Times",
       "type": "intl",
-      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits",
+      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits",
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
       "date": "Fri, 31 Jul 2026 15:48:06 +0000",
       "desc": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushe"
@@ -138,14 +242,6 @@ window.NEWS_DATA = {
       "desc": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Buildin"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Why Qualcomm Bought An Open AI Software Stack",
-      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
-      "date": "Thu, 30 Jul 2026 14:43:40 +0000",
-      "desc": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "최태원, SK하이닉스 첫 직접 매수…48억원 규모 장내 매입",
@@ -184,14 +280,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/compute-clusters-break-out-of-national-labs-to-scale-ai/",
       "date": "Thu, 30 Jul 2026 07:01:21 +0000",
       "desc": "For compute-intensive applications, clusters of nodes that act as a single computer offer a way to scale performance and provide a workaroun"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Indian Startup Vimag Labs Develops Wirelessly Excited Motor Without Rare-Earth Magnets",
-      "link": "https://www.eetimes.com/indian-startup-vimag-labs-develops-wirelessly-excited-motor-without-rare-earth-magnets/",
-      "date": "Thu, 30 Jul 2026 07:00:00 +0000",
-      "desc": "Vimag Labs ditches rare-earth magnets with a wirelessly excited EV motor claiming PMSM-level punch. The post Indian Startup Vimag Labs Devel"
     },
     {
       "source": "디일렉",
@@ -330,28 +418,12 @@ window.NEWS_DATA = {
       "desc": "As packages get larger and thinner, warpage is becoming a process-control problem rather than a simple flatness spec. The post Flat Enough? "
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Blog Review: July 29",
-      "link": "https://semiengineering.com/blog-review-july-29-3/",
-      "date": "Wed, 29 Jul 2026 07:01:00 +0000",
-      "desc": "Rethinking AI compute; DFI 6; 3D-IC reliability; local AI in browser; surface prep and cleaning. The post Blog Review: July 29 appeared firs"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "하이닉스, 빅테크 10여곳과 장기계약…올 40조원 후반 투자",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60222",
       "date": "2026-07-29 13:40:42",
       "desc": "SK하이닉스가 내년 빅테크 기업 인공지능(AI) 투자로 메모리 반도체 수요 지속을 예상했다. 고객사 10여곳이 5년 장기공급계약(LTA) 협상을 체결해 '반도체 피크아웃(정점 후 하락)' 우려를 불식했다.송현종 SK하이닉스 코퍼레이트센터 사장은 29일"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Pre-Silicon Power Side-Channel Leakage In Processors (University of Lübeck)",
-      "link": "https://semiengineering.com/pre-silicon-power-side-channel-leakage-in-processors-university-of-lubeck/",
-      "date": "Wed, 29 Jul 2026 02:16:31 +0000",
-      "desc": "Researchers from University of Lübeck published a technical paper titled “SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Cha"
     },
     {
       "source": "SK하이닉스 뉴스룸",
@@ -410,38 +482,6 @@ window.NEWS_DATA = {
       "desc": "퓨리오사AI가 인공지능(AI) 가속기를 장착하는 PCI 익스프레스(PCIe) 카드 슬롯을 늘린 서버를 출시한다.28일 업계에 따르면 퓨리오사AI는 서버 내 PCIe 슬롯을 기존 8개에서 16개로 늘린 서버를 생산한다. 직접 만드는 것은 아니다. 서버 "
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "드림텍, 반도체 사업부 수장으로 삼성전자 부사장 영입",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60189",
-      "date": "2026-07-28 18:38:22",
-      "desc": "드림텍이 반도체 조직을 강화하며 하반기 사업 확대를 대비한다.28일 드림텍은 반도체(DS) 사업부문을 신설하고 이상재 DS 부문장을 선임했다고 밝혔다. 이상재 부문장은 드림텍의 메모리 모듈과 솔리드스테이트드라이브(SSD), 휴대용 SSD(PSSD) 사"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "칩스앤미디어, 2분기 영업익 11억원...전년비 18.1%↓",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60188",
-      "date": "2026-07-28 18:35:36",
-      "desc": "칩스앤미디어가 올해 2분기 영업이익이 약 11억원으로 전년 동기 대비 18.1% 하락했다고 28일 공시했다.칩스앤미디어 관계자는 \"전년 동기 대비 내부 인원이 증가했다\"면서 \"차량용 인증 국제표준화기구(ISO) 26262 비용도 포함됐다\"고 설명했다."
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성전기, 솔브레인과 유리기판 소재 개발…식각 이어 도금·연마까지",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60177",
-      "date": "2026-07-28 16:32:04",
-      "desc": "삼성전기가 솔브레인과 차세대 유리기판 제조에 필요한 핵심 화학소재 개발 범위를 확대했다. 지난해 식각액 공동 연구로 시작한 협력이 구리 도금액과 화학기계연마(CMP:Chemical Mechanical Polishing) 슬러리까지 넓어진 것으로 파악됐"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "잠실에 어린이 반도체 공장...도쿄일렉트론, '반도체 드림랩' 개소",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60156",
-      "date": "2026-07-28 13:00:00",
-      "desc": "서울 잠실에 아이들을 대상으로 반도체 생산라인이 들어섰다. 도쿄일렉트론(TEL)코리아가 미래 세대에게 반도체를 친근하게 알리고자 만든 몰입형 체험 공간 'TEL 반도체 드림랩'이다.28일 도쿄일렉트론코리아는 어린이 직업 체험 테마파크 '키자니아 서울'"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260727-TT-01호] 2026년 7월 27일 반도체 기술 관련 주요 뉴스 요약",
@@ -464,14 +504,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260727-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-27%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Tue, 28 Jul 2026 01:03:20 GMT",
       "desc": "반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공 (2026년 7월 27일, 머니투데이, 강영훈 기자) 원문보기 : https://www.mt.co.kr/economy/2026/07/27/2026072715124676471 [핵심 요"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "中 CXMT, 상장 첫날 466% 상승…시총 712조 1위",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60129",
-      "date": "2026-07-27 20:44:15",
-      "desc": "창신메모리테크놀로지(CXMT)가 중국 시장에서 상장한 첫날 바로 중국 본토 시가총액(시총) 1위를 차지했다.27일(현지시간) CXMT는 상하이증권거래소 과학기술주 전용 시장(과창판)에 상장해 공모가 8.66위안(약 1879원) 대비 465.82% 급등"
     },
     {
       "source": "IEEE Spectrum",
@@ -536,30 +568,6 @@ window.NEWS_DATA = {
       "link": "https://www.sk.co.kr/ko/media/news_view.jsp?idx=1771",
       "date": "2026-07-25",
       "desc": "계열사: SK"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "AI 시대가 요구하는 차세대 메모리의 기준 [System Architecture & Software Solution] | N잡러2 EP.3",
-      "link": "https://news.skhynix.co.kr/ambassador-job-report-ep3-yb/",
-      "date": "Fri, 24 Jul 2026 07:56:20 +0000",
-      "desc": "AI 시대가 요구하는 완전히 새로운 메모리 반도체?!🔍 기존의 메모리 반도체를 넘어, AI 인프라의 새로운 판🛠️을 짜는 System Architecture & Software Solution 직무. Full Stack AI Memory Creat"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260724-TT-01호] 2026년 7월 24일 반도체 기술 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260724-tt-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-24%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 04:46:53 GMT",
-      "desc": "AMD, AI에이전트 시대 정조준…차세대 CPU 탑재 '헬리오스' 공개 (2026년 7월 24일, 연합뉴스, 권영전 기자) 원문보기 : https://www.yna.co.kr/view/AKR20260724008100091 [핵심 요약] [1] AI 에"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260724-TE-01호] 2026년 7월 24일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260724-te-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-24%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 24 Jul 2026 04:45:30 GMT",
-      "desc": "반도체 속도전… '수퍼 乙' 장비 업체 즐거운 비명 (2026년 7월 24일, 조선일보, 김성민 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/24/MQPXTVIZTZBMTHCT3FGKY3VVK"
     },
     {
       "source": "IEEE Spectrum",
