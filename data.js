@@ -1,6 +1,94 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-07T05:01:11.439Z",
+  "fetchedAt": "2026-08-07T23:49:49.732Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "After Seven CEOs in 10 Years, Imagination Is Sticking to Its Strategy",
+      "link": "https://www.eetimes.com/after-seven-ceos-in-10-years-imagination-is-sticking-to-its-strategy/",
+      "date": "Fri, 07 Aug 2026 22:00:00 +0000",
+      "desc": "Imagination dumps CPU/NPU dreams, doubles down on GPUs and China under CEO No. 7. The post After Seven CEOs in 10 Years, Imagination Is Stic"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Model Tracks Bond Front Velocity in Lubrication-Mediated Bonding of Flexible Substrates (imec)",
+      "link": "https://semiengineering.com/model-tracks-bond-front-velocity-for-wafer-and-die-bonding-imec/",
+      "date": "Fri, 07 Aug 2026 19:48:39 +0000",
+      "desc": "An imec researcher published a technical paper titled “Bond Front Velocity in Lubrication-Mediated Bonding of Flexible Substrates.” Abstract"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60694",
+      "date": "2026-08-07 17:26:52",
+      "desc": "SK하이닉스가 총 54조3000억원을 투자해 용인과 청주에 신규 반도체 팹을 건설한다. SK하이닉스는 7일 이사회에서 용인 반도체 클러스터 2번째 팹 'Y2', 청주 신규 팹 'M17' 건설에 각각 35조2000억원, 19조1000억원을 투자하기로 결"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)",
+      "link": "https://semiengineering.com/ultrafast-x-ray-diffraction-maps-thermal-transport-in-gan-thin-films-mit-slac-stanford-argonne/",
+      "date": "Fri, 07 Aug 2026 16:49:11 +0000",
+      "desc": "Researchers from MIT, SLAC, Stanford University, and Argonne National Laboratory published a technical paper titled “Spatiotemporal mapping "
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)",
+      "link": "https://semiengineering.com/rapid-switching-of-optical-properties-in-a-doped-semiconductor-by-femtosecond-laser-pulses-imperial-college-london-u-of-exeter/",
+      "date": "Fri, 07 Aug 2026 16:30:33 +0000",
+      "desc": "Researchers from Imperial College London and University of Exeter published a technical paper titled “Ultrafast switching of optical propert"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "경영권 참여 손 뗀 日 라피스…LB세미콘 지분 정리 수순",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
+      "date": "2026-08-07 15:30:33",
+      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Chiplet Architectures as a Practical Path to Scalable Automotive Compute",
+      "link": "https://www.eetimes.com/chiplet-architectures-as-a-practical-path-to-scalable-automotive-compute/",
+      "date": "Fri, 07 Aug 2026 13:56:43 +0000",
+      "desc": "Chiplets are auto’s escape hatch from bloated SoCs, scaling SDV compute without wrecking cost or software. The post Chiplet Architectures as"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "반도체공학회 \"연구개발직 주52시간 개선해야…메가특구특별법 제정 지지\"",
+      "link": "https://zdnet.co.kr/view/?no=20260807174721",
+      "date": "Fri, 07 Aug 2026 17:57:31 +0900",
+      "desc": "[지디넷코리아]반도체 학계가 정부 메가특구특별법 제정을 계기로 반도체 연구개발(R&amp;D) 인력에 대한 주 52시간 근로제를 유연화해야 한다고 촉구했다.반도체공학회는 7일 발표한 '연구개발직 주 52시간제 특례에 대한 입장문'에서 정부의 3대 메가"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엔비전, 우란차부에 갤럭시 캠퍼스 가동... 기가와트급 AI 인프라의 새로운 모델 확립",
+      "link": "https://zdnet.co.kr/view/?no=20260807171013",
+      "date": "Fri, 07 Aug 2026 17:10:13 +0900",
+      "desc": "[지디넷코리아]세계 최대 규모의 단일 AI 데이터 센터 건물을 갖춘 갤럭시 캠퍼스가 전례 없는 규모로 재생에너지, 지능형 전력 관리 및 고밀도 컴퓨팅을 통합한다. 우란차부, 중국 2026년 8월 7일 /PRNewswire/ -- 그린 테크놀로지 분야의"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M",
+      "link": "https://www.eetimes.com/stmicroelectronics-bets-on-hardware-based-post-quantum-cryptography-with-st54m/",
+      "date": "Fri, 07 Aug 2026 08:00:00 +0000",
+      "desc": "ST’s ST54M bakes post-quantum crypto into phone hardware before hackers harvest today’s secrets. The post STMicroelectronics Bets on Hardwar"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week in Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-150/",
+      "date": "Fri, 07 Aug 2026 07:01:09 +0000",
+      "desc": "SK hynix's $38B new fabs; memory density increases; 2026 chip industry revenue to hit $1.65T; imec metrology roadmap; MIT's self-assembled c"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
@@ -16,30 +104,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260807-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Fri, 07 Aug 2026 04:32:59 GMT",
       "desc": "AI 투자 경쟁, 조달 금리 싸움으로 (2026년 8월 7일, 조선일보, 최아리 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/07/KEYEJY2X6FCN5J7HKRFWFS74YQ/ [핵심 요약"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "한미마이크로닉스, EZDIY-FAB RH01 메모리 방열판 출시",
-      "link": "https://zdnet.co.kr/view/?no=20260807121319",
-      "date": "Fri, 07 Aug 2026 12:13:34 +0900",
-      "desc": "[지디넷코리아]한미마이크로닉스가 7일 데스크톱 PC용 메모리 모듈 냉각을 돕는 'EZDIY-FAB RH01 ARGB 메모리 히트싱크'를 국내 출시했다.EZDIY-FAB RH01 ARGB 메모리 히트싱크는 방열판이 없는 데스크톱 PC용 메모리에 장착시 "
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "네이버 엔터프라이즈 부문, 2분기 매출 21%↑…AI 인프라 성장 속도",
-      "link": "https://zdnet.co.kr/view/?no=20260807104343",
-      "date": "Fri, 07 Aug 2026 11:09:46 +0900",
-      "desc": "[지디넷코리아]네이버가 올해 2분기 인공지능(AI)과 디지털트윈을 중심으로 기업간거래(B2B) 사업 성장세를 이어갔다. 네이버클라우드를 중심으로 기업·공공 AI 사업을 확대하는 동시에 엔비디아와 추진하는 AI 팩토리와 해외 데이터센터 사업을 통해 엔터"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "AI 열풍 올라탄 채굴기업…GPU가 '기회이자 부담'인 이유",
-      "link": "https://zdnet.co.kr/view/?no=20260807103922",
-      "date": "Fri, 07 Aug 2026 10:45:10 +0900",
-      "desc": "[지디넷코리아]비트코인 채굴기업이 인공지능(AI) 데이터센터 사업으로 영역을 넓히는 가운데, 그래픽처리장치(GPU)를 직접 보유하느냐가 사업 전략을 가르는 주요 변수로 떠오르고 있다. AI 연산의 핵심 장비인 GPU는 새로운 제품이 출시되면 가치가 떨"
     },
     {
       "source": "SPTA TIMES",
@@ -159,7 +223,7 @@ window.NEWS_DATA = {
       "title": "AI: Friend And Foe For Chip Security",
       "link": "https://semiengineering.com/ai-friend-and-foe-for-security/",
       "date": "Thu, 06 Aug 2026 07:05:17 +0000",
-      "desc": "AI has access to every known security paper and powerful tools, but that's not all bad. The post AI: Friend And Foe For Chip Security appear"
+      "desc": "AI has access to every known security paper and powerful tools, but what it does with that isn't clear. The post AI: Friend And Foe For Chip"
     },
     {
       "source": "Semiconductor Engineering",
@@ -176,38 +240,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/certified-automotive-grade-puf-ip-unclonable-silicon-identity-for-safety-and-security/",
       "date": "Thu, 06 Aug 2026 07:03:31 +0000",
       "desc": "Combining SRAM-based identity generation with added functional safety and security mechanisms. The post Certified Automotive-Grade PUF IP: U"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "As Space Gets Connected, Security Gets Critical",
-      "link": "https://semiengineering.com/as-space-gets-connected-security-gets-critical/",
-      "date": "Thu, 06 Aug 2026 07:03:08 +0000",
-      "desc": "NASA is in the process of bringing terrestrial internet capabilities to astronauts, rovers, and orbiters, which means a network of high-valu"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "The Next Big Chip Failure May Be A Security One",
-      "link": "https://semiengineering.com/the-next-big-chip-failure-may-be-a-security-one/",
-      "date": "Thu, 06 Aug 2026 07:02:33 +0000",
-      "desc": "Semiconductor leaders say hardware trust, verification, and lifecycle resilience must become core design requirements rather than late-stage"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Choosing The Right Power Device: Rad Hard Vs. Rad Tolerant MOSFETs",
-      "link": "https://semiengineering.com/choosing-the-right-power-device-rad-hard-vs-rad-tolerant-mosfets/",
-      "date": "Thu, 06 Aug 2026 07:02:11 +0000",
-      "desc": "Selecting the right device class is a strategic decision based on mission life and cost. The post Choosing The Right Power Device: Rad Hard "
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "The Autonomous Chip-To-System Engineer Has Arrived",
-      "link": "https://semiengineering.com/the-autonomous-chip-to-system-engineer-has-arrived/",
-      "date": "Thu, 06 Aug 2026 07:01:02 +0000",
-      "desc": "AI agents can understand design intent and implement meaningful portions of the design process. The post The Autonomous Chip-To-System Engin"
     },
     {
       "source": "SPTA TIMES",
@@ -232,14 +264,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260805-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-5%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Thu, 06 Aug 2026 00:46:16 GMT",
       "desc": "中 화웨이 반도체 총괄 \"엔비디아식 반도체 기술 개발 한계 부딪힐 것\" (2026년 8월 5일, 조선일보, 박지민 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/05/476VMQJF75AUHPH"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Samsung Lays Out AI Memory Roadmap",
-      "link": "https://www.eetimes.com/samsung-lays-out-ai-memory-roadmap/",
-      "date": "Wed, 05 Aug 2026 21:35:58 +0000",
-      "desc": "Samsung bets on zHBM and zNAND-O to smash AI’s memory wall, promising 8× HBM5 performance and 3D stacks. The post Samsung Lays Out AI Memory"
     },
     {
       "source": "디일렉",
@@ -290,28 +314,12 @@ window.NEWS_DATA = {
       "desc": "AMD가 올해 2분기 전년 대비 무려 50% 급증한 매출 실적을 발표했다. 시장 전망치를 뛰어넘으며 어닝 서프라이즈다. 올 하반기에도 시장 확대에 따라 성장세가 지속될 것으로 예상했다.AMD는 4일(현지시간) 2026년 2분기 매출 115억4000만달"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Insect-Inspired Neuromorphic Sensor Targets Physical AI",
-      "link": "https://www.eetimes.com/neuromorphic-insect-eye-for-physical-ai/",
-      "date": "Wed, 05 Aug 2026 12:30:00 +0000",
-      "desc": "Neuromorphic engineering could address the latency and power limitations of conventional cameras. The post Insect-Inspired Neuromorphic Sens"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "삼성전자, 성능 8배 향상 zHBM 목업 공개...\"AI 가속기 위에 적층\"",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60564",
       "date": "2026-08-05 10:51:15",
       "desc": "삼성전자가 z축 고대역폭메모리(zHBM)와 z낸드-O 등 차세대 3D 메모리 기술을 공개하며 AI 시장 지배력 강화에 나섰다.삼성전자는 5일 미국 캘리포니에서 열린 'FMS(Future of Memory and Storage) 2026'에서 zHBM과"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "electronica 2026: Electronics as the Basis of the All-Electric Society",
-      "link": "https://www.eetimes.com/electronica-2026-electronics-as-the-basis-of-the-all-electric-society/",
-      "date": "Wed, 05 Aug 2026 07:30:00 +0000",
-      "desc": "electronica 2026 puts chips, AI, energy efficiency, and cyber resilience at the heart of the all-electric society. The post electronica 2026"
     },
     {
       "source": "삼성 뉴스룸",
@@ -344,14 +352,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260804-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-4%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Wed, 05 Aug 2026 00:45:30 GMT",
       "desc": "'상식 안 통한다' 무모한 R&#38;D 전략…CXMT의 반도체 축지법 (2026년 8월 4일, 머니투데이, 김남이 기자·박종진 기자·김아영 기자·최지은 기자) 원문보기 : https://www.mt.co.kr/industry/2026/08/04/20"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Automotive Cybersecurity: AI Attack Surfaces Grow",
-      "link": "https://www.eetimes.com/automotive-cybersecurity-ai-attack-surfaces-grow/",
-      "date": "Tue, 04 Aug 2026 22:00:00 +0000",
-      "desc": "AI and software-defined cars turn APIs, servers, and chargers into hacker playgrounds; see why automakers must harden fleets now. The post A"
     },
     {
       "source": "디일렉",
@@ -450,14 +450,6 @@ window.NEWS_DATA = {
       "desc": "가천대학교가 실무 중심의 인공지능(AI) 반도체 설계 전문(팹리스) 대학원을 설립한다. 3일 가천대와 업계에 따르면 학교는 올해부터 경기 성남 소재 글로벌 캠퍼스에 'AI반도체설계전문대학원' 석사과정을 개설하고 신입생을 모집한다. 오는 9월부터 모집공"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "리벨리온, 경남·울산 AI CCTV용 서버 NPU 이달 공급",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60450",
-      "date": "2026-08-03 15:22:36",
-      "desc": "리벨리온이 경상남도와 울산광역시 CCTV 관제센터에 서버용 신경망처리장치(NPU) 아톰맥스를 이달부터 공급한다고 3일 밝혔다.이번 공급은 과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 지난달 발표한 '국산 NPU 기반 공공 인공지능(AI) CCT"
-    },
-    {
       "source": "IEEE Spectrum",
       "type": "intl",
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
@@ -480,14 +472,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260802-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Mon, 03 Aug 2026 00:55:02 GMT",
       "desc": "AI가 바꾼 '반도체 거래판'…LTA로 슈퍼사이클 길어진다 (2026년 8월 2일, 파이낸셜뉴스, 정원일 기자) 원문보기 : https://www.fnnews.com/news/202608021822279031 [핵심 요약] [1] AI 확산으로 장기공"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "매출 반등 이끈 이미지스 대표, 4개월만 사임",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60412",
-      "date": "2026-07-31 17:52:55",
-      "desc": "이미지스테크놀로지(이미지스)가 지난 3월 선임한 이동섭 대표가 31일 사임했다고 공시했다.이미지스는 이날 이사회를 열고 이 같은 내용의 안건을 결의했다. 이 전 대표는 2029년 3월까지였던 임기를 채우지 못한 채 사임하게 됐다. 회사는 이 대표가 사"
     },
     {
       "source": "SPTA TIMES",
