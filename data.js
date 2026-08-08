@@ -1,6 +1,14 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-07T23:49:49.732Z",
+  "fetchedAt": "2026-08-08T23:03:40.322Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 근원 경쟁력 회복 신호탄\"…삼성, 3D HBM 승부수 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026080710996",
+      "date": "Sat, 08 Aug 2026 14:00:05 +0900",
+      "desc": ""
+    },
     {
       "source": "EE Times",
       "type": "intl",
@@ -56,22 +64,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/chiplet-architectures-as-a-practical-path-to-scalable-automotive-compute/",
       "date": "Fri, 07 Aug 2026 13:56:43 +0000",
       "desc": "Chiplets are auto’s escape hatch from bloated SoCs, scaling SDV compute without wrecking cost or software. The post Chiplet Architectures as"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "반도체공학회 \"연구개발직 주52시간 개선해야…메가특구특별법 제정 지지\"",
-      "link": "https://zdnet.co.kr/view/?no=20260807174721",
-      "date": "Fri, 07 Aug 2026 17:57:31 +0900",
-      "desc": "[지디넷코리아]반도체 학계가 정부 메가특구특별법 제정을 계기로 반도체 연구개발(R&amp;D) 인력에 대한 주 52시간 근로제를 유연화해야 한다고 촉구했다.반도체공학회는 7일 발표한 '연구개발직 주 52시간제 특례에 대한 입장문'에서 정부의 3대 메가"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "엔비전, 우란차부에 갤럭시 캠퍼스 가동... 기가와트급 AI 인프라의 새로운 모델 확립",
-      "link": "https://zdnet.co.kr/view/?no=20260807171013",
-      "date": "Fri, 07 Aug 2026 17:10:13 +0900",
-      "desc": "[지디넷코리아]세계 최대 규모의 단일 AI 데이터 센터 건물을 갖춘 갤럭시 캠퍼스가 전례 없는 규모로 재생에너지, 지능형 전력 관리 및 고밀도 컴퓨팅을 통합한다. 우란차부, 중국 2026년 8월 7일 /PRNewswire/ -- 그린 테크놀로지 분야의"
     },
     {
       "source": "EE Times",
