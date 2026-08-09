@@ -1,37 +1,13 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-09T08:28:46.427Z",
+  "fetchedAt": "2026-08-08T23:03:40.322Z",
   "items": [
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "'반도체 저승사자' 모건스탠리 연구원 \"삼전닉스 살 때 됐다\"",
-      "link": "https://www.hankyung.com/article/202608092555i",
-      "date": "Sun, 09 Aug 2026 13:57:27 +0900",
+      "title": "\"반도체 근원 경쟁력 회복 신호탄\"…삼성, 3D HBM 승부수 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026080710996",
+      "date": "Sat, 08 Aug 2026 14:00:05 +0900",
       "desc": ""
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[특별기고] 반도체 실무교육 수료생 1만 명, 이제 새로운 1만 명을 향해",
-      "link": "https://www.sptatimeskorea.com/post/%ED%8A%B9%EB%B3%84%EA%B8%B0%EA%B3%A0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%A4%EB%AC%B4%EA%B5%90%EC%9C%A1-%EC%88%98%EB%A3%8C%EC%83%9D-1%EB%A7%8C-%EB%AA%85-%EC%9D%B4%EC%A0%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-1%EB%A7%8C-%EB%AA%85%EC%9D%84-%ED%96%A5%ED%95%B4",
-      "date": "Sun, 09 Aug 2026 01:29:46 GMT",
-      "desc": "반도체 인재양성의 본질은 ‘아는 사람’이 아니라 ‘할 수 있는 사람’을 만드는 데 있다 글쓴이: 이종욱 Semiconductor Process Technology Academy(SPTA)의 반도체 공정실습 교육 수료생이 마침내 1만 명을 넘어섰다. 숫"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제 20260809-AI-01호] 2026년 8월 2주차 글로벌 반도체산업 관련 기사 분석",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20260809-ai-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
-      "date": "Sun, 09 Aug 2026 01:09:57 GMT",
-      "desc": "AI 반도체 슈퍼사이클, '칩 경쟁'에서 '공급망/패키징/메모리 아키텍쳐 경쟁' 으로 진화 글쓴이: 이종욱 2026년 8월 2주차 글로벌 반도체 시장에서 나타난 가장 중요한 변화는 바로 이 같은 산업 구조의 전환이다. 과거 반도체 경쟁의 핵심이 미세공"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "美상무부, 中 AI 기업 해외 '클라우드 연산 임대' 조사 착수",
-      "link": "https://zdnet.co.kr/view/?no=20260808162759",
-      "date": "Sun, 09 Aug 2026 08:00:03 +0900",
-      "desc": "[지디넷코리아]미국 정부가 중국 인공지능(AI) 기업이 해외 데이터센터에 설치된 엔비디아 첨단 칩 연산능력을 임대하는 방식으로 대중 수출규제를 우회하는 실태에 대한 전면 조사에 착수했다. 중국 AI 기업 기술력이 빠르게 높아지면서 미국의 대중 반도체 "
     },
     {
       "source": "EE Times",
@@ -50,6 +26,14 @@ window.NEWS_DATA = {
       "desc": "An imec researcher published a technical paper titled “Bond Front Velocity in Lubrication-Mediated Bonding of Flexible Substrates.” Abstract"
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60694",
+      "date": "2026-08-07 17:26:52",
+      "desc": "SK하이닉스가 총 54조3000억원을 투자해 용인과 청주에 신규 반도체 팹을 건설한다. SK하이닉스는 7일 이사회에서 용인 반도체 클러스터 2번째 팹 'Y2', 청주 신규 팹 'M17' 건설에 각각 35조2000억원, 19조1000억원을 투자하기로 결"
+    },
+    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)",
@@ -66,20 +50,20 @@ window.NEWS_DATA = {
       "desc": "Researchers from Imperial College London and University of Exeter published a technical paper titled “Ultrafast switching of optical propert"
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "경영권 참여 손 뗀 日 라피스…LB세미콘 지분 정리 수순",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
+      "date": "2026-08-07 15:30:33",
+      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
+    },
+    {
       "source": "EE Times",
       "type": "intl",
       "title": "Chiplet Architectures as a Practical Path to Scalable Automotive Compute",
       "link": "https://www.eetimes.com/chiplet-architectures-as-a-practical-path-to-scalable-automotive-compute/",
       "date": "Fri, 07 Aug 2026 13:56:43 +0000",
       "desc": "Chiplets are auto’s escape hatch from bloated SoCs, scaling SDV compute without wrecking cost or software. The post Chiplet Architectures as"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60694",
-      "date": "2026-08-07 17:26:52",
-      "desc": "SK하이닉스가 총 54조3000억원을 투자해 용인과 청주에 신규 반도체 팹을 건설한다. SK하이닉스는 7일 이사회에서 용인 반도체 클러스터 2번째 팹 'Y2', 청주 신규 팹 'M17' 건설에 각각 35조2000억원, 19조1000억원을 투자하기로 결"
     },
     {
       "source": "EE Times",
@@ -90,36 +74,12 @@ window.NEWS_DATA = {
       "desc": "ST’s ST54M bakes post-quantum crypto into phone hardware before hackers harvest today’s secrets. The post STMicroelectronics Bets on Hardwar"
     },
     {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "SK하이닉스, 용인 Y2 ∙ 청주 M17에 54조 원 투자… AI 시대 메모리 수요 대응 위한 중장기 생산 기반 확보",
-      "link": "https://news.skhynix.co.kr/fab-facility-investment-2026/",
-      "date": "Fri, 07 Aug 2026 07:21:08 +0000",
-      "desc": "▪ 용인 D램 팹 Y2에 35.2조 원, 청주 낸드 팹 M17에 19.1조 원 투자 결정 ▪ 중장기 투자 전략 단계적 이행… Y2는 2029년 6월, M17은 2028년 12월 첫 클린룸 오픈 ▪ D램 ∙ 낸드 생산 인프라 동시 확충… 고객 수요에 S"
-    },
-    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "Chip Industry Week in Review",
       "link": "https://semiengineering.com/chip-industry-week-in-review-150/",
       "date": "Fri, 07 Aug 2026 07:01:09 +0000",
       "desc": "SK hynix's $38B new fabs; memory density increases; 2026 chip industry revenue to hit $1.65T; imec metrology roadmap; MIT's self-assembled c"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "경영권 참여 손 뗀 日 라피스…LB세미콘 지분 정리 수순",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
-      "date": "2026-08-07 15:30:33",
-      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시",
-      "link": "https://news.skhynix.co.kr/fms-2026_yb/",
-      "date": "Fri, 07 Aug 2026 06:01:01 +0000",
-      "desc": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시 SK하이닉스가 메모리 · 스토리지 분야 세계 최대 규모의 전시 컨퍼런스인 FMS 2026에 참가했습니다. 회사는 HBM을 필두로 한 고성능 AI 메모리와 낸드 기"
     },
     {
       "source": "SPTA TIMES",
@@ -178,36 +138,12 @@ window.NEWS_DATA = {
       "desc": "AMD plans to use Taalas chips alongside its GPUs for AI inference, likely as an LLM decode accelerator. The post AI Chip Startup Taalas Acqu"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "GlobalFoundries’ Growth Makes the Case for a U.S. Photonics Buildout",
-      "link": "https://www.eetimes.com/globalfoundries-growth-makes-the-case-for-a-u-s-photonics-buildout/",
-      "date": "Thu, 06 Aug 2026 16:17:00 +0000",
-      "desc": "GlobalFoundries’ data center surge turns U.S. photonics from subsidy pitch to AI bottleneck bet. The post GlobalFoundries’ Growth Makes the "
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "U.S. Manufacturing Activity Hits Four-Year High in July",
-      "link": "https://www.eetimes.com/u-s-manufacturing-activity-hits-four-year-high-in-july/",
-      "date": "Thu, 06 Aug 2026 12:31:16 +0000",
-      "desc": "In July, U.S. manufacturing activity remained in expansion territory, growing at its fastest pace in more than four years. The post U.S. Man"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "텔레칩스, 2분기 흑자전환…IVI 칩 매출 확대",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60654",
       "date": "2026-08-06 19:10:09",
       "desc": "텔레칩스가 올해 2분기 차량용 인포테인먼트(IVI) 칩 매출이 늘며 흑자전환에 성공했다.텔레칩스는 지난 2분기 매출 592억원을 기록해 전년 동기 대비 33.6% 증가했다고 6일 공시했다. 영업이익은 31억8000만원을 나타냈다. 영업이익률은 같은 기"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions",
-      "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
-      "date": "Thu, 06 Aug 2026 08:09:11 +0000",
-      "desc": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The po"
     },
     {
       "source": "디일렉",
@@ -224,6 +160,30 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60627",
       "date": "2026-08-06 16:28:39",
       "desc": "DB하이텍이 국가 나노팹 통합 플랫폼 모아팹에 공정 장비를 이전하고 팹 역량 강화를 지원한다고 6일 밝혔다.DB하이텍은 6일 충북 음성 상우캠퍼스에서 과학기술정보통신부(과기정통부)와 모아팹과 함께 반도체 장비 이전 협약식을 열었다. DB하이텍이 보유한"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "GlobalFoundries’ Growth Makes the Case for a U.S. Photonics Buildout",
+      "link": "https://www.eetimes.com/globalfoundries-growth-makes-the-case-for-a-u-s-photonics-buildout/",
+      "date": "Thu, 06 Aug 2026 16:17:00 +0000",
+      "desc": "GlobalFoundries’ data center surge turns U.S. photonics from subsidy pitch to AI bottleneck bet. The post GlobalFoundries’ Growth Makes the "
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "U.S. Manufacturing Activity Hits Four-Year High in July",
+      "link": "https://www.eetimes.com/u-s-manufacturing-activity-hits-four-year-high-in-july/",
+      "date": "Thu, 06 Aug 2026 12:31:16 +0000",
+      "desc": "In July, U.S. manufacturing activity remained in expansion territory, growing at its fastest pace in more than four years. The post U.S. Man"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions",
+      "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
+      "date": "Thu, 06 Aug 2026 08:09:11 +0000",
+      "desc": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The po"
     },
     {
       "source": "Semiconductor Engineering",
@@ -346,20 +306,20 @@ window.NEWS_DATA = {
       "desc": "AMD가 올해 2분기 전년 대비 무려 50% 급증한 매출 실적을 발표했다. 시장 전망치를 뛰어넘으며 어닝 서프라이즈다. 올 하반기에도 시장 확대에 따라 성장세가 지속될 것으로 예상했다.AMD는 4일(현지시간) 2026년 2분기 매출 115억4000만달"
     },
     {
-      "source": "삼성 뉴스룸",
-      "type": "corp",
-      "title": "삼성전자, FMS 2026서 차세대 3D 메모리 비전 제시",
-      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-fms-2026%ec%84%9c-%ec%b0%a8%ec%84%b8%eb%8c%80-3d-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%b9%84%ec%a0%84-%ec%a0%9c%ec%8b%9c",
-      "date": "Wed, 05 Aug 2026 04:30:00 +0000",
-      "desc": "삼성전자가 8월 4일부터 6일(현지시간)까지 미국 캘리포니아주 산타클라라 컨벤션센터에서 열리는 ‘FMS(Future of Memory and Storage) 2026’에 참가해 차세대 3D 메모리 아키텍처인 zHBM과 zNAND-O의 목업(Mock-u"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "삼성전자, 성능 8배 향상 zHBM 목업 공개...\"AI 가속기 위에 적층\"",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60564",
       "date": "2026-08-05 10:51:15",
       "desc": "삼성전자가 z축 고대역폭메모리(zHBM)와 z낸드-O 등 차세대 3D 메모리 기술을 공개하며 AI 시장 지배력 강화에 나섰다.삼성전자는 5일 미국 캘리포니에서 열린 'FMS(Future of Memory and Storage) 2026'에서 zHBM과"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성전자, FMS 2026서 차세대 3D 메모리 비전 제시",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-fms-2026%ec%84%9c-%ec%b0%a8%ec%84%b8%eb%8c%80-3d-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%b9%84%ec%a0%84-%ec%a0%9c%ec%8b%9c",
+      "date": "Wed, 05 Aug 2026 04:30:00 +0000",
+      "desc": "삼성전자가 8월 4일부터 6일(현지시간)까지 미국 캘리포니아주 산타클라라 컨벤션센터에서 열리는 ‘FMS(Future of Memory and Storage) 2026’에 참가해 차세대 3D 메모리 아키텍처인 zHBM과 zNAND-O의 목업(Mock-u"
     },
     {
       "source": "SPTA TIMES",
@@ -402,14 +362,6 @@ window.NEWS_DATA = {
       "desc": "미국 반도체 업체 온세미가 올해 인공지능(AI) 데이터센터 관련 매출이 지난해보다 두 배 이상 성장할 것이라고 자신했다. AI 수요가 예상보다 빠르게 늘면서 전력반도체 공급이 빠듯해지기 시작했다고도 했다.하산 엘 쿠리(Hassane El-Khoury)"
     },
     {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
-      "link": "https://www.etnews.com/20260804000178",
-      "date": "Tue, 4 Aug 2026 16:00:00 +0900",
-      "desc": "LG전자가 자체 인공지능(AI)칩 DQ-C를 기반으로 프리미엄부터 미드레인지·엔트리급까지 온디바이스 AI 시스템온칩(SoC) 풀라인업을 구축한다. 냉장고·세탁기부터 홈로봇·월패드까지 제품별 성능과 가격에 맞춘 AI칩 생태계를 구축하는 것이 목표다. L"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "칩스앤미디어, 최대 1000억 규모 M&A 후보 확정 '눈앞'",
@@ -424,6 +376,14 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60498",
       "date": "2026-08-04 10:52:37",
       "desc": "SK하이닉스가 샌디스크와 고대역폭플래시(HBF)의 첫 표준 규격을 4일 공개했다. 최대 16단으로 512기가바이트(GB) 용량을 구현하는 것이다.올해 2월 양사가 참여한 'HBF 사양 표준화 컨소시엄' 출범 후 6개월 만이다. 이날 공개된 표준 규격은"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+      "link": "https://www.etnews.com/20260804000178",
+      "date": "Tue, 4 Aug 2026 16:00:00 +0900",
+      "desc": "LG전자가 자체 인공지능(AI)칩 DQ-C를 기반으로 프리미엄부터 미드레인지·엔트리급까지 온디바이스 AI 시스템온칩(SoC) 풀라인업을 구축한다. 냉장고·세탁기부터 홈로봇·월패드까지 제품별 성능과 가격에 맞춘 AI칩 생태계를 구축하는 것이 목표다. L"
     },
     {
       "source": "SPTA TIMES",
@@ -448,14 +408,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260803-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-3%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Tue, 04 Aug 2026 00:47:10 GMT",
       "desc": "AI 인프라 산업 시장 선점 나선 SK에코플랜트…2030년까지 2000억 쏟아붇는다 (2026년 8월 3일, 아시아투데이, 이수일 기자) 원문보기 : https://www.asiatoday.co.kr/kn/view.php?key=202608030100"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "type": "intl",
-      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-      "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "desc": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are dri"
     },
     {
       "source": "디일렉",
@@ -490,6 +442,14 @@ window.NEWS_DATA = {
       "desc": "가천대학교가 실무 중심의 인공지능(AI) 반도체 설계 전문(팹리스) 대학원을 설립한다. 3일 가천대와 업계에 따르면 학교는 올해부터 경기 성남 소재 글로벌 캠퍼스에 'AI반도체설계전문대학원' 석사과정을 개설하고 신입생을 모집한다. 오는 9월부터 모집공"
     },
     {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+      "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+      "date": "Mon, 03 Aug 2026 11:38:22 +0000",
+      "desc": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are dri"
+    },
+    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260802-TE-01호] 2026년 8월 2일 반도체 장비 관련 주요 뉴스 요약",
@@ -512,6 +472,22 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-tt-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Fri, 31 Jul 2026 04:35:55 GMT",
       "desc": "양자컴도 ‘반도체의 길’ 간다… IBM, 실리콘 양자칩 승부수 (2026년 7월 31일, 동아일보, 이병구 기자) 원문보기 : https://www.donga.com/news/It/article/all/20260731/134397165/2 [핵심 요약"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260731-TM-01호] 2026년 7월 31일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-tm-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 04:34:25 GMT",
+      "desc": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다” (2026년 7월 31일, 중앙일보, 김인경·김경미 기자) 원문보기 : https://www.joongang.co.kr/article/25449626 [핵심 요약] [1] 테일러 2공장 연말 착"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260731-TI-01호] 2026년 7월 31일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-ti-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 31 Jul 2026 04:32:40 GMT",
+      "desc": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진 (2026년 7월 31일, 조선일보, 박지민•강다은 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/07/31/CUPCLRYBOFE3ZEGCG6ORUHV"
     },
     {
       "source": "IEEE Spectrum",
