@@ -1,29 +1,149 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-09T23:05:26.810Z",
+  "fetchedAt": "2026-08-10T23:53:42.622Z",
   "items": [
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "삼전닉스 급락 맞힌 '반도체 저승사자'…\"이젠 사야할 때\"",
-      "link": "https://www.hankyung.com/article/2026080929927",
-      "date": "Sun, 09 Aug 2026 21:55:18 +0900",
+      "title": "메모리→광학이 대세? $5000억 퍼붓겠다는 엔비디아 [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202608115420i",
+      "date": "Tue, 11 Aug 2026 08:10:21 +0900",
       "desc": ""
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
+      "link": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft/",
+      "date": "Mon, 10 Aug 2026 21:55:24 +0000",
+      "desc": "Researchers from Google and Delft University of Technology published a technical paper titled “Innovative FA Hardware Solution to Enable Sys"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why AI Adoption in Materials R&D Depends More on People Than Technology",
+      "link": "https://www.eetimes.com/why-ai-adoption-in-materials-rd-depends-more-on-people-than-technology/",
+      "date": "Mon, 10 Aug 2026 21:21:39 +0000",
+      "desc": "The technology works. The organization has to catch up. The post Why AI Adoption in Materials R&amp;D Depends More on People Than Technology"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "파두, 시스템 반도체 인재 채용",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60733",
+      "date": "2026-08-10 19:13:00",
+      "desc": "파두가 주니어급(신입~8년 이하 경력) 인력을 채용한다고 10일 밝혔다.파두는 오는 23일까지 채용 공고를 내고 신규 인력을 모집한다. 우수 인재를 선점하고 미래 기술경쟁력을 확보한다.이달 말 코딩 테스트를 거쳐 다음달 면접을 갖는다. 최종 합격된 인"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, 스마트파워앰프 누적 판매량 1억개 돌파",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60751",
+      "date": "2026-08-10 19:10:47",
+      "desc": "아이언디바이스가 삼성전자 모바일·태블릿용 스마트파워앰프 'SMA1305' 누적 판매량이 4년 만에 1억개를 돌파했다고 10일 밝혔다.아이언디바이스는 2022년 1월부터 SMA1305를 공급했다. 최근 집계 결과 지난 3월 기준 누적 판매량이 1억개를 "
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
+      "link": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar/",
+      "date": "Mon, 10 Aug 2026 17:53:49 +0000",
+      "desc": "Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2."
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)",
+      "link": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust/",
+      "date": "Mon, 10 Aug 2026 16:55:54 +0000",
+      "desc": "Researchers from Texas A&#38;M University, KIMM, and UST published a technical paper titled “Self-Focusing Control for Depth-Precise Wafer S"
     },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "정청래 또 말실수 '깜짝'…\"이명박 임기 내 광주 반도체 출시\"",
-      "link": "https://www.hankyung.com/article/2026080929757",
-      "date": "Sun, 09 Aug 2026 21:08:30 +0900",
+      "title": "\"머스크가 GPU 싹쓸이 하나\"…코어위브·네비우스 긴장[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202608115359i",
+      "date": "Tue, 11 Aug 2026 00:38:36 +0900",
       "desc": ""
     },
     {
-      "source": "한국경제",
+      "source": "디일렉",
       "type": "kr",
-      "title": "\"반도체만 오른다\" 곡소리 났는데…'대반전' 예고한 종목들",
-      "link": "https://www.hankyung.com/article/2026080928631",
-      "date": "Sun, 09 Aug 2026 18:16:09 +0900",
-      "desc": ""
+      "title": "LX세미콘, '국산' MCU, 현대차·기아에 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60713",
+      "date": "2026-08-10 14:03:57",
+      "desc": "LX세미콘이 지난달부터 현대자동차, 기아에 차량용 반도체를 공급 중이라고 10일 밝혔다. 디스플레이 구동칩(DDI)에 집중된 매출 비중을 개선하기 위해 2022년부터 추진한 신사업의 첫 번째 성과다.LX세미콘은 모터 기능 특화 마이크로컨트롤러(MCU,"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "U.S. Startup Fields Quantum Sensors to Reduce Reliance on GPS",
+      "link": "https://www.eetimes.com/u-s-startup-fields-quantum-sensors-to-reduce-reliance-on-gps/",
+      "date": "Mon, 10 Aug 2026 13:14:50 +0000",
+      "desc": "GPS spoofing is a sitting duck; Dirac’s quantum sensors aim to navigate air, sea, and tunnels without satellites. The post U.S. Startup Fiel"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Can AI Command Earth-to-Orbit Operations?",
+      "link": "https://www.eetimes.com/can-ai-command-earth-to-orbit-operations/",
+      "date": "Mon, 10 Aug 2026 08:00:00 +0000",
+      "desc": "The aerospace and defense sector is facing a confluence of geopolitical instability, rapid technological advances, evolving security require"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Data Center AI Can Keep Growing, Despite Supply Chain Bottlenecks",
+      "link": "https://semiengineering.com/how-data-center-ai-can-keep-growing-despite-supply-chain-bottlenecks/",
+      "date": "Mon, 10 Aug 2026 07:01:44 +0000",
+      "desc": "Efficiency is key for the next two to five years. But what happens when supply eventually catches up? The post How Data Center AI Can Keep G"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Aug. 10",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-11/",
+      "date": "Mon, 10 Aug 2026 07:01:34 +0000",
+      "desc": "Ultrafast optical switching in doped semis; PIM simulation; foundry-compatible silicon photonics MEMS switching; GPU-accelerated switching-p"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Research Bits: Aug. 10",
+      "link": "https://semiengineering.com/research-bits-aug-10/",
+      "date": "Mon, 10 Aug 2026 07:01:00 +0000",
+      "desc": "Thin chip stacking; analog CAM with MoS2; sensor-level processing and memory. The post Research Bits: Aug. 10 appeared first on Semiconducto"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260809-TT-01호] 2026년 8월 9일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 10 Aug 2026 01:31:38 GMT",
+      "desc": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보 (2026년 8월 9일, ZDNet Korea, 권봉석 기자) 원문보기 : https://zdnet.co.kr/view/?no=20260808225255 [핵심 요약] [1] 인텔, 위성 연결"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260809-TE-01호] 2026년 8월 9일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 10 Aug 2026 01:30:16 GMT",
+      "desc": "중국, DUV까지 국산화?…반도체 장비 자립 여부에 주목 (2026년 8월 9일, 머니투데이, 왕양 기자·안재용 기자) 원문보기 : https://www.mt.co.kr/economy/2026/08/09/2026080516365126021 [핵심 요약"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260809-TM-01호] 2026년 8월 9일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 10 Aug 2026 01:29:09 GMT",
+      "desc": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 (2026년 8월 9일, 서울경제, 서종갑 기자·이석진 기자) 원문보기 : https://www.sedaily.com/article/20077396?ref=naver [핵심 요약] [1] "
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260809-TI-01호] 2026년 8월 9일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 10 Aug 2026 01:27:56 GMT",
+      "desc": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상 (2026년 8월 9일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260807000243 [핵심 요약] [1] AI 데이터센터, 전력반도체 새로운 성장축 "
     },
     {
       "source": "SPTA TIMES",
@@ -162,14 +282,6 @@ window.NEWS_DATA = {
       "desc": "메모리, 세계 반도체 대세로… 올해 비중 60% 전망 (2026년 8월 6일, 디지털타임스, 이상현 기자) 원문보기 : https://www.dt.co.kr/article/12076837?ref=naver [핵심 요약] [1] 메모리 반도체, 사상 처"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "AI Chip Startup Taalas Acquired by AMD",
-      "link": "https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/",
-      "date": "Thu, 06 Aug 2026 20:05:00 +0000",
-      "desc": "AMD plans to use Taalas chips alongside its GPUs for AI inference, likely as an LLM decode accelerator. The post AI Chip Startup Taalas Acqu"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "텔레칩스, 2분기 흑자전환…IVI 칩 매출 확대",
@@ -192,78 +304,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60627",
       "date": "2026-08-06 16:28:39",
       "desc": "DB하이텍이 국가 나노팹 통합 플랫폼 모아팹에 공정 장비를 이전하고 팹 역량 강화를 지원한다고 6일 밝혔다.DB하이텍은 6일 충북 음성 상우캠퍼스에서 과학기술정보통신부(과기정통부)와 모아팹과 함께 반도체 장비 이전 협약식을 열었다. DB하이텍이 보유한"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "GlobalFoundries’ Growth Makes the Case for a U.S. Photonics Buildout",
-      "link": "https://www.eetimes.com/globalfoundries-growth-makes-the-case-for-a-u-s-photonics-buildout/",
-      "date": "Thu, 06 Aug 2026 16:17:00 +0000",
-      "desc": "GlobalFoundries’ data center surge turns U.S. photonics from subsidy pitch to AI bottleneck bet. The post GlobalFoundries’ Growth Makes the "
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "U.S. Manufacturing Activity Hits Four-Year High in July",
-      "link": "https://www.eetimes.com/u-s-manufacturing-activity-hits-four-year-high-in-july/",
-      "date": "Thu, 06 Aug 2026 12:31:16 +0000",
-      "desc": "In July, U.S. manufacturing activity remained in expansion territory, growing at its fastest pace in more than four years. The post U.S. Man"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions",
-      "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
-      "date": "Thu, 06 Aug 2026 08:09:11 +0000",
-      "desc": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The po"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About",
-      "link": "https://semiengineering.com/separating-the-chaff-from-the-wheat-focusing-on-only-the-rdc-violations-you-care-about/",
-      "date": "Thu, 06 Aug 2026 07:07:57 +0000",
-      "desc": "Combine structural analysis with timing awareness and context-based classification to distinguish real design risks from safe implementation"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources",
-      "link": "https://semiengineering.com/shared-ide-for-pcie-bifurcation-scaling-security-without-scaling-complexity-resources/",
-      "date": "Thu, 06 Aug 2026 07:06:17 +0000",
-      "desc": "Allowing multiple controllers and links to utilize a common security infrastructure while maintaining independent protection mechanisms. The"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "How To Scale AI Arithmetic Efficiently",
-      "link": "https://semiengineering.com/how-to-scale-ai-arithmetic-efficiently/",
-      "date": "Thu, 06 Aug 2026 07:05:36 +0000",
-      "desc": "Accelerating matrix multiplications in a variety of number formats while maintaining accuracy and reducing circuit area. The post How To Sca"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "AI: Friend And Foe For Chip Security",
-      "link": "https://semiengineering.com/ai-friend-and-foe-for-security/",
-      "date": "Thu, 06 Aug 2026 07:05:17 +0000",
-      "desc": "AI has access to every known security paper and powerful tools, but what it does with that isn't clear. The post AI: Friend And Foe For Chip"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "When USB Reaches The Root Of Trust",
-      "link": "https://semiengineering.com/when-usb-reaches-the-root-of-trust/",
-      "date": "Thu, 06 Aug 2026 07:04:35 +0000",
-      "desc": "The growing importance of peripheral interfaces in hardware threat models. The post When USB Reaches The Root Of Trust appeared first on Sem"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Certified Automotive-Grade PUF IP: Unclonable Silicon Identity For Safety And Security",
-      "link": "https://semiengineering.com/certified-automotive-grade-puf-ip-unclonable-silicon-identity-for-safety-and-security/",
-      "date": "Thu, 06 Aug 2026 07:03:31 +0000",
-      "desc": "Combining SRAM-based identity generation with added functional safety and security mechanisms. The post Certified Automotive-Grade PUF IP: U"
     },
     {
       "source": "SPTA TIMES",
@@ -434,14 +474,6 @@ window.NEWS_DATA = {
       "desc": "반도체 증설에 웃는 장비 업체…국내외 대규모 수주 행진 (2026년 8월 3일, 파이낸셜뉴스, 강경래 기자) 원문보기 : https://www.fnnews.com/news/202608031820564791 [핵심 요약] [1] 글로벌 반도체 증설에 장"
     },
     {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260803-TI-01호] 2026년 8월 3일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260803-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-3%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Tue, 04 Aug 2026 00:47:10 GMT",
-      "desc": "AI 인프라 산업 시장 선점 나선 SK에코플랜트…2030년까지 2000억 쏟아붇는다 (2026년 8월 3일, 아시아투데이, 이수일 기자) 원문보기 : https://www.asiatoday.co.kr/kn/view.php?key=202608030100"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입",
@@ -450,60 +482,12 @@ window.NEWS_DATA = {
       "desc": "반도체 후공정 외주(OSAT) 업체 LB세미콘이 이달부터 퀄컴의 전력 관리 반도체(PMIC) 제품을 양산한다고 3일 밝혔다.LB세미콘은 퀄컴의 인공지능(AI) 데이터센터와 차량용 반도체용 PMIC의 범핑과 테스트, 백엔드까지 포함한 후공정을 맡았다. "
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "시높시스코리아, S&A 대표로 문성수 전 지멘스 부사장 선임",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60487",
-      "date": "2026-08-03 18:13:46",
-      "desc": "시높시스코리아가 시뮬레이션&분석(S&A) 비즈니스 총괄 대표로 문성수 전 지멘스 글로벌 시뮬레이션 부문 부사장을 선임했다고 3일 밝혔다.문 신임 대표는 시높시스에 합류하기 이전까지 지멘스에서 글로벌 시뮬레이션 사업 전략을 이끌었다. 알테어에서 한국법인"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "범용 D램, 7월도 최고가 갱신...3분기 20% 뛴다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60443",
-      "date": "2026-08-03 16:04:23",
-      "desc": "7월 범용 D램과 낸드플래시 메모리 가격이 최고가를 기록했다.3일 시장조사업체 D램익스체인지에 따르면 PC용 범용 제품 DDR4 8Gb의 7월 평균 가격은 24달러로, 전월(21달러) 대비 14.29% 증가했다. 2016년 6월 집계 이래 최고가다.메"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "가천대, AI 반도체 팹리스 전문대학원 만든다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60437",
-      "date": "2026-08-03 15:32:34",
-      "desc": "가천대학교가 실무 중심의 인공지능(AI) 반도체 설계 전문(팹리스) 대학원을 설립한다. 3일 가천대와 업계에 따르면 학교는 올해부터 경기 성남 소재 글로벌 캠퍼스에 'AI반도체설계전문대학원' 석사과정을 개설하고 신입생을 모집한다. 오는 9월부터 모집공"
-    },
-    {
       "source": "IEEE Spectrum",
       "type": "intl",
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
       "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
       "date": "Mon, 03 Aug 2026 11:38:22 +0000",
       "desc": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are dri"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260802-TE-01호] 2026년 8월 2일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260802-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Mon, 03 Aug 2026 00:56:12 GMT",
-      "desc": "세계 최대 반도체 중고장비·부품 마켓, 용인서 문 연다 (2026년 8월 2일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260731000217 [핵심 요약] [1] 용인에 세계 최대 규모 중고장비·부품 상설 "
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260802-TI-01호] 2026년 8월 2일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260802-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Mon, 03 Aug 2026 00:55:02 GMT",
-      "desc": "AI가 바꾼 '반도체 거래판'…LTA로 슈퍼사이클 길어진다 (2026년 8월 2일, 파이낸셜뉴스, 정원일 기자) 원문보기 : https://www.fnnews.com/news/202608021822279031 [핵심 요약] [1] AI 확산으로 장기공"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260731-TT-01호] 2026년 7월 31일 반도체 기술 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260731-tt-01%ED%98%B8-2026%EB%85%84-7%EC%9B%94-31%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 31 Jul 2026 04:35:55 GMT",
-      "desc": "양자컴도 ‘반도체의 길’ 간다… IBM, 실리콘 양자칩 승부수 (2026년 7월 31일, 동아일보, 이병구 기자) 원문보기 : https://www.donga.com/news/It/article/all/20260731/134397165/2 [핵심 요약"
     },
     {
       "source": "IEEE Spectrum",
