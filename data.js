@@ -1,29 +1,181 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-13T00:07:58.640Z",
+  "fetchedAt": "2026-08-13T23:13:12.957Z",
   "items": [
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)",
-      "link": "https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/",
-      "date": "Wed, 12 Aug 2026 22:47:43 +0000",
-      "desc": "Researchers from NVIDIA and Duke University published a technical paper titled “SCALE: Self-Supervised Constraint-Aware Layout GEneration fo"
-    },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "'반도체 돈잔치'에도 한숨…역대급 수출 성과, 절반은 '대기업'",
-      "link": "https://www.hankyung.com/article/2026081379607",
-      "date": "Thu, 13 Aug 2026 06:34:49 +0900",
+      "title": "삼전닉스 4700조 투자 폭격…수혜 볼 '반도체 소부장' 기업 어디?",
+      "link": "https://www.hankyung.com/article/202608130195i",
+      "date": "Fri, 14 Aug 2026 07:27:28 +0900",
       "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Smartphone Makers Squeezed by Soaring Chip Costs",
+      "link": "https://www.eetimes.com/smartphone-makers-squeezed-by-soaring-chip-costs/",
+      "date": "Thu, 13 Aug 2026 18:47:35 +0000",
+      "desc": "Chip costs are gutting smartphone margins; expect pricier iPhones and fewer cheap phones. The post Smartphone Makers Squeezed by Soaring Chi"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI’s Next Bottleneck Is Public Consent",
+      "link": "https://www.eetimes.com/ais-next-bottleneck-is-public-consent/",
+      "date": "Thu, 13 Aug 2026 14:13:06 +0000",
+      "desc": "AI’s next choke point isn’t chips—it’s public trust as states slow data centers over power, water, and secrecy. The post AI&#8217;s Next Bot"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'반도체 후공정' 윈팩, 2분기 흑자전환...테스트 사업 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260813171241",
+      "date": "Thu, 13 Aug 2026 21:55:17 +0900",
+      "desc": "[지디넷코리아]반도체 후공정 기업 윈팩이 올해 2분기 흑자 전환했다.윈팩은 2분기 매출 302억원, 영업이익 8억원을 기록했다고 13일 밝혔다. 매출은 전년 동기 대비 65% 증가했다. 영업이익은 지난해 2분기 마이너스(-) 36억원에서 흑자로 돌아섰"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "KAIST, \"반도체 PDN 데이터 695분의 1로 압축…저장용량 해결\"",
+      "link": "https://zdnet.co.kr/view/?no=20260813103305",
+      "date": "Thu, 13 Aug 2026 20:40:03 +0900",
+      "desc": "[지디넷코리아]최근 주목받는 첨단 반도체 패키지의 다중 포트 전원 공급망(PDN) 데이터를 695분의 1까지 압축할 수 있는 기술이 개발됐다. 데이터 저장 용량 비대화 문제가 해결될 전망이다.KAIST는 김정호 전기및전자공학부 교수 연구팀은 이 같은 "
     },
     {
       "source": "디일렉",
       "type": "kr",
-      "title": "파두, 100억원 규모 단기차입금 확보",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60856",
-      "date": "2026-08-12 18:43:32",
-      "desc": "파두가 늘어나는 고객 수요에 대응해 단기차입금을 늘렸다. 올해 메모리 반도체 호황으로 예년보다 많은 수주가 몰린 결과다.파두는 금융기관으로부터 단기차입금 100억원을 차입한다고 12일 공시했다. 자기자본의 40.92%다. 단기차입금은 기존 115억원에"
+      "title": "HPSP, 예스티에 \"안 베꼈다면 삼성 납품 장비 영상 내라\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60922",
+      "date": "2026-08-13 19:25:54",
+      "desc": "\"납품된 제품인데 영상도 내지 않으면서 믿어달라는 건 받아들이기 어렵다.\"13일 서울중앙지법 제63민사부 심리로 열린 HPSP와 예스티의 특허침해금지 소송 5차 변론. HPSP 측 대리인은 예스티가 삼성전자에 공급한 고압수소어닐링(HPA) 장비의 구동"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "팹리스협회-케이던스, 국내 팹리스 경쟁력 강화 협업",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60915",
+      "date": "2026-08-13 17:33:20",
+      "desc": "한국팹리스산업협회와 케이던스코리아가 국내 반도체 설계(팹리스) 업체 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.케이던스의 전자설계자동화(EDA) 도구나 설계 자산(IP)을 회원사 대상 시중가 대비 저렴하게 공급하는 방안 등이 논의"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SKT, ‘A.X K2’ 구동 문턱 낮춘다…메모리 43% 절감",
+      "link": "https://zdnet.co.kr/view/?no=20260813173231",
+      "date": "Thu, 13 Aug 2026 17:32:31 +0900",
+      "desc": "[지디넷코리아]SK텔레콤이 독자 AI 파운데이션 모델 ‘A.X K2’를 기업과 기관에서 실제 서비스에 보다 쉽게 활용할 수 있도록 경량화와 추론 가속 기술을 잇달아 공개한다. 모델 개방을 넘어 메모리와 속도, 구동 장비 등 AI 운영 부담을 함께 낮추"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The 1-Megawatt Rack Debate",
+      "link": "https://semiengineering.com/the-1-megawatt-rack-debate/",
+      "date": "Thu, 13 Aug 2026 07:15:49 +0000",
+      "desc": "Is it better to cram more compute into each rack or rethink the architecture? The post The 1-Megawatt Rack Debate appeared first on Semicond"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Vertical Integration Becoming Pervasive",
+      "link": "https://semiengineering.com/vertical-integration-becoming-pervasive/",
+      "date": "Thu, 13 Aug 2026 07:12:15 +0000",
+      "desc": "No system can be optimized without an understanding of both the hardware and software, and making the right architectural choice requires co"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Copper’s Grip On AI Scaling Is Starting To Slip",
+      "link": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip/",
+      "date": "Thu, 13 Aug 2026 07:11:36 +0000",
+      "desc": "As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. The post Cop"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+      "link": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
+      "date": "Thu, 13 Aug 2026 07:08:19 +0000",
+      "desc": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The P"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
+      "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
+      "date": "Thu, 13 Aug 2026 07:07:35 +0000",
+      "desc": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post W"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge And Automotive Workloads",
+      "link": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads/",
+      "date": "Thu, 13 Aug 2026 07:06:43 +0000",
+      "desc": "Vision-only edge processors are giving way to systems where LLMs, VLMs, and generative features sit alongside traditional perception network"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Is Pergrammable A Word?",
+      "link": "https://semiengineering.com/is-pergrammable-a-word/",
+      "date": "Thu, 13 Aug 2026 07:05:36 +0000",
+      "desc": "SoC architects need AI silicon that is both highly efficient and fully programmable. The post Is Pergrammable A Word? appeared first on Semi"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Will It Take To Deploy CPO At Scale?",
+      "link": "https://semiengineering.com/what-will-it-take-to-deploy-cpo-at-scale/",
+      "date": "Thu, 13 Aug 2026 07:04:42 +0000",
+      "desc": "The path to widespread deployment of co-packaged optics depends on solving challenges in manufacturing, testing, and operations. The post Wh"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Linear Optics And The Push To Scale AI Interconnects",
+      "link": "https://semiengineering.com/linear-optics-and-the-push-to-scale-ai-interconnects/",
+      "date": "Thu, 13 Aug 2026 07:03:53 +0000",
+      "desc": "Move signal processing back onto the host SerDes to reduce system power, latency, and thermal load. The post Linear Optics And The Push To S"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Tokens To Tasks: Why Agentic AI Changes The Infrastructure Conversation",
+      "link": "https://semiengineering.com/from-tokens-to-tasks-why-agentic-ai-changes-the-infrastructure-conversation/",
+      "date": "Thu, 13 Aug 2026 07:02:34 +0000",
+      "desc": "As AI moves from answering prompts to completing work, infrastructure has to optimize the full workflow around the model. The post From Toke"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, 2분기 역대 분기 매출...적자 폭도 좁혀",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60897",
+      "date": "2026-08-13 15:17:07",
+      "desc": "아이언디바이스가 올해 2분기 연결 매출이 전년 동기 대비 6배 이상 증가한 약 57억원으로 집계됐다고 13일 밝혔다. 역대 최대 분기 매출이다.상반기 누적 매출은 약 104억원이다. 지난해 연간 매출(101억원)을 상회했다. 정부 의존도도 감소했다. "
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "13분기 만의 흑자전환 윈팩…비메모리 테스트 비중 대폭 높인다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60883",
+      "date": "2026-08-13 15:12:14",
+      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 윈팩이 2분기 영업이익 흑자전환에 성공했다고 13일 밝혔다.올해 2분기 매출은 302억원, 영업이익 8억원​을 기록했다. 매출은 전년 동"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260812-TM-01호] 2026년 8월 12일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260812-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-12%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 13 Aug 2026 00:58:10 GMT",
+      "desc": "캐파 두 배로 키우는 CXMT…'기술력ㆍ투자' 메모리 3사에 얼마나 위협적? (2026년 8월 12일, 이투데이, 이수진 기자) 원문보기: https://www.etoday.co.kr/news/view/2613815 [핵심 요약] [1] CXMT, 생"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260812-TI-01호] 2026년 8월 12일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260812-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-12%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 13 Aug 2026 00:56:28 GMT",
+      "desc": "日, 반도체 재건에 53조 외자 유치… TSMC·마이크론도 투자 (2026년 8월 12일, 파이낸셜뉴스, 서혜진 기자) 원문보기: https://www.fnnews.com/news/202608121825292568 [핵심 요약] [1] 일본, 2021"
     },
     {
       "source": "EE Times",
@@ -36,26 +188,18 @@ window.NEWS_DATA = {
     {
       "source": "디일렉",
       "type": "kr",
+      "title": "파두, 100억원 규모 단기차입금 확보",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60856",
+      "date": "2026-08-12 18:43:32",
+      "desc": "파두가 늘어나는 고객 수요에 대응해 단기차입금을 늘렸다. 올해 메모리 반도체 호황으로 예년보다 많은 수주가 몰린 결과다.파두는 금융기관으로부터 단기차입금 100억원을 차입한다고 12일 공시했다. 자기자본의 40.92%다. 단기차입금은 기존 115억원에"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
       "title": "어보브반도체, 아이센스와 저전력 헬스케어 MCU 개발",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60866",
       "date": "2026-08-12 18:34:25",
       "desc": "어보브반도체가 바이오센서 업체 아이센스(i-SENS)와 혈당측정기(BGM)용 마이크로컨트롤러(MCU) 공동 개발을 완료했다고 12일 밝혔다. 의료 산업에 진출한 것은 처음이다.어보브반도체는 BGM용 혼성 신호 MCU 'A34L716'을 출시하고 헬스케"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)",
-      "link": "https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec/",
-      "date": "Wed, 12 Aug 2026 18:01:03 +0000",
-      "desc": "Researchers from imec published a technical paper titled “Are Gate-All-Around 2D CFETs the Optimal Architecture for the A2 Node and Beyond?”"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)",
-      "link": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/",
-      "date": "Wed, 12 Aug 2026 17:46:29 +0000",
-      "desc": "National Taiwan University researchers published a technical paper titled “From Lithography to Nanoimprint: Physics-Based, Data-Driven, and "
     },
     {
       "source": "디일렉",
@@ -72,86 +216,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60831",
       "date": "2026-08-12 13:49:35",
       "desc": "서울반도체, 서울바이오시스가 인도에서 광반도체 특허침해 제품 판매금지 판결을 받았다. 법원은 침해기업뿐 아니라 경영진에게도 동일한 특허 침해 행위 관여 금지명령을 내렸다.서울반도체, 서울바이오시스는 인도 재생에너지 기업 오네이트 대상 특허침해소송에서 "
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "씨이랩, '아스트라고 파트너 서밋 2026' 개최...'아스몬' 전격 공개",
-      "link": "https://zdnet.co.kr/view/?no=20260812212127",
-      "date": "Wed, 12 Aug 2026 21:21:27 +0900",
-      "desc": "[지디넷코리아]AI 인프라 소프트웨어 전문기업 씨이랩(대표 윤세혁·채정환)이 오는 19일 서울 강남구 오크우드 프리미어 코엑스 센터에서 리셀러 파트너사를 대상으로 한 행사 ‘아스트라고 파트너 서밋 2026 인 서머(AstraGo Partner Summ"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say",
-      "link": "https://www.eetimes.com/sony-tsmc-4-7b-deal-helps-thwart-samsung-analysts-say/",
-      "date": "Wed, 12 Aug 2026 10:06:27 +0000",
-      "desc": "Sony and TSMC have joined forces to counter Samsung's growing presence in smartphone image sensors, particularly for Apple. The post Sony-TS"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "법무법인 태평양, 'AI 인프라전략센터' 출범…전문가 100명 뭉쳤다",
-      "link": "https://zdnet.co.kr/view/?no=20260812174507",
-      "date": "Wed, 12 Aug 2026 17:55:04 +0900",
-      "desc": "[지디넷코리아]법무법인 태평양이 인공지능(AI) 데이터센터를 중심으로 급증하는 AI 인프라 투자·개발 수요에 대응하기 위해 통합 자문 역량 강화에 나선다. 분야별 전문가를 하나의 조직으로 결집해 AI 인프라 프로젝트 전 과정을 지원하는 원스톱 자문 체"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "지아이에스, 구미 MLCC 장비 양산라인 증설 추진",
-      "link": "https://zdnet.co.kr/view/?no=20260812120521",
-      "date": "Wed, 12 Aug 2026 17:47:17 +0900",
-      "desc": "[지디넷코리아]반도체·디스플레이 장비·자동화 업체 지아이에스(옛 네온테크)가 적층세라믹커패시터(MLCC) 수요 확대에 대응하기 위해 구미 공장 생산능력 확대를 추진한다고 12일 밝혔다. 기존 안양 공장 등 주력 생산라인이 포화 상태여서 구미 공장에 M"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "엔비디아, 월가와 AI 고객에 필요한 자금 710조원 조달",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60820",
-      "date": "2026-08-12 07:30:28",
-      "desc": "엔비디아가 글로벌 금융회사와 민간 자본을 조달하는 인공지능(AI) 컴퓨팅 인프라 금융 플랫폼을 구축했다. 총 5000억달러(약 708조원) 규모다.엔비디아는 아폴로 글로벌, 블랙록, 블랙스톤, 브룩필드, 골드만 삭스, KKR 등 월가의 금융회사들과 이"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "아이씨티케이, LIG D&A와 국방 무기 보안 강화 협력",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60817",
-      "date": "2026-08-12 07:25:48",
-      "desc": "아이씨티케이(ICTK)가 LIG디펜스앤에어로스페이스(LIG D&A)와 국방 무기 보안 강화 업무 협약(MOU)을 체결했다고 11일 밝혔다.양사는 기술 역량을 결합해 국방 무기 보안 역량을 강화한다. LIG D&A의 무기 체계에 아이씨티케이의 물리적 복"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And More",
-      "link": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more/",
-      "date": "Wed, 12 Aug 2026 07:02:43 +0000",
-      "desc": "How DDR5 DIMM chipsets work, why they matter, how they build upon DDR5 technology, and how emerging module architectures are extending memor"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Blog Review: Aug. 12",
-      "link": "https://semiengineering.com/blog-review-aug-12-3/",
-      "date": "Wed, 12 Aug 2026 07:01:47 +0000",
-      "desc": "Early multiphysics; high-speed M-PHY; STCO for 3D-ICs; what EDA needs for AI; workload optimization. The post Blog Review: Aug. 12 appeared "
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastructure",
-      "link": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure/",
-      "date": "Wed, 12 Aug 2026 07:01:40 +0000",
-      "desc": "112G PHY IP for linear optics to reduce power, latency and thermal load for high-speed data movement in AI and data center systems. The post"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "True ECAD-MCAD Co-Design for Full-System 3D EM Simulation",
-      "link": "https://semiengineering.com/true-ecad-mcad-co-design-for-full-system-3d-em-simulation/",
-      "date": "Wed, 12 Aug 2026 07:01:21 +0000",
-      "desc": "Save time by automating the manual setup typically required for electromagnetic simulations. The post True ECAD-MCAD Co-Design for Full-Syst"
     },
     {
       "source": "SPTA TIMES",
@@ -178,12 +242,20 @@ window.NEWS_DATA = {
       "desc": "한국반도체산업協 \"특별법 시행 환영…'인프라 구축·후속 지원' 신속 추진돼야\" (2026년 8월 11일, 뉴시스, 이지용 기자) 원문보기: https://www.newsis.com/view/NISX20260811_0003744472 [핵심 요약] [1"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
-      "link": "https://www.eetimes.com/agentic-ai-multi-physics-and-standards-will-redefine-chips-design/",
-      "date": "Tue, 11 Aug 2026 22:00:00 +0000",
-      "desc": "Agentic AI, brutal physics bottlenecks, and standards are remaking chip design from silicon to systems. The post Agentic AI, Multi‑Physics, "
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 월가와 AI 고객에 필요한 자금 710조원 조달",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60820",
+      "date": "2026-08-12 07:30:28",
+      "desc": "엔비디아가 글로벌 금융회사와 민간 자본을 조달하는 인공지능(AI) 컴퓨팅 인프라 금융 플랫폼을 구축했다. 총 5000억달러(약 708조원) 규모다.엔비디아는 아폴로 글로벌, 블랙록, 블랙스톤, 브룩필드, 골드만 삭스, KKR 등 월가의 금융회사들과 이"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이씨티케이, LIG D&A와 국방 무기 보안 강화 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60817",
+      "date": "2026-08-12 07:25:48",
+      "desc": "아이씨티케이(ICTK)가 LIG디펜스앤에어로스페이스(LIG D&A)와 국방 무기 보안 강화 업무 협약(MOU)을 체결했다고 11일 밝혔다.양사는 기술 역량을 결합해 국방 무기 보안 역량을 강화한다. LIG D&A의 무기 체계에 아이씨티케이의 물리적 복"
     },
     {
       "source": "디일렉",
@@ -200,46 +272,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60790",
       "date": "2026-08-11 17:00:00",
       "desc": "퀄컴이 스냅드래곤 적용 기기를 확대한다. 스마트폰, 자동차, PC를 넘어 개인화 인공지능(AI) 시대에 선제적으로 대응해 시장 지배력을 높인다.11일 퀄컴에 따르면 전 세계 35억대 기기에 스냅드래곤 플랫폼이 탑재됐다. 2007년 스마트폰에서 시작해 "
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "AMD Challenges GPU-Centric Architectures as It Takes Aim at Nvidia in Robotics",
-      "link": "https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/",
-      "date": "Tue, 11 Aug 2026 14:09:45 +0000",
-      "desc": "AMD’s new SoC for robots combines CPU, GPU, NPU on one chip with unified memory. The post AMD Challenges GPU-Centric Architectures as It Tak"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "AI Hardware’s Next Frontier Is Integration",
-      "link": "https://www.eetimes.com/ai-hardwares-next-frontier-is-integration/",
-      "date": "Tue, 11 Aug 2026 09:25:50 +0000",
-      "desc": "The LID World Summit 2026 showed why AI progress now depends on system-level advances in memory, packaging, photonics, and power. The post A"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
-      "link": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors/",
-      "date": "Tue, 11 Aug 2026 07:06:54 +0000",
-      "desc": "The most sophisticated AI algorithm in the world cannot compensate for fragmented data, absent governance, or siloed infrastructure. The pos"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices",
-      "link": "https://semiengineering.com/measuring-what-matters-using-picosecond-ultrasonic-technology-for-sicr-film-thickness-control-in-bcd-devices/",
-      "date": "Tue, 11 Aug 2026 07:05:38 +0000",
-      "desc": "Monitoring critical process parameters and identifying variations before they impact device accuracy and long-term reliability. The post Mea"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "HBM Becomes Testbed For 3D Assembly Yield",
-      "link": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield/",
-      "date": "Tue, 11 Aug 2026 07:05:17 +0000",
-      "desc": "High-bandwidth memory has become a proving ground for 3D stack testing, DFT, and reliability. The post HBM Becomes Testbed For 3D Assembly Y"
     },
     {
       "source": "SPTA TIMES",
@@ -266,14 +298,6 @@ window.NEWS_DATA = {
       "desc": "한국전자정보통신산업진흥회(KEA)는 10일 교육부, 한국산업기술진흥원, 성균관대학교와 미래차·인공지능(AI) 분야 'Physical AI 인재 발굴 및 역량 강화'를 위해 '2026 전국 대학생 AI 자율주행 경진대회'를 성균관대 반도체관(경기 수원)"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Why AI Adoption in Materials R&D Depends More on People Than Technology",
-      "link": "https://www.eetimes.com/why-ai-adoption-in-materials-rd-depends-more-on-people-than-technology/",
-      "date": "Mon, 10 Aug 2026 21:21:39 +0000",
-      "desc": "The technology works. The organization has to catch up. The post Why AI Adoption in Materials R&amp;D Depends More on People Than Technology"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "파두, 시스템 반도체 인재 채용",
@@ -284,10 +308,10 @@ window.NEWS_DATA = {
     {
       "source": "디일렉",
       "type": "kr",
-      "title": "아이언디바이스, 스마트파워앰프 누적 판매량 1억개 돌파",
+      "title": "아이언디바이스, 스마트파워앰프 'SMA1305' 누적 판매량 1억개 돌파",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60751",
       "date": "2026-08-10 19:10:47",
-      "desc": "아이언디바이스가 삼성전자 모바일·태블릿용 스마트파워앰프 'SMA1305' 누적 판매량이 4년 만에 1억개를 돌파했다고 10일 밝혔다.아이언디바이스는 2022년 1월부터 SMA1305를 공급했다. 최근 집계 결과 지난 3월 기준 누적 판매량이 1억개를 "
+      "desc": "아이언디바이스가 삼성전자 모바일·태블릿용 스마트파워앰프 'SMA1305' 누적 판매량이 4년 만에 1억개를 돌파했다고 10일 밝혔다. SMA1305를 포함한 전체 스마트파워앰프 전체 누적 판매량은 3억7000만개를 기록했다.아이언디바이스는 2022년 "
     },
     {
       "source": "디일렉",
@@ -330,6 +354,14 @@ window.NEWS_DATA = {
       "desc": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상 (2026년 8월 9일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260807000243 [핵심 요약] [1] AI 데이터센터, 전력반도체 새로운 성장축 "
     },
     {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[AI Infrastructure Insight] AI 데이터센터 안에서는 무엇이 달라지고 있는가?",
+      "link": "https://news.skhynix.co.kr/ai-infrastructure-insigh-ep1/",
+      "date": "Mon, 10 Aug 2026 01:00:07 +0000",
+      "desc": "AI는 더 이상 하나의 모델이나 칩만으로 설명되지 않습니다. 더 빠른 연산 장치, 더 넓은 메모리 대역폭, 더 촘촘한 네트워크, 더 효율적인 스토리지, 더 안정적인 전력과 냉각이 함께 맞물릴 때 AI는 실제 서비스와 산업 현장에서 작동할 수 있습니다."
+    },
+    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[특별기고] 반도체 실무교육 수료생 1만 명, 이제 새로운 1만 명을 향해",
@@ -346,6 +378,14 @@ window.NEWS_DATA = {
       "desc": "AI 반도체 슈퍼사이클, '칩 경쟁'에서 '공급망/패키징/메모리 아키텍쳐 경쟁' 으로 진화 글쓴이: 이종욱 2026년 8월 2주차 글로벌 반도체 시장에서 나타난 가장 중요한 변화는 바로 이 같은 산업 구조의 전환이다. 과거 반도체 경쟁의 핵심이 미세공"
     },
     {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "SK하이닉스, 용인 Y2 ∙ 청주 M17에 54조 원 투자… AI 시대 메모리 수요 대응 위한 중장기 생산 기반 확보",
+      "link": "https://news.skhynix.co.kr/fab-facility-investment-2026_yb/",
+      "date": "Fri, 07 Aug 2026 08:45:46 +0000",
+      "desc": "SK하이닉스, 용인 Y2 ∙ 청주 M17에 54조 원 투자… AI 시대 메모리 수요 대응 위한 중장기 생산 기반 확보 SK하이닉스가 AI 시대에 지속 성장하는 메모리 수요에 대응하기 위해 용인과 청주에 신규 팹을 건설하기로 했습니다. 회사는 이날 이사"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
@@ -360,6 +400,14 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
       "date": "2026-08-07 15:30:33",
       "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시",
+      "link": "https://news.skhynix.co.kr/fms-2026_yb/",
+      "date": "Fri, 07 Aug 2026 06:01:01 +0000",
+      "desc": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시 SK하이닉스가 메모리 · 스토리지 분야 세계 최대 규모의 전시 컨퍼런스인 FMS 2026에 참가했습니다. 회사는 HBM을 필두로 한 고성능 AI 메모리와 낸드 기"
     },
     {
       "source": "SPTA TIMES",
@@ -440,54 +488,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260805-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-5%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Thu, 06 Aug 2026 00:49:36 GMT",
       "desc": "반도체 고점론 '머쓱'… 빅테크 역대급 실적에 머스크도 \"메모리 부족\" (2026년 8월 5일, 파이낸셜뉴스, 김경민 • 정원일 기자) 원문보기 : https://www.fnnews.com/news/202608051829034362 [핵심 요약] [1"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260805-TM-01호] 2026년 8월 5일 반도체 제조 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260805-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-5%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Thu, 06 Aug 2026 00:47:46 GMT",
-      "desc": "인텔 오하이오 팹 '초과근무' 공사 가속…외부 파트너 유치 포석 (2026년 8월 5일, 전자신문, 이형두 기자) 원문보기 : https://www.etnews.com/20260805000222 [1] 오하이오 팹 공사 속도 본격 가속 인텔이 미국 오"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260805-TT-01호] 2026년 8월 5일 반도체 기술 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260805-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-5%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Thu, 06 Aug 2026 00:46:16 GMT",
-      "desc": "中 화웨이 반도체 총괄 \"엔비디아식 반도체 기술 개발 한계 부딪힐 것\" (2026년 8월 5일, 조선일보, 박지민 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/05/476VMQJF75AUHPH"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "파두 \"2028년 7세대 SSD 컨트롤러 샘플 공급\"",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60601",
-      "date": "2026-08-05 18:46:24",
-      "desc": "파두가 7세대(Gen7) 솔리드스테이트드라이브(SSD) 컨트롤러 샘플을 2028년부터 공급하겠다고 밝혔다. 남이현 파두 대표는 4일(현지시간) 미국 캘리포니아 산타클라라에서 열린 퓨처 오브 메모리 앤 스토리지(FMS) 2026에서 이같은 개발 로드맵을"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "퓨리오사AI, 유럽에 레니게이드 8800장 공급한다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60590",
-      "date": "2026-08-05 17:01:01",
-      "desc": "퓨리오사AI가 스웨덴 데이터센터에 신경망처리장치(NPU)를 공급한다.퓨리오사AI는 5일 미국 인공지능(AI) 인프라 기업 I/ONX와 데이터센터 운영 기업 벨록스와 함께 스웨덴 스톡홀름 AI 데이터센터 구축 프로젝트를 참여한다고 밝혔다. 데이터센터 규"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "AMD \"내년 데이터센터 부문 매출 두 배\"… 서버 CPU는 공급난 여전",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60586",
-      "date": "2026-08-05 15:59:07",
-      "desc": "AMD가 인공지능(AI) 투자 확대의 큰 수혜를 입고 있다.리사 수(Lisa Su) AMD 최고경영자(CEO)는 4일(현지시각) 개최된 2026년 2분기 실적발표 컨퍼런스콜에서 \"2027년 데이터센터 부문 매출이 전년 대비 두 배 이상으로 늘어날 것\""
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "해치텍, 韓 메모리 업체에 온도센서 IC 공급",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60583",
-      "date": "2026-08-05 15:46:02",
-      "desc": "해치텍이 올해부터 국내 메모리 업체 S사에 기업용 솔리드스테이트드라이브(eSSD)용 온도센서 집적회로(IC)를 공급한다.최성민 해치텍 대표는 코스닥 상장을 앞두고 5일 서울 영등포 여의도 CCMM 빌딩에서 가진 기업공개(IPO) 행사에서 \"그동안 미국"
     },
     {
       "source": "삼성 뉴스룸",
