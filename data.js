@@ -1,6 +1,14 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-13T23:13:12.957Z",
+  "fetchedAt": "2026-08-14T00:08:38.980Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "HBM 대체할 HBF? 샌디스크 폭등…S&P 7800 돌파 [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202608140591i",
+      "date": "Fri, 14 Aug 2026 07:51:53 +0900",
+      "desc": ""
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -10,12 +18,44 @@ window.NEWS_DATA = {
       "desc": ""
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "HPSP, 예스티에 \"안 베꼈다면 삼성 납품 장비 영상 내라\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60922",
+      "date": "2026-08-13 19:25:54",
+      "desc": "\"납품된 제품인데 영상도 내지 않으면서 믿어달라는 건 받아들이기 어렵다.\"13일 서울중앙지법 제63민사부 심리로 열린 HPSP와 예스티의 특허침해금지 소송 5차 변론. HPSP 측 대리인은 예스티가 삼성전자에 공급한 고압수소어닐링(HPA) 장비의 구동"
+    },
+    {
       "source": "EE Times",
       "type": "intl",
       "title": "Smartphone Makers Squeezed by Soaring Chip Costs",
       "link": "https://www.eetimes.com/smartphone-makers-squeezed-by-soaring-chip-costs/",
       "date": "Thu, 13 Aug 2026 18:47:35 +0000",
       "desc": "Chip costs are gutting smartphone margins; expect pricier iPhones and fewer cheap phones. The post Smartphone Makers Squeezed by Soaring Chi"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "팹리스협회-케이던스, 국내 팹리스 경쟁력 강화 협업",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60915",
+      "date": "2026-08-13 17:33:20",
+      "desc": "한국팹리스산업협회와 케이던스코리아가 국내 반도체 설계(팹리스) 업체 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.케이던스의 전자설계자동화(EDA) 도구나 설계 자산(IP)을 회원사 대상 시중가 대비 저렴하게 공급하는 방안 등이 논의"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, 2분기 역대 분기 매출...적자 폭도 좁혀",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60897",
+      "date": "2026-08-13 15:17:07",
+      "desc": "아이언디바이스가 올해 2분기 연결 매출이 전년 동기 대비 6배 이상 증가한 약 57억원으로 집계됐다고 13일 밝혔다. 역대 최대 분기 매출이다.상반기 누적 매출은 약 104억원이다. 지난해 연간 매출(101억원)을 상회했다. 정부 의존도도 감소했다. "
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "13분기 만의 흑자전환 윈팩…비메모리 테스트 비중 대폭 높인다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60883",
+      "date": "2026-08-13 15:12:14",
+      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 윈팩이 2분기 영업이익 흑자전환에 성공했다고 13일 밝혔다.올해 2분기 매출은 302억원, 영업이익 8억원​을 기록했다. 매출은 전년 동"
     },
     {
       "source": "EE Times",
@@ -40,22 +80,6 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260813103305",
       "date": "Thu, 13 Aug 2026 20:40:03 +0900",
       "desc": "[지디넷코리아]최근 주목받는 첨단 반도체 패키지의 다중 포트 전원 공급망(PDN) 데이터를 695분의 1까지 압축할 수 있는 기술이 개발됐다. 데이터 저장 용량 비대화 문제가 해결될 전망이다.KAIST는 김정호 전기및전자공학부 교수 연구팀은 이 같은 "
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "HPSP, 예스티에 \"안 베꼈다면 삼성 납품 장비 영상 내라\"",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60922",
-      "date": "2026-08-13 19:25:54",
-      "desc": "\"납품된 제품인데 영상도 내지 않으면서 믿어달라는 건 받아들이기 어렵다.\"13일 서울중앙지법 제63민사부 심리로 열린 HPSP와 예스티의 특허침해금지 소송 5차 변론. HPSP 측 대리인은 예스티가 삼성전자에 공급한 고압수소어닐링(HPA) 장비의 구동"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "팹리스협회-케이던스, 국내 팹리스 경쟁력 강화 협업",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60915",
-      "date": "2026-08-13 17:33:20",
-      "desc": "한국팹리스산업협회와 케이던스코리아가 국내 반도체 설계(팹리스) 업체 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.케이던스의 전자설계자동화(EDA) 도구나 설계 자산(IP)을 회원사 대상 시중가 대비 저렴하게 공급하는 방안 등이 논의"
     },
     {
       "source": "ZDNet Korea",
@@ -146,22 +170,6 @@ window.NEWS_DATA = {
       "desc": "As AI moves from answering prompts to completing work, infrastructure has to optimize the full workflow around the model. The post From Toke"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "아이언디바이스, 2분기 역대 분기 매출...적자 폭도 좁혀",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60897",
-      "date": "2026-08-13 15:17:07",
-      "desc": "아이언디바이스가 올해 2분기 연결 매출이 전년 동기 대비 6배 이상 증가한 약 57억원으로 집계됐다고 13일 밝혔다. 역대 최대 분기 매출이다.상반기 누적 매출은 약 104억원이다. 지난해 연간 매출(101억원)을 상회했다. 정부 의존도도 감소했다. "
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "13분기 만의 흑자전환 윈팩…비메모리 테스트 비중 대폭 높인다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60883",
-      "date": "2026-08-13 15:12:14",
-      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 윈팩이 2분기 영업이익 흑자전환에 성공했다고 13일 밝혔다.올해 2분기 매출은 302억원, 영업이익 8억원​을 기록했다. 매출은 전년 동"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260812-TM-01호] 2026년 8월 12일 반도체 제조 관련 주요 뉴스 요약",
@@ -178,20 +186,20 @@ window.NEWS_DATA = {
       "desc": "日, 반도체 재건에 53조 외자 유치… TSMC·마이크론도 투자 (2026년 8월 12일, 파이낸셜뉴스, 서혜진 기자) 원문보기: https://www.fnnews.com/news/202608121825292568 [핵심 요약] [1] 일본, 2021"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
-      "link": "https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/",
-      "date": "Wed, 12 Aug 2026 18:40:03 +0000",
-      "desc": "Meta squeezes 25% fewer servers from old DDR4 via CXL, but most firms face messy DIMM, power, and telemetry traps. The post Meta Cuts Server"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "파두, 100억원 규모 단기차입금 확보",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60856",
       "date": "2026-08-12 18:43:32",
       "desc": "파두가 늘어나는 고객 수요에 대응해 단기차입금을 늘렸다. 올해 메모리 반도체 호황으로 예년보다 많은 수주가 몰린 결과다.파두는 금융기관으로부터 단기차입금 100억원을 차입한다고 12일 공시했다. 자기자본의 40.92%다. 단기차입금은 기존 115억원에"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
+      "link": "https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/",
+      "date": "Wed, 12 Aug 2026 18:40:03 +0000",
+      "desc": "Meta squeezes 25% fewer servers from old DDR4 via CXL, but most firms face messy DIMM, power, and telemetry traps. The post Meta Cuts Server"
     },
     {
       "source": "디일렉",
@@ -218,6 +226,22 @@ window.NEWS_DATA = {
       "desc": "서울반도체, 서울바이오시스가 인도에서 광반도체 특허침해 제품 판매금지 판결을 받았다. 법원은 침해기업뿐 아니라 경영진에게도 동일한 특허 침해 행위 관여 금지명령을 내렸다.서울반도체, 서울바이오시스는 인도 재생에너지 기업 오네이트 대상 특허침해소송에서 "
     },
     {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 월가와 AI 고객에 필요한 자금 710조원 조달",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60820",
+      "date": "2026-08-12 07:30:28",
+      "desc": "엔비디아가 글로벌 금융회사와 민간 자본을 조달하는 인공지능(AI) 컴퓨팅 인프라 금융 플랫폼을 구축했다. 총 5000억달러(약 708조원) 규모다.엔비디아는 아폴로 글로벌, 블랙록, 블랙스톤, 브룩필드, 골드만 삭스, KKR 등 월가의 금융회사들과 이"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이씨티케이, LIG D&A와 국방 무기 보안 강화 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60817",
+      "date": "2026-08-12 07:25:48",
+      "desc": "아이씨티케이(ICTK)가 LIG디펜스앤에어로스페이스(LIG D&A)와 국방 무기 보안 강화 업무 협약(MOU)을 체결했다고 11일 밝혔다.양사는 기술 역량을 결합해 국방 무기 보안 역량을 강화한다. LIG D&A의 무기 체계에 아이씨티케이의 물리적 복"
+    },
+    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260811-TM-01호] 2026년 8월 11일 반도체 제조 관련 주요 뉴스 요약",
@@ -240,22 +264,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260811-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-11%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Wed, 12 Aug 2026 01:03:30 GMT",
       "desc": "한국반도체산업協 \"특별법 시행 환영…'인프라 구축·후속 지원' 신속 추진돼야\" (2026년 8월 11일, 뉴시스, 이지용 기자) 원문보기: https://www.newsis.com/view/NISX20260811_0003744472 [핵심 요약] [1"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "엔비디아, 월가와 AI 고객에 필요한 자금 710조원 조달",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60820",
-      "date": "2026-08-12 07:30:28",
-      "desc": "엔비디아가 글로벌 금융회사와 민간 자본을 조달하는 인공지능(AI) 컴퓨팅 인프라 금융 플랫폼을 구축했다. 총 5000억달러(약 708조원) 규모다.엔비디아는 아폴로 글로벌, 블랙록, 블랙스톤, 브룩필드, 골드만 삭스, KKR 등 월가의 금융회사들과 이"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "아이씨티케이, LIG D&A와 국방 무기 보안 강화 협력",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60817",
-      "date": "2026-08-12 07:25:48",
-      "desc": "아이씨티케이(ICTK)가 LIG디펜스앤에어로스페이스(LIG D&A)와 국방 무기 보안 강화 업무 협약(MOU)을 체결했다고 11일 밝혔다.양사는 기술 역량을 결합해 국방 무기 보안 역량을 강화한다. LIG D&A의 무기 체계에 아이씨티케이의 물리적 복"
     },
     {
       "source": "디일렉",
@@ -354,14 +362,6 @@ window.NEWS_DATA = {
       "desc": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상 (2026년 8월 9일, 전자신문, 박유민 기자) 원문보기 : https://www.etnews.com/20260807000243 [핵심 요약] [1] AI 데이터센터, 전력반도체 새로운 성장축 "
     },
     {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "[AI Infrastructure Insight] AI 데이터센터 안에서는 무엇이 달라지고 있는가?",
-      "link": "https://news.skhynix.co.kr/ai-infrastructure-insigh-ep1/",
-      "date": "Mon, 10 Aug 2026 01:00:07 +0000",
-      "desc": "AI는 더 이상 하나의 모델이나 칩만으로 설명되지 않습니다. 더 빠른 연산 장치, 더 넓은 메모리 대역폭, 더 촘촘한 네트워크, 더 효율적인 스토리지, 더 안정적인 전력과 냉각이 함께 맞물릴 때 AI는 실제 서비스와 산업 현장에서 작동할 수 있습니다."
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[특별기고] 반도체 실무교육 수료생 1만 명, 이제 새로운 1만 명을 향해",
@@ -378,14 +378,6 @@ window.NEWS_DATA = {
       "desc": "AI 반도체 슈퍼사이클, '칩 경쟁'에서 '공급망/패키징/메모리 아키텍쳐 경쟁' 으로 진화 글쓴이: 이종욱 2026년 8월 2주차 글로벌 반도체 시장에서 나타난 가장 중요한 변화는 바로 이 같은 산업 구조의 전환이다. 과거 반도체 경쟁의 핵심이 미세공"
     },
     {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "SK하이닉스, 용인 Y2 ∙ 청주 M17에 54조 원 투자… AI 시대 메모리 수요 대응 위한 중장기 생산 기반 확보",
-      "link": "https://news.skhynix.co.kr/fab-facility-investment-2026_yb/",
-      "date": "Fri, 07 Aug 2026 08:45:46 +0000",
-      "desc": "SK하이닉스, 용인 Y2 ∙ 청주 M17에 54조 원 투자… AI 시대 메모리 수요 대응 위한 중장기 생산 기반 확보 SK하이닉스가 AI 시대에 지속 성장하는 메모리 수요에 대응하기 위해 용인과 청주에 신규 팹을 건설하기로 했습니다. 회사는 이날 이사"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
@@ -400,14 +392,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
       "date": "2026-08-07 15:30:33",
       "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
-    },
-    {
-      "source": "SK하이닉스 뉴스룸",
-      "type": "corp",
-      "title": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시",
-      "link": "https://news.skhynix.co.kr/fms-2026_yb/",
-      "date": "Fri, 07 Aug 2026 06:01:01 +0000",
-      "desc": "AI 시대, 차세대 메모리 아키텍처는?… SK하이닉스, ‘FMS 2026’서 방향성 제시 SK하이닉스가 메모리 · 스토리지 분야 세계 최대 규모의 전시 컨퍼런스인 FMS 2026에 참가했습니다. 회사는 HBM을 필두로 한 고성능 AI 메모리와 낸드 기"
     },
     {
       "source": "SPTA TIMES",
