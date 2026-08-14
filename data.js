@@ -1,21 +1,117 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-14T00:08:38.980Z",
+  "fetchedAt": "2026-08-14T22:54:12.338Z",
   "items": [
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "HBM 대체할 HBF? 샌디스크 폭등…S&P 7800 돌파 [김현석의 월스트리트나우]",
-      "link": "https://www.hankyung.com/article/202608140591i",
-      "date": "Fri, 14 Aug 2026 07:51:53 +0900",
+      "title": "상용화 속도내는 HBF… HBM 독주깰까 [한경 반도체포커스]",
+      "link": "https://www.hankyung.com/article/202608142489i",
+      "date": "Sat, 15 Aug 2026 07:00:02 +0900",
       "desc": ""
     },
     {
-      "source": "한국경제",
+      "source": "디일렉",
       "type": "kr",
-      "title": "삼전닉스 4700조 투자 폭격…수혜 볼 '반도체 소부장' 기업 어디?",
-      "link": "https://www.hankyung.com/article/202608130195i",
-      "date": "Fri, 14 Aug 2026 07:27:28 +0900",
-      "desc": ""
+      "title": "에이직랜드, 디에이아이오 양산 시작…상반기 최대 매출·흑자 전환",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60990",
+      "date": "2026-08-14 18:32:43",
+      "desc": "에이직랜드가 올해 상반기 디에이아이오 양산 매출 등으로 역대 최고 매출을 달성했다. 흑자전환도 성공했다.에이직랜드는 상반기 매출이 약 1137억원으로 전년 동기 대비 273% 증가했다고 14일 밝혔다. 영업이익은 50억원으로 흑자를 기록했다.개발 매출"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 상반기 매출 947억원…적자는 지속",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60983",
+      "date": "2026-08-14 18:23:39",
+      "desc": "세미파이브가 올해 상반기 매출이 947억원으로 전년 동기 대비 97% 증가했다. 반기 흑자전환은 실패했다.14일 세미파이브에 따르면 상반기 주문형 반도체(ASIC) 턴키 사업과 양산, 설계 자산(IP) 매출이 골고루 늘며 실적이 개선됐다.영업손실은 1"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스, 누적 PO 180억원...연간 흑자 전환도 가시화",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60979",
+      "date": "2026-08-14 17:57:10",
+      "desc": "딥엑스가 신경망처리장치(NPU) 'DX-M1'의 누적 구매 주문(PO)이 1300만달러(약 184억원)가 넘어섰다고 14일 밝혔다. 연간 흑자도 예고했다. 하지만 당초 목표로 삼았던 600억원 매출 달성은 어려울 전망이다.딥엑스는 10여개 국가 77곳"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "제주반도체, 2분기 영업익 1200억원…전년비 2700%↑",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60944",
+      "date": "2026-08-14 16:38:51",
+      "desc": "제주반도체의 올해 2분기 매출이 약 2900억원, 영업이익은 약 1200억원으로 집계됐다. 각각 전년 동기 대비 약 467%, 약 2745% 증가한 규모다.14일 제주반도체에 따르면 주요 매출 상승 요인은 메모리 호황에 따른 공급 확대와 D램 등 주요"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄리타스반도체, 2분기 영업손실 9억원...전년비 86%↓",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60954",
+      "date": "2026-08-14 15:52:59",
+      "desc": "퀄리타스반도체가 올해 2분기 매출 63억4000만원, 영업손실 8억7000만원을 기록했다고 15일 밝혔다. 전년 동기 대비 매출은 589.1% 급증했고 영업손실은 86.3% 줄었다.매출 상승 요인은 반도체 인터페이스 설계 자산(IP)을 삼성전자 위탁생"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "씨케이솔루션, 삼성전자 평택 P5 공사 수주...308억원 규모",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60955",
+      "date": "2026-08-14 15:41:50",
+      "desc": "씨케이솔루션이 삼성전자 평택사업장 P5 공사를 수주했다.씨케이솔루션은 삼성전자 평택사업장 P5 1단계(Ph1) 마감공사를 약 308억원에 수주했다고 14일 밝혔다. 계약기간은 2027년 7월 30일까지다.회사는 P5 Ph1을 시작으로 향후 P5 Ph2"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Intel at a Memory Crossroads, Again",
+      "link": "https://www.eetimes.com/intel-at-a-memory-crossroads-again/",
+      "date": "Fri, 14 Aug 2026 13:01:36 +0000",
+      "desc": "The CPU specialist heeds a memory comeback while memory chips transform from commodity to AI gold rush. The post Intel at a Memory Crossroad"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Semiconductor Equipment Shifts To Build-to-Print Manufacturing",
+      "link": "https://www.eetimes.com/semiconductor-equipment-shifts-to-build-to-print-manufacturing/",
+      "date": "Fri, 14 Aug 2026 10:56:17 +0000",
+      "desc": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufact"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260814-TI-01호] 2026년 8월 14일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260814-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-14%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 14 Aug 2026 08:50:37 GMT",
+      "desc": "中 양쯔메모리 세계 톱3 첫 진입… 삼성전자는 낸드플래시 1위 지켜 (2026년 8월 14일, 동아일보, 박현익 기자) 원문보기: https://www.donga.com/news/Economy/article/all/20260813/134475008/2"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-151/",
+      "date": "Fri, 14 Aug 2026 07:01:48 +0000",
+      "desc": "Lam Research and ASE expansions; data center shifts; CPO system architecture initiative; 2D-transistor interface solution; USENIX HW securit"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260813-TE-01호] 2026년 8월 13일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260813-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 14 Aug 2026 01:04:38 GMT",
+      "desc": "이재용이 픽한 플랙트, 인도에서 ‘AI DC’ 정조준…HVAC 신규 라인 준공 (2026년 8월 13일, 아시아투데이, 안소연 기자) 원문보기: https://www.asiatoday.co.kr/kn/view.php?key=202608130100046"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260813-TT-01호] 2026년 8월 13일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260813-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 14 Aug 2026 01:02:15 GMT",
+      "desc": "GPU 다음은 '연결 전쟁'…삼일PwC \"AI 승부처, 광통신으로 이동\" (2026년 8월 13일, 파이낸셜뉴스, 김현정 기자) 원문보기: https://www.fnnews.com/news/202608130858002978 [핵심 요약] [1] AI "
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260813-TI-01호] 2026년 8월 13일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260813-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-13%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 14 Aug 2026 00:59:15 GMT",
+      "desc": "“6년 된 엔비디아 AI칩도 돈 된다” 710조 베팅한 월가…“GPU가 새로운 투자 자산” (2026년 8월 13일, 서울경제, 김여진 기자) 원문보기: https://www.sedaily.com/article/20078996?ref=naver [핵심"
     },
     {
       "source": "디일렉",
@@ -64,30 +160,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/ais-next-bottleneck-is-public-consent/",
       "date": "Thu, 13 Aug 2026 14:13:06 +0000",
       "desc": "AI’s next choke point isn’t chips—it’s public trust as states slow data centers over power, water, and secrecy. The post AI&#8217;s Next Bot"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "'반도체 후공정' 윈팩, 2분기 흑자전환...테스트 사업 확대",
-      "link": "https://zdnet.co.kr/view/?no=20260813171241",
-      "date": "Thu, 13 Aug 2026 21:55:17 +0900",
-      "desc": "[지디넷코리아]반도체 후공정 기업 윈팩이 올해 2분기 흑자 전환했다.윈팩은 2분기 매출 302억원, 영업이익 8억원을 기록했다고 13일 밝혔다. 매출은 전년 동기 대비 65% 증가했다. 영업이익은 지난해 2분기 마이너스(-) 36억원에서 흑자로 돌아섰"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "KAIST, \"반도체 PDN 데이터 695분의 1로 압축…저장용량 해결\"",
-      "link": "https://zdnet.co.kr/view/?no=20260813103305",
-      "date": "Thu, 13 Aug 2026 20:40:03 +0900",
-      "desc": "[지디넷코리아]최근 주목받는 첨단 반도체 패키지의 다중 포트 전원 공급망(PDN) 데이터를 695분의 1까지 압축할 수 있는 기술이 개발됐다. 데이터 저장 용량 비대화 문제가 해결될 전망이다.KAIST는 김정호 전기및전자공학부 교수 연구팀은 이 같은 "
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "SKT, ‘A.X K2’ 구동 문턱 낮춘다…메모리 43% 절감",
-      "link": "https://zdnet.co.kr/view/?no=20260813173231",
-      "date": "Thu, 13 Aug 2026 17:32:31 +0900",
-      "desc": "[지디넷코리아]SK텔레콤이 독자 AI 파운데이션 모델 ‘A.X K2’를 기업과 기관에서 실제 서비스에 보다 쉽게 활용할 수 있도록 경량화와 추론 가속 기술을 잇달아 공개한다. 모델 개방을 넘어 메모리와 속도, 구동 장비 등 AI 운영 부담을 함께 낮추"
     },
     {
       "source": "Semiconductor Engineering",
@@ -162,14 +234,6 @@ window.NEWS_DATA = {
       "desc": "Move signal processing back onto the host SerDes to reduce system power, latency, and thermal load. The post Linear Optics And The Push To S"
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "From Tokens To Tasks: Why Agentic AI Changes The Infrastructure Conversation",
-      "link": "https://semiengineering.com/from-tokens-to-tasks-why-agentic-ai-changes-the-infrastructure-conversation/",
-      "date": "Thu, 13 Aug 2026 07:02:34 +0000",
-      "desc": "As AI moves from answering prompts to completing work, infrastructure has to optimize the full workflow around the model. The post From Toke"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260812-TM-01호] 2026년 8월 12일 반도체 제조 관련 주요 뉴스 요약",
@@ -192,14 +256,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60856",
       "date": "2026-08-12 18:43:32",
       "desc": "파두가 늘어나는 고객 수요에 대응해 단기차입금을 늘렸다. 올해 메모리 반도체 호황으로 예년보다 많은 수주가 몰린 결과다.파두는 금융기관으로부터 단기차입금 100억원을 차입한다고 12일 공시했다. 자기자본의 40.92%다. 단기차입금은 기존 115억원에"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
-      "link": "https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/",
-      "date": "Wed, 12 Aug 2026 18:40:03 +0000",
-      "desc": "Meta squeezes 25% fewer servers from old DDR4 via CXL, but most firms face messy DIMM, power, and telemetry traps. The post Meta Cuts Server"
     },
     {
       "source": "디일렉",
@@ -298,14 +354,6 @@ window.NEWS_DATA = {
       "desc": "YMTC 낸드, 제재 우회로 삼전닉스 맹추격…CXMT보다 더 위협적 (2026년 8월 10일, 이데일리, 김소연·김형욱·최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=04752726645546008"
     },
     {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "KEA, 미래차부트캠프 대학생 AI 자율주행 경진대회 개최",
-      "link": "https://www.etnews.com/20260811000080",
-      "date": "Tue, 11 Aug 2026 10:04:53 +0900",
-      "desc": "한국전자정보통신산업진흥회(KEA)는 10일 교육부, 한국산업기술진흥원, 성균관대학교와 미래차·인공지능(AI) 분야 'Physical AI 인재 발굴 및 역량 강화'를 위해 '2026 전국 대학생 AI 자율주행 경진대회'를 성균관대 반도체관(경기 수원)"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "파두, 시스템 반도체 인재 채용",
@@ -320,14 +368,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60751",
       "date": "2026-08-10 19:10:47",
       "desc": "아이언디바이스가 삼성전자 모바일·태블릿용 스마트파워앰프 'SMA1305' 누적 판매량이 4년 만에 1억개를 돌파했다고 10일 밝혔다. SMA1305를 포함한 전체 스마트파워앰프 전체 누적 판매량은 3억7000만개를 기록했다.아이언디바이스는 2022년 "
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "LX세미콘, '국산' MCU, 현대차·기아에 공급",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60713",
-      "date": "2026-08-10 14:03:57",
-      "desc": "LX세미콘이 지난달부터 현대자동차, 기아에 차량용 반도체를 공급 중이라고 10일 밝혔다. 디스플레이 구동칩(DDI)에 집중된 매출 비중을 개선하기 위해 2022년부터 추진한 신사업의 첫 번째 성과다.LX세미콘은 모터 기능 특화 마이크로컨트롤러(MCU,"
     },
     {
       "source": "SPTA TIMES",
@@ -378,22 +418,6 @@ window.NEWS_DATA = {
       "desc": "AI 반도체 슈퍼사이클, '칩 경쟁'에서 '공급망/패키징/메모리 아키텍쳐 경쟁' 으로 진화 글쓴이: 이종욱 2026년 8월 2주차 글로벌 반도체 시장에서 나타난 가장 중요한 변화는 바로 이 같은 산업 구조의 전환이다. 과거 반도체 경쟁의 핵심이 미세공"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60694",
-      "date": "2026-08-07 17:26:52",
-      "desc": "SK하이닉스가 총 54조3000억원을 투자해 용인과 청주에 신규 반도체 팹을 건설한다. SK하이닉스는 7일 이사회에서 용인 반도체 클러스터 2번째 팹 'Y2', 청주 신규 팹 'M17' 건설에 각각 35조2000억원, 19조1000억원을 투자하기로 결"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "경영권 참여 손 뗀 日 라피스…LB세미콘 지분 정리 수순",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60624",
-      "date": "2026-08-07 15:30:33",
-      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 LB세미콘 지배구조 변화가 감지된다. 주요 주주 일본 라피스 세미컨덕터(라피스)가 22년 만에 경영권 정리를 공식화했다. 대규모 지분 매"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260807-TE-01호] 2026년 8월 7일 반도체 장비 관련 주요 뉴스 요약",
@@ -416,62 +440,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260806-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-6%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Fri, 07 Aug 2026 01:03:48 GMT",
       "desc": "버벅이는 AI, 메모리 부족 때문…SK하이닉스가 HBF에 집중하는 이유 (2026년 8월 6일, 아주경제, 조성준 기자) 원문보기 : https://www.ajunews.com/view/20260806152234128 [핵심 요약] [1] AI 성능 "
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260806-TE-01호] 2026년 8월 6일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260806-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-6%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 00:59:14 GMT",
-      "desc": "반도체 장비도 공급부족 … ASML \"내년 물량 계약완료\" (2026년 8월 6일, 매일경제, 이덕주 기자) 원문보기 : https://www.mk.co.kr/news/business/12119466 [핵심 요약] [1] ASML, 내년 장비 생산 물"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260806-TM-01호] 2026년 8월 6일 반도체 제조 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260806-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-6%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 00:53:33 GMT",
-      "desc": "엔비디아도 HBM 원가 부담↑..삼성전자·SK하이닉스는 '탄탄대로' (2026년 8월 6일, 머니투데이, 최지은 기자) 원문보기 : https://www.mt.co.kr/industry/2026/08/06/2026080614030820066 [핵심 요"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260806-TI-01호] 2026년 8월 6일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260806-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-6%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 00:47:32 GMT",
-      "desc": "메모리, 세계 반도체 대세로… 올해 비중 60% 전망 (2026년 8월 6일, 디지털타임스, 이상현 기자) 원문보기 : https://www.dt.co.kr/article/12076837?ref=naver [핵심 요약] [1] 메모리 반도체, 사상 처"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "텔레칩스, 2분기 흑자전환…IVI 칩 매출 확대",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60654",
-      "date": "2026-08-06 19:10:09",
-      "desc": "텔레칩스가 올해 2분기 차량용 인포테인먼트(IVI) 칩 매출이 늘며 흑자전환에 성공했다.텔레칩스는 지난 2분기 매출 592억원을 기록해 전년 동기 대비 33.6% 증가했다고 6일 공시했다. 영업이익은 31억8000만원을 나타냈다. 영업이익률은 같은 기"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "샌디스크, FMS 2026서 HBF등 AI 추론용 낸드 기술 공개",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60644",
-      "date": "2026-08-06 16:58:42",
-      "desc": "샌디스크가 'FMS(Future of Memory and Storage) 2026'에서 인공지능(AI)용 차세대 낸드 기술을 공개한다고 6일 밝혔다.샌디스크가 행사에서 공개할 기술은 고대역폭플래시(HBF)와 차세대 낸드, 기업용 솔리드스테이트드라이브("
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "DB하이텍, 모아팹에 MEMS 장비 기증",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60627",
-      "date": "2026-08-06 16:28:39",
-      "desc": "DB하이텍이 국가 나노팹 통합 플랫폼 모아팹에 공정 장비를 이전하고 팹 역량 강화를 지원한다고 6일 밝혔다.DB하이텍은 6일 충북 음성 상우캠퍼스에서 과학기술정보통신부(과기정통부)와 모아팹과 함께 반도체 장비 이전 협약식을 열었다. DB하이텍이 보유한"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260805-TI-01호] 2026년 8월 5일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260805-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-5%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Thu, 06 Aug 2026 00:49:36 GMT",
-      "desc": "반도체 고점론 '머쓱'… 빅테크 역대급 실적에 머스크도 \"메모리 부족\" (2026년 8월 5일, 파이낸셜뉴스, 김경민 • 정원일 기자) 원문보기 : https://www.fnnews.com/news/202608051829034362 [핵심 요약] [1"
     },
     {
       "source": "삼성 뉴스룸",
