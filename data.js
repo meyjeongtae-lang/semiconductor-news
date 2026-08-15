@@ -1,13 +1,45 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-14T22:54:12.338Z",
+  "fetchedAt": "2026-08-15T22:51:02.119Z",
   "items": [
     {
-      "source": "한국경제",
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+      "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+      "date": "Sat, 15 Aug 2026 13:00:01 +0000",
+      "desc": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are locati"
+    },
+    {
+      "source": "ZDNet Korea",
       "type": "kr",
-      "title": "상용화 속도내는 HBF… HBM 독주깰까 [한경 반도체포커스]",
-      "link": "https://www.hankyung.com/article/202608142489i",
-      "date": "Sat, 15 Aug 2026 07:00:02 +0900",
-      "desc": ""
+      "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유",
+      "link": "https://zdnet.co.kr/view/?no=20260815145938",
+      "date": "Sat, 15 Aug 2026 18:55:51 +0900",
+      "desc": "[지디넷코리아]글로벌 인공지능(AI) 반도체 기업 엔비디아가 일론 머스크의 우주 기업 스페이스X와 미국 반도체 기업 인텔에 각각 수백억 달러 규모 지분을 보유하고 있다고 공시했다.엔비디아가 스페이스X 주식 1억2280만 주(약 210억 달러)와 인텔 "
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, 재산분할 9440억원 판결 재상고",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61008",
+      "date": "2026-08-15 09:25:58",
+      "desc": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 재산분할금 9440억원을 지급하라는 파기환송심 판결에 불복해 재상고했다. 지난 2017년 시작된 이혼 소송이 다시 대법원 판단을 받게 됐다.15일 법조계에 따르면 최 회장 측은 전날 서울고법 가사1"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전기·LG이노텍, 상반기 패키지기판 가동률 급등",
+      "link": "https://zdnet.co.kr/view/?no=20260814160734",
+      "date": "Sat, 15 Aug 2026 09:00:01 +0900",
+      "desc": "[지디넷코리아]삼성전기와 LG이노텍의 반도체 기판 사업이 강력한 성장세를 보이고 있다. 올 상반기 양사의 반도체 기판 생산라인 평균 가동률은 90% 내외를 기록했다. 15일 삼성전기와 LG이노텍 반기보고서에 따르면 양사 반도체 기판 양산라인 평균 가동"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "2분기 美저가폰 출하량 64% 급감...메모리값 상승 여파",
+      "link": "https://zdnet.co.kr/view/?no=20260814162850",
+      "date": "Sat, 15 Aug 2026 08:00:01 +0900",
+      "desc": "[지디넷코리아]메모리 반도체 가격 급등으로 미국 저가 스마트폰 시장이 크게 위축됐다. 올해 2분기 100달러 미만 스마트폰 판매량은 전년 동기의 3분의 1 수준으로 급감했다. 15일 시장조사기관 카운터포인트리서치에 따르면 2분기 미국 시장에서 100달"
     },
     {
       "source": "디일렉",
@@ -354,20 +386,20 @@ window.NEWS_DATA = {
       "desc": "YMTC 낸드, 제재 우회로 삼전닉스 맹추격…CXMT보다 더 위협적 (2026년 8월 10일, 이데일리, 김소연·김형욱·최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=04752726645546008"
     },
     {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "KEA, 미래차부트캠프 대학생 AI 자율주행 경진대회 개최",
+      "link": "https://www.etnews.com/20260811000080",
+      "date": "Tue, 11 Aug 2026 10:04:53 +0900",
+      "desc": "한국전자정보통신산업진흥회(KEA)는 10일 교육부, 한국산업기술진흥원, 성균관대학교와 미래차·인공지능(AI) 분야 'Physical AI 인재 발굴 및 역량 강화'를 위해 '2026 전국 대학생 AI 자율주행 경진대회'를 성균관대 반도체관(경기 수원)"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "파두, 시스템 반도체 인재 채용",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60733",
       "date": "2026-08-10 19:13:00",
       "desc": "파두가 주니어급(신입~8년 이하 경력) 인력을 채용한다고 10일 밝혔다.파두는 오는 23일까지 채용 공고를 내고 신규 인력을 모집한다. 우수 인재를 선점하고 미래 기술경쟁력을 확보한다.이달 말 코딩 테스트를 거쳐 다음달 면접을 갖는다. 최종 합격된 인"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "아이언디바이스, 스마트파워앰프 'SMA1305' 누적 판매량 1억개 돌파",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60751",
-      "date": "2026-08-10 19:10:47",
-      "desc": "아이언디바이스가 삼성전자 모바일·태블릿용 스마트파워앰프 'SMA1305' 누적 판매량이 4년 만에 1억개를 돌파했다고 10일 밝혔다. SMA1305를 포함한 전체 스마트파워앰프 전체 누적 판매량은 3억7000만개를 기록했다.아이언디바이스는 2022년 "
     },
     {
       "source": "SPTA TIMES",
@@ -664,14 +696,6 @@ window.NEWS_DATA = {
       "link": "https://spectrum.ieee.org/gpu-performance-comparison",
       "date": "Thu, 23 Apr 2026 18:06:01 +0000",
       "desc": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "type": "intl",
-      "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
-      "link": "https://spectrum.ieee.org/ai-chip-design",
-      "date": "Wed, 22 Apr 2026 11:00:01 +0000",
-      "desc": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits ; in 2023, researchers used GPT-4 to help design an 8-bi"
     }
   ]
 };
