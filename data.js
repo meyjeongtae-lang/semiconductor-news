@@ -1,6 +1,78 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-15T22:51:02.119Z",
+  "fetchedAt": "2026-08-16T22:48:37.885Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "리벨리온, '초기 투자사' KB증권과 IPO 완주한다…한투는 결별",
+      "link": "https://zdnet.co.kr/view/?no=20260814173139",
+      "date": "Mon, 17 Aug 2026 06:00:02 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 반도체 스타트업 리벨리온이 기업공개(IPO) 공동 주관사를 한국투자증권에서 KB증권으로 전격 교체했다. 기존 공동 주관사인 한국투자증권이 최근 기술 유출 혐의로 리벨리온과 법적 공방 중인 디노티시아의 상장 주관을 맡자 이"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
+      "link": "https://zdnet.co.kr/view/?no=20260816234233",
+      "date": "Mon, 17 Aug 2026 01:12:34 +0900",
+      "desc": "[지디넷코리아]LG이노텍이 상반기 카메라 모듈 사업 이익률을 4.5%까지 회복했다. 최근 애플 카메라 모듈 시장 경쟁 심화와 설비투자 등으로 LG이노텍의 해당 카메라 모듈 사업 이익률은 2023~2025년 3% 전후로 떨어진 바 있다. 상반기 반도체 "
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩",
+      "link": "https://www.hankyung.com/article/2026081642247",
+      "date": "Sun, 16 Aug 2026 18:43:09 +0900",
+      "desc": ""
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"앞으로 반도체 쏠림 덜할 것\" [한경 프리미엄9 TODAY]",
+      "link": "https://www.hankyung.com/article/2026081641891",
+      "date": "Sun, 16 Aug 2026 18:21:01 +0900",
+      "desc": ""
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "반도체 소자 잡음 증폭…특정 신호 추출 성공",
+      "link": "https://zdnet.co.kr/view/?no=20260816131258",
+      "date": "Sun, 16 Aug 2026 13:12:58 +0900",
+      "desc": "[지디넷코리아]잡음(노이즈)은 신호처리에 나쁜 역할만 하는 것은 아니다. 임계치 이하의 신호 세기를 증폭시켜, 신호 감지에 도움을 주기도 한다. 뇌에서 특히, 그런 현상(확률적 반응)이 발생한다. 반면, 반도체에서 잡음은 주로 제거 대상이었다.국내 연"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[박준성의 SW] 한국 SW개발, 미국 1990년대...AI강국 걸림돌",
+      "link": "https://zdnet.co.kr/view/?no=20260816130106",
+      "date": "Sun, 16 Aug 2026 13:01:06 +0900",
+      "desc": "[지디넷코리아]AI 경쟁력은 단순히 우수한 AI 모델이나 반도체, 데이터와 같은 개별 자산만으로 결정되지 않는다. 인재와 교육, R&amp;D, 컴퓨팅과 반도체, 에너지와 디지털 인프라, 데이터 생태계, 민간의 기술과 투자, 정책과 거버넌스가 함께 작"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제 20260816-AI-01호] 2026년 8월 3주차 글로벌 반도체산업 관련 기사 분석",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20260816-ai-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
+      "date": "Sun, 16 Aug 2026 01:01:59 GMT",
+      "desc": "AI 반도체 경쟁, ‘칩 성능’에서 ‘메모리·연결·생산 생태계’ 경쟁으로 글쓴이: 이종욱 8월 3주차 글로벌 반도체 산업의 가장 중요한 변화는 중국 메모리 기업의 기술 추격이 단순한 생산능력 확대를 넘어 첨단 구조·공정·패키징 기술 확보 단계로 진입하"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라",
+      "link": "https://zdnet.co.kr/view/?no=20260816075443",
+      "date": "Sun, 16 Aug 2026 09:44:02 +0900",
+      "desc": "[지디넷코리아]구글·아마존·마이크로소프트(MS)·메타 등 글로벌 빅테크 기업들이 인공지능(AI) 경쟁력 확보를 목표로 천문학적인 투자에 나서고 있다.AI 모델 개발을 넘어 데이터센터·클라우드·반도체·로보틱스까지 투자 영역이 확대되면서 AI 패권 경쟁의"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "인텔 \"DDR4 지원 LGA 1700 프로세서 공급 지속\"",
+      "link": "https://zdnet.co.kr/view/?no=20260816080059",
+      "date": "Sun, 16 Aug 2026 09:06:04 +0900",
+      "desc": "[지디넷코리아]인텔이 데스크톱 CPU 플랫폼인 LGA 1700 기반 프로세서를 앞으로 상당 기간 동안 시장에 공급하겠다고 밝혔다.메모리 수급 불안과 DDR5 가격 상승으로 DDR4 메모리를 활용할 수 있는 PC 플랫폼 수요가 늘어나자 이에 대응하기 위"
+    },
     {
       "source": "IEEE Spectrum",
       "type": "intl",
@@ -10,36 +82,12 @@ window.NEWS_DATA = {
       "desc": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are locati"
     },
     {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유",
-      "link": "https://zdnet.co.kr/view/?no=20260815145938",
-      "date": "Sat, 15 Aug 2026 18:55:51 +0900",
-      "desc": "[지디넷코리아]글로벌 인공지능(AI) 반도체 기업 엔비디아가 일론 머스크의 우주 기업 스페이스X와 미국 반도체 기업 인텔에 각각 수백억 달러 규모 지분을 보유하고 있다고 공시했다.엔비디아가 스페이스X 주식 1억2280만 주(약 210억 달러)와 인텔 "
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "최태원, 재산분할 9440억원 판결 재상고",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=61008",
       "date": "2026-08-15 09:25:58",
       "desc": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 재산분할금 9440억원을 지급하라는 파기환송심 판결에 불복해 재상고했다. 지난 2017년 시작된 이혼 소송이 다시 대법원 판단을 받게 됐다.15일 법조계에 따르면 최 회장 측은 전날 서울고법 가사1"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "삼성전기·LG이노텍, 상반기 패키지기판 가동률 급등",
-      "link": "https://zdnet.co.kr/view/?no=20260814160734",
-      "date": "Sat, 15 Aug 2026 09:00:01 +0900",
-      "desc": "[지디넷코리아]삼성전기와 LG이노텍의 반도체 기판 사업이 강력한 성장세를 보이고 있다. 올 상반기 양사의 반도체 기판 생산라인 평균 가동률은 90% 내외를 기록했다. 15일 삼성전기와 LG이노텍 반기보고서에 따르면 양사 반도체 기판 양산라인 평균 가동"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "2분기 美저가폰 출하량 64% 급감...메모리값 상승 여파",
-      "link": "https://zdnet.co.kr/view/?no=20260814162850",
-      "date": "Sat, 15 Aug 2026 08:00:01 +0900",
-      "desc": "[지디넷코리아]메모리 반도체 가격 급등으로 미국 저가 스마트폰 시장이 크게 위축됐다. 올해 2분기 100달러 미만 스마트폰 판매량은 전년 동기의 3분의 1 수준으로 급감했다. 15일 시장조사기관 카운터포인트리서치에 따르면 2분기 미국 시장에서 100달"
     },
     {
       "source": "디일렉",
@@ -464,14 +512,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260807-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Fri, 07 Aug 2026 04:32:59 GMT",
       "desc": "AI 투자 경쟁, 조달 금리 싸움으로 (2026년 8월 7일, 조선일보, 최아리 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/07/KEYEJY2X6FCN5J7HKRFWFS74YQ/ [핵심 요약"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260806-TT-01호] 2026년 8월 6일 반도체 기술 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260806-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-6%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 01:03:48 GMT",
-      "desc": "버벅이는 AI, 메모리 부족 때문…SK하이닉스가 HBF에 집중하는 이유 (2026년 8월 6일, 아주경제, 조성준 기자) 원문보기 : https://www.ajunews.com/view/20260806152234128 [핵심 요약] [1] AI 성능 "
     },
     {
       "source": "삼성 뉴스룸",
