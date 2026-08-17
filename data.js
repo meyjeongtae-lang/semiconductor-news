@@ -1,53 +1,93 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-16T22:48:37.885Z",
+  "fetchedAt": "2026-08-17T22:54:31.246Z",
   "items": [
     {
-      "source": "ZDNet Korea",
+      "source": "디일렉",
       "type": "kr",
-      "title": "리벨리온, '초기 투자사' KB증권과 IPO 완주한다…한투는 결별",
-      "link": "https://zdnet.co.kr/view/?no=20260814173139",
-      "date": "Mon, 17 Aug 2026 06:00:02 +0900",
-      "desc": "[지디넷코리아]인공지능(AI) 반도체 스타트업 리벨리온이 기업공개(IPO) 공동 주관사를 한국투자증권에서 KB증권으로 전격 교체했다. 기존 공동 주관사인 한국투자증권이 최근 기술 유출 혐의로 리벨리온과 법적 공방 중인 디노티시아의 상장 주관을 맡자 이"
+      "title": "동운아나텍, 투자 수익으로 상반기 손실 메꿨다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61010",
+      "date": "2026-08-18 07:18:53",
+      "desc": "동운아나텍이 상반기 매출 569억원, 영업적자 69억원이라고 지난 14일 공시했다. 매출은 전년 동기(약 602억원) 대비 약 5.5% 감소했다. 영업이익은 적자로 전환했다.자동초점(AF)와 광학식 손떨림 보정(OIS) 등 스마트폰 카메라에 쓰이는 집"
     },
     {
-      "source": "ZDNet Korea",
+      "source": "디일렉",
       "type": "kr",
-      "title": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
-      "link": "https://zdnet.co.kr/view/?no=20260816234233",
-      "date": "Mon, 17 Aug 2026 01:12:34 +0900",
-      "desc": "[지디넷코리아]LG이노텍이 상반기 카메라 모듈 사업 이익률을 4.5%까지 회복했다. 최근 애플 카메라 모듈 시장 경쟁 심화와 설비투자 등으로 LG이노텍의 해당 카메라 모듈 사업 이익률은 2023~2025년 3% 전후로 떨어진 바 있다. 상반기 반도체 "
+      "title": "RFHIC, 상반기 GaN 트랜지스터 매출 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61009",
+      "date": "2026-08-18 07:16:57",
+      "desc": "RFHIC가 상반기 매출 946억원, 영업이익 189억원을 기록했다고 14일 공시했다. 전년 동기 대비 각각 23.7%, 57.5% 올랐다.RFHIC는 기지국 핵심 소자인 질화갈륨(GaN) 트랜지스터를 공급한다. 상반기 GaN 트랜지스터 매출은 320"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
+      "link": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/",
+      "date": "Mon, 17 Aug 2026 21:31:19 +0000",
+      "desc": "Researchers from Washington State University and University of Wisconsin–Madison published a technical paper titled “ReVolt: Power Delivery "
     },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩",
-      "link": "https://www.hankyung.com/article/2026081642247",
-      "date": "Sun, 16 Aug 2026 18:43:09 +0900",
+      "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
+      "link": "https://www.hankyung.com/article/2026081857277",
+      "date": "Tue, 18 Aug 2026 06:22:42 +0900",
       "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nvidia Bets on the Classical Side of Quantum Computing",
+      "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
+      "date": "Mon, 17 Aug 2026 18:31:00 +0000",
+      "desc": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets "
     },
     {
       "source": "한국경제",
       "type": "kr",
-      "title": "\"앞으로 반도체 쏠림 덜할 것\" [한경 프리미엄9 TODAY]",
-      "link": "https://www.hankyung.com/article/2026081641891",
-      "date": "Sun, 16 Aug 2026 18:21:01 +0900",
+      "title": "'유가 영향' 美 증시 약세… AI 낙관에 반도체주는 상승",
+      "link": "https://www.hankyung.com/article/202608175622i",
+      "date": "Mon, 17 Aug 2026 23:18:34 +0900",
       "desc": ""
     },
     {
       "source": "ZDNet Korea",
       "type": "kr",
-      "title": "반도체 소자 잡음 증폭…특정 신호 추출 성공",
-      "link": "https://zdnet.co.kr/view/?no=20260816131258",
-      "date": "Sun, 16 Aug 2026 13:12:58 +0900",
-      "desc": "[지디넷코리아]잡음(노이즈)은 신호처리에 나쁜 역할만 하는 것은 아니다. 임계치 이하의 신호 세기를 증폭시켜, 신호 감지에 도움을 주기도 한다. 뇌에서 특히, 그런 현상(확률적 반응)이 발생한다. 반면, 반도체에서 잡음은 주로 제거 대상이었다.국내 연"
+      "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
+      "link": "https://zdnet.co.kr/view/?no=20260817161731",
+      "date": "Mon, 17 Aug 2026 21:28:03 +0900",
+      "desc": "[지디넷코리아]글로벌 빅테크 주도로 인공지능(AI) 반도체와 AI 인프라 성능이 빠르게 고도화되면서, 첨단 냉각 기술 도입도 빨라질 것이란 전망이 나왔다. 17일 시장조사업체 트렌드포스는 전 세계 AI 칩에 액체냉각 기술을 적용하는 비중이 지난해 33"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Fluid-Side Observability Expands AI Hardware Reliability",
+      "link": "https://www.eetimes.com/fluid-side-observability-expands-ai-hardware-reliability/",
+      "date": "Mon, 17 Aug 2026 11:34:10 +0000",
+      "desc": "As AI systems increasingly rely on liquid cooling, coolant condition is emerging as a reliability signal. The post Fluid-Side Observability "
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "800VDC Pushes AI Power Design From Grid To Gate",
+      "link": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/",
+      "date": "Mon, 17 Aug 2026 07:01:48 +0000",
+      "desc": "The next power bottleneck is no longer just inside the accelerator — it is the full conversion path from medium-voltage AC to sub-1V silicon"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
+      "link": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/",
+      "date": "Mon, 17 Aug 2026 07:01:15 +0000",
+      "desc": "Bond testing is emerging as a critical control point for long-term performance and yield. The post Precision Under Pressure: Rethinking Bond"
     },
     {
       "source": "ZDNet Korea",
       "type": "kr",
-      "title": "[박준성의 SW] 한국 SW개발, 미국 1990년대...AI강국 걸림돌",
-      "link": "https://zdnet.co.kr/view/?no=20260816130106",
-      "date": "Sun, 16 Aug 2026 13:01:06 +0900",
-      "desc": "[지디넷코리아]AI 경쟁력은 단순히 우수한 AI 모델이나 반도체, 데이터와 같은 개별 자산만으로 결정되지 않는다. 인재와 교육, R&amp;D, 컴퓨팅과 반도체, 에너지와 디지털 인프라, 데이터 생태계, 민간의 기술과 투자, 정책과 거버넌스가 함께 작"
+      "title": "AI추론 확산...프론트엔드 스위치 시장 커진다",
+      "link": "https://zdnet.co.kr/view/?no=20260817125238",
+      "date": "Mon, 17 Aug 2026 12:52:38 +0900",
+      "desc": "[지디넷코리아]AI 인프라 무게중심이 대규모 모델 학습에서 추론과 에이전틱 AI로 이동하면서 데이터센터 네트워크 투자 대상도 달라질 것이란 전망이 나왔다. GPU를 대규모로 연결하는 백엔드 네트워크뿐 아니라 CPU와 스토리지 등을 연결하는 프론트엔드 "
     },
     {
       "source": "SPTA TIMES",
@@ -56,22 +96,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20260816-ai-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
       "date": "Sun, 16 Aug 2026 01:01:59 GMT",
       "desc": "AI 반도체 경쟁, ‘칩 성능’에서 ‘메모리·연결·생산 생태계’ 경쟁으로 글쓴이: 이종욱 8월 3주차 글로벌 반도체 산업의 가장 중요한 변화는 중국 메모리 기업의 기술 추격이 단순한 생산능력 확대를 넘어 첨단 구조·공정·패키징 기술 확보 단계로 진입하"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라",
-      "link": "https://zdnet.co.kr/view/?no=20260816075443",
-      "date": "Sun, 16 Aug 2026 09:44:02 +0900",
-      "desc": "[지디넷코리아]구글·아마존·마이크로소프트(MS)·메타 등 글로벌 빅테크 기업들이 인공지능(AI) 경쟁력 확보를 목표로 천문학적인 투자에 나서고 있다.AI 모델 개발을 넘어 데이터센터·클라우드·반도체·로보틱스까지 투자 영역이 확대되면서 AI 패권 경쟁의"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "인텔 \"DDR4 지원 LGA 1700 프로세서 공급 지속\"",
-      "link": "https://zdnet.co.kr/view/?no=20260816080059",
-      "date": "Sun, 16 Aug 2026 09:06:04 +0900",
-      "desc": "[지디넷코리아]인텔이 데스크톱 CPU 플랫폼인 LGA 1700 기반 프로세서를 앞으로 상당 기간 동안 시장에 공급하겠다고 밝혔다.메모리 수급 불안과 DDR5 가격 상승으로 DDR4 메모리를 활용할 수 있는 PC 플랫폼 수요가 늘어나자 이에 대응하기 위"
     },
     {
       "source": "IEEE Spectrum",
@@ -234,14 +258,6 @@ window.NEWS_DATA = {
       "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 윈팩이 2분기 영업이익 흑자전환에 성공했다고 13일 밝혔다.올해 2분기 매출은 302억원, 영업이익 8억원​을 기록했다. 매출은 전년 동"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "AI’s Next Bottleneck Is Public Consent",
-      "link": "https://www.eetimes.com/ais-next-bottleneck-is-public-consent/",
-      "date": "Thu, 13 Aug 2026 14:13:06 +0000",
-      "desc": "AI’s next choke point isn’t chips—it’s public trust as states slow data centers over power, water, and secrecy. The post AI&#8217;s Next Bot"
-    },
-    {
       "source": "Semiconductor Engineering",
       "type": "intl",
       "title": "The 1-Megawatt Rack Debate",
@@ -288,30 +304,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads/",
       "date": "Thu, 13 Aug 2026 07:06:43 +0000",
       "desc": "Vision-only edge processors are giving way to systems where LLMs, VLMs, and generative features sit alongside traditional perception network"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Is Pergrammable A Word?",
-      "link": "https://semiengineering.com/is-pergrammable-a-word/",
-      "date": "Thu, 13 Aug 2026 07:05:36 +0000",
-      "desc": "SoC architects need AI silicon that is both highly efficient and fully programmable. The post Is Pergrammable A Word? appeared first on Semi"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "What Will It Take To Deploy CPO At Scale?",
-      "link": "https://semiengineering.com/what-will-it-take-to-deploy-cpo-at-scale/",
-      "date": "Thu, 13 Aug 2026 07:04:42 +0000",
-      "desc": "The path to widespread deployment of co-packaged optics depends on solving challenges in manufacturing, testing, and operations. The post Wh"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Linear Optics And The Push To Scale AI Interconnects",
-      "link": "https://semiengineering.com/linear-optics-and-the-push-to-scale-ai-interconnects/",
-      "date": "Thu, 13 Aug 2026 07:03:53 +0000",
-      "desc": "Move signal processing back onto the host SerDes to reduce system power, latency, and thermal load. The post Linear Optics And The Push To S"
     },
     {
       "source": "SPTA TIMES",
@@ -410,14 +402,6 @@ window.NEWS_DATA = {
       "desc": "반도체 전자설계자동화(EDA) 툴 업체 지멘스 EDA가 인공지능(AI)으로 반도체 설계 시간을 10배 높이는 방법을 소개했다. 복잡해지는 반도체 설계에 맞춰 멀티 에이전트 AI를 활용하는 것이 핵심이다.앵커 굽타 지멘스 EDA IC 제품 부문 수석부사"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "35억대 기기에 탑재…퀄컴 스냅드래곤 '퍼스널 AI'로 확장",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60790",
-      "date": "2026-08-11 17:00:00",
-      "desc": "퀄컴이 스냅드래곤 적용 기기를 확대한다. 스마트폰, 자동차, PC를 넘어 개인화 인공지능(AI) 시대에 선제적으로 대응해 시장 지배력을 높인다.11일 퀄컴에 따르면 전 세계 35억대 기기에 스냅드래곤 플랫폼이 탑재됐다. 2007년 스마트폰에서 시작해 "
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260810-TE-01호] 2026년 8월 10일 반도체 장비 관련 주요 뉴스 요약",
@@ -440,14 +424,6 @@ window.NEWS_DATA = {
       "link": "https://www.etnews.com/20260811000080",
       "date": "Tue, 11 Aug 2026 10:04:53 +0900",
       "desc": "한국전자정보통신산업진흥회(KEA)는 10일 교육부, 한국산업기술진흥원, 성균관대학교와 미래차·인공지능(AI) 분야 'Physical AI 인재 발굴 및 역량 강화'를 위해 '2026 전국 대학생 AI 자율주행 경진대회'를 성균관대 반도체관(경기 수원)"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "파두, 시스템 반도체 인재 채용",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60733",
-      "date": "2026-08-10 19:13:00",
-      "desc": "파두가 주니어급(신입~8년 이하 경력) 인력을 채용한다고 10일 밝혔다.파두는 오는 23일까지 채용 공고를 내고 신규 인력을 모집한다. 우수 인재를 선점하고 미래 기술경쟁력을 확보한다.이달 말 코딩 테스트를 거쳐 다음달 면접을 갖는다. 최종 합격된 인"
     },
     {
       "source": "SPTA TIMES",
@@ -512,14 +488,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260807-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Fri, 07 Aug 2026 04:32:59 GMT",
       "desc": "AI 투자 경쟁, 조달 금리 싸움으로 (2026년 8월 7일, 조선일보, 최아리 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/07/KEYEJY2X6FCN5J7HKRFWFS74YQ/ [핵심 요약"
-    },
-    {
-      "source": "삼성 뉴스룸",
-      "type": "corp",
-      "title": "삼성전자, FMS 2026서 차세대 3D 메모리 비전 제시",
-      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-fms-2026%ec%84%9c-%ec%b0%a8%ec%84%b8%eb%8c%80-3d-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%b9%84%ec%a0%84-%ec%a0%9c%ec%8b%9c",
-      "date": "Wed, 05 Aug 2026 04:30:00 +0000",
-      "desc": "삼성전자가 8월 4일부터 6일(현지시간)까지 미국 캘리포니아주 산타클라라 컨벤션센터에서 열리는 ‘FMS(Future of Memory and Storage) 2026’에 참가해 차세대 3D 메모리 아키텍처인 zHBM과 zNAND-O의 목업(Mock-u"
     },
     {
       "source": "IEEE Spectrum",
