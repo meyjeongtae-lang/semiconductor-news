@@ -1,6 +1,70 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-17T22:54:31.246Z",
+  "fetchedAt": "2026-08-18T22:55:54.150Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"만들기 무섭게 팔려나간다\"…반도체만큼 잘 나가는 '이것' [분석+]",
+      "link": "https://www.hankyung.com/article/2026081875356",
+      "date": "Wed, 19 Aug 2026 06:30:04 +0900",
+      "desc": ""
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "채권자경단 '패닉 버튼' 누를까…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202608198257i",
+      "date": "Wed, 19 Aug 2026 02:25:01 +0900",
+      "desc": ""
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Marvell Targets AI Bottlenecks with Memory-Disaggregation Portfolio",
+      "link": "https://www.eetimes.com/marvell-targets-ai-bottlenecks-with-memory-disaggregation-portfolio/",
+      "date": "Tue, 18 Aug 2026 14:39:27 +0000",
+      "desc": "Marvell attacks AI’s memory choke point with SSD, CXL, and photonic fabrics to push data nearer compute. The post Marvell Targets AI Bottlen"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "국채수익률 상승 여파로 美 증시 하락…반도체주 일제 하락",
+      "link": "https://www.hankyung.com/article/202608188217i",
+      "date": "Tue, 18 Aug 2026 23:12:15 +0900",
+      "desc": ""
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"中 CXMT 설립 때부터 삼성전자 D램 기술 탈취\"",
+      "link": "https://www.hankyung.com/article/2026081882061",
+      "date": "Tue, 18 Aug 2026 22:50:03 +0900",
+      "desc": ""
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "MS, 메모리 대란에 윈도11 '8GB 노트북 최적화' 방향 선회",
+      "link": "https://zdnet.co.kr/view/?no=20260818160722",
+      "date": "Tue, 18 Aug 2026 17:24:28 +0900",
+      "desc": "[지디넷코리아]메모리 가격 상승으로 노트북 제조사의 원가 부담이 커지는 가운데, 8GB 메모리를 탑재한 보급형 PC가 다시 주목받고 있다. 마이크로소프트는 8GB 이상 메모리를 탑재한 PC에서 보다 원활하게 작동하도록 PC용 운영체제 '윈도11'의 메"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "CMTX, 2분기 영업이익률 33%...\"11분기 연속 매출 성장\"",
+      "link": "https://zdnet.co.kr/view/?no=20260818171032",
+      "date": "Tue, 18 Aug 2026 17:18:43 +0900",
+      "desc": "[지디넷코리아]반도체 공정 부품업체 씨엠티엑스(CMTX)가 2분기 매출 479억원, 영업이익 156억원을 기록했다고 18일 밝혔다. 전년 동기보다 매출은 18%, 영업이익은 19억원 늘었다. 영업이익률은 33%다. 상반기 누적 실적은 매출 920억원,"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why Standardized Interfaces Are Critical to Accelerating Humanoid Development",
+      "link": "https://www.eetimes.com/why-standardized-interfaces-are-critical-to-accelerating-humanoid-development/",
+      "date": "Tue, 18 Aug 2026 08:15:00 +0000",
+      "desc": "Humanoids won’t scale on AI hype alone; standardized MIPI interfaces can cut power, wiring, and cost. The post Why Standardized Interfaces A"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -20,18 +84,58 @@ window.NEWS_DATA = {
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Aug. 18",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/",
+      "date": "Tue, 18 Aug 2026 07:01:59 +0000",
+      "desc": "2D CFET scaling; PIM chiplet voltage-droop control; advanced-node layout repair; lithography defect prediction; 3D-IC failure analysis; chip"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+      "link": "https://semiengineering.com/chip-industry-earnings-roundup/",
+      "date": "Tue, 18 Aug 2026 07:01:24 +0000",
+      "desc": "Company-by-company breakdown: Earnings across 80 semiconductor companies show AI-driven demand extending well beyond the usual suspects. The"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Research Bits: Aug. 18",
+      "link": "https://semiengineering.com/research-bits-aug-18/",
+      "date": "Tue, 18 Aug 2026 07:01:22 +0000",
+      "desc": "Edge AI hardware/algorithm co-design; memtransistor with programmable response speeds; artificial synapse with long- and short-term memory. "
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260817-TE-01호] 2026년 8월 17일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260817-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-17%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 18 Aug 2026 00:49:32 GMT",
+      "desc": "\"수주물량 70%가 반도체\"…공작기계 공장 '풀가동' (2026년 8월 17일, 한국경제, 이광식 기자) 원문보기: https://www.hankyung.com/article/2026081641641 [핵심 요약] [1] 반도체가 공작기계 최대 수요처"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260817-TM-01호] 2026년 8월 17일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260817-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-17%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 18 Aug 2026 00:48:23 GMT",
+      "desc": "정부 '반도체 속도전' 반영…SKH, 용인·청주 증설 총력 (2026년 8월 17일, 아주경제, 조성준 기자) 원문보기: https://www.ajunews.com/view/20260817140812474 [핵심 요약] [1] 용인 1기 팹 첫 클린룸"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260817-TI-01호] 2026년 8월 17일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260817-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-17%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 18 Aug 2026 00:47:01 GMT",
+      "desc": "\"국산 NPU 영토확장\"…딥엑스, 양산 첫해 글로벌 수주 77건 기록 (2026년 8월 17일, 머니투데이, 최태범 기자) 원문보기: https://www.mt.co.kr/future/2026/08/17/2026081710112780607 [핵심 요약"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
       "title": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
       "link": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/",
       "date": "Mon, 17 Aug 2026 21:31:19 +0000",
       "desc": "Researchers from Washington State University and University of Wisconsin–Madison published a technical paper titled “ReVolt: Power Delivery "
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
-      "link": "https://www.hankyung.com/article/2026081857277",
-      "date": "Tue, 18 Aug 2026 06:22:42 +0900",
-      "desc": ""
     },
     {
       "source": "EE Times",
@@ -40,22 +144,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
       "date": "Mon, 17 Aug 2026 18:31:00 +0000",
       "desc": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets "
-    },
-    {
-      "source": "한국경제",
-      "type": "kr",
-      "title": "'유가 영향' 美 증시 약세… AI 낙관에 반도체주는 상승",
-      "link": "https://www.hankyung.com/article/202608175622i",
-      "date": "Mon, 17 Aug 2026 23:18:34 +0900",
-      "desc": ""
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
-      "link": "https://zdnet.co.kr/view/?no=20260817161731",
-      "date": "Mon, 17 Aug 2026 21:28:03 +0900",
-      "desc": "[지디넷코리아]글로벌 빅테크 주도로 인공지능(AI) 반도체와 AI 인프라 성능이 빠르게 고도화되면서, 첨단 냉각 기술 도입도 빨라질 것이란 전망이 나왔다. 17일 시장조사업체 트렌드포스는 전 세계 AI 칩에 액체냉각 기술을 적용하는 비중이 지난해 33"
     },
     {
       "source": "EE Times",
@@ -80,14 +168,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/",
       "date": "Mon, 17 Aug 2026 07:01:15 +0000",
       "desc": "Bond testing is emerging as a critical control point for long-term performance and yield. The post Precision Under Pressure: Rethinking Bond"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "AI추론 확산...프론트엔드 스위치 시장 커진다",
-      "link": "https://zdnet.co.kr/view/?no=20260817125238",
-      "date": "Mon, 17 Aug 2026 12:52:38 +0900",
-      "desc": "[지디넷코리아]AI 인프라 무게중심이 대규모 모델 학습에서 추론과 에이전틱 AI로 이동하면서 데이터센터 네트워크 투자 대상도 달라질 것이란 전망이 나왔다. GPU를 대규모로 연결하는 백엔드 네트워크뿐 아니라 CPU와 스토리지 등을 연결하는 프론트엔드 "
     },
     {
       "source": "SPTA TIMES",
@@ -226,14 +306,6 @@ window.NEWS_DATA = {
       "desc": "\"납품된 제품인데 영상도 내지 않으면서 믿어달라는 건 받아들이기 어렵다.\"13일 서울중앙지법 제63민사부 심리로 열린 HPSP와 예스티의 특허침해금지 소송 5차 변론. HPSP 측 대리인은 예스티가 삼성전자에 공급한 고압수소어닐링(HPA) 장비의 구동"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Smartphone Makers Squeezed by Soaring Chip Costs",
-      "link": "https://www.eetimes.com/smartphone-makers-squeezed-by-soaring-chip-costs/",
-      "date": "Thu, 13 Aug 2026 18:47:35 +0000",
-      "desc": "Chip costs are gutting smartphone margins; expect pricier iPhones and fewer cheap phones. The post Smartphone Makers Squeezed by Soaring Chi"
-    },
-    {
       "source": "디일렉",
       "type": "kr",
       "title": "팹리스협회-케이던스, 국내 팹리스 경쟁력 강화 협업",
@@ -280,30 +352,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip/",
       "date": "Thu, 13 Aug 2026 07:11:36 +0000",
       "desc": "As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. The post Cop"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
-      "link": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
-      "date": "Thu, 13 Aug 2026 07:08:19 +0000",
-      "desc": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The P"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
-      "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
-      "date": "Thu, 13 Aug 2026 07:07:35 +0000",
-      "desc": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post W"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge And Automotive Workloads",
-      "link": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads/",
-      "date": "Thu, 13 Aug 2026 07:06:43 +0000",
-      "desc": "Vision-only edge processors are giving way to systems where LLMs, VLMs, and generative features sit alongside traditional perception network"
     },
     {
       "source": "SPTA TIMES",
@@ -418,14 +466,6 @@ window.NEWS_DATA = {
       "desc": "YMTC 낸드, 제재 우회로 삼전닉스 맹추격…CXMT보다 더 위협적 (2026년 8월 10일, 이데일리, 김소연·김형욱·최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=04752726645546008"
     },
     {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "KEA, 미래차부트캠프 대학생 AI 자율주행 경진대회 개최",
-      "link": "https://www.etnews.com/20260811000080",
-      "date": "Tue, 11 Aug 2026 10:04:53 +0900",
-      "desc": "한국전자정보통신산업진흥회(KEA)는 10일 교육부, 한국산업기술진흥원, 성균관대학교와 미래차·인공지능(AI) 분야 'Physical AI 인재 발굴 및 역량 강화'를 위해 '2026 전국 대학생 AI 자율주행 경진대회'를 성균관대 반도체관(경기 수원)"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260809-TT-01호] 2026년 8월 9일 반도체 기술 관련 주요 뉴스 요약",
@@ -464,30 +504,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%ED%8A%B9%EB%B3%84%EA%B8%B0%EA%B3%A0-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%8B%A4%EB%AC%B4%EA%B5%90%EC%9C%A1-%EC%88%98%EB%A3%8C%EC%83%9D-1%EB%A7%8C-%EB%AA%85-%EC%9D%B4%EC%A0%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-1%EB%A7%8C-%EB%AA%85%EC%9D%84-%ED%96%A5%ED%95%B4",
       "date": "Sun, 09 Aug 2026 01:29:46 GMT",
       "desc": "반도체 인재양성의 본질은 ‘아는 사람’이 아니라 ‘할 수 있는 사람’을 만드는 데 있다 글쓴이: 이종욱 Semiconductor Process Technology Academy(SPTA)의 반도체 공정실습 교육 수료생이 마침내 1만 명을 넘어섰다. 숫"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제 20260809-AI-01호] 2026년 8월 2주차 글로벌 반도체산업 관련 기사 분석",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20260809-ai-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
-      "date": "Sun, 09 Aug 2026 01:09:57 GMT",
-      "desc": "AI 반도체 슈퍼사이클, '칩 경쟁'에서 '공급망/패키징/메모리 아키텍쳐 경쟁' 으로 진화 글쓴이: 이종욱 2026년 8월 2주차 글로벌 반도체 시장에서 나타난 가장 중요한 변화는 바로 이 같은 산업 구조의 전환이다. 과거 반도체 경쟁의 핵심이 미세공"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260807-TE-01호] 2026년 8월 7일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260807-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-7%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 04:34:04 GMT",
-      "desc": "삼전닉스 공정역량·정부 지원·독자 생태계 갖춰 한국판 ASML 키울 때 (2026년 8월 7일, 이데일리, 송재민 기자) 원문보기 : https://www.edaily.co.kr/News/Read?newsId=01813846645545024&#38;m"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260807-TI-01호] 2026년 8월 7일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260807-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Fri, 07 Aug 2026 04:32:59 GMT",
-      "desc": "AI 투자 경쟁, 조달 금리 싸움으로 (2026년 8월 7일, 조선일보, 최아리 기자) 원문보기 : https://www.chosun.com/economy/tech_it/2026/08/07/KEYEJY2X6FCN5J7HKRFWFS74YQ/ [핵심 요약"
     },
     {
       "source": "IEEE Spectrum",
