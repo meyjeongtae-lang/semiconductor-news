@@ -1,6 +1,198 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-19T22:55:38.432Z",
+  "fetchedAt": "2026-08-20T23:00:06.417Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍, 인도 전자산업 전시회 '일렉트로니카 인디아' 참가",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61176",
+      "date": "2026-08-21 07:38:55",
+      "desc": "DB하이텍이 인도 시장 공략을 본격화한다고 20일 밝혔다.DB하이텍은 다음달 16~18일(현지시간) 인도 벵갈루루에서 열리는 일렉트로니카 인디어 2026에 참가한다. 일렉트로니카 인디아는 남아시아 전자산업 전시회로 전자부품과 시스템, 애플리케이션 솔루"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 성과급 60% 주식 지급 잠정 합의...통합 노조 의식",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61177",
+      "date": "2026-08-20 18:27:05",
+      "desc": "SK하이닉스 노사가 성과급 60%를 주식 지급하기로 잠정합의했다. 적자 상황 시 노사가 함께 대응하는 단체교섭안도 마련했다. SK하이닉스는 20일 구성원들에게 임금·단체협약(임단협)의 주요 합의 사항에 대해 안내하는 설명회를 청주·이천에서 열었다. 임"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "프라임마스, CXL 솔루션 'JBOM'으로 2800억원 매출 도전",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61173",
+      "date": "2026-08-20 18:12:03",
+      "desc": "프라임마스가 서버 하나로 100TB 이상 메모리 용량을 지원하는 컴퓨트 익스프레스 링크(CXL) 메모리 솔루션으로 내년 말까지 매출 2억달러(약 2800억원)를 올리겠다고 밝혔다. 박일 프라임마스 대표는 20일 경기 성남 사옥에서 기자간담회를 열고 C"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, CPO 청사진 공개…\"메모리도 빛으로 연결\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61167",
+      "date": "2026-08-20 15:45:48",
+      "desc": "SK하이닉스가 공동패키지광학(CPO) 기술 청사진을 담은 논문을 세계적 학술지 '네이처 일렉트로닉스'에 게재했다고 20일 밝혔다.논문 제목은 '고성능 컴퓨팅, 인공지능을 위한 CPO 기술(Co-packaged optics for high-perform"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
+      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
+      "date": "Thu, 20 Aug 2026 14:07:45 +0000",
+      "desc": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems dema"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[단독] 李, 최태원과 비공개 회동…반도체팹 건설 등 현안 논의",
+      "link": "https://www.hankyung.com/article/2026082033851",
+      "date": "Thu, 20 Aug 2026 22:43:45 +0900",
+      "desc": ""
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "프라임마스, 마이크론과 100TB급 CXL 메모리 구현…美DOE 프로젝트 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260820221610",
+      "date": "Thu, 20 Aug 2026 22:29:08 +0900",
+      "desc": "[지디넷코리아]국내 팹리스(반도체 설계전문) 프라임마스가 마이크론과 손잡고 100테라바이트(TB)를 넘어서는 컴퓨트 익스프레스 링크(CXL) 기반 풀드 메모리 사업에 나선다. 미국 정부가 지원하는 인공지능(AI)·고성능컴퓨팅(HPC) 프로젝트에 참여해"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[단독] 李 대통령, 최태원과 비공개 회동…반도체 투자 논의한 듯",
+      "link": "https://www.hankyung.com/article/202608203352i",
+      "date": "Thu, 20 Aug 2026 22:00:21 +0900",
+      "desc": ""
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[카드뉴스] 대만 반도체, 진짜 방패일까",
+      "link": "https://zdnet.co.kr/view/?no=20260820094241",
+      "date": "Thu, 20 Aug 2026 19:55:32 +0900",
+      "desc": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 '대만 반도체는 정말 안전을 지켜주는 방패일까?'라는 흥미로운 주제로 준비된 카드뉴스를 소개해드릴게요. 대만은 세상에서 가장 작은 칩의 92%를 만들어낼 만큼 압도적인 반도체 생산국인데요, 특히"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자 초기업노조 “공동교섭단 구성 안해…DX 분리교섭 신청해야”",
+      "link": "https://www.etnews.com/20260820000411",
+      "date": "Thu, 20 Aug 2026 18:41:21 +0900",
+      "desc": "삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성지부(초기업노조)가 내년 임금 협상에서 공동교섭단을 구성하지 않겠다고 밝혔다. 초기업노조는 20일 삼성전자 노동조합 동행(동행노조)에 이같은 내용을 담은 공문을 발송했다. 초기업노조는 반도체 사업부인"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI·반도체 전력수요 폭증…2040년 전망 4개월 만에 대폭 상향",
+      "link": "https://zdnet.co.kr/view/?no=20260820150244",
+      "date": "Thu, 20 Aug 2026 18:26:25 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 데이터센터와 반도체 대규모 투자계획이 구체화되면서 정부의 2040년 전력수요 전망치가 불과 4개월 만에 20% 넘게 뛰었다. 경제성장률 조정보다는 반도체 클러스터와 AI 데이터센터 등 신규 투자에 따른 전력수요가 재전망의"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "로옴, 1005 사이즈 서지 보호 칩 저항기 'SDR01 시리즈' 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260820172218",
+      "date": "Thu, 20 Aug 2026 18:00:54 +0900",
+      "desc": "[지디넷코리아]글로벌 반도체·전자부품 기업 로옴(ROHM)이 고밀도 실장 환경에 최적화된 초소형·고전력 칩 저항기 신제품을 선보였다.로옴은 인공지능(AI) 서버, 자동차, 산업기기, 민생기기 등 전자기기의 전원 및 제어 회로용으로 1005 사이즈(1."
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
+      "link": "https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/",
+      "date": "Thu, 20 Aug 2026 07:06:29 +0000",
+      "desc": "By measuring each wafer after lithography and adjusting the next etch step, fabs can pull more wafers back into spec. The post Don&#8217;t S"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Research To Production: Collaboration Is Key For Semiconductor Innovation",
+      "link": "https://semiengineering.com/from-research-to-production-collaboration-is-key-for-semiconductor-innovation/",
+      "date": "Thu, 20 Aug 2026 07:03:43 +0000",
+      "desc": "Semiconductor R&#038;D depends on access to high-quality data, realistic process assumptions, and practical learning from silicon. The post "
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Will The Custom HBM Business Work?",
+      "link": "https://semiengineering.com/how-will-the-custom-hbm-business-work/",
+      "date": "Thu, 20 Aug 2026 07:02:29 +0000",
+      "desc": "There is no one-size-fits-all — yet. The post How Will The Custom HBM Business Work? appeared first on Semiconductor Engineering ."
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation",
+      "link": "https://semiengineering.com/reducing-scope-3-value-chain-emissions-for-customers-through-sustainability-and-innovation/",
+      "date": "Thu, 20 Aug 2026 07:02:04 +0000",
+      "desc": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. Th"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
+      "link": "https://semiengineering.com/three-strategic-imperatives-for-energy-efficient-ai-computing/",
+      "date": "Thu, 20 Aug 2026 07:01:40 +0000",
+      "desc": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic "
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Managing Thermal Expansion And Electromigration Through Interposer Design",
+      "link": "https://semiengineering.com/managing-thermal-expansion-and-electromigration-through-interposer-design/",
+      "date": "Thu, 20 Aug 2026 07:01:37 +0000",
+      "desc": "New deep learning models may provide a pathway for modeling warpage. The post Managing Thermal Expansion And Electromigration Through Interp"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "CFETs Forge Better Connections",
+      "link": "https://semiengineering.com/cfets-forge-better-connections/",
+      "date": "Thu, 20 Aug 2026 07:01:04 +0000",
+      "desc": "Performance advantage may come down to material choices and precise interconnect decisions. The post CFETs Forge Better Connections appeared"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이큐랩, '매출 부풀리기' 의혹에 압수수색",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61020",
+      "date": "2026-08-20 07:00:00",
+      "desc": "전력반도체 기업 아이큐랩이 매출을 의도적으로 부풀렸다는 혐의로 경찰 조사를 받고 있다.20일 업계에 따르면 부산경찰청은 이달초 부산 기장 소재의 아이큐랩 본사를 압수수색했다. 아이큐랩이 의도적으로 매출을 부풀린 정황을 포착한 것으로 전해졌다. 지난 2"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260819-TM-01호] 2026년 8월 19일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260819-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-19%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 20 Aug 2026 01:16:22 GMT",
+      "desc": "D램 급등세 꺾이자 이번엔 낸드 병목… 범용 시장 파고드는 中 YMTC (2026년 8월 19일, 한국일보, 이윤주 기자) 원문보기: https://www.hankookilbo.com/news/article/A2026081915300000695?did"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260819-TI-01호] 2026년 8월 19일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260819-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-19%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 20 Aug 2026 01:14:41 GMT",
+      "desc": "中, 엔비디아 AI칩에 빗장 풀었다 (2026년 8월 19일, 파이낸셜뉴스, 김경민 기자) 원문보기: https://www.fnnews.com/news/202608191812532122 [핵심 요약] [1] 중국, 엔비디아 H200 본토 반입 일부 허"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260819-TE-01호] 2026년 8월 19일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260819-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-19%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 20 Aug 2026 01:12:51 GMT",
+      "desc": "IP 장벽 세운 글로벌 장비, 韓 부품과 특허전 (2026년 8월 19일, 전자신문, 박유민 기자) 원문보기: https://www.etnews.com/20260819000332 [핵심 요약] [1] 글로벌 장비사와 국내 부품사 간 특허분쟁 확대 램리"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260819-TT-01호] 2026년 8월 19일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260819-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-19%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 20 Aug 2026 01:11:30 GMT",
+      "desc": "낸드 연결해 D램 사용량 16분의 1로…SK하이닉스, AI칩 패러다임 바꾼다 (2026년 8월 19일, 서울경제, 이석진 기자) 원문보기: https://www.sedaily.com/article/20081031?ref=naver [핵심 요약] [1]"
+    },
     {
       "source": "EE Times",
       "type": "intl",
@@ -48,22 +240,6 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
       "date": "Wed, 19 Aug 2026 13:55:51 +0000",
       "desc": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "서플러스글로벌, '세미마켓 위챗 미니프로그램 스토어' 오픈",
-      "link": "https://zdnet.co.kr/view/?no=20260819182812",
-      "date": "Wed, 19 Aug 2026 20:36:02 +0900",
-      "desc": "[지디넷코리아]반도체 장비·부품 플랫폼 기업 서플러스글로벌(SurplusGLOBAL)이 중국 고객을 위한 '세미마켓 위챗 미니프로그램 스토어(이하 세미마켓 위챗 스토어)'를 공식 오픈하고, 중국 반도체 산업 전시회 'CSEAC 2026'에서 선보인다고"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "삼성전자, 온양캠퍼스 HBM 신규팹 다음달 착공…6조원 규모",
-      "link": "https://zdnet.co.kr/view/?no=20260819171714",
-      "date": "Wed, 19 Aug 2026 17:22:16 +0900",
-      "desc": "[지디넷코리아]삼성전자가 다음달 충청남도 온양캠퍼스 내 고대역폭메모리(HBM) 신규 공장 건립을 시작한다. 투자금액은 6조원이다.충청남도는 삼성전자 아산 온양캠퍼스 반도체 제조공장 증설에 필요한 도시계획위원회 심의를 마쳤다고 19일 밝혔다.도는 이날 "
     },
     {
       "source": "EE Times",
@@ -154,22 +330,6 @@ window.NEWS_DATA = {
       "desc": "2D CFET scaling; PIM chiplet voltage-droop control; advanced-node layout repair; lithography defect prediction; 3D-IC failure analysis; chip"
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
-      "link": "https://semiengineering.com/chip-industry-earnings-roundup/",
-      "date": "Tue, 18 Aug 2026 07:01:24 +0000",
-      "desc": "Company-by-company breakdown: Earnings across 80 semiconductor companies show AI-driven demand extending well beyond the usual suspects. The"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Research Bits: Aug. 18",
-      "link": "https://semiengineering.com/research-bits-aug-18/",
-      "date": "Tue, 18 Aug 2026 07:01:22 +0000",
-      "desc": "Edge AI hardware/algorithm co-design; memtransistor with programmable response speeds; artificial synapse with long- and short-term memory. "
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "LG전자, OSAT 기업서 LDI 장비 첫 수주…반도체 사업 '가속도'",
@@ -202,36 +362,12 @@ window.NEWS_DATA = {
       "desc": "\"국산 NPU 영토확장\"…딥엑스, 양산 첫해 글로벌 수주 77건 기록 (2026년 8월 17일, 머니투데이, 최태범 기자) 원문보기: https://www.mt.co.kr/future/2026/08/17/2026081710112780607 [핵심 요약"
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
-      "link": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/",
-      "date": "Mon, 17 Aug 2026 21:31:19 +0000",
-      "desc": "Researchers from Washington State University and University of Wisconsin–Madison published a technical paper titled “ReVolt: Power Delivery "
-    },
-    {
       "source": "EE Times",
       "type": "intl",
       "title": "Nvidia Bets on the Classical Side of Quantum Computing",
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
       "date": "Mon, 17 Aug 2026 18:31:00 +0000",
       "desc": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets "
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "800VDC Pushes AI Power Design From Grid To Gate",
-      "link": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/",
-      "date": "Mon, 17 Aug 2026 07:01:48 +0000",
-      "desc": "The next power bottleneck is no longer just inside the accelerator — it is the full conversion path from medium-voltage AC to sub-1V silicon"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
-      "link": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/",
-      "date": "Mon, 17 Aug 2026 07:01:15 +0000",
-      "desc": "Bond testing is emerging as a critical control point for long-term performance and yield. The post Precision Under Pressure: Rethinking Bond"
     },
     {
       "source": "SPTA TIMES",
@@ -314,14 +450,6 @@ window.NEWS_DATA = {
       "desc": "中 양쯔메모리 세계 톱3 첫 진입… 삼성전자는 낸드플래시 1위 지켜 (2026년 8월 14일, 동아일보, 박현익 기자) 원문보기: https://www.donga.com/news/Economy/article/all/20260813/134475008/2"
     },
     {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-151/",
-      "date": "Fri, 14 Aug 2026 07:01:48 +0000",
-      "desc": "Lam Research and ASE expansions; data center shifts; CPO system architecture initiative; 2D-transistor interface solution; USENIX HW securit"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260813-TE-01호] 2026년 8월 13일 반도체 장비 관련 주요 뉴스 요약",
@@ -362,30 +490,6 @@ window.NEWS_DATA = {
       "desc": "한국팹리스산업협회와 케이던스코리아가 국내 반도체 설계(팹리스) 업체 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.케이던스의 전자설계자동화(EDA) 도구나 설계 자산(IP)을 회원사 대상 시중가 대비 저렴하게 공급하는 방안 등이 논의"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "아이언디바이스, 2분기 역대 분기 매출...적자 폭도 좁혀",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60897",
-      "date": "2026-08-13 15:17:07",
-      "desc": "아이언디바이스가 올해 2분기 연결 매출이 전년 동기 대비 6배 이상 증가한 약 57억원으로 집계됐다고 13일 밝혔다. 역대 최대 분기 매출이다.상반기 누적 매출은 약 104억원이다. 지난해 연간 매출(101억원)을 상회했다. 정부 의존도도 감소했다. "
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "13분기 만의 흑자전환 윈팩…비메모리 테스트 비중 대폭 높인다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60883",
-      "date": "2026-08-13 15:12:14",
-      "desc": "외주반도체패키지테스트(OSAT:Outsourced Semiconductor Assembly and Test) 기업 윈팩이 2분기 영업이익 흑자전환에 성공했다고 13일 밝혔다.올해 2분기 매출은 302억원, 영업이익 8억원​을 기록했다. 매출은 전년 동"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "The 1-Megawatt Rack Debate",
-      "link": "https://semiengineering.com/the-1-megawatt-rack-debate/",
-      "date": "Thu, 13 Aug 2026 07:15:49 +0000",
-      "desc": "Is it better to cram more compute into each rack or rethink the architecture? The post The 1-Megawatt Rack Debate appeared first on Semicond"
-    },
-    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260812-TM-01호] 2026년 8월 12일 반도체 제조 관련 주요 뉴스 요약",
@@ -400,30 +504,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260812-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-12%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Thu, 13 Aug 2026 00:56:28 GMT",
       "desc": "日, 반도체 재건에 53조 외자 유치… TSMC·마이크론도 투자 (2026년 8월 12일, 파이낸셜뉴스, 서혜진 기자) 원문보기: https://www.fnnews.com/news/202608121825292568 [핵심 요약] [1] 일본, 2021"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "파두, 100억원 규모 단기차입금 확보",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60856",
-      "date": "2026-08-12 18:43:32",
-      "desc": "파두가 늘어나는 고객 수요에 대응해 단기차입금을 늘렸다. 올해 메모리 반도체 호황으로 예년보다 많은 수주가 몰린 결과다.파두는 금융기관으로부터 단기차입금 100억원을 차입한다고 12일 공시했다. 자기자본의 40.92%다. 단기차입금은 기존 115억원에"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "어보브반도체, 아이센스와 저전력 헬스케어 MCU 개발",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60866",
-      "date": "2026-08-12 18:34:25",
-      "desc": "어보브반도체가 바이오센서 업체 아이센스(i-SENS)와 혈당측정기(BGM)용 마이크로컨트롤러(MCU) 공동 개발을 완료했다고 12일 밝혔다. 의료 산업에 진출한 것은 처음이다.어보브반도체는 BGM용 혼성 신호 MCU 'A34L716'을 출시하고 헬스케"
-    },
-    {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "하이닉스, AI 도입 KPI 반영…반도체 장비에도 AI 에이전트 '바람'",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=60842",
-      "date": "2026-08-12 17:08:02",
-      "desc": "삼성전자, SK하이닉스가 반도체 장비에 인공지능(AI) 에이전트를 도입한다. 장비 검증 절차를 밟고 신규 장비 기본 적용도 의무화한다.12일 업계에 따르면 SK하이닉스는 최근 청주 반도체 후공정 생산라인 AI 에이전트 도입을 단계적으로 준비한다. 구체"
     },
     {
       "source": "SPTA TIMES",
@@ -448,38 +528,6 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260811-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-11%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Wed, 12 Aug 2026 01:03:30 GMT",
       "desc": "한국반도체산업協 \"특별법 시행 환영…'인프라 구축·후속 지원' 신속 추진돼야\" (2026년 8월 11일, 뉴시스, 이지용 기자) 원문보기: https://www.newsis.com/view/NISX20260811_0003744472 [핵심 요약] [1"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260810-TE-01호] 2026년 8월 10일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260810-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-10%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Tue, 11 Aug 2026 01:10:10 GMT",
-      "desc": "한미반도체, 21억원 투자 ‘美 법인’ 설립…\"AI반도체 수요 대응\" (2026년 8월 10일, 디지털타임스, 장우진 기자) 원문보기: https://www.dt.co.kr/article/12077355?ref=naver [핵심 요약] [1] 한미반도"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260810-TI-01호] 2026년 8월 10일 글로벌 반도체 산업 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260810-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-10%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Tue, 11 Aug 2026 01:08:18 GMT",
-      "desc": "YMTC 낸드, 제재 우회로 삼전닉스 맹추격…CXMT보다 더 위협적 (2026년 8월 10일, 이데일리, 김소연·김형욱·최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=04752726645546008"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260809-TT-01호] 2026년 8월 9일 반도체 기술 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Mon, 10 Aug 2026 01:31:38 GMT",
-      "desc": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보 (2026년 8월 9일, ZDNet Korea, 권봉석 기자) 원문보기 : https://zdnet.co.kr/view/?no=20260808225255 [핵심 요약] [1] 인텔, 위성 연결"
-    },
-    {
-      "source": "SPTA TIMES",
-      "type": "digest",
-      "title": "[제20260809-TE-01호] 2026년 8월 9일 반도체 장비 관련 주요 뉴스 요약",
-      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260809-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
-      "date": "Mon, 10 Aug 2026 01:30:16 GMT",
-      "desc": "중국, DUV까지 국산화?…반도체 장비 자립 여부에 주목 (2026년 8월 9일, 머니투데이, 왕양 기자·안재용 기자) 원문보기 : https://www.mt.co.kr/economy/2026/08/09/2026080516365126021 [핵심 요약"
     },
     {
       "source": "IEEE Spectrum",
