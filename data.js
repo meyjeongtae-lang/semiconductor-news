@@ -1,13 +1,21 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-21T22:22:14.098Z",
+  "fetchedAt": "2026-08-22T22:19:42.467Z",
   "items": [
     {
-      "source": "한국경제",
+      "source": "ZDNet Korea",
       "type": "kr",
-      "title": "국채 바이백의 이면은?…메모리 진출한다는 인텔[월가 백브리핑]",
-      "link": "https://www.hankyung.com/article/202608225801i",
-      "date": "Sat, 22 Aug 2026 05:32:30 +0900",
-      "desc": ""
+      "title": "GIST-삼성-MIT, Ru에 탄소원자 5개 첨가로 반도체 배선 \"저항 혁명\"",
+      "link": "https://zdnet.co.kr/view/?no=20260822214044",
+      "date": "Sat, 22 Aug 2026 21:40:44 +0900",
+      "desc": "[지디넷코리아]광주과학기술원(GIST)이 삼성전자 및 미국 MIT 연구팀과 공동으로 차세대 반도체 초미세 배선의 전기저항 값을 45% 낮추는데 성공했다. 2nm급 차세대 반도체 배선과 복잡한 3차원 구조에도 적용 가능할 전망이다.22일 GIST에 따르"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "구글, 마벨에 17조원 지분 옵션…맞춤형 AI 칩 대반격",
+      "link": "https://zdnet.co.kr/view/?no=20260822083738",
+      "date": "Sat, 22 Aug 2026 08:37:38 +0900",
+      "desc": "[지디넷코리아]구글(Google)이 맞춤형 AI 반도체 확보에 승부를 걸었다. 야후 파이낸스(Yahoo Finance)에 따르면 8월 20일 구글은 반도체 기업 마벨(Marvell)과 맞춤형 칩 협력을 확대하면서, 마벨 주식을 대량으로 사들일 수 있는"
     },
     {
       "source": "디일렉",
@@ -16,6 +24,14 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=61226",
       "date": "2026-08-21 18:08:15",
       "desc": "삼성전자가 올해 국내 기업 사상 최고 규모인 최대 110조원에 달하는 주주환원을 실시하기로 했다.삼성전자는 21일 이사회를 열고 90조~110조원 주주환원 시행 방안을 의결했다고 밝혔다. 이는 기존 최대였던 2020년 20조3000억원 규모 주주환원의"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
+      "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
+      "date": "Fri, 21 Aug 2026 18:00:00 +0000",
+      "desc": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Speciali"
     },
     {
       "source": "디일렉",
@@ -40,22 +56,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=61179",
       "date": "2026-08-21 14:01:25",
       "desc": "인텔은 로보틱스 수요가 과반을 넘지만 준비 수준은 이에 턱없이 부족하다고 20일 밝혔다.인텔은 맨바이츠도그, 콜맨파크스리서치에 의뢰해 기업 임원, 로봇 전문가, 정부 관계자 800여명을 대상으로 조사한 결과 기업·기관 60%가 향후 5년 이내 조직 내"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
-      "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
-      "date": "Fri, 21 Aug 2026 13:51:09 +0000",
-      "desc": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Speciali"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "美 마이크론, AI 메모리 연구소 설립…10년간 100억 달러 투자",
-      "link": "https://zdnet.co.kr/view/?no=20260821162124",
-      "date": "Fri, 21 Aug 2026 16:51:31 +0900",
-      "desc": "[지디넷코리아]미국 메모리 반도체 기업 마이크론 테크놀로지가 인공지능(AI)용 차세대 메모리 기술 개발을 위해 대규모 연구시설 투자에 나선다.로이터 등 외신은 마이크론이 미국 아이다호주 보이시 본사 인근에 '마이크론 리서치 랩스'를 설립하고 향후 10"
     },
     {
       "source": "EE Times",
@@ -152,6 +152,14 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
       "date": "Thu, 20 Aug 2026 14:07:45 +0000",
       "desc": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems dema"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자 초기업노조 “공동교섭단 구성 안해…DX 분리교섭 신청해야”",
+      "link": "https://www.etnews.com/20260820000411",
+      "date": "Thu, 20 Aug 2026 18:41:21 +0900",
+      "desc": "삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성지부(초기업노조)가 내년 임금 협상에서 공동교섭단을 구성하지 않겠다고 밝혔다. 초기업노조는 20일 삼성전자 노동조합 동행(동행노조)에 이같은 내용을 담은 공문을 발송했다. 초기업노조는 반도체 사업부인"
     },
     {
       "source": "Semiconductor Engineering",
@@ -378,6 +386,14 @@ window.NEWS_DATA = {
       "desc": "RFHIC가 상반기 매출 946억원, 영업이익 189억원을 기록했다고 14일 공시했다. 전년 동기 대비 각각 23.7%, 57.5% 올랐다.RFHIC는 기지국 핵심 소자인 질화갈륨(GaN) 트랜지스터를 공급한다. 상반기 GaN 트랜지스터 매출은 320"
     },
     {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "LG전자, OSAT 기업서 LDI 장비 첫 수주…반도체 사업 '가속도'",
+      "link": "https://www.etnews.com/20260818000222",
+      "date": "Tue, 18 Aug 2026 16:00:00 +0900",
+      "desc": "LG전자가 신성장 동력으로 낙점한 반도체 장비 사업에서 첫 결실을 맺었다. 반도체 패키징용 레이저 다이렉트 이미징(LDI) 노광 장비를 처음으로 수주, 설비 사업 확장에 탄력이 붙을 전망이다. 18일 업계에 따르면 LG전자 생산기술원(PRI)은 외주반"
+    },
+    {
       "source": "SPTA TIMES",
       "type": "digest",
       "title": "[제20260817-TE-01호] 2026년 8월 17일 반도체 장비 관련 주요 뉴스 요약",
@@ -520,6 +536,14 @@ window.NEWS_DATA = {
       "link": "https://spectrum.ieee.org/ai-in-robotics",
       "date": "Sun, 26 Jul 2026 13:00:01 +0000",
       "desc": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED em"
+    },
+    {
+      "source": "SK 뉴스",
+      "type": "corp",
+      "title": "SK, 美 실리콘밸리서 글로벌 빅테크와 AI 인프라 협력 확대",
+      "link": "https://www.sk.co.kr/ko/media/news_view.jsp?idx=1771",
+      "date": "2026-07-25",
+      "desc": "계열사: SK"
     },
     {
       "source": "IEEE Spectrum",
