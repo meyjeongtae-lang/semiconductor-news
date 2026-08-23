@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-23T15:19:12.553Z",
+  "fetchedAt": "2026-08-23T15:31:53.264Z",
   "items": [
     {
       "source": "ZDNet Korea",
