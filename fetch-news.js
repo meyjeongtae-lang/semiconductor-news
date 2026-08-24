@@ -115,6 +115,23 @@ async function fetchSK() {
   return items.filter((item) => hasKeyword(item.title));
 }
 
+// RSS는 각 소스마다 최근 글 몇십 개까지만 보여주는 '창(window)'이라서, 새 글이 올라오면
+// 예전 글은 RSS 목록에서 자연스럽게 밀려나 사라진다. data.js를 매번 새로 덮어쓰기만 하면
+// 밀려난 예전 기사가 사이트에서도 통째로 사라져서 '주별로 흐름을 누적해서 본다'는 목적이
+// 무너지므로, 기존 data.js에 있던 기사를 읽어와 이번에 새로 가져온 것과 합쳐서 저장한다.
+function loadExistingItems() {
+  try {
+    if (!fs.existsSync('data.js')) return [];
+    const raw = fs.readFileSync('data.js', 'utf-8');
+    const jsonText = raw.replace(/^window\.NEWS_DATA\s*=\s*/, '').replace(/;\s*$/, '');
+    const parsed = JSON.parse(jsonText);
+    return parsed.items || [];
+  } catch (err) {
+    console.log(`기존 data.js를 불러오지 못했습니다 (처음 실행이라면 정상): ${err.message}`);
+    return [];
+  }
+}
+
 async function main() {
   console.log('반도체 뉴스 수집을 시작합니다...\n');
   const results = [];
@@ -137,27 +154,42 @@ async function main() {
     console.log(`  [크롤링] SK 뉴스: 실패 - ${err.message}`);
   }
 
-  results.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const existingItems = loadExistingItems();
+  console.log(`\n기존에 누적된 기사 ${existingItems.length}건과 합칩니다.`);
+
+  // 새로 가져온 것을 앞에 둬서, 같은 기사가 겹칠 때 이번에 새로 읽은 필드(desc 등)가 우선하게 한다.
+  const combined = [...results, ...existingItems];
+
+  // 링크가 완전히 같으면 같은 기사이므로 먼저 제거한다.
+  const seenLinks = new Set();
+  const byLink = combined.filter((item) => {
+    if (!item.link) return true;
+    if (seenLinks.has(item.link)) return false;
+    seenLinks.add(item.link);
+    return true;
+  });
 
   // 같은 소스가 제목이 완전히 같은 글을 여러 링크로 중복 발행하는 경우가 있어서
   // (예: SK하이닉스 뉴스룸이 "미래인재 CLASS 제2강"을 몇 초 간격으로 6번 발행한 사례),
-  // 소스+제목이 같으면 가장 최근 글 하나만 남기고 나머지는 걸러낸다.
+  // 소스+제목이 같으면 가장 먼저 나온(=이번에 새로 가져온) 글 하나만 남기고 나머지는 걸러낸다.
   const seen = new Set();
-  const deduped = results.filter((item) => {
+  const deduped = byLink.filter((item) => {
     const key = item.source + '|' + item.title.trim().toLowerCase();
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   });
-  if (deduped.length < results.length) {
-    console.log(`\n중복 제목 ${results.length - deduped.length}건을 걸러냈습니다.`);
+  if (deduped.length < combined.length) {
+    console.log(`중복 기사 ${combined.length - deduped.length}건을 걸러냈습니다.`);
   }
+
+  deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const payload = { fetchedAt: new Date().toISOString(), items: deduped };
   const output = 'window.NEWS_DATA = ' + JSON.stringify(payload, null, 2) + ';\n';
   fs.writeFileSync('data.js', output, 'utf-8');
 
-  console.log(`\n총 ${deduped.length}건을 data.js에 저장했습니다.`);
+  console.log(`\n총 ${deduped.length}건을 data.js에 저장했습니다 (신규 ${results.length}건 + 기존 누적분).`);
   console.log('index.html을 브라우저로 열어서 확인하세요.');
 }
 
