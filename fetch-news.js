@@ -26,25 +26,28 @@ function hasKeyword(text) {
 // 위에서부터 순서대로 검사해서 처음 걸리는 카테고리 하나로 정한다 (예: HBM 특허소송 기사는
 // '메모리'가 아니라 더 특징적인 이야기인 '특허·소송'으로 분류됨).
 const CATEGORIES = [
-  { key: 'legal', label: '특허·소송', keywords: ['특허', '소송', '침해', '판결', '배상', '압수수색', '고소', '변론', '법원', '대법원', '항소', 'patent', 'lawsuit', 'infringement'] },
-  { key: 'labor', label: '인력·노사', keywords: ['노조', '노동조합', '임단협', '성과급', '채용', '영입', '구조조정', '퇴사', 'CEO 교체', 'layoff'] },
-  { key: 'deals', label: '인수합병·투자유치', keywords: ['인수', '합병', 'M&A', '시리즈A', '시리즈 A', '투자 유치', 'IPO', '상장', 'acquisition', 'acquire', 'funding round'] },
-  { key: 'policy', label: '정책·무역', keywords: ['수출규제', '관세', 'entity list', '보조금', '제재', '지정학', 'export control', 'tariff', 'sanctions'] },
-  { key: 'research', label: '연구·기술동향', keywords: ['논문', '연구팀', '학회', 'technical paper', 'research team'] },
-  { key: 'security', label: '보안·검증', keywords: ['보안', '검증', 'puf', '취약점', 'security', 'verification', 'vulnerability', 'cybersecurity', '기능안전', 'functional safety'] },
-  { key: 'robotics', label: '로보틱스·자동차', keywords: ['로봇', 'robot', '휴머노이드', 'humanoid', '자율주행', 'autonomous', '액추에이터', 'actuator', '코봇', 'cobot'] },
-  { key: 'memory', label: '메모리', keywords: ['hbm', 'd램', '디램', 'dram', '낸드', 'nand', 'ssd', '메모리', 'hbf'] },
-  { key: 'ai-compute', label: 'AI 반도체·컴퓨팅', keywords: ['gpu', 'npu', 'ai칩', 'ai 칩', 'ai 가속기', '데이터센터', '엔비디아', 'nvidia', 'amd', 'cxl', 'cpo', '인터커넥트', '양자컴퓨', 'quantum comput'] },
-  { key: 'foundry', label: '파운드리·제조공정', keywords: ['파운드리', '웨이퍼', '나노', 'euv', '공정', 'tsmc', 'cfet', '트랜지스터', '패키징', '후공정'] },
-  { key: 'market', label: '시장·거시경제', keywords: ['코스피', '증시', '환율', '금리', '연준', '주가', 'nasdaq', 'fed '] },
-  { key: 'earnings', label: '기업실적·투자', keywords: ['실적', '매출', '영업이익', '흑자', '적자', '투자', '팹', '공장', '주주환원', '자사주'] },
+  { key: 'legal', label: '특허·소송', domain: 'business', keywords: ['특허', '소송', '침해', '판결', '배상', '압수수색', '고소', '변론', '법원', '대법원', '항소', 'patent', 'lawsuit', 'infringement'] },
+  { key: 'labor', label: '인력·노사', domain: 'business', keywords: ['노조', '노동조합', '임단협', '성과급', '채용', '영입', '구조조정', '퇴사', 'CEO 교체', 'layoff'] },
+  { key: 'deals', label: '인수합병·투자유치', domain: 'business', keywords: ['인수', '합병', 'M&A', '시리즈A', '시리즈 A', '투자 유치', 'IPO', '상장', 'acquisition', 'acquire', 'funding round'] },
+  { key: 'policy', label: '정책·무역', domain: 'business', keywords: ['수출규제', '관세', 'entity list', '보조금', '제재', '지정학', 'export control', 'tariff', 'sanctions'] },
+  { key: 'research', label: '연구·기술동향', domain: 'tech', keywords: ['논문', '연구팀', '학회', 'technical paper', 'research team'] },
+  { key: 'security', label: '보안·검증', domain: 'tech', keywords: ['보안', '검증', 'puf', '취약점', 'security', 'verification', 'vulnerability', 'cybersecurity', '기능안전', 'functional safety'] },
+  { key: 'robotics', label: '로보틱스·자동차', domain: 'tech', keywords: ['로봇', 'robot', '휴머노이드', 'humanoid', '자율주행', 'autonomous', '액추에이터', 'actuator', '코봇', 'cobot'] },
+  { key: 'equipment', label: '반도체 장비', domain: 'tech', keywords: ['장비', 'asml', '어플라이드머티리얼즈', '어플라이드 머티리얼즈', 'applied materials', '램리서치', 'lam research', '도쿄일렉트론', 'tokyo electron', 'kla', '식각장비', '증착장비', '노광장비'] },
+  { key: 'memory', label: '메모리', domain: 'tech', keywords: ['hbm', 'd램', '디램', 'dram', '낸드', 'nand', 'ssd', '메모리', 'hbf'] },
+  { key: 'ai-compute', label: 'AI 반도체·컴퓨팅', domain: 'tech', keywords: ['gpu', 'npu', 'ai칩', 'ai 칩', 'ai 가속기', '데이터센터', '엔비디아', 'nvidia', 'amd', 'cxl', 'cpo', '인터커넥트', '양자컴퓨', 'quantum comput'] },
+  { key: 'foundry', label: '파운드리·제조공정', domain: 'tech', keywords: ['파운드리', '웨이퍼', '나노', 'euv', '공정', 'tsmc', 'cfet', '트랜지스터', '패키징', '후공정'] },
+  { key: 'market', label: '시장·거시경제', domain: 'business', keywords: ['코스피', '증시', '환율', '금리', '연준', '주가', 'nasdaq', 'fed '] },
+  { key: 'earnings', label: '기업실적·투자', domain: 'business', keywords: ['실적', '매출', '영업이익', '흑자', '적자', '투자', '팹', '공장', '주주환원', '자사주'] },
 ];
-const DEFAULT_CATEGORY = { key: 'etc', label: '기타' };
+const DEFAULT_CATEGORY = { key: 'etc', label: '기타', domain: 'etc' };
 
+// 13개 세부 카테고리를 "기술" / "비즈니스·시장" 두 큰 갈래로 미리 묶어둔다.
+// 세부 카테고리는 그대로 필터에 쓰고, 이 domain은 "일단 크게 훑어보고 싶을 때" 쓰는 상위 묶음이다.
 function categorize(text) {
   const lower = String(text || '').toLowerCase();
   const hit = CATEGORIES.find((cat) => cat.keywords.some((kw) => lower.includes(kw.toLowerCase())));
-  return (hit || DEFAULT_CATEGORY).key;
+  return hit || DEFAULT_CATEGORY;
 }
 
 // explanations.json에 이미 직접 읽고 쓴 요약·친절한 설명이 있으면 그 텍스트로 분류한다.
@@ -231,11 +234,18 @@ async function main() {
   deduped.forEach((item) => {
     const entry = explanations[item.link];
     const text = entry ? `${entry.summary || ''} ${entry.detail || ''}` : `${item.title} ${item.desc}`;
-    item.category = categorize(text);
+    const cat = categorize(text);
+    item.category = cat.key;
+    item.domain = cat.domain;
   });
   const byCategory = {};
-  deduped.forEach((item) => { byCategory[item.category] = (byCategory[item.category] || 0) + 1; });
+  const byDomain = {};
+  deduped.forEach((item) => {
+    byCategory[item.category] = (byCategory[item.category] || 0) + 1;
+    byDomain[item.domain] = (byDomain[item.domain] || 0) + 1;
+  });
   console.log('카테고리별 분포:', Object.entries(byCategory).map(([k, v]) => `${k}=${v}`).join(', '));
+  console.log('도메인별 분포:', Object.entries(byDomain).map(([k, v]) => `${k}=${v}`).join(', '));
 
   const payload = { fetchedAt: new Date().toISOString(), items: deduped };
   const output = 'window.NEWS_DATA = ' + JSON.stringify(payload, null, 2) + ';\n';
