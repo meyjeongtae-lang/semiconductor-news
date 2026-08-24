@@ -21,6 +21,46 @@ function hasKeyword(text) {
   return KEYWORDS.some((kw) => lower.includes(kw.toLowerCase()));
 }
 
+// 기사를 주제별로 자동 분류한다. 제목+요약에 나온 키워드로 판단하는 방식이라 완벽하지는 않지만,
+// "메모리 얘기만 보고 싶다"처럼 소스·날짜가 아니라 '무슨 얘기인지'로 걸러보고 싶을 때 쓸 수 있다.
+// 위에서부터 순서대로 검사해서 처음 걸리는 카테고리 하나로 정한다 (예: HBM 특허소송 기사는
+// '메모리'가 아니라 더 특징적인 이야기인 '특허·소송'으로 분류됨).
+const CATEGORIES = [
+  { key: 'legal', label: '특허·소송', keywords: ['특허', '소송', '침해', '판결', '배상', '압수수색', '고소', '변론', '법원', '대법원', '항소', 'patent', 'lawsuit', 'infringement'] },
+  { key: 'labor', label: '인력·노사', keywords: ['노조', '노동조합', '임단협', '성과급', '채용', '영입', '구조조정', '퇴사', 'CEO 교체', 'layoff'] },
+  { key: 'deals', label: '인수합병·투자유치', keywords: ['인수', '합병', 'M&A', '시리즈A', '시리즈 A', '투자 유치', 'IPO', '상장', 'acquisition', 'acquire', 'funding round'] },
+  { key: 'policy', label: '정책·무역', keywords: ['수출규제', '관세', 'entity list', '보조금', '제재', '지정학', 'export control', 'tariff', 'sanctions'] },
+  { key: 'research', label: '연구·기술동향', keywords: ['논문', '연구팀', '학회', 'technical paper', 'research team'] },
+  { key: 'security', label: '보안·검증', keywords: ['보안', '검증', 'puf', '취약점', 'security', 'verification', 'vulnerability', 'cybersecurity', '기능안전', 'functional safety'] },
+  { key: 'robotics', label: '로보틱스·자동차', keywords: ['로봇', 'robot', '휴머노이드', 'humanoid', '자율주행', 'autonomous', '액추에이터', 'actuator', '코봇', 'cobot'] },
+  { key: 'memory', label: '메모리', keywords: ['hbm', 'd램', '디램', 'dram', '낸드', 'nand', 'ssd', '메모리', 'hbf'] },
+  { key: 'ai-compute', label: 'AI 반도체·컴퓨팅', keywords: ['gpu', 'npu', 'ai칩', 'ai 칩', 'ai 가속기', '데이터센터', '엔비디아', 'nvidia', 'amd', 'cxl', 'cpo', '인터커넥트', '양자컴퓨', 'quantum comput'] },
+  { key: 'foundry', label: '파운드리·제조공정', keywords: ['파운드리', '웨이퍼', '나노', 'euv', '공정', 'tsmc', 'cfet', '트랜지스터', '패키징', '후공정'] },
+  { key: 'market', label: '시장·거시경제', keywords: ['코스피', '증시', '환율', '금리', '연준', '주가', 'nasdaq', 'fed '] },
+  { key: 'earnings', label: '기업실적·투자', keywords: ['실적', '매출', '영업이익', '흑자', '적자', '투자', '팹', '공장', '주주환원', '자사주'] },
+];
+const DEFAULT_CATEGORY = { key: 'etc', label: '기타' };
+
+function categorize(text) {
+  const lower = String(text || '').toLowerCase();
+  const hit = CATEGORIES.find((cat) => cat.keywords.some((kw) => lower.includes(kw.toLowerCase())));
+  return (hit || DEFAULT_CATEGORY).key;
+}
+
+// explanations.json에 이미 직접 읽고 쓴 요약·친절한 설명이 있으면 그 텍스트로 분류한다.
+// RSS 제목+140자 미리보기보다 훨씬 정보가 많아서("The 1-Megawatt Rack Debate" 같은 제목만으론
+// 알 수 없는 내용도, 요약문에는 '전력', '랙', '데이터센터' 같은 실제 키워드가 들어있다) 분류 정확도가 크게 오른다.
+// 아직 설명을 안 쓴 기사는 어쩔 수 없이 제목+RSS 미리보기로만 분류한다.
+function loadExplanations() {
+  try {
+    if (!fs.existsSync('explanations.json')) return {};
+    return JSON.parse(fs.readFileSync('explanations.json', 'utf-8'));
+  } catch (err) {
+    console.log(`explanations.json을 불러오지 못했습니다: ${err.message}`);
+    return {};
+  }
+}
+
 // RSS로 가져오는 소스 목록
 // excludeCategories: RSS의 <category>가 이 목록에 하나라도 걸리면 광고/홍보성 글로 보고 아예 제외한다.
 //  - EE Times의 'Webinars + Bitcasts'(웹세미나 등록), 'Press Releases'(보도자료성 홍보글)
@@ -184,6 +224,18 @@ async function main() {
   }
 
   deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // 카테고리 분류 로직이 바뀌거나 explanations.json이 채워질 수도 있으니,
+  // 새 기사뿐 아니라 기존에 누적된 기사도 매번 다시 분류한다.
+  const explanations = loadExplanations();
+  deduped.forEach((item) => {
+    const entry = explanations[item.link];
+    const text = entry ? `${entry.summary || ''} ${entry.detail || ''}` : `${item.title} ${item.desc}`;
+    item.category = categorize(text);
+  });
+  const byCategory = {};
+  deduped.forEach((item) => { byCategory[item.category] = (byCategory[item.category] || 0) + 1; });
+  console.log('카테고리별 분포:', Object.entries(byCategory).map(([k, v]) => `${k}=${v}`).join(', '));
 
   const payload = { fetchedAt: new Date().toISOString(), items: deduped };
   const output = 'window.NEWS_DATA = ' + JSON.stringify(payload, null, 2) + ';\n';
