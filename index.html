@@ -178,8 +178,10 @@
   }
   .filters button:hover{border-color:var(--copper);color:var(--copper);transform:translateY(-1px);}
   .filters button.active{border-color:var(--copper);color:#fff;background:var(--copper);box-shadow:0 4px 12px -4px rgba(61,90,128,.5);}
+  .domain-filters{padding:0 0 10px;}
+  .domain-filters button{font-size:14px;font-weight:700;padding:8px 16px;}
   .cat-filters{padding:0 0 18px;}
-  .cat-filters button{font-size:12px;padding:6px 12px;}
+  .cat-filters button{font-size:12px;padding:6px 12px;color:var(--slate);}
   .groupswitch{display:flex;gap:2px;border:1px solid var(--line);border-radius:999px;padding:3px;background:var(--card);}
   .groupswitch button{font-size:12.5px;cursor:pointer;border:none;padding:7px 13px;border-radius:999px;background:transparent;color:var(--ink-soft);font-weight:500;transition:all .15s ease;}
   .groupswitch button.active{background:var(--copper);color:#fff;}
@@ -296,6 +298,7 @@
       <button data-group="week">주별</button>
     </div>
   </div>
+  <div class="filters domain-filters" id="domainFilters"></div>
   <div class="filters cat-filters" id="categoryFilters"></div>
   <div class="week-nav" id="weekNav">
     <button type="button" class="week-nav-btn" id="weekPrev" aria-label="이전 주">‹</button>
@@ -313,28 +316,35 @@
   const items = payload.items || [];
   let explanations = {};
   let weeklyBriefs = {};
-  let state = { filter: 'all', category: 'all', group: 'source', week: null, page: 1 };
+  let state = { filter: 'all', domain: 'all', category: 'all', group: 'source', week: null, page: 1 };
   let lastWeekOrder = [];
   const PAGE_SIZE = 20;
 
-  // fetch-news.js가 매긴 카테고리(item.category)를 화면에 보여줄 한글 라벨과 표시 순서.
-  // fetch-news.js의 CATEGORIES 목록과 key·순서를 맞춰뒀다 — 저기서 카테고리를 추가/변경하면 여기도 같이 바꿔야 한다.
+  // fetch-news.js가 매긴 카테고리(item.category)를 화면에 보여줄 한글 라벨·표시 순서·상위 도메인.
+  // fetch-news.js의 CATEGORIES 목록과 key·순서·domain을 맞춰뒀다 — 저기서 바꾸면 여기도 같이 바꿔야 한다.
   const CATEGORY_META = [
-    { key: 'memory', label: '메모리' },
-    { key: 'ai-compute', label: 'AI 반도체·컴퓨팅' },
-    { key: 'foundry', label: '파운드리·제조공정' },
-    { key: 'security', label: '보안·검증' },
-    { key: 'research', label: '연구·기술동향' },
-    { key: 'earnings', label: '기업실적·투자' },
-    { key: 'deals', label: '인수합병·투자유치' },
-    { key: 'legal', label: '특허·소송' },
-    { key: 'labor', label: '인력·노사' },
-    { key: 'policy', label: '정책·무역' },
-    { key: 'market', label: '시장·거시경제' },
-    { key: 'robotics', label: '로보틱스·자동차' },
-    { key: 'etc', label: '기타' },
+    { key: 'memory', label: '메모리', domain: 'tech' },
+    { key: 'ai-compute', label: 'AI 반도체·컴퓨팅', domain: 'tech' },
+    { key: 'foundry', label: '파운드리·제조공정', domain: 'tech' },
+    { key: 'equipment', label: '반도체 장비', domain: 'tech' },
+    { key: 'security', label: '보안·검증', domain: 'tech' },
+    { key: 'research', label: '연구·기술동향', domain: 'tech' },
+    { key: 'robotics', label: '로보틱스·자동차', domain: 'tech' },
+    { key: 'earnings', label: '기업실적·투자', domain: 'business' },
+    { key: 'deals', label: '인수합병·투자유치', domain: 'business' },
+    { key: 'legal', label: '특허·소송', domain: 'business' },
+    { key: 'labor', label: '인력·노사', domain: 'business' },
+    { key: 'policy', label: '정책·무역', domain: 'business' },
+    { key: 'market', label: '시장·거시경제', domain: 'business' },
+    { key: 'etc', label: '기타', domain: 'etc' },
   ];
   const CATEGORY_LABELS = Object.fromEntries(CATEGORY_META.map((c) => [c.key, c.label]));
+  const CATEGORY_DOMAIN = Object.fromEntries(CATEGORY_META.map((c) => [c.key, c.domain]));
+  const DOMAIN_META = [
+    { key: 'tech', label: '기술' },
+    { key: 'business', label: '비즈니스·시장' },
+    { key: 'etc', label: '기타' },
+  ];
 
   function relativeTime(d) {
     const diffMs = Date.now() - new Date(d).getTime();
@@ -620,7 +630,21 @@
     renderPagination(totalPages);
   }
 
-  // 카테고리 필터 칩(전체 + 데이터에 실제로 존재하는 카테고리만)을 그린다.
+  // 큰 묶음(기술 / 비즈니스·시장 / 기타) 필터 칩을 그린다. 여기서 하나를 고르면
+  // 그 밑의 세부 카테고리 칩도 그 묶음에 속한 것만 남기고 좁혀진다.
+  function renderDomainFilters() {
+    const byDomain = {};
+    items.forEach((it) => { const d = it.domain || 'etc'; byDomain[d] = (byDomain[d] || 0) + 1; });
+    const box = document.getElementById('domainFilters');
+    const chips = [`<button type="button" data-domain="all" class="${state.domain === 'all' ? 'active' : ''}">전체</button>`];
+    DOMAIN_META.forEach((d) => {
+      if (!byDomain[d.key]) return;
+      chips.push(`<button type="button" data-domain="${d.key}" class="${state.domain === d.key ? 'active' : ''}">${escapeHtml(d.label)} ${byDomain[d.key]}</button>`);
+    });
+    box.innerHTML = chips.join('');
+  }
+
+  // 세부 카테고리 필터 칩(전체 + 지금 고른 도메인에 속하면서 데이터에 실제로 존재하는 카테고리만)을 그린다.
   function renderCategoryFilters() {
     const byCategory = {};
     items.forEach((it) => { const k = it.category || 'etc'; byCategory[k] = (byCategory[k] || 0) + 1; });
@@ -628,6 +652,7 @@
     const chips = [`<button type="button" data-category="all" class="${state.category === 'all' ? 'active' : ''}">전체</button>`];
     CATEGORY_META.forEach((c) => {
       if (!byCategory[c.key]) return;
+      if (state.domain !== 'all' && c.domain !== state.domain) return;
       chips.push(`<button type="button" data-category="${c.key}" class="${state.category === c.key ? 'active' : ''}">${escapeHtml(c.label)} ${byCategory[c.key]}</button>`);
     });
     box.innerHTML = chips.join('');
@@ -638,6 +663,7 @@
     const weekNav = document.getElementById('weekNav');
     const filtered = items.filter((it) =>
       (state.filter === 'all' || it.type === state.filter) &&
+      (state.domain === 'all' || it.domain === state.domain) &&
       (state.category === 'all' || it.category === state.category)
     );
 
@@ -672,6 +698,18 @@
       state.page = 1;
       render();
     });
+  });
+
+  renderDomainFilters();
+  document.getElementById('domainFilters').addEventListener('click', (e) => {
+    const btn = e.target.closest('button[data-domain]');
+    if (!btn) return;
+    state.domain = btn.dataset.domain;
+    state.category = 'all'; // 도메인이 바뀌면 이전에 고른 세부 카테고리는 그 안에 없을 수도 있으니 초기화
+    state.page = 1;
+    renderDomainFilters();
+    renderCategoryFilters();
+    render();
   });
 
   renderCategoryFilters();
