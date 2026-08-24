@@ -11,6 +11,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&display=swap');
 
   :root{
+    --backdrop:#E1E7ED;
     --paper:#F3F5F7; --ink:#131B24; --ink-soft:#3C4854; --slate:#66727D; --line:#C7D1DA; --card:#FFFFFF;
     --copper:#3D5A80; --copper-soft:#E6ECF2; --wafer:#2F6E6D; --wafer-soft:#E1EEEC;
     --graphite:#4B5560; --graphite-soft:#E7EAED; --moss:#3D7A63; --moss-soft:#E1EDE7;
@@ -20,6 +21,7 @@
   }
   @media (prefers-color-scheme: dark){
     :root{
+      --backdrop:#080B0F;
       --paper:#10161D; --ink:#E8EDF2; --ink-soft:#B7C1CA; --slate:#7E8B96; --line:#324150; --card:#161E27;
       --copper:#7B9FC4; --copper-soft:#1C2C3D; --wafer:#5FA6A0; --wafer-soft:#132523;
       --graphite:#A7B1BA; --graphite-soft:#1D262F; --moss:#6BAE93; --moss-soft:#132420;
@@ -30,9 +32,20 @@
   }
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
-  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Pretendard Variable','Pretendard','Apple SD Gothic Neo','Malgun Gothic',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+  body{margin:0;background:var(--backdrop);color:var(--ink);font-family:'Pretendard Variable','Pretendard','Apple SD Gothic Neo','Malgun Gothic',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
   .mono{font-family:ui-monospace,'SF Mono',Consolas,monospace;font-variant-numeric:tabular-nums;}
   .wrap{max-width:820px;margin:0 auto;padding:0 20px 100px;}
+
+  /* 페이지 전체를 감싸는 프레임 — 배경(--backdrop)과 콘텐츠(--paper)를 색 차이로 분리해서
+     "화면에 종이 한 장이 놓여 있는" 느낌을 준다 */
+  .page-frame{
+    max-width:900px;margin:24px 16px;background:var(--paper);
+    border:1px solid var(--line);border-radius:20px;
+    box-shadow:var(--shadow-hover);
+  }
+  @media (min-width:940px){
+    .page-frame{margin:32px auto;}
+  }
   ::selection{background:var(--copper-soft);color:var(--copper);}
   ::-webkit-scrollbar{width:10px;height:10px;}
   ::-webkit-scrollbar-track{background:transparent;}
@@ -47,6 +60,7 @@
       radial-gradient(520px 220px at 100% 0%, var(--wafer-soft) 0%, transparent 60%),
       linear-gradient(180deg, var(--hero-a), var(--hero-b));
     border-bottom:1px solid var(--line);
+    border-radius:20px 20px 0 0;
     overflow:hidden;
   }
   header::before{
@@ -261,6 +275,7 @@
 </style>
 </head>
 <body>
+<div class="page-frame">
 <header>
   <div class="header-inner">
     <span class="eyebrow"><span class="dot"></span>SEMICONDUCTOR NEWS · LOCAL DIGEST</span>
@@ -288,6 +303,7 @@
   <div class="pagination" id="pagination"></div>
 </div>
 <footer>반도체 업계 소식을 자동으로 수집해 정리합니다.</footer>
+</div>
 
 <script>
   const payload = window.NEWS_DATA || { fetchedAt: null, items: [] };
