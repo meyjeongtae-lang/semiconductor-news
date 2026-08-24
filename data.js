@@ -1,6 +1,46 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-24T02:34:04.559Z",
+  "fetchedAt": "2026-08-24T03:03:33.076Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "에코프로에이치엔, 반도체 호황 타고 美 온실가스 저감시장 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260824105634",
+      "date": "Mon, 24 Aug 2026 10:56:34 +0900",
+      "desc": "[지디넷코리아]에코프로에이치엔이 미국 아이다호 반도체 생산시설에 210억원 규모 온실가스 저감설비를 공급하며 해외 시장 확대에 나선다.에코프로에이치엔은 미국 건설·엔지니어링 기업 호프만 컨스트럭션과 대용량 온실가스 저감설비 공급계약을 체결했다고 24일"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "아크릴 \"엔비디아 GPU·국산 NPU 하나로\"...소버린 AX 전략 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260824102553",
+      "date": "Mon, 24 Aug 2026 10:25:53 +0900",
+      "desc": "[지디넷코리아]“AI 주권은 GPU를 몇 장 확보했느냐가 아니라 인프라·모델·운영 전반을 얼마나 효율적으로 통제하고 운영할 수 있느냐에 달려 있습니다. 아크릴은 세 계층을 연결하는 기술과 실증 데이터를 기반으로 특정 벤더에 종속되지 않는 개방형 소버린"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260823-TT-01호] 2026년 8월 23일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260823-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-23%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 24 Aug 2026 00:51:44 GMT",
+      "desc": "'PLP 개척' 韓, 대만에 주도권 빼앗기나 (2026년 8월 23일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20260821000252 [핵심 요약] [1] 한국이 상용화한 PLP, 대만과 주도권 경쟁 한국이 세"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260823-TI-01호] 2026년 8월 23일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260823-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-23%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 24 Aug 2026 00:49:25 GMT",
+      "desc": "삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다 (2026년 8월 23일, 파이낸셜뉴스, 임수빈 기자) 원문보기: https://www.fnnews.com/news/202608231833429861 [핵심 요약] [1] 삼성 차량용 메모"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "SK하이닉스, ‘2026 Tech Day’서 기술 리더십 각인…“AI Memory의 중심은 SK하이닉스”",
+      "link": "https://news.skhynix.co.kr/2026-tech-day/",
+      "date": "Sun, 23 Aug 2026 23:59:29 +0000",
+      "desc": "반도체 분야에서 청운의 꿈을 안고 연구에 몰두해온 젊은 연구자들이 한자리에 모였다. SK하이닉스가 지난 20일 그랜드 워커힐 서울에서 ‘2026 테크 데이(Tech Day)’를 열고, 뜻깊은 기술 교류의 장을 마련한 것이다. 이날 이들 앞에는 SK하이"
+    },
     {
       "source": "한국경제",
       "type": "kr",
