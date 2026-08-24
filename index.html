@@ -127,6 +127,25 @@
   .weekly-brief h2{font-size:16px;}
   .weekly-brief li::before{background:var(--wafer);}
 
+  /* 주별 보기에서 한 주씩만 넘겨보는 네비게이션 */
+  .week-nav{
+    display:none;align-items:center;justify-content:center;gap:10px;
+    padding:4px 0 18px;
+  }
+  .week-nav-btn{
+    width:34px;height:34px;flex:none;border-radius:999px;border:1px solid var(--line);
+    background:var(--card);color:var(--ink-soft);font-size:16px;line-height:1;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;
+    transition:all .15s ease;
+  }
+  .week-nav-btn:hover:not(:disabled){border-color:var(--wafer);color:var(--wafer);transform:translateY(-1px);}
+  .week-nav-btn:disabled{opacity:.3;cursor:default;}
+  .week-select{
+    font-size:13px;font-weight:600;color:var(--ink);padding:8px 16px;border-radius:999px;
+    border:1px solid var(--line);background:var(--card);cursor:pointer;font-family:inherit;
+    max-width:220px;
+  }
+
   /* ---------- Controls ---------- */
   .control-bar{
     display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;
@@ -246,6 +265,11 @@
       <button data-group="week">주별</button>
     </div>
   </div>
+  <div class="week-nav" id="weekNav">
+    <button type="button" class="week-nav-btn" id="weekPrev" aria-label="이전 주">‹</button>
+    <select class="week-select" id="weekSelect"></select>
+    <button type="button" class="week-nav-btn" id="weekNext" aria-label="다음 주">›</button>
+  </div>
   <div id="list"></div>
 </div>
 <footer>반도체 업계 소식을 자동으로 수집해 정리합니다.</footer>
@@ -255,7 +279,8 @@
   const items = payload.items || [];
   let explanations = {};
   let weeklyBriefs = {};
-  let state = { filter: 'all', group: 'source' };
+  let state = { filter: 'all', group: 'source', week: null };
+  let lastWeekOrder = [];
 
   function relativeTime(d) {
     const diffMs = Date.now() - new Date(d).getTime();
@@ -406,40 +431,61 @@
     `;
   }
 
+  // 주별 네비게이션(이전/다음 버튼, 드롭다운)을 현재 상태에 맞게 다시 그린다
+  function renderWeekNav(order) {
+    const sel = document.getElementById('weekSelect');
+    sel.innerHTML = order.map(key =>
+      `<option value="${key}"${key === state.week ? ' selected' : ''}>${escapeHtml(weekGroupLabel(new Date(key + 'T00:00:00')))}</option>`
+    ).join('');
+    const idx = order.indexOf(state.week);
+    document.getElementById('weekPrev').disabled = idx === -1 || idx >= order.length - 1;
+    document.getElementById('weekNext').disabled = idx <= 0;
+  }
+
   function render() {
     const list = document.getElementById('list');
+    const weekNav = document.getElementById('weekNav');
     const filtered = state.filter === 'all' ? items : items.filter(it => it.type === state.filter);
 
     if (filtered.length === 0) {
+      weekNav.style.display = 'none';
       list.innerHTML = '<div class="empty">표시할 뉴스가 없습니다.</div>';
       return;
     }
 
     let i = 0;
     if (state.group === 'week') {
-      const order = [];
       const groups = {};
       filtered.forEach(it => {
         const key = weekGroupKey(it.date);
-        if (!groups[key]) { groups[key] = { label: weekGroupLabel(it.date), items: [] }; order.push(key); }
+        if (!groups[key]) { groups[key] = { label: weekGroupLabel(it.date), items: [] }; }
         groups[key].items.push(it);
       });
-      list.innerHTML = order.map(key => {
-        const brief = weeklyBriefs[key];
-        const briefHtml = brief ? `
-          <div class="weekly-brief">
-            <div class="daily-brief-label">이 주의 요약</div>
-            <h2>${escapeHtml(brief.headline || '')}</h2>
-            <ul>${(brief.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
-          </div>
-        ` : '';
-        return `
-          <div class="group-header">${groups[key].label}<span class="count">${groups[key].items.length}</span></div>
-          ${briefHtml}
-          ${groups[key].items.map(it => rowHtml(it, i++)).join('')}
-        `;
-      }).join('');
+      // 최신 주가 맨 앞에 오도록 정렬 (한 주씩만 보여주고 화살표/드롭다운으로 이동)
+      const order = Object.keys(groups).sort().reverse();
+      lastWeekOrder = order;
+      if (!state.week || !groups[state.week]) state.week = order[0];
+
+      weekNav.style.display = 'flex';
+      renderWeekNav(order);
+
+      const cur = groups[state.week];
+      const brief = weeklyBriefs[state.week];
+      const briefHtml = brief ? `
+        <div class="weekly-brief">
+          <div class="daily-brief-label">이 주의 요약</div>
+          <h2>${escapeHtml(brief.headline || '')}</h2>
+          <ul>${(brief.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
+        </div>
+      ` : '';
+
+      list.innerHTML = cur ? `
+        <div class="group-header">${cur.label}<span class="count">${cur.items.length}</span></div>
+        ${briefHtml}
+        ${cur.items.map(it => rowHtml(it, i++)).join('')}
+      ` : '<div class="empty">표시할 뉴스가 없습니다.</div>';
     } else if (state.group === 'source') {
+      weekNav.style.display = 'none';
       // 소스가 등장하는 순서(=최신 기사가 있는 소스 순)대로 그룹 구성
       const order = [];
       const groups = {};
@@ -452,6 +498,7 @@
         ${groups[source].map(it => rowHtml(it, i++)).join('')}
       `).join('');
     } else {
+      weekNav.style.display = 'none';
       const order = [];
       const groups = {};
       filtered.forEach(it => {
@@ -486,6 +533,19 @@
       state.group = btn.dataset.group;
       render();
     });
+  });
+
+  document.getElementById('weekPrev').addEventListener('click', () => {
+    const idx = lastWeekOrder.indexOf(state.week);
+    if (idx !== -1 && idx < lastWeekOrder.length - 1) { state.week = lastWeekOrder[idx + 1]; render(); }
+  });
+  document.getElementById('weekNext').addEventListener('click', () => {
+    const idx = lastWeekOrder.indexOf(state.week);
+    if (idx > 0) { state.week = lastWeekOrder[idx - 1]; render(); }
+  });
+  document.getElementById('weekSelect').addEventListener('change', (e) => {
+    state.week = e.target.value;
+    render();
   });
 
   const controlBar = document.querySelector('.control-bar');
