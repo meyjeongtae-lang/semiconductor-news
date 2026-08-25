@@ -1,6 +1,106 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-24T22:23:42.076Z",
+  "fetchedAt": "2026-08-25T22:24:31.928Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 스페이스XAI에 베라 CPU 등 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61341",
+      "date": "2026-08-25 18:58:45",
+      "desc": "엔비디아가 스페이스XAI에 베라 중앙처리장치(CPU)를 도입한다고 25일 밝혔다. 스페이스XAI는 스페이스X의 자회사다.베라 CPU는 스페이스XAI 차세대 에이전트 인공지능(AI) 모델을 가속하는데 쓰인다. 엔비디아는 \"세계에서 가장 야심찬 AI 구축",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, AI 추론 특화 랙 '그록 3 LPX' 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61331",
+      "date": "2026-08-25 17:20:14",
+      "desc": "엔비디아가 랙 단위 인공지능(AI) 추론 가속기 '그록 3 LPX'(Groq 3 LPX)을 양산한다고 25일 밝혔다.현재 공개된 그록 3 LPX 고객은 AI 클라우드 기업 네비우스 등이다. 네비우스는 회사 생산용 추론 플랫폼 '네비우스 토큰 팩토리'에",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약",
+      "link": "https://zdnet.co.kr/view/?no=20260825190348",
+      "date": "Tue, 25 Aug 2026 19:03:48 +0900",
+      "desc": "[지디넷코리아]AI인프라 전문기업 디에스앤지가 네이버클라우드와 엔비디아의 차세대 고성능 GPU인 B300 기반 AI GPU 서버 공급 계약을 체결했다.이번 계약을 통해 디에스앤지는 네이버클라우드에 엔비디아 B300 GPU 3112장이 탑재되는 GPU ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Redefining Roles For Edge And Cloud AI",
+      "link": "https://semiengineering.com/redefining-roles-for-edge-and-cloud-ai/",
+      "date": "Tue, 25 Aug 2026 07:15:21 +0000",
+      "desc": "The race is on for localized intelligence. The post Redefining Roles For Edge And Cloud AI appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Research Bits: Aug. 25",
+      "link": "https://semiengineering.com/research-bits-aug-25/",
+      "date": "Tue, 25 Aug 2026 07:01:30 +0000",
+      "desc": "Bacterial transistors; forgetful antiferroelectrics; high-entropy mixing. The post Research Bits: Aug. 25 appeared first on Semiconductor En",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+      "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
+      "date": "Tue, 25 Aug 2026 07:00:00 +0000",
+      "desc": "TSMC’s CoWoS bottlenecks could hand Intel a foundry opening as AI chipmakers eye EMIB and new memory tech. The post TSMC’s HBM-Packaging Yie",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "델 테크놀로지스, AI 인프라 확장…“기업 AI 전환 전방위 지원”",
+      "link": "https://www.etnews.com/20260825000269",
+      "date": "Tue, 25 Aug 2026 14:20:15 +0900",
+      "desc": "델 테크놀로지스가 인공지능(AI) 서비스 확산에 발맞춰 AI 인프라를 책상 위로 확장한다. 노트북에서 워크스테이션까지 AI 구동에 최적화된 PC 라인업을 구축, AI 중심으로 업무를 전환하는 기업을 지원하겠다는 계획이다. 유상모 한국 델 테크놀로지스 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260824-TM-01호] 2026년 8월 24일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260824-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-24%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 25 Aug 2026 00:53:10 GMT",
+      "desc": "현대모비스, SiC 전력반도체 내재화 속도...독자 특허 확보하고 양산 조직 꾸려 (2026년 8월 24일, 전자신문, 함봉균 기자) 원문보기: https://www.etnews.com/20260824000225 [핵심 요약] [1] SiC 전력반도체",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260824-TT-01호] 2026년 8월 24일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260824-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-24%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 25 Aug 2026 00:51:37 GMT",
+      "desc": "GPU 대신 연산까지 수행…삼성 '차세대 HBM' 공개 (2026년 8월 24일, 한국경제, 김인엽 기자) 원문보기: https://www.hankyung.com/article/2026082495701 [핵심 요약] [1] 삼성전자, 연산 기능 갖춘 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260824-TI-01호] 2026년 8월 24일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260824-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-24%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 25 Aug 2026 00:50:21 GMT",
+      "desc": "AI추론, 이젠 성능 아닌 원가 싸움 … 韓 NPU기업들에 새 기회 (2026년 8월 24일, 매일경제, 김대기 기자) 원문보기: https://www.mk.co.kr/news/business/12135119 [핵심 요약] [1] AI 추론 시장에서 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
