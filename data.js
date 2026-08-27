@@ -1,6 +1,226 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-25T22:24:31.928Z",
+  "fetchedAt": "2026-08-27T02:54:57.078Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 2분기 매출 예상치 '초과'…전년비 106%↑",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61407",
+      "date": "2026-08-27 08:18:09",
+      "desc": "엔비디아가 인공지능(AI) 수요에 힘입어 13분기 연속 매출 신기록을 경신했다. 젠슨 황 최고경영자(CEO)는 내년 매출이 약 70% 성장할 것이라고 밝히며 AI 시장 성장성을 재확인했다.엔비디아는 지난 7월 26일 마감된 2027회계연도 2분기(5~",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 4세대 오라이온 CPU 공개…모바일 최초 5GHz 달성",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61397",
+      "date": "2026-08-27 07:49:08",
+      "desc": "퀄컴이 차세대 스냅드래곤 플랫폼용 신형 오라이온(Oryon) 기반 중앙처리장치(CPU)를 공식 발표했다. 25일(현지시간) 퀄컴은 4세대 오라이온 기반 CPU가 모바일 칩셋 중 세계 1번째로 5GHz 동작 속도(클록)를 돌파했다고 밝혔다. 1GHz는 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려",
+      "link": "https://www.hankyung.com/article/202608276253i",
+      "date": "Thu, 27 Aug 2026 10:46:15 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "한투운용, 'ACE 반도체Plus전략산업' ETF 순자산 3000억 돌파",
+      "link": "https://www.hankyung.com/article/2026082762496",
+      "date": "Thu, 27 Aug 2026 10:43:42 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260826-TT-01호] 2026년 8월 26일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260826-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-26%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 27 Aug 2026 00:53:17 GMT",
+      "desc": "SK하이닉스, 델 포럼서 AI 메모리 총망라…HBM4·eSSD 등 공개 (2026년 8월 26일, 한국경제, 노유정 기자) 원문보기: https://www.hankyung.com/article/202608264553i [핵심 요약] [1] SK하이닉스",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260826-TI-01호] 2026년 8월 26일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260826-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-26%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 27 Aug 2026 00:49:21 GMT",
+      "desc": "SK하이닉스 \"탈탄소, 개별기업만으론 한계\"…ASML도 청정전력 강조 (2026년 8월 26일, 아이뉴스24, 권서아 기자) 원문보기: https://www.inews24.com/view/1998528 [핵심 요약] [1] 반도체 탈탄소에 생태계 협업",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엔비디아, AI 맞춤형 메모리 'NVHBM' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260827092332",
+      "date": "Thu, 27 Aug 2026 09:24:55 +0900",
+      "desc": "[지디넷코리아]엔비디아가 GPU, 네트워킹 등 AI 데이터센터 주요 기술에 이어 메모리 기술까지 내재화에 나섰다. 자체 설계한 고대역폭메모리(HBM) 기술 'NVHBM'을 공개하고 아마존과 협력해 공동 개발하겠다고 밝혔다.엔비디아는 26일(현지시간) ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "NVMe 2.4 Update Adds Post-Quantum Security, Power Controls",
+      "link": "https://www.eetimes.com/nvme-2-4-update-adds-post-quantum-security-power-controls/",
+      "date": "Wed, 26 Aug 2026 22:00:00 +0000",
+      "desc": "NVMe 2.4 enhances security, power, virtualization, and management across cloud, AI, and enterprise workloads. The post NVMe 2.4 Update Adds ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, PCIM서 초소형 GaN 전력구동 반도체 전시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61399",
+      "date": "2026-08-26 21:18:06",
+      "desc": "아이언디바이스가 26~28일 중국 선전에서 개최되는 전력전자 전시회 'PCIM 아시아 2026'에 참가했다고 26일 밝혔다.초소형 로보틱스용 질화갈륨(GaN) 전력구동 반도체를 전시했다. 100볼트(V) 하프브릿지 GaN 소자와 게이트 드라이버를 단일",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "보스반도체, 핫 칩스서 AI 가속기 '이글-N' 소개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61404",
+      "date": "2026-08-26 21:18:02",
+      "desc": "보스반도체가 지난 23~25일 미국 스탠퍼드대학교에서 개최된 반도체 기술 컨퍼런스 핫 칩스 2026에서 인공지능(AI) 가속기 '이글-N'을 소개했다고 26일 밝혔다.보스반도체는 지난 24일 핫칩스 2026 자동차 세션에서 '차량용 AI를 위한 확장 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "정부 투자 1호 기업이 뭉쳤다…리벨리온·칼로섬, AI 인프라 맞손",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61381",
+      "date": "2026-08-26 16:55:55",
+      "desc": "리벨리온이 영국 인공지능(AI) 컴퓨팅 기업 칼로섬과 글로벌 이기종 컴퓨팅 인프라 시장을 공략한다.리벨리온은 칼로섬의 '글로벌 이기종 컴퓨팅 통합' 비전 첫 파트너로 합류했다고 26일 밝혔다. 아시아 대표로 영국과 유럽 주권(소버린) AI 인프라에 랙",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "스태츠칩팩코리아-KPCA, 반도체 패키징 산학협력 현장체험 열어",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61368",
+      "date": "2026-08-26 15:09:16",
+      "desc": "반도체 후공정 외주(OSAT) 기업 스태츠칩팩코리아가 대학생 대상 반도체 패키징 산업 현장체험 프로그램을 성황리에 마쳤다고 26일 밝혔다.인천대학교 앵커(ANCHOR)사업단이 추진하는 '반도체 산업 연계 초광역 기업탐방 프로그램'이다. 교육부 지역성장",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth",
+      "link": "https://spectrum.ieee.org/rare-earth-shortage",
+      "date": "Wed, 26 Aug 2026 13:00:01 +0000",
+      "desc": "There are 17 rare earth elements. While almost all of them have vital industrial uses, you could be forgiven for believing, based on news co",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LG화학, 세미콘 타이완 참가…AI 반도체 소재 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61355",
+      "date": "2026-08-26 11:04:31",
+      "desc": "LG화학이 대만에서 고대역폭메모리(HBM)와 인공지능(AI) 반도체용 첨단 패키징 소재를 선보인다. 반도체 제조사와 후공정·패키징 기업을 대상으로 고객사와 신규 프로젝트를 확보한다.LG화학은 오는 9월 2~4일 대만 타이베이 난강전시센터에서 열리는 '",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 성능 2배 높인 '젯슨 오린 나노 2' 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61346",
+      "date": "2026-08-26 10:49:48",
+      "desc": "엔비디아가 엣지 인공지능(AI)용 칩 '젯슨 오린 나노 2'를 26일 공개했다. 출시는 내년 상반기다. 젯슨 오린 나노 2는 초당 78TOPS(초당 78조회 연산) 성능을 갖췄다. 8GB 메모리, 8코어 Arm 중앙처리장치(CPU)를 탑재했다. 엔비디",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "해치텍, 상장 첫 날 주가 40% 하락",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61347",
+      "date": "2026-08-26 07:56:10",
+      "desc": "해치텍의 주가가 상장 첫날 40% 가량 하락했다.해치텍은 지난 25일 공모가 2만3000원으로 코스닥에 입성했다. 상장 첫 날부터 주가는 39.43% 하락했으며, 종가는 1만3930원이다. 거래소 규정상 하루 동안 움직할 수 있는 주가 변동 폭은 최대",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Aug. 26",
+      "link": "https://semiengineering.com/blog-review-aug-26-3/",
+      "date": "Wed, 26 Aug 2026 07:01:36 +0000",
+      "desc": "GAA to CFET; prioritize communication, not compute; verification headwinds; scale-up networks; local AI; high-volume CPO. The post Blog Revi",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Security Moves From Checkbox Compliance To Continuous Defense",
+      "link": "https://semiengineering.com/chip-security-moves-from-checkbox-compliance-to-continuous-defense/",
+      "date": "Wed, 26 Aug 2026 07:01:27 +0000",
+      "desc": "As AI, chiplets, software-defined systems, and new regulations expand the attack surface, visibility, accountability, and real deployment di",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "India’s OSAT-ATMP Build-Out: From Legacy Packages to 2.5D",
+      "link": "https://www.eetimes.com/indias-osat-atmp-build-out-from-legacy-packages-to-2-5d/",
+      "date": "Wed, 26 Aug 2026 07:00:00 +0000",
+      "desc": "ASIP Technologies has begun construction of an OSAT facility in Visakhapatnam, Andhra Pradesh, with Korean partner APACT. The post India’s O",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260825-TI-01호] 2026년 8월 25일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260825-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-25%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 26 Aug 2026 00:57:14 GMT",
+      "desc": "'반도체 전용 곳간' 만든다…삼성·SK '메가프로젝트'에 정부 재정 가세 (2026년 8월 25일, 아주경제, 박진영 기자) 원문보기: https://www.ajunews.com/view/20260825151252181 [핵심 요약] [1] 반도체 특",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260825-TE-01호] 2026년 8월 25일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260825-te-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-25%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 26 Aug 2026 00:54:21 GMT",
+      "desc": "SK하이닉스 HBM4 웨이퍼 테스터, 韓 장비사 수주 확대 (2026년 8월 25일, 전자신문, 박유민 기자) 원문보기: https://www.etnews.com/20260825000120 [핵심 요약] [1] 국내 장비사의 HBM4 테스터 공급 확대",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260825-TT-01호] 2026년 8월 25일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260825-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-25%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 26 Aug 2026 00:53:03 GMT",
+      "desc": "소부장 업계, “AI 위한 CPO 기술 혁신 필요…협력 생태계 구축 시급” (2026년 8월 25일, 전자신문, 권동준 기자) 원문보기: https://www.etnews.com/20260825000324 [핵심 요약] [1] AI 확산에 따라 CPO",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
