@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-27T02:54:57.078Z",
+  "fetchedAt": "2026-08-28T05:57:24.789Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "현금성 자산 1억원대 불과...시지트로닉스, 80억원 증자 검토",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61476",
+      "date": "2026-08-28 13:30:27",
+      "desc": "시지트로닉스가 내달까지 80억원 규모의 운영자금 마련에 나선다. 현재 현금성 자산이 1억원대에 불과해 신규 주문에 대비할 재고자산을 확보하기 힘들기 때문이다.심규환 시지트로닉스 대표는 28일 \"현금을 80억원 가량 확보하기 위해 외부 투자나 전환 사채",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "유정준 SK 부회장 \"2030년까지 대미 투자·자산 총 62조 넘길 것\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61458",
+      "date": "2026-08-28 07:50:22",
+      "desc": "SK그룹이 미국 첨단 기술 시장에 60조원 이상의 투자를 결정했다.유정준 SK그룹 미주총괄 부회장은 27일(현지시간) 미국에서 열린 SK하이닉스 인디애나 웨스트라피엣 반도체 공장 기공식에서 \"SK는 미 전역에서 반도체, 에너지와 첨단 기술 분야를 중심",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "다시 반도체 대형주로 몰리는 투심?...초고수는 '이 종목' 가장 많이 담았다",
+      "link": "https://www.hankyung.com/article/202608288940i",
+      "date": "Fri, 28 Aug 2026 11:00:13 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[단독] '호남 반도체' 이재용·최태원 청문회 추진",
+      "link": "https://www.hankyung.com/article/202608288922i",
+      "date": "Fri, 28 Aug 2026 10:51:45 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 미 최초 첨단 패키징 인디애나 공장 2029년 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61462",
+      "date": "2026-08-28 01:37:33",
+      "desc": "SK하이닉스가 미국 인디애나 첨단 패키징 공장을 2029년부터 양산 가동한다.곽노정 SK하이닉스 대표는 27일(현지시간) 미국에서 열린 SK하이닉스 인디애나 웨스트라피엣 반도체 공장 기공식에서 \"미국은 인공지능(AI) 혁신의 중심으로, SK하이닉스는 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260827-TT-01호] 2026년 8월 27일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260827-tt-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-27%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 28 Aug 2026 00:59:38 GMT",
+      "desc": "HBM도 맞춤형으로…엔비디아, 신기술 공개 (2026년 8월 27일, 한국경제, 노유정 기자) 원문보기: https://www.hankyung.com/article/2026082776521 [핵심 요약] [1] 엔비디아, 맞춤형 HBM 기술 ‘NVHB",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260827-TM-01호] 2026년 8월 27일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260827-tm-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-27%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 28 Aug 2026 00:57:11 GMT",
+      "desc": "삼성, 엔비디아 GPU로 반도체 ‘더 빠르게, 더 많이’ 만든다 (2026년 8월 27일, 서울경제, 이석진 기자) 원문보기: https://www.sedaily.com/article/20084018?ref=naver [핵심 요약] [1] 삼성전자, ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260827-TI-01호] 2026년 8월 27일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260827-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-27%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 28 Aug 2026 00:52:04 GMT",
+      "desc": "엔비디아·리벨리온, 왜 만났나?…업계 \"인수 가능성 낮아\" (2026년 8월 27일, ZDNet Korea, 전화평 기자) 원문보기: https://zdnet.co.kr/view/?no=20260827151542 [핵심 요약] [1] 젠슨 황·박성현 ",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "First Benchmarks Revealed for Jalapeño, OpenAI’s Clean-Sheet General Purpose AI Accelerator ASIC",
+      "link": "https://www.eetimes.com/first-benchmarks-revealed-for-jalapeno-openais-clean-sheet-general-purpose-ai-accelerator-asic/",
+      "date": "Thu, 27 Aug 2026 22:14:16 +0000",
+      "desc": "At Hot Chips 2026, Richard Ho, says OpenAI isn't just repurposing a GPU to suit AI: Jalapeño is a purpose built AI accelerator built from sc",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK에코플랜트-SK에코엔지니어링 12월 합병",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61455",
+      "date": "2026-08-27 18:36:03",
+      "desc": "SK에코플랜트가 분할 4년 만에 100% 자회사 SK에코엔지니어링을 흡수합병한다고 27일 밝혔다.이날 SK에코플랜트는 이사회 의결을 거쳐 해당 사실을 공시했다. 합병 계약일은 28일이며, 9월 말 합병 승인 이사회 결의를 거쳐 12월 1일 최종 합병한",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Qualcomm Bets Open-Source AI Software Can Break Nvidia’s Lock-In",
+      "link": "https://www.eetimes.com/qualcomm-bets-open-source-ai-software-can-break-nvidias-lock-in/",
+      "date": "Thu, 27 Aug 2026 18:09:20 +0000",
+      "desc": "Modular aims to separate AI software from silicon choice, giving Qualcomm and other challengers a shot at Nvidia-dominated workloads. The po",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The U.S. is Building CHIPS Act Fabs but Neglecting R&D",
+      "link": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
+      "date": "Thu, 27 Aug 2026 15:00:03 +0000",
+      "desc": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act , a bipartisan",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 \"삼성·SK하이닉스 HBC에 적극적...HBM과 병행 개발\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61428",
+      "date": "2026-08-27 14:08:48",
+      "desc": "삼성전자와 SK하이닉스 두 메모리 제조사가 퀄컴의 고대역폭연산(HBC:High Bandwidth Compute) 칩 상용화에 적극 협력하고 있는 것으로 나타났다.두르가 말라디 퀄컴 총괄 부사장은 26일(현지시간) '도이치뱅크 테크 콘퍼런스 2026'에",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메모리 가격 폭등 직격탄…엔비디아 실적 전망도 낮췄다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61416",
+      "date": "2026-08-27 13:22:51",
+      "desc": "엔비디아가 메모리 반도체 가격 인상으로 총이익률 전망을 하향조정했다. 반도체 위탁생산(파운드리)과 데이터센터 전력, 부지 등 공급망 병목으로 매출 성장률은 제품 수요 증가율을 밑돌 것으로 예상했다.엔비디아는 26일(현지시간) 2027회계연도 2분기(5",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -20,6 +160,116 @@ window.NEWS_DATA = {
       "desc": "퀄컴이 차세대 스냅드래곤 플랫폼용 신형 오라이온(Oryon) 기반 중앙처리장치(CPU)를 공식 발표했다. 25일(현지시간) 퀄컴은 4세대 오라이온 기반 CPU가 모바일 칩셋 중 세계 1번째로 5GHz 동작 속도(클록)를 돌파했다고 밝혔다. 1GHz는 ",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Issues Stack Up With More HBM Layers",
+      "link": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/",
+      "date": "Thu, 27 Aug 2026 07:15:08 +0000",
+      "desc": "Hot Chips 2026: Thinner dies, more TSV area, thermal dissipation, and limited manufacturing capacity make HBM scaling much more difficult. T",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Spec To Formal Properties",
+      "link": "https://semiengineering.com/from-spec-to-formal-properties/",
+      "date": "Thu, 27 Aug 2026 07:13:38 +0000",
+      "desc": "Can LLMs turn a specification into a set of formal properties that can be used to verify an implementation? The answer is getting closer to ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Agentic AI Success Relies On Excellent Human Scaffolding",
+      "link": "https://semiengineering.com/agentic-ai-success-relies-on-excellent-human-scaffolding/",
+      "date": "Thu, 27 Aug 2026 07:11:19 +0000",
+      "desc": "Before deploying agentic AI into a chip design, engineers must define the domain ontology and agentic harness. Fundamental engines are still",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Planning Your AI Design Journey: Start With What You’d Lose",
+      "link": "https://semiengineering.com/planning-your-ai-design-journey-start-with-what-youd-lose/",
+      "date": "Thu, 27 Aug 2026 07:09:31 +0000",
+      "desc": "How to build capability without forcing a disruptive rebuild of workflows that already ship products. The post Planning Your AI Design Journ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Cache Coherency Simplifies AI Software",
+      "link": "https://semiengineering.com/how-cache-coherency-simplifies-ai-software/",
+      "date": "Thu, 27 Aug 2026 07:08:29 +0000",
+      "desc": "Designing SoCs to reduce the software required to coordinate increasingly complex systems. The post How Cache Coherency Simplifies AI Softwa",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Verified. Until It Isn’t: Why Datapath Verification Needs A New Playbook",
+      "link": "https://semiengineering.com/verified-until-it-isnt-why-datapath-verification-needs-a-new-playbook/",
+      "date": "Thu, 27 Aug 2026 07:07:47 +0000",
+      "desc": "Discover bugs that neither constrained-random simulation nor model-heavy equivalence flows are structurally capable of finding. The post Ver",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Agentic AI Turns IC Engineers Into Architects",
+      "link": "https://semiengineering.com/how-agentic-ai-turns-ic-engineers-into-architects/",
+      "date": "Thu, 27 Aug 2026 07:06:31 +0000",
+      "desc": "Engineers using agents suddenly inherit a set of traditionally managerial responsibilities. The post How Agentic AI Turns IC Engineers Into ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Streamlining 3D-IC Design: Substrate, Finalization, And Tapeout",
+      "link": "https://semiengineering.com/streamlining-3d-ic-design-substrate-finalization-and-tapeout/",
+      "date": "Thu, 27 Aug 2026 07:04:49 +0000",
+      "desc": "Effective substrate implementation is crucial for signal integrity, power delivery, and overall system reliability. The post Streamlining 3D",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From GAA To CFET: Scaling Transistors For The AI Era",
+      "link": "https://semiengineering.com/from-gaa-to-cfet-scaling-transistors-for-the-ai-era/",
+      "date": "Thu, 27 Aug 2026 07:03:43 +0000",
+      "desc": "Backside power delivery and design technology co-optimization help enable the full potential of new transistor structures. The post From GAA",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Full-Fidelity Thermal Simulation at Floorplanning Speed for 2.5D AI Accelerator Packages",
+      "link": "https://semiengineering.com/full-fidelity-thermal-simulation-at-floorplanning-speed-for-2-5d-ai-accelerator-packages/",
+      "date": "Thu, 27 Aug 2026 07:03:16 +0000",
+      "desc": "Manage power density, mitigate hotspot formation, and co-optimize die and package design under increasingly constrained thermal budgets. The",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why Connectivity Has Become an Edge AI Design Decision",
+      "link": "https://www.eetimes.com/why-connectivity-has-become-an-edge-ai-design-decision/",
+      "date": "Thu, 27 Aug 2026 07:00:00 +0000",
+      "desc": "Edge AI isn’t smart if its wireless link chokes; design compute, security, and Wi‑Fi 7 handoffs together from day one. The post Why Connecti",
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
