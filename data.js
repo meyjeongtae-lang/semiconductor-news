@@ -1,6 +1,36 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-29T03:29:53.792Z",
+  "fetchedAt": "2026-08-29T23:52:53.544Z",
   "items": [
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
+      "link": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta/",
+      "date": "Sat, 29 Aug 2026 17:00:22 +0000",
+      "desc": "Researchers from University of Alberta published a technical paper titled “PPAPlace: Differentiable Cross-Stage Objectives for Chip Placemen",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
+      "link": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern/",
+      "date": "Sat, 29 Aug 2026 07:01:49 +0000",
+      "desc": "Researchers from Northeastern University published a technical paper titled “ROBBIN: Rowhammer-Based Backdoor Injection during Inference.” A",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "블랙웰→루빈→파인만…젠슨 황이 GPU 이름에 숨긴 '비밀코드' [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026082898886",
+      "date": "Sat, 29 Aug 2026 14:00:08 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -34,20 +64,20 @@ window.NEWS_DATA = {
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
-      "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
-      "link": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/",
-      "date": "Fri, 28 Aug 2026 17:49:57 +0000",
-      "desc": "Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Benchmark Suite of 3D-IC Testcases",
+      "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+      "link": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/",
+      "date": "Fri, 28 Aug 2026 21:41:18 +0000",
+      "desc": "Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead in Wafer-Scale Optical Intercon",
       "category": "research",
       "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
-      "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
-      "link": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/",
-      "date": "Fri, 28 Aug 2026 17:41:18 +0000",
-      "desc": "Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead in Wafer-Scale Optical Intercon",
+      "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
+      "link": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/",
+      "date": "Fri, 28 Aug 2026 17:49:57 +0000",
+      "desc": "Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Benchmark Suite of 3D-IC Testcases",
       "category": "research",
       "domain": "tech"
     },
