@@ -1,6 +1,126 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-28T05:57:24.789Z",
+  "fetchedAt": "2026-08-29T03:29:53.792Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "뉴엔비디아가 된 삼전닉스…\"AI칩 중심은 이제 GPU 아닌 메모리\" [김인엽의 AI 프런티어]",
+      "link": "https://www.hankyung.com/article/202608288777i",
+      "date": "Sat, 29 Aug 2026 10:00:07 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "美 트럼프 행정부, 中 AI '원격 연산 우회' 차단 추진…태국·싱가포르 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20260829014347",
+      "date": "Sat, 29 Aug 2026 09:30:01 +0900",
+      "desc": "[지디넷코리아]미국 트럼프 행정부가 중국 기업들이 제3국에 위치한 원격 서버를 통해 최첨단 인공지능(AI) 반도체 연산 자원에 접근하는 '규제 허점'을 원천 차단하기 위한 새로운 수출 통제 조치를 검토 중이다.미국 IT 전문 매체 디인포메이션은 미 정",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Google’s Marvell Deal Shows Custom Silicon Spreading Beyond the TPU",
+      "link": "https://www.eetimes.com/googles-marvell-deal-shows-custom-silicon-spreading-beyond-the-tpu/",
+      "date": "Fri, 28 Aug 2026 21:59:13 +0000",
+      "desc": "Google’s expanded relationship with Marvell suggests that memory, networking, storage, and data movement are candidates for specialization t",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
+      "link": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/",
+      "date": "Fri, 28 Aug 2026 17:49:57 +0000",
+      "desc": "Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Benchmark Suite of 3D-IC Testcases",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+      "link": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/",
+      "date": "Fri, 28 Aug 2026 17:41:18 +0000",
+      "desc": "Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead in Wafer-Scale Optical Intercon",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
+      "link": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn/",
+      "date": "Fri, 28 Aug 2026 17:34:14 +0000",
+      "desc": "Researchers from University of Michigan-Dearborn published a technical paper titled “Generative Design of Liquid-Cooling Channels for Therma",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
+      "link": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al/",
+      "date": "Fri, 28 Aug 2026 17:28:19 +0000",
+      "desc": "Researchers from Peking University, Chinese Academy of Sciences et al. published a technical paper titled “Homo-metal-element mediated surfa",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
+      "link": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac/",
+      "date": "Fri, 28 Aug 2026 17:20:53 +0000",
+      "desc": "Researchers from Stanford University and SLAC National Accelerator Laboratory published a technical paper titled “Deep Learning to Automate ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "'폴드8 센서 IC 납품' 해치텍, 상반기 매출 전년비 22%↑",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61499",
+      "date": "2026-08-28 17:04:05",
+      "desc": "해치텍은 28일 올해 상반기 매출 약 92억4100만원으로 전년 동기(약 74억2600만원) 대비 약 24.4% 올랐다고 공시했다.영업손실은 약 6억5200만원으로 지난해 동기(약 6억2000만원)보다 약 5.2% 증가했다. 해치텍은 내년(약 43억원",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "기가바이트, 엔비디아와 협력해 GeForce RTX™ 50 시리즈 및 &apos;컨트롤 : 레조넌트&apos; 번들로 게이밍 경험 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260829011002",
+      "date": "Sat, 29 Aug 2026 01:10:02 +0900",
+      "desc": "[지디넷코리아]타이베이, 2026년 8월 28일 /PRNewswire/ -- 세계적인 컴퓨터 브랜드 기가바이트(GIGABYTE)가 엔비디아(NVIDIA)와 협력해 NVIDIA&reg; GeForce RTX™ 5070 이상의 GPU와 노트북용 GPU를 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 성능 최대 3.3배 올린 'ROCM 10' 배포",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61495",
+      "date": "2026-08-28 16:10:00",
+      "desc": "AMD가 개방형 소프트웨어 플랫폼 ROCm 7의 후속 버전으로 ROCm 10을 공개했다.ROCm은 엔비디아 쿠다(CUDA)와 비슷한 소프트웨어 지원 플랫폼이다. 고성능 컴퓨팅(HPC)과 AI 모델 학습, 추론을 지원하고, GPU 성능을 효율적으로 활용",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "쓰리에이로직스, 배터리 프리 NFC 잠금장치 혁신 제품 톱10 선정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61489",
+      "date": "2026-08-28 15:16:33",
+      "desc": "쓰리에이로직스는 NFC 포럼이 선정하는 혁신 상위 10개 제품에 자사 근거리무선통신(NFC) 브랜드 'VOLTEND' 제품이 선정됐다고 28일 밝혔다. 선정된 제품은 VOLTEND 배터리 프리(Free) NFC 잠금장치다. 쓰리에이로직스는 2019년부",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,6 +132,16 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260828-TI-01호] 2026년 8월 28일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260828-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-28%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 28 Aug 2026 07:53:56 GMT",
+      "desc": "\"美 트럼프 행정부, 수입 반도체 고율 관세 검토\" (2026년 8월 28일, 한국경제, 이상은 기자) 원문보기: https://www.hankyung.com/article/2026082780231 [핵심 요약] [1] 미국, 수입 반도체 고율 관세 ",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "유정준 SK 부회장 \"2030년까지 대미 투자·자산 총 62조 넘길 것\"",
@@ -20,6 +150,26 @@ window.NEWS_DATA = {
       "desc": "SK그룹이 미국 첨단 기술 시장에 60조원 이상의 투자를 결정했다.유정준 SK그룹 미주총괄 부회장은 27일(현지시간) 미국에서 열린 SK하이닉스 인디애나 웨스트라피엣 반도체 공장 기공식에서 \"SK는 미 전역에서 반도체, 에너지와 첨단 기술 분야를 중심",
       "category": "earnings",
       "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week in Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-153/",
+      "date": "Fri, 28 Aug 2026 07:01:37 +0000",
+      "desc": "Hot Chips AI HW wave; HBM vs HBC; capacity buildout; Infineon's latest buy; advanced packaging enablers; foundry report; ASIC security threa",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Microscale Power Management Starts with Microflow Heat Measurement",
+      "link": "https://www.eetimes.com/microscale-power-management-starts-with-microflow-heat-measurement/",
+      "date": "Fri, 28 Aug 2026 07:00:00 +0000",
+      "desc": "Laser pulses and X-ray imaging reveal the surprising impact of micron-scale material defects on heat dissipation. The post Microscale Power ",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "한국경제",
@@ -114,7 +264,7 @@ window.NEWS_DATA = {
     {
       "source": "IEEE Spectrum",
       "type": "intl",
-      "title": "The U.S. is Building CHIPS Act Fabs but Neglecting R&D",
+      "title": "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D",
       "link": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
       "date": "Thu, 27 Aug 2026 15:00:03 +0000",
       "desc": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act , a bipartisan",
@@ -938,16 +1088,6 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=61176",
       "date": "2026-08-21 07:38:55",
       "desc": "DB하이텍이 인도 시장 공략을 본격화한다고 20일 밝혔다.DB하이텍은 다음달 16~18일(현지시간) 인도 벵갈루루에서 열리는 일렉트로니카 인디어 2026에 참가한다. 일렉트로니카 인디아는 남아시아 전자산업 전시회로 전자부품과 시스템, 애플리케이션 솔루",
-      "category": "deals",
-      "domain": "business"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-152/",
-      "date": "Fri, 21 Aug 2026 07:01:08 +0000",
-      "desc": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 ",
       "category": "deals",
       "domain": "business"
     },
