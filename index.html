@@ -107,6 +107,11 @@
   .chip.mono{color:var(--ink);font-weight:600;}
   button.chip{cursor:pointer;font-family:inherit;}
   button.chip:hover{border-color:var(--copper);color:var(--copper);transform:translateY(-1px);}
+  .meta-toggle{
+    background:transparent;border:none;box-shadow:none;
+    color:var(--slate);font-weight:500;padding:6px 2px;
+  }
+  .meta-toggle:hover{color:var(--copper);border-color:transparent;transform:none;}
 
   /* ---------- Daily brief ---------- */
   .daily-brief{
@@ -299,7 +304,7 @@
     <p class="sub" id="fetchedAt">수집 시각 확인 중...</p>
     <div class="sitenav">
       <a href="index.html" class="active">뉴스</a>
-      <a href="companies.html">후보기업</a>
+      <a href="companies.html">관심기업</a>
     </div>
     <div class="meta-row" id="metaRow"></div>
   </div>
@@ -384,14 +389,32 @@
     return 'src-' + encodeURIComponent(s).replace(/%/g, '');
   }
 
-  document.getElementById('metaRow').innerHTML =
-    `<span class="chip mono">기사 ${items.length}건</span>` +
-    `<span class="chip mono">소스 ${Object.keys(bySource).length}곳</span>` +
-    Object.keys(bySource).map(s =>
-      `<button type="button" class="chip" data-source="${escapeHtml(s)}">${escapeHtml(s)} ${bySource[s]}</button>`
-    ).join('');
+  let sourcesOpen = false; // 소스별 칩 목록은 기본적으로 접어두고, 눌러야 펼쳐지게 한다
+
+  function renderMetaRow() {
+    const box = document.getElementById('metaRow');
+    const base =
+      `<span class="chip mono">기사 ${items.length}건</span>` +
+      `<span class="chip mono">소스 ${Object.keys(bySource).length}곳</span>`;
+    if (!sourcesOpen) {
+      box.innerHTML = base + `<button type="button" class="chip meta-toggle" data-action="expand">출처별 보기 ▸</button>`;
+      return;
+    }
+    box.innerHTML = base +
+      Object.keys(bySource).map(s =>
+        `<button type="button" class="chip" data-source="${escapeHtml(s)}">${escapeHtml(s)} ${bySource[s]}</button>`
+      ).join('') +
+      `<button type="button" class="chip meta-toggle" data-action="collapse">접기 ▴</button>`;
+  }
+  renderMetaRow();
 
   document.getElementById('metaRow').addEventListener('click', e => {
+    const toggleBtn = e.target.closest('button[data-action]');
+    if (toggleBtn) {
+      sourcesOpen = toggleBtn.dataset.action === 'expand';
+      renderMetaRow();
+      return;
+    }
     const btn = e.target.closest('button[data-source]');
     if (!btn) return;
     goToSource(btn.dataset.source);
