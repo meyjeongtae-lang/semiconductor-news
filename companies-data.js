@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-30T14:20:51.424Z",
+  "generatedAt": "2026-08-30T14:56:56.712Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -16,9 +16,10 @@ window.COMPANIES_DATA = {
       "employees": 94273,
       "source": "dart",
       "hiring": {
-        "status": "upcoming",
-        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)",
-        "url": "https://www.samsung-dsrecruit.com/"
+        "status": "unknown",
+        "note": "DS부문 채용 공지사항에 2026년 하반기 정기공채 공지 아직 없음(최신 공지는 2024년 하계·동계 인턴십 모집). 예상 시기 불확실, 인재 등록으로 상시지원만 가능",
+        "url": "https://www.samsung-dsrecruit.com/",
+        "asOf": "2026-08-30"
       },
       "desc": "🔧 이 회사의 반도체 사업은 'DS(Device Solutions)부문'이 담당해요 — 메모리(D램·낸드), 시스템반도체 설계, 파운드리(위탁생산)가 여기 다 들어가요. 그 외에 스마트폰·가전을 만드는 MX·VD부문도 같은 회사 안에 있어요(별도 법인 아님). 세계 최대 종합반도체·전자기업으로, 최근 DS부문은 HBM(고대역폭메모리) 등 AI 반도체 메모리 경쟁에서 SK하이닉스와 선두를 다투고 있어요. 다만 우리 데이터의 매출·직원수는 DS부문만이 아니라 회사 전체(스마트폰·가전 포함) 합산 숫자예요."
     },
@@ -31,8 +32,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "하반기 수시채용 서류접수 마감(8/20~8/26). 다음 라운드는 채용 홈페이지 확인 필요",
-        "url": "https://talent.skhynix.com/hub/ko/home"
+        "note": "월간 수시채용 방식('월간 hy-way'). 8월 모집 라운드는 접수 마감, 9월 공고는 아직 미공개(8/30 기준)",
+        "url": "https://talent.skhynix.com/hub/ko/home",
+        "asOf": "2026-08-30"
       },
       "desc": "삼성전자와 함께 세계 메모리반도체(D램·낸드플래시) 시장을 양분하는 회사예요. 최근 몇 년간 AI 데이터센터에 들어가는 HBM(고대역폭메모리) 수요가 폭발적으로 늘면서, 이 분야에서는 세계 1위 자리를 두고 삼성전자와 경쟁하고 있어요. 미국 인디애나에 첫 해외 HBM 패키징 공장을 짓고 있는 것도 이 흐름의 연장선이에요."
     },
@@ -59,8 +61,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "상반기 마감(2/25~3/13). 하반기 일정 미공개",
-        "url": "https://careers.mobis.com/jobs"
+        "note": "경력직 상시채용은 91건 진행 중(예: 2026-08-21~09-02, 2026-08-28~09-08 등 개별 마감). 신입 정기공채는 상반기(2/25~3/13) 마감 이후 새 라운드 없음(8/30 기준)",
+        "url": "https://careers.mobis.com/jobs",
+        "asOf": "2026-08-30"
       },
       "desc": "🔧 이 회사의 반도체 관련 사업은 '전동화 사업부'가 담당해요(2024년 7월 모듈사업부와 통합됨). 다만 아직은 개발·설계 내재화 단계예요 — SiC(실리콘카바이드) 전력반도체 양산은 2029년을 목표로 하고 있고, 지금 당장 대량 생산 중인 건 아니에요. 원래 이 회사의 주력은 현대차그룹에 납품하는 자동차 전장·섀시·램프 부품(모듈 조립)이고, 반도체는 미래 성장동력으로 새로 키우는 사업이에요."
     },
@@ -73,8 +76,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "상반기 마감(7/3). 대졸 정기공채, 하반기 미정",
-        "url": "https://careers.koreazinc.co.kr/"
+        "note": "채용페이지 진행 중 공고 0건(전체·신입·경력·신입경력·기타 모두 0, 8/30 기준). 하반기 일정 미공개",
+        "url": "https://careers.koreazinc.co.kr/",
+        "asOf": "2026-08-30"
       },
       "desc": "🔧 이 회사의 반도체 관련 사업은 별도 사업부라기보다, 아연·연 제련 과정에서 나오는 부산물을 활용한 소재 사업이에요 — 반도체 세정·식각에 쓰는 초고순도황산(반도체황산) 국내 1위 생산업체이고, 최근 갈륨·인듐·게르마늄 같은 반도체용 희귀금속 회수 공정도 확대하고 있어요. 다만 회사 매출의 대부분은 세계 1위인 아연·연 제련 사업에서 나오고, 반도체 소재는 상대적으로 작은 비중이에요."
     },
@@ -123,8 +127,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "계열사 여러 직군 상시채용 진행 중",
-        "url": "https://oci.career.greetinghr.com/ko/home"
+        "note": "OCI(반도체 소재 법인) 자체는 '경력사원 상시채용' 1건만 진행 중(상시, 마감일 미정). 채용포털의 신입 공고 다수는 계열사 부광약품(제약)이며 OCI 자체 신입공고 아님",
+        "url": "https://oci.career.greetinghr.com/ko/home",
+        "asOf": "2026-08-30"
       },
       "desc": "폴리실리콘(실리콘 웨이퍼의 원료), TDI·카본블랙 같은 화학소재를 만드는 회사예요. 폴리실리콘은 태양광 패널과 반도체 웨이퍼 모두에 쓰이는데, 지금까지는 태양광용이 생산량의 약 88%로 훨씬 큰 비중을 차지했어요. 다만 태양광 사업이 중국산 저가 공세로 적자를 내면서, 중국이 아직 못 들어온 반도체용 고순도 폴리실리콘 쪽을 회사가 의도적으로 키우는 중이에요."
     },
@@ -173,8 +178,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "계약직 위주 상시채용 진행 중",
-        "url": "https://dbhitek-recruit.com/"
+        "note": "신입: 조직문화·사회공헌 체험형 인턴 접수 2026-08-28~09-06. 경력: 경력사원 공채(8월) 접수 2026-08-21~09-03",
+        "url": "https://dbhitek-recruit.com/",
+        "asOf": "2026-08-30"
       },
       "desc": "국내를 대표하는 반도체 파운드리(위탁생산) 회사예요. 삼성전자·TSMC 같은 회사들이 최첨단 미세공정에 집중한다면, DB하이텍은 아날로그·전력반도체처럼 정밀한 미세화보다 안정성이 중요한 반도체를 전문으로 생산해요."
     },
@@ -252,9 +258,10 @@ window.COMPANIES_DATA = {
       "employees": 639,
       "source": "dart",
       "hiring": {
-        "status": "open",
-        "note": "직무별 상시채용(최근 공고 마감 6/10, 새 공고 갱신 중)",
-        "url": "https://enf-recruit.career.greetinghr.com/ko/home"
+        "status": "closed",
+        "note": "현재 개별 채용공고 없음 — '상시 인재풀 등록'만 가능(실제 공고 아님, 8/30 기준)",
+        "url": "https://enf-recruit.career.greetinghr.com/ko/home",
+        "asOf": "2026-08-30"
       },
       "desc": "한국알콜그룹 계열로, 반도체·디스플레이 제조 공정에 쓰이는 화학제품을 만드는 회사예요. 2021년에 유비머트리얼즈(반도체 CMP 슬러리 회사)를 인수하기도 했어요."
     },
@@ -266,9 +273,10 @@ window.COMPANIES_DATA = {
       "employees": 1354,
       "source": "dart",
       "hiring": {
-        "status": "closed",
-        "note": "상반기 마감(1/5~1/19)",
-        "url": "https://haesunggroup.select-in.co.kr/recruit/apply/recruitList?comp_idx=145"
+        "status": "open",
+        "note": "경력직 수시채용 진행 중(BGA Panel 등, 접수마감 2026-09-03). 신입 공채는 상반기(1/5~1/19) 이후 새 라운드 안 보임(8/30 기준)",
+        "url": "https://haesunggroup.select-in.co.kr/recruit/apply/recruitList?comp_idx=145",
+        "asOf": "2026-08-30"
       },
       "desc": "반도체 리드프레임·BGA 기판을 만드는 회사예요. 이건 반도체 칩을 패키지 안에서 외부 회로와 전기적으로 연결해주는 부품으로, 반도체 후공정(패키징)에 필요한 핵심 소재예요."
     },
@@ -281,8 +289,9 @@ window.COMPANIES_DATA = {
       "source": "web",
       "hiring": {
         "status": "open",
-        "note": "다수 직무 상시채용 + 동계인턴 11/11~11/30 예정",
-        "url": "https://airfirst.career.greetinghr.com/ko/apply"
+        "note": "포항·평택·서산 공장 등 신입 포함 다수 직무 15건 상시채용 진행 중(엔지니어·오퍼레이터·영업 등, 8/30 기준)",
+        "url": "https://airfirst.career.greetinghr.com/ko/apply",
+        "asOf": "2026-08-30"
       },
       "desc": "반도체·석유화학·철강 공정에 쓰이는 산업용 가스(산소·질소·아르곤 등)를 공급하는 회사예요. 1975년 설립된 47년 업력의 회사로, 반도체 공장이 안정적으로 돌아가려면 이런 특수가스 공급이 꾸준히 필요해요."
     },
@@ -619,9 +628,10 @@ window.COMPANIES_DATA = {
       "employees": 12826,
       "source": "dart",
       "hiring": {
-        "status": "upcoming",
-        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)",
-        "url": "https://www.samsungcareers.com/"
+        "status": "unknown",
+        "note": "삼성 채용 포털에 삼성SDI 개별 채용공고는 안 보이고 '인재 등록'(상시등록)만 가능. 정기 공채 일정 미확정",
+        "url": "https://www.samsungcareers.com/",
+        "asOf": "2026-08-30"
       },
       "desc": "🔧 이 회사의 반도체 관련 사업은 '전자재료사업부문'이 담당해요 — SOH(스핀코팅 방식 하드마스크), SOD(층간 절연 코팅재), CMP 슬러리(웨이퍼 연마재), EMC(반도체를 습기·충격에서 보호하는 봉지재) 같은 반도체 공정용 소재를 만들어요. 다만 회사 매출의 대부분은 전기차·ESS(에너지저장장치)용 배터리(2차전지) 사업에서 나오고, 반도체 소재는 부차적인 사업이에요."
     },
@@ -686,9 +696,10 @@ window.COMPANIES_DATA = {
       "employees": 2500,
       "source": "web",
       "hiring": {
-        "status": "open",
-        "note": "FAB 엔지니어 등 상시채용 진행 중",
-        "url": "https://www.magnachip.com/kr/about-us/career/jobs/"
+        "status": "unknown",
+        "note": "채용페이지에 게시된 공고의 마감일이 이미 지남(SiC Power Device R&D, ~2026-03-31). 신규 공고 확인 안 됨(8/30 기준)",
+        "url": "https://www.magnachip.com/kr/about-us/career/jobs/",
+        "asOf": "2026-08-30"
       },
       "desc": "2004년 옛 하이닉스반도체의 비메모리 사업부가 분리되며 출범한 회사예요. 스마트폰·TV 화면을 구동하는 디스플레이 구동칩과, 전력을 변환·제어하는 전력반도체를 파운드리 방식으로 만들어요."
     },
@@ -701,8 +712,9 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "공정·설비엔지니어 등 6건 상시채용 진행 중",
-        "url": "https://snstech.career.greetinghr.com/ko/guide"
+        "note": "용인EUV센터·대구사업장 등 7건 상시채용 진행 중(대부분 계약직, 경력무관 다수 포함, 8/30 기준)",
+        "url": "https://snstech.career.greetinghr.com/ko/guide",
+        "asOf": "2026-08-30"
       },
       "desc": "국내에서 유일하게 블랭크마스크(포토마스크의 원판, 반도체 노광공정의 핵심소재)를 생산하는 회사예요. 삼성전자·SK하이닉스는 물론 TSMC·SMIC 같은 해외 파운드리에도 공급하고 있고, 최고급 기술인 EUV용 블랭크마스크도 국산화를 추진 중이에요."
     },
@@ -724,9 +736,10 @@ window.COMPANIES_DATA = {
       "employees": 542,
       "source": "dart",
       "hiring": {
-        "status": "open",
-        "note": "3건 진행 중",
-        "url": "https://www.keccorp.com/kr/company/jobs.asp"
+        "status": "unknown",
+        "note": "채용페이지에 현재 게시된 공고는 2024년치 1건뿐이며 접수마감 상태. 2026년 신규 공고 확인 안 됨(8/30 기준)",
+        "url": "https://www.keccorp.com/kr/company/jobs.asp",
+        "asOf": "2026-08-30"
       },
       "desc": "1969년부터 이어온 국내 전력반도체 전문기업(KEC)이에요. 국내 전력반도체 중견기업 중 유일하게 자체 생산시설을 갖고 있고, 최근에는 SiC·GaN 같은 차세대 전력반도체 개발에도 투자하고 있어요."
     },
@@ -1126,9 +1139,10 @@ window.COMPANIES_DATA = {
       "employees": 1469,
       "source": "dart",
       "hiring": {
-        "status": "frequent",
-        "note": "연중 여러 차례 정기채용(4월·7월 등). 다음 라운드 기대 가능",
-        "url": "https://dongjin.careerlink.kr"
+        "status": "unknown",
+        "note": "현재 '생산직 인재풀' 상시등록만 진행 중(신입/경력 구분 없음). 정기 신입공채(4월·7월 등) 라운드는 지금 안 열림(8/30 기준)",
+        "url": "https://dongjin.careerlink.kr",
+        "asOf": "2026-08-30"
       },
       "desc": "반도체·디스플레이용 포토레지스트(감광액, 회로 패턴을 새길 때 쓰는 핵심 화학소재)를 만드는 회사예요. 반도체용 3D 낸드 포토레지스트 분야에서는 세계 시장 1위를 차지하고 있어요."
     },

@@ -117,18 +117,21 @@
   .tier-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;}
   .tier-tag.mid{background:var(--moss-soft);color:var(--moss);}
   .tier-tag.small{background:var(--copper-soft);color:var(--copper);}
-  .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:nowrap;cursor:pointer;text-decoration:none;transition:filter .15s ease,transform .15s ease;}
+  .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:normal;cursor:pointer;text-decoration:none;transition:filter .15s ease,transform .15s ease;line-height:1.5;}
   .hire-tag:hover{filter:brightness(1.08);transform:translateY(-1px);}
   .hire-tag.open{background:var(--moss-soft);color:var(--moss);}
   .hire-tag.upcoming{background:var(--copper-soft);color:var(--copper);}
   .hire-tag.frequent{background:var(--wafer-soft);color:var(--wafer);}
   .hire-tag.closed{background:var(--graphite-soft);color:var(--graphite);}
   .hire-tag.unknown, .hire-tag.none{background:var(--graphite-soft);color:var(--slate);}
+  .hire-asof{font-weight:400;opacity:.75;font-size:10px;}
   .src-tag{display:inline-block;font-size:9.5px;font-weight:700;padding:1px 6px;border-radius:5px;background:var(--wafer-soft);color:var(--wafer);vertical-align:middle;margin-left:4px;}
   tr.has-desc{cursor:pointer;}
   tr.has-desc:hover td{background:var(--paper);}
   .desc-arrow{display:inline-block;font-size:10px;color:var(--slate);width:10px;}
   tr.desc-row td{background:var(--paper);color:var(--ink-soft);font-size:13px;line-height:1.7;padding:14px 16px 16px 34px;border-bottom:1px solid var(--line);}
+  .hire-detail{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);font-size:12.5px;color:var(--slate);}
+  .hire-detail strong{color:var(--ink-soft);}
 
   .section-note{font-size:12.5px;color:var(--slate);line-height:1.7;margin:14px 2px 0;}
 
@@ -179,7 +182,7 @@
   </div>
   <p class="section-note" id="countNote"></p>
   <p class="section-note">기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요 — 출처마다 기준연도가 달라 DART 공시만큼 정확하지 않을 수 있어요. 외국계 지사·비상장이라 데이터를 못 찾은 46곳은 표에서 뺐어요.</p>
-  <p class="section-note">채용상태는 2026년 8월 30일 기준 검색 스냅샷이에요 — 소자/파운드리·소재 37곳만 우선 확인했고, 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
+  <p class="section-note">채용상태는 소자/파운드리·소재 37곳만 우선 확인했어요. 대부분(회사명 클릭 시 나오는 상세 설명에 "확인일"이 표시된 곳)은 회사 채용 페이지에 직접 들어가서 실제 공고와 접수 기간을 확인한 결과이고, 일부는 검색 요약 기반이라 상대적으로 부정확할 수 있어요. 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
 </div>
 <footer>KSIA 반도체 관심기업을 DART 공시와 취업정보 사이트로 규모를 확인해 정리합니다.</footer>
 </div>
@@ -215,10 +218,16 @@
     const hasOfficial = !!h.url;
     const link = hasOfficial ? h.url : searchUrl;
     const dest = hasOfficial ? '회사 공식 채용 페이지' : '잡코리아 신입 채용공고 검색(협력사 공고가 섞일 수 있어요)';
+    const asOfTxt = h.asOf ? `(${h.asOf.slice(5).replace('-','/')} 확인)` : '';
     const title = (h.note || '') + ` — 클릭하면 ${dest}로 이동해요`;
-    return `<a class="hire-tag ${h.status}" href="${link}" target="_blank" rel="noopener" title="${escapeAttr(title)}">${label}${hasOfficial ? ' ↗' : ''}</a>`;
+    return `<a class="hire-tag ${h.status}" href="${link}" target="_blank" rel="noopener" title="${escapeAttr(title)}">${label}${hasOfficial ? ' ↗' : ''}${asOfTxt ? ` <span class="hire-asof">${asOfTxt}</span>` : ''}</a>`;
   }
   function escapeAttr(s){ return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+  function hireDetail(h){
+    if (!h || !h.note) return '';
+    const asOfTxt = h.asOf ? ` (${h.asOf.slice(5).replace('-','/')} 확인)` : '';
+    return `<div class="hire-detail"><strong>채용상태 —</strong> ${escapeAttr(h.note)}${asOfTxt}</div>`;
+  }
 
   function renderStats(){
     const mid = companies.filter(c=>c.tier==='mid').length;
@@ -263,7 +272,7 @@
         <td class="num mono">${fmtEmp(r.employees)}</td>
         <td>${hireBadge(r.hiring, r.name)}</td>
       </tr>
-      ${r.desc ? `<tr class="desc-row" data-idx="${i}" hidden><td colspan="5">${escapeAttr(r.desc)}</td></tr>` : ''}
+      ${r.desc ? `<tr class="desc-row" data-idx="${i}" hidden><td colspan="5">${escapeAttr(r.desc)}${hireDetail(r.hiring)}</td></tr>` : ''}
     `).join('');
     document.getElementById('companyBody').querySelectorAll('tr.has-desc').forEach(tr => {
       tr.addEventListener('click', () => {
