@@ -117,7 +117,8 @@
   .tier-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;}
   .tier-tag.mid{background:var(--moss-soft);color:var(--moss);}
   .tier-tag.small{background:var(--copper-soft);color:var(--copper);}
-  .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:nowrap;cursor:default;}
+  .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:nowrap;cursor:pointer;text-decoration:none;transition:filter .15s ease,transform .15s ease;}
+  .hire-tag:hover{filter:brightness(1.08);transform:translateY(-1px);}
   .hire-tag.open{background:var(--moss-soft);color:var(--moss);}
   .hire-tag.upcoming{background:var(--copper-soft);color:var(--copper);}
   .hire-tag.frequent{background:var(--wafer-soft);color:var(--wafer);}
@@ -201,10 +202,14 @@
     frequent: '수시채용 잦음',
     unknown: '정보 부족',
   };
-  function hireBadge(h){
-    if (!h) return '<span class="hire-tag none">미확인</span>';
+  function hireBadge(h, name){
+    const searchUrl = 'https://www.jobkorea.co.kr/Search/?stext=' + encodeURIComponent(name);
+    if (!h) {
+      return `<a class="hire-tag none" href="${searchUrl}" target="_blank" rel="noopener" title="잡코리아에서 ${escapeAttr(name)} 채용공고 찾아보기">미확인</a>`;
+    }
     const label = HIRE_LABEL[h.status] || '정보 부족';
-    return `<span class="hire-tag ${h.status}" title="${escapeAttr(h.note||'')}">${label}</span>`;
+    const title = (h.note || '') + ' — 클릭하면 잡코리아 채용공고 검색으로 이동해요';
+    return `<a class="hire-tag ${h.status}" href="${searchUrl}" target="_blank" rel="noopener" title="${escapeAttr(title)}">${label}</a>`;
   }
   function escapeAttr(s){ return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 
@@ -249,7 +254,7 @@
         </td>
         <td class="num mono">${fmtRevenue(r.revenue)}</td>
         <td class="num mono">${fmtEmp(r.employees)}</td>
-        <td>${hireBadge(r.hiring)}</td>
+        <td>${hireBadge(r.hiring, r.name)}</td>
       </tr>
     `).join('');
     document.getElementById('countNote').textContent = `${rows.length}곳 표시 중`;
