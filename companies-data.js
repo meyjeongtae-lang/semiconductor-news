@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-30T12:36:43.324Z",
+  "generatedAt": "2026-08-30T13:16:25.837Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -17,7 +17,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "upcoming",
-        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)"
+        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)",
+        "url": "https://www.samsung-dsrecruit.com/"
       }
     },
     {
@@ -29,7 +30,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "하반기 수시채용 서류접수 마감(8/20~8/26). 다음 라운드는 채용 홈페이지 확인 필요"
+        "note": "하반기 수시채용 서류접수 마감(8/20~8/26). 다음 라운드는 채용 홈페이지 확인 필요",
+        "url": "https://talent.skhynix.com/hub/ko/home"
       }
     },
     {
@@ -41,7 +43,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "계열사별 하반기 공채 진행 중 — 한화에어로스페이스 8/31~9/20, 한화금융 8/21~9/18 등"
+        "note": "계열사별 하반기 공채 진행 중 — 한화에어로스페이스 8/31~9/20, 한화금융 8/21~9/18 등",
+        "url": "https://www.hanwhain.com/"
       }
     },
     {
@@ -53,7 +56,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "상반기 마감(2/25~3/13). 하반기 일정 미공개"
+        "note": "상반기 마감(2/25~3/13). 하반기 일정 미공개",
+        "url": "https://careers.mobis.com/jobs"
       }
     },
     {
@@ -65,7 +69,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "상반기 마감(7/3). 대졸 정기공채, 하반기 미정"
+        "note": "상반기 마감(7/3). 대졸 정기공채, 하반기 미정",
+        "url": "https://careers.koreazinc.co.kr/"
       }
     },
     {
@@ -110,7 +115,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "계열사 여러 직군 상시채용 진행 중"
+        "note": "계열사 여러 직군 상시채용 진행 중",
+        "url": "https://oci.career.greetinghr.com/ko/home"
       }
     },
     {
@@ -155,7 +161,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "계약직 위주 상시채용 진행 중"
+        "note": "계약직 위주 상시채용 진행 중",
+        "url": "https://dbhitek-recruit.com/"
       }
     },
     {
@@ -227,7 +234,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "직무별 상시채용(최근 공고 마감 6/10, 새 공고 갱신 중)"
+        "note": "직무별 상시채용(최근 공고 마감 6/10, 새 공고 갱신 중)",
+        "url": "https://enf-recruit.career.greetinghr.com/ko/home"
       }
     },
     {
@@ -239,7 +247,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "closed",
-        "note": "상반기 마감(1/5~1/19)"
+        "note": "상반기 마감(1/5~1/19)",
+        "url": "https://haesunggroup.select-in.co.kr/recruit/apply/recruitList?comp_idx=145"
       }
     },
     {
@@ -251,7 +260,8 @@ window.COMPANIES_DATA = {
       "source": "web",
       "hiring": {
         "status": "open",
-        "note": "다수 직무 상시채용 + 동계인턴 11/11~11/30 예정"
+        "note": "다수 직무 상시채용 + 동계인턴 11/11~11/30 예정",
+        "url": "https://airfirst.career.greetinghr.com/ko/apply"
       }
     },
     {
@@ -557,7 +567,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "upcoming",
-        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)"
+        "note": "하반기 공채 예상 9/1~9/8 접수(미확정, 그룹 통합일정 예상치)",
+        "url": "https://www.samsungcareers.com/"
       }
     },
     {
@@ -617,7 +628,8 @@ window.COMPANIES_DATA = {
       "source": "web",
       "hiring": {
         "status": "open",
-        "note": "FAB 엔지니어 등 상시채용 진행 중"
+        "note": "FAB 엔지니어 등 상시채용 진행 중",
+        "url": "https://www.magnachip.com/kr/about-us/career/jobs/"
       }
     },
     {
@@ -629,7 +641,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "공정·설비엔지니어 등 6건 상시채용 진행 중"
+        "note": "공정·설비엔지니어 등 6건 상시채용 진행 중",
+        "url": "https://snstech.career.greetinghr.com/ko/guide"
       }
     },
     {
@@ -650,7 +663,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "open",
-        "note": "3건 진행 중"
+        "note": "3건 진행 중",
+        "url": "https://www.keccorp.com/kr/company/jobs.asp"
       }
     },
     {
@@ -1013,7 +1027,8 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "hiring": {
         "status": "frequent",
-        "note": "연중 여러 차례 정기채용(4월·7월 등). 다음 라운드 기대 가능"
+        "note": "연중 여러 차례 정기채용(4월·7월 등). 다음 라운드 기대 가능",
+        "url": "https://dongjin.careerlink.kr"
       }
     },
     {
