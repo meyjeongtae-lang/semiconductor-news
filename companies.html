@@ -117,6 +117,12 @@
   .tier-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;}
   .tier-tag.mid{background:var(--moss-soft);color:var(--moss);}
   .tier-tag.small{background:var(--copper-soft);color:var(--copper);}
+  .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:nowrap;cursor:default;}
+  .hire-tag.open{background:var(--moss-soft);color:var(--moss);}
+  .hire-tag.upcoming{background:var(--copper-soft);color:var(--copper);}
+  .hire-tag.frequent{background:var(--wafer-soft);color:var(--wafer);}
+  .hire-tag.closed{background:var(--graphite-soft);color:var(--graphite);}
+  .hire-tag.unknown, .hire-tag.none{background:var(--graphite-soft);color:var(--slate);}
   .src-tag{display:inline-block;font-size:9.5px;font-weight:700;padding:1px 6px;border-radius:5px;background:var(--wafer-soft);color:var(--wafer);vertical-align:middle;margin-left:4px;}
 
   .section-note{font-size:12.5px;color:var(--slate);line-height:1.7;margin:14px 2px 0;}
@@ -160,6 +166,7 @@
           <th data-key="category">분류</th>
           <th data-key="revenue" class="num">매출<span class="arrow">▾</span></th>
           <th data-key="employees" class="num">직원수</th>
+          <th>채용상태</th>
         </tr>
       </thead>
       <tbody id="companyBody"></tbody>
@@ -167,6 +174,7 @@
   </div>
   <p class="section-note" id="countNote"></p>
   <p class="section-note">기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요 — 출처마다 기준연도가 달라 DART 공시만큼 정확하지 않을 수 있어요. 외국계 지사·비상장이라 데이터를 못 찾은 46곳은 표에서 뺐어요.</p>
+  <p class="section-note">채용상태는 2026년 8월 30일 기준 검색 스냅샷이에요 — 소자/파운드리·소재 37곳만 우선 확인했고, 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
 </div>
 <footer>KSIA 반도체 관심기업을 DART 공시와 취업정보 사이트로 규모를 확인해 정리합니다.</footer>
 </div>
@@ -185,6 +193,20 @@
     return eok.toLocaleString('ko-KR') + '억';
   }
   function fmtEmp(n){ return (n===null||n===undefined) ? '-' : n.toLocaleString('ko-KR') + '명'; }
+
+  const HIRE_LABEL = {
+    open: '지원 가능',
+    upcoming: '곧 시작',
+    closed: '마감',
+    frequent: '수시채용 잦음',
+    unknown: '정보 부족',
+  };
+  function hireBadge(h){
+    if (!h) return '<span class="hire-tag none">미확인</span>';
+    const label = HIRE_LABEL[h.status] || '정보 부족';
+    return `<span class="hire-tag ${h.status}" title="${escapeAttr(h.note||'')}">${label}</span>`;
+  }
+  function escapeAttr(s){ return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 
   function renderStats(){
     const mid = companies.filter(c=>c.tier==='mid').length;
@@ -227,6 +249,7 @@
         </td>
         <td class="num mono">${fmtRevenue(r.revenue)}</td>
         <td class="num mono">${fmtEmp(r.employees)}</td>
+        <td>${hireBadge(r.hiring)}</td>
       </tr>
     `).join('');
     document.getElementById('countNote').textContent = `${rows.length}곳 표시 중`;
