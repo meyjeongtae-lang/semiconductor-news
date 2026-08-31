@@ -134,6 +134,16 @@
   .hire-detail{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);font-size:12.5px;color:var(--slate);}
   .hire-detail strong{color:var(--ink-soft);}
 
+  .pagination{display:flex;align-items:center;justify-content:center;gap:4px;margin-top:16px;flex-wrap:wrap;}
+  .pagination button{
+    font-size:13px;cursor:pointer;border:1px solid var(--line);min-width:34px;height:34px;padding:0 8px;border-radius:9px;
+    background:var(--card);color:var(--ink-soft);font-weight:600;font-family:inherit;transition:all .15s ease;
+  }
+  .pagination button:hover:not(:disabled):not(.active){border-color:var(--copper);color:var(--copper);}
+  .pagination button.active{border-color:var(--copper);color:#fff;background:var(--copper);}
+  .pagination button:disabled{opacity:.35;cursor:default;}
+  .pagination .ellipsis{color:var(--slate);font-size:13px;padding:0 2px;}
+
   .section-note{font-size:12.5px;color:var(--slate);line-height:1.7;margin:14px 2px 0;}
   .dart-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:nowrap;}
   .dart-tag.registered{background:var(--moss-soft);color:var(--moss);}
@@ -193,6 +203,7 @@
       <tbody id="companyBody"></tbody>
     </table>
   </div>
+  <div class="pagination" id="pagination"></div>
   <p class="section-note" id="countNote"></p>
   <p class="section-note">KSIA 회원사 232곳을 전부 표시해요. 기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요. 매출·직원수가 <strong>-</strong>로 나오는 곳은 그 정보가 없다는 뜻이고, "DART 등록" 칸에서 이유를 확인할 수 있어요 — <strong>미등록(외국계 추정)</strong>은 본사가 해외에 있어 국내 별도 법인 공시가 없는 곳, <strong>미등록(못 찾음)</strong>은 DART 목록에서 이름을 못 찾은 곳, <strong>등록(데이터 없음)</strong>은 DART엔 있지만 비상장 등의 이유로 재무제표를 안 낸 곳이에요.</p>
   <p class="section-note">채용상태·회사설명은 232곳 전부 조사했어요(회사설명을 못 찾은 곳 없음). 잡코리아·사람인 검색은 물론, 그걸로도 확인이 안 된 곳은 회사(또는 그룹) 자체 채용 사이트까지 직접 열어 실제 공고인지(협력사·파견업체·동명이인 회사 공고가 아닌지) 확인했어요. "마감"은 회사 자체 채널에서 "지금은 채용중인 공고가 없다"고 명확히 확인된 경우고, "정보 부족"은 그마저도 확인이 안 됐다는 뜻이에요(채용이 없다는 확정은 아니고, 이 방법들로는 못 찾았다는 뜻). 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
@@ -205,8 +216,9 @@
   const CATEGORIES = DATA.categories;
   const companies = DATA.companies;
 
-  let state = { tier: 'all', category: 'all', hiring: 'all', sortKey: 'revenue', sortDir: -1 };
+  let state = { tier: 'all', category: 'all', hiring: 'all', sortKey: 'revenue', sortDir: -1, page: 1 };
   const HIRING_OPEN_STATUSES = ['open', 'frequent'];
+  const PAGE_SIZE = 30;
 
   function fmtRevenue(n){
     if (n === null || n === undefined) return '-';
@@ -281,7 +293,7 @@
     box.innerHTML = `<button data-cat="all" class="${state.category==='all'?'active':''}">전체 ${scoped.length}</button>` +
       keys.map(k => `<button data-cat="${k}" class="${state.category===k?'active':''}">${CATEGORIES[k]} ${counts[k]}</button>`).join('');
     box.querySelectorAll('button').forEach(btn => {
-      btn.addEventListener('click', () => { state.category = btn.dataset.cat; renderCategoryFilters(); renderTable(); });
+      btn.addEventListener('click', () => { state.category = btn.dataset.cat; state.page = 1; renderCategoryFilters(); renderTable(); });
     });
   }
 
@@ -299,7 +311,12 @@
       av = av ?? -1; bv = bv ?? -1;
       return state.sortDir * (av - bv);
     });
-    document.getElementById('companyBody').innerHTML = rows.map((r, i) => `
+    const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
+    if (state.page > totalPages) state.page = totalPages;
+    if (state.page < 1) state.page = 1;
+    const start = (state.page - 1) * PAGE_SIZE;
+    const pageRows = rows.slice(start, start + PAGE_SIZE);
+    document.getElementById('companyBody').innerHTML = pageRows.map((r, i) => `
       <tr class="${r.desc ? 'has-desc' : ''}" data-idx="${i}">
         <td class="name">${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}</td>
         <td>
@@ -322,12 +339,44 @@
         if (arrow) arrow.textContent = open ? '▸' : '▾';
       });
     });
-    document.getElementById('countNote').textContent = `${rows.length}곳 표시 중`;
+    const rangeStart = rows.length === 0 ? 0 : start + 1;
+    const rangeEnd = Math.min(start + PAGE_SIZE, rows.length);
+    document.getElementById('countNote').textContent = rows.length > PAGE_SIZE
+      ? `${rows.length}곳 중 ${rangeStart}-${rangeEnd}번째 표시 중`
+      : `${rows.length}곳 표시 중`;
+    renderPagination(totalPages);
+  }
+
+  function renderPagination(totalPages){
+    const box = document.getElementById('pagination');
+    if (totalPages <= 1) { box.innerHTML = ''; return; }
+    const cur = state.page;
+    const pages = [];
+    pages.push(1);
+    for (let p = cur - 1; p <= cur + 1; p++) { if (p > 1 && p < totalPages) pages.push(p); }
+    if (totalPages > 1) pages.push(totalPages);
+    const uniq = [...new Set(pages)].sort((a,b) => a - b);
+    let html = `<button data-page="${cur - 1}" ${cur === 1 ? 'disabled' : ''}>‹</button>`;
+    let prev = 0;
+    uniq.forEach(p => {
+      if (p - prev > 1) html += `<span class="ellipsis">···</span>`;
+      html += `<button data-page="${p}" class="${p === cur ? 'active' : ''}">${p}</button>`;
+      prev = p;
+    });
+    html += `<button data-page="${cur + 1}" ${cur === totalPages ? 'disabled' : ''}>›</button>`;
+    box.innerHTML = html;
+    box.querySelectorAll('button[data-page]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        state.page = Number(btn.dataset.page);
+        renderTable();
+        document.querySelector('.control-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
   }
 
   document.getElementById('tierSwitch').querySelectorAll('button').forEach(btn => {
     btn.addEventListener('click', () => {
-      state.tier = btn.dataset.tier; state.category = 'all';
+      state.tier = btn.dataset.tier; state.category = 'all'; state.page = 1;
       document.getElementById('tierSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
       renderCategoryFilters(); renderTable();
     });
@@ -335,7 +384,7 @@
 
   document.getElementById('hiringSwitch').querySelectorAll('button').forEach(btn => {
     btn.addEventListener('click', () => {
-      state.hiring = btn.dataset.hiring; state.category = 'all';
+      state.hiring = btn.dataset.hiring; state.category = 'all'; state.page = 1;
       document.getElementById('hiringSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
       renderCategoryFilters(); renderTable();
     });
@@ -346,6 +395,7 @@
       const key = th.dataset.key;
       if (state.sortKey === key) state.sortDir *= -1;
       else { state.sortKey = key; state.sortDir = (key==='name'||key==='category') ? 1 : -1; }
+      state.page = 1;
       renderTable();
     });
   });
