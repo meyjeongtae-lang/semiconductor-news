@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-30T15:06:28.957Z",
+  "generatedAt": "2026-08-31T00:13:23.205Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -218,6 +218,16 @@ window.COMPANIES_DATA = {
       "desc": null
     },
     {
+      "name": "원익큐엔씨",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 943641492868,
+      "employees": 1212,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
       "name": "솔브레인",
       "category": "materials",
       "tier": "mid",
@@ -246,6 +256,16 @@ window.COMPANIES_DATA = {
       "tier": "mid",
       "revenue": 798498300100,
       "employees": 206,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "SK스페셜티",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 749391482881,
+      "employees": 764,
       "source": "dart",
       "hiring": null,
       "desc": null
@@ -307,6 +327,16 @@ window.COMPANIES_DATA = {
         "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
       },
       "desc": "원래 화학소재 사업으로 시작해서, 지금은 자율주행·전장(유무선 충전 모듈)·OLED 유리 식각 공정 같은 첨단산업 분야로 사업을 넓혀가고 있는 회사예요."
+    },
+    {
+      "name": "에스피삼화",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 617067546154,
+      "employees": 899,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
     },
     {
       "name": "코미코",
@@ -507,6 +537,16 @@ window.COMPANIES_DATA = {
       "tier": "mid",
       "revenue": 350324287104,
       "employees": 348,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "글로벌스탠다드테크놀로지",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 347158632861,
+      "employees": 757,
       "source": "dart",
       "hiring": null,
       "desc": null
@@ -754,6 +794,26 @@ window.COMPANIES_DATA = {
       "desc": null
     },
     {
+      "name": "삼익티에이치케이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 222175005872,
+      "employees": 526,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이에스시",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 220194751972,
+      "employees": 407,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
       "name": "피에스케이홀딩스",
       "category": "equipment",
       "tier": "mid",
@@ -822,6 +882,16 @@ window.COMPANIES_DATA = {
       "tier": "mid",
       "revenue": 164404533950,
       "employees": 235,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "일진다이아몬드",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 162400019578,
+      "employees": 226,
       "source": "dart",
       "hiring": null,
       "desc": null
@@ -1064,6 +1134,16 @@ window.COMPANIES_DATA = {
       "tier": "mid",
       "revenue": 68861373936,
       "employees": 218,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이치비솔루션",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 62848643582,
+      "employees": 238,
       "source": "dart",
       "hiring": null,
       "desc": null
@@ -1595,6 +1675,26 @@ window.COMPANIES_DATA = {
       "revenue": null,
       "employees": 258,
       "source": "web",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "KPX일렉트로켐",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 1252934659,
+      "employees": 93,
+      "source": "dart",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이치엘비이노베이션",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 32263951723,
+      "employees": 61,
+      "source": "dart",
       "hiring": null,
       "desc": null
     }

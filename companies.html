@@ -6,6 +6,7 @@
 <title>반도체 관심기업 · 반도체 뉴스 브리핑</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%23B0692C%22/><rect x=%2228%22 y=%2228%22 width=%2244%22 height=%2244%22 rx=%228%22 fill=%22%23F5F2EA%22/></svg>">
 <script src="companies-data.js"></script>
+<script src="other-companies-data.js"></script>
 <style>
   @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&display=swap');
@@ -134,6 +135,12 @@
   .hire-detail strong{color:var(--ink-soft);}
 
   .section-note{font-size:12.5px;color:var(--slate);line-height:1.7;margin:14px 2px 0;}
+  .other-title{font-size:17px;font-weight:700;color:var(--ink);margin:36px 2px 2px;}
+  .other-group{margin-top:18px;}
+  .other-group h3{font-size:13.5px;font-weight:700;color:var(--ink-soft);margin:0 2px 4px;}
+  .other-count{font-weight:400;color:var(--slate);font-size:12px;}
+  .chip-list{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+  .chip{display:inline-block;font-size:12px;padding:4px 10px;border-radius:999px;background:var(--paper);border:1px solid var(--line);color:var(--ink-soft);}
 
   footer{max-width:820px;margin:0 auto;padding:36px 20px 60px;color:var(--slate);font-size:12px;text-align:center;border-top:1px solid var(--line);}
 
@@ -181,8 +188,21 @@
     </table>
   </div>
   <p class="section-note" id="countNote"></p>
-  <p class="section-note">기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요 — 출처마다 기준연도가 달라 DART 공시만큼 정확하지 않을 수 있어요. 외국계 지사·비상장이라 데이터를 못 찾은 46곳은 표에서 뺐어요.</p>
+  <p class="section-note">기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요 — 출처마다 기준연도가 달라 DART 공시만큼 정확하지 않을 수 있어요. 재무 데이터가 없는 회사 중 아래 별도 목록에 정리된 곳(외국계로 확인된 곳 + DART에서 아예 못 찾은 곳)만 이유가 확인됐고, 그 외에도 재무 데이터가 없어 표에서 빠진 회사가 더 있어요(아직 이유 미확인).</p>
   <p class="section-note">채용상태는 소자/파운드리·소재 37곳만 우선 확인했어요. 대부분(회사명 클릭 시 나오는 상세 설명에 "확인일"이 표시된 곳)은 회사 채용 페이지에 직접 들어가서 확인했고, 공식 채용 페이지가 없거나 공고가 안 보이는 곳들은 잡코리아 검색으로 한 번 더 교차 확인했어요(단, 잡코리아 검색엔 협력사·대리점 공고가 섞여 있어서 회사가 직접 올린 공고인지까지 확인함). 그래도 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
+
+  <h2 class="other-title">표에 없는 나머지 회사들</h2>
+  <p class="section-note">KSIA 회원사 232곳 중 위 표에 안 나온 회사들이에요. 재무 규모를 확인 못 해서 자세한 정보(매출·직원수·채용상태)는 없고, 이름과 왜 못 찾았는지만 정리했어요.</p>
+  <div class="other-group">
+    <h3>외국계 지사로 추정 <span class="other-count" id="foreignCount"></span></h3>
+    <p class="section-note">본사가 해외에 있고 한국엔 지사만 있는 회사들이에요. DART 공시 의무가 없거나(비상장 지점) 재무제표를 따로 안 내는 경우가 많아요.</p>
+    <div class="chip-list" id="foreignList"></div>
+  </div>
+  <div class="other-group">
+    <h3>DART에서 못 찾음 <span class="other-count" id="notFoundCount"></span></h3>
+    <p class="section-note">DART 등록 법인 목록에서 여러 방식(정식명·영문 표기 등)으로 찾아봤지만 못 찾은 회사들이에요. 대부분 규모가 작아서 공시 의무 자체가 없는 것으로 보여요.</p>
+    <div class="chip-list" id="notFoundList"></div>
+  </div>
 </div>
 <footer>KSIA 반도체 관심기업을 DART 공시와 취업정보 사이트로 규모를 확인해 정리합니다.</footer>
 </div>
@@ -303,9 +323,18 @@
     });
   });
 
+  function renderOtherCompanies(){
+    const other = window.OTHER_COMPANIES || { foreign: [], notFound: [] };
+    document.getElementById('foreignCount').textContent = `(${other.foreign.length}곳)`;
+    document.getElementById('notFoundCount').textContent = `(${other.notFound.length}곳)`;
+    document.getElementById('foreignList').innerHTML = other.foreign.map(n => `<span class="chip">${n}</span>`).join('');
+    document.getElementById('notFoundList').innerHTML = other.notFound.map(n => `<span class="chip">${n}</span>`).join('');
+  }
+
   renderStats();
   renderCategoryFilters();
   renderTable();
+  renderOtherCompanies();
 </script>
 </body>
 </html>
