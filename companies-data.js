@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T09:38:20.758Z",
+  "generatedAt": "2026-08-31T09:44:17.760Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -329,8 +329,8 @@ window.COMPANIES_DATA = {
       "dartStatus": "registered",
       "reason": null,
       "hiring": {
-        "status": "unknown",
-        "note": "2026년도 부문별 신입/경력 채용(4/7~4/20 접수)이 있었지만 이미 지난 라운드로 보여요. 다음 일정은 공식 채용페이지에서 확인 필요(웹서치 기반)",
+        "status": "open",
+        "note": "SFA반도체㈜(충남 천안) 본사가 직접 올린 '2026년도 부문별 신입/경력 채용'이 진행 중이에요 — 신입·경력 모두 가능, 접수 오늘(8/31) 마감(잡코리아 직접 확인, 08/31 확인)",
         "url": "https://recruit.sfa.co.kr/sfasemicon/"
       },
       "desc": "반도체 후공정(패키징·테스트)을 전문으로 하는 회사예요. 삼성전자·SK하이닉스·마이크론이 주요 고객사이고, 최근엔 2차전지 제조 장비·검사장비 공급으로 사업을 넓히고 있어요."
