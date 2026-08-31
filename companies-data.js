@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T00:54:53.252Z",
+  "generatedAt": "2026-08-31T01:02:04.775Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -2206,8 +2206,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "총무·사무 등 일부 신입/경력 공고가 있었지만, 최근엔 전기전자·기구설계 등 경력직 채용 위주로 보여요(웹서치 기반)"
+      },
+      "desc": "반도체 검사용 소켓·커넥터를 만드는 회사예요. 매출의 90% 가까이가 반도체용 소켓에서 나오고, 소켓 성능을 좌우하는 핵심 부품(스프링핀)까지 직접 만드는 비중을 늘리고 있어요."
     },
     {
       "name": "금강쿼츠",
@@ -2218,8 +2221,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "재무회계 등 이따금 신입 채용 공고가 올라오는 편이에요. 현재 진행 중인 공고는 검색상 확인 안 됨(웹서치 기반)"
+      },
+      "desc": "1978년부터 반도체 공정용 쿼츠(석영) 부품을 만들어온 회사예요. 식각·확산 공정에서 웨이퍼를 불순물로부터 보호하거나 옮기는 용기와 링을 만들고, 삼성전자·SK하이닉스에 공급해요."
     },
     {
       "name": "네프코",
@@ -2242,8 +2248,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "마곡 지역 플라즈마 개발, 전력제어DSP 연구원, 제품 TEST 등 신입/경력 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "반도체·디스플레이 제조 장비 안에서 플라즈마(기체를 이온화한 상태, 회로를 깎거나 증착할 때 씀)를 만드는 핵심 부품인 RF 전원장치를 만드는 회사예요. 2002년 세계에서 두 번째로 관련 장비를 국산화했어요."
     },
     {
       "name": "디에스테크노",
@@ -2254,8 +2263,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "기계가공 엔지니어·설비 유지관리자·CVD Reactor 오퍼레이터·QC 등 신입/경력 채용이 다수 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "반도체 제조 장비에 쓰이는 소모성 부품(실리콘카바이드·실리콘·쿼츠 가공품)을 만드는 회사예요. 삼성전자·SK하이닉스·인텔 등에 공급하고 있어요."
     },
     {
       "name": "메카로",
@@ -2266,8 +2278,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "frequent",
+        "note": "국내영업팀·H/B생산팀 조립파트·생산직 등에서 신입/경력 채용이 수시로 올라오는 편이에요(웹서치 기반)",
+        "url": "https://recruit.mecaro.com/"
+      },
+      "desc": "반도체 제조 공정에서 웨이퍼에 열을 균일하게 전달하는 부품인 메탈히터블록을 주력으로 만드는 회사예요. 2022년 소재 사업을 매각하고 부품(히터블록) 사업에 집중하는 쪽으로 방향을 틀었어요."
     },
     {
       "name": "미코",
@@ -2278,8 +2294,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "고양·오산·파주 등 여러 지역에서 공정·장비·전기·기계 등 신입/경력 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "🔧 이 회사의 반도체 관련 사업은 세라믹 소재·부품 기술이에요 — 반도체 장비 안에서 웨이퍼를 고정하는 정전척(ESC), ALD 공정용 세라믹 히터 등을 만들어요. 원래 반도체 장비용 세정·코팅(코미코)과 세라믹 부품(미코세라믹스) 사업부가 있었는데, 각각 별도 계열사로 분사해서 지금은 '미코-코미코-미코세라믹스' 그룹 구조예요."
     },
     {
       "name": "쎄미콤",
@@ -2302,8 +2321,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "현재 진행 중인 채용 공고는 검색상 확인 안 됐어요(웹서치 기반)"
+      },
+      "desc": "반도체 식각·증착 공정에 쓰이는 플라즈마 장비의 핵심 부품인 RF 제너레이터·RF 매쳐를 국내에서 유일하게 만드는 회사예요."
     },
     {
       "name": "아이에스시",
@@ -2314,8 +2336,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "2026년 하반기 신입·경력·계약직 채용이 진행 중으로 확인됨(환경관리·품질관리·반도체·전자 등 다양한 직무, 웹서치 기반)",
+        "url": "https://kor.isc21.kr/main/careers.html"
+      },
+      "desc": "반도체 칩이 완성된 뒤 제대로 작동하는지 검사할 때 쓰는 '테스트 소켓'을 만드는 회사예요. 이 분야 세계 시장 점유율 1위이고, 2023년 SKC(SK그룹 계열)에 인수됐어요."
     },
     {
       "name": "알파플러스",
@@ -2326,8 +2352,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "동탄사업장 총무부문 신입/경력 채용이 있었지만 접수 마감 상태로 보여요(웹서치 기반)"
+      },
+      "desc": "고진공·초고진공 기술을 활용한 진공증착 장비·부품을 만드는 회사예요. OLED 디스플레이 제조에 쓰이는 진공증착장비가 주력이고, 반도체보다는 디스플레이 산업 비중이 더 큰 회사예요."
     },
     {
       "name": "에어포인트",
@@ -2338,8 +2367,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "closed",
+        "note": "최근 3년간 신입 채용은 0회이고 경력직 위주로 채용하는 것으로 확인됐어요(웹서치 기반)"
+      },
+      "desc": "🔧 원래는 하이패스(고속도로 통행료 자동징수) 시스템에 들어가는 무선통신 반도체를 설계하는 팹리스 회사예요. 현대모비스·만도 같은 자동차 부품사에 하이패스 단말기용 SoC 칩을 공급하고 있어요."
     },
     {
       "name": "엘오티베큠",
@@ -2350,8 +2382,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "Mechanical Engineer, 생산팀(진공펌프 조립·검사) 등 신입/경력 공고가 종종 올라오는 편이에요(웹서치 기반)"
+      },
+      "desc": "반도체·디스플레이 제조 장비에 쓰이는 건식 진공펌프를 만드는 회사예요. 국내에서 이 분야를 다루는 유일한 기업이고, 주로 D램을 만드는 CVD(화학기상증착) 공정에 펌프를 공급해요."
     },
     {
       "name": "원익큐엔씨",
@@ -2362,8 +2397,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 신입/경력사원 채용(접수 7/30~8/9)이 있었지만 이미 지난 라운드로 보여요. 다음 일정은 공식 채용페이지에서 확인 필요(웹서치 기반)"
+      },
+      "desc": "반도체 공정에 쓰이는 석영(쿼츠) 유리와 산업용 세라믹을 만드는 회사예요(2003년 원익그룹에서 분사). 반도체 공정 중 웨이퍼를 감싸거나 이송하는 데 쓰이는 쿼츠 용기·부품을 만들고, 2020년 미국 모멘티브사, 2022년 일본 쿠러스텍을 인수하며 몸집을 키웠어요."
     },
     {
       "name": "윌비에스엔티",
@@ -2374,8 +2412,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "고용노동부 선정 청년친화 강소기업이에요. 구체적으로 진행 중인 공고는 검색상 확인 안 됐고, 온라인 상시지원 형태로 보여요(웹서치 기반)"
+      },
+      "desc": "반도체 CMP(화학기계연마 — 웨이퍼 표면을 매끄럽게 가는 공정) 장비에 쓰이는 소모성 부품인 리테이너 링을 만드는 회사예요. 1987년 설립돼 삼성전자·SK하이닉스에 오랫동안 납품해온 회사예요."
     },
     {
       "name": "유민에쓰티",
@@ -2386,8 +2427,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "신입/경력 채용을 진행하는 편이지만 구체적으로 진행 중인 공고는 검색상 확인 안 됐어요(웹서치 기반)"
+      },
+      "desc": "🔧 반도체·LCD 제조 설비에서 액체가 새는 걸 감지하는 필름형 누액센서를 만드는 회사예요. TSMC·글로벌파운드리 같은 해외 반도체 기업에도 납품하는데, 반도체 전용 회사라기보다는 원자력발전소·데이터센터 등 다양한 산업에 두루 납품하는 센서 전문회사예요."
     },
     {
       "name": "유시스템",
@@ -2410,8 +2454,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "검색으로는 구체적인 채용 정보를 확인하지 못했어요 — 회사 규모가 작아 채용 정보가 잘 안 올라오는 것으로 보여요(웹서치 기반)"
+      },
+      "desc": "반도체 장비 안에서 웨이퍼를 고정하는 정전척을 만드는 회사예요. 국내에서 정전척을 처음부터 끝까지 자체 생산라인으로 만드는 유일한 회사로, 이 분야 국내 1위예요."
     },
     {
       "name": "코리아인스트루먼트",
@@ -2434,8 +2481,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "출하검사·로봇제조·품질관리·성능평가 등에서 신입/경력 채용이 다수 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "🔧 원래는 디스플레이(OLED) 유리기판을 진공 상태에서 옮기는 이송로봇이 주력인 회사예요. 매출의 대부분(78%)이 이 진공로봇에서 나오고, 최근 반도체용 웨이퍼 이송로봇과 차세대 유리기판 이송로봇으로도 사업을 넓히고 있어요."
     },
     {
       "name": "티씨케이",
@@ -2446,8 +2496,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "연구기획그룹 신입/경력 채용(2026-01-14~01-28 접수)이 있었지만 이미 지난 라운드로 보여요. 다음 일정은 공식 채용페이지에서 확인 필요(웹서치 기반)",
+        "url": "https://tck.recruiter.co.kr/"
+      },
+      "desc": "반도체 식각(에칭) 장비 안에서 웨이퍼가 흔들리지 않게 고정해주는 소모성 부품인 SiC(실리콘카바이드) 포커스링을 만드는 회사예요. 이 분야 세계 점유율 80% 이상으로 압도적 1위예요."
     },
     {
       "name": "파웰코퍼레이션",
@@ -2458,8 +2512,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "최근 3년간 신입 채용은 2회 정도로 자주 있는 편은 아니에요. 현재 진행 중인 공고는 검색상 확인 안 됨(웹서치 기반)"
+      },
+      "desc": "반도체 장비 안에서 웨이퍼를 고정하는 정전척(ESC)을 주력으로 만드는 회사예요. 반도체·디스플레이·이차전지 분야에 쓰이는 롤러 부품, 전력반도체용 접합소재로도 사업을 넓히고 있어요."
     },
     {
       "name": "핫앤쿨",
@@ -2482,8 +2539,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 상반기 신입 공채(연구개발·생산·경영지원, 접수 7/24~8/3)를 진행했지만 이미 지난 라운드로 보여요. 다음 라운드는 공식 채용페이지 확인 필요(웹서치 기반)"
+      },
+      "desc": "🔧 원래는 공작기계(금속을 깎아 부품을 만드는 기계) 회사예요 — 매출 기준 세계 3위 공작기계 업체예요. 반도체와 관련된 사업은 이 정밀가공 기술을 활용해 CMP 패드, 쿼츠 링, 진공펌프 부품 같은 반도체·디스플레이용 부품을 가공·공급하는 것으로, 회사 전체 매출에서 차지하는 비중은 크지 않을 가능성이 커요."
     },
     {
       "name": "리노공업",
@@ -2494,8 +2554,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "현재 보이는 공고는 대부분 부산 지역 생산직 계약직이에요. 사무·연구직은 통상 상반기(3~5월)·하반기(9~11월)에 정기채용이 있는 편(웹서치 기반)"
+      },
+      "desc": "반도체가 제대로 작동하는지 검사할 때 쓰는 소모성 부품인 '테스트 핀'과 '테스트 소켓'을 만드는 회사예요. 1980년대 수입에 의존하던 이 부품을 국산화해서, 지금은 이 분야 세계 점유율 1위예요."
     },
     {
       "name": "리얼센",
@@ -2518,8 +2581,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "진행 중인 공고가 여러 건 있지만 대부분 경력직 위주로 보여요(웹서치 기반)"
+      },
+      "desc": "🔧 반도체 장비를 정밀하게 움직이는 '모션제어' 소프트웨어를 만드는 회사예요. 하드웨어 교체 없이 PC 소프트웨어만으로 여러 장비의 움직임을 제어할 수 있는 기술이 핵심이고, 최근엔 이차전지·디스플레이 등으로 고객사를 넓히고 있어요."
     },
     {
       "name": "보부하이테크",
@@ -2530,8 +2596,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "현재 진행 중인 신입 채용 공고는 검색상 확인 안 됐어요(웹서치 기반)"
+      },
+      "desc": "반도체 증착·식각 공정에서 웨이퍼 온도를 정밀하게 조절하거나 고정하는 부품(세라믹 히터, 메탈 히터, 정전척)을 만드는 회사예요. 최근엔 HBM(고대역폭메모리) 본딩 공정용 히터로도 사업을 넓히고 있어요."
     },
     {
       "name": "아스플로",
@@ -2542,8 +2611,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "신입 채용시 4년제 학사 이상을 요구하는 편이고 상시 온라인 지원 형태로 보여요. 현재 진행 중인 구체적 공고는 검색상 확인 안 됨(웹서치 기반)"
+      },
+      "desc": "반도체 공정에 가스를 안전하게 흘려보내는 고청정 배관·튜브를 만드는 회사예요. 전량 수입에 의존하던 이 부품을 2005년 국산화했고, 삼성전자·SK하이닉스에 공급해요."
     },
     {
       "name": "에드워드코리아",
@@ -2566,8 +2638,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "SKC 계열로 편입되며 SKC 채용 페이지를 통해 채용이 이뤄지는 것으로 보여요. 상반기(3~5월)·하반기(9~11월)에 정기채용이 있는 편(웹서치 기반)"
+      },
+      "desc": "🔧 SK그룹 계열의 반도체·디스플레이 부품소재 회사였는데, 2025년 12월 SKC에 합병됐어요. 웨이퍼 표면을 매끄럽게 가는 CMP 패드가 주력 제품이었는데, 이 사업부는 이미 2025년 4월 사모펀드에 매각됐어요 — 지금은 사업 구조 조정이 진행 중인 회사예요."
     },
     {
       "name": "엠케이프리시젼",
@@ -2578,8 +2653,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "평택사업장 생산직 신입 채용이 진행 중이에요, 접수 마감은 2026-09-09로 확인됨(웹서치 기반)"
+      },
+      "desc": "반도체 공정에 필요한 가스의 양을 정밀하게 조절해주는 부품인 MFC(질량유량컨트롤러)를 국내 기술로 만드는 회사예요. 이 부품을 국산화한 국내 유일 기업이고, 삼성전자·SK하이닉스에 정식 등록·납품하고 있어요."
     },
     {
       "name": "엠케이피",
@@ -2590,8 +2668,12 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "생산직·회로설계 등 신입 채용이 다수 진행 중이에요, 평택사업장 생산직은 접수 8/10~9/9로 확인됨(웹서치 기반)",
+        "url": "https://www.mkpsemi.com/recruit"
+      },
+      "desc": "2016년 설립된 반도체용 MFC(질량유량컨트롤러) 전문회사예요. MFC를 국내 최초로 순수 자체 기술로 개발했고, 기화기·압력제어기 등으로 제품군을 넓혀 '유량제어 토털 솔루션' 기업을 목표로 하고 있어요."
     },
     {
       "name": "영신쿼츠",
@@ -2602,8 +2684,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "생산/가공·물류·QC 등 여러 부문에서 신입/경력 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "🔧 독일 헤라우스와 일본 신에츠(신예츠) 쿼츠글라스 회사가 합작 설립한 외국인투자기업이에요. 고순도 석영유리로 반도체 공정용 부품을 만들어서 SK하이닉스·삼성전자에 납품해요."
     },
     {
       "name": "이화다이아몬드공업",
@@ -2614,8 +2699,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 상반기 신입 및 경력 채용(기술개발·영업·품질보증 등)을 진행했지만 이미 지난 라운드로 보여요. 하반기 일정은 공식 채용페이지 확인 필요(웹서치 기반)"
+      },
+      "desc": "다이아몬드 공구(다이아몬드 가루를 붙여 정밀하게 자르고 가는 도구) 국내 1위, 세계 4위 회사예요. 반도체 집적회로를 만들 때 웨이퍼를 정밀하게 절단·연마하는 초정밀 다이아몬드 공구를 반도체 회사에 공급해요."
     },
     {
       "name": "인아오리엔탈모터",
@@ -2638,8 +2726,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "영업팀 등 신입/경력 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "인공(합성) 다이아몬드와 정밀소재를 만드는 국내 유일 회사예요. 다이아몬드는 열을 잘 견디고 화학적으로 안정적이라, 반도체 웨이퍼·센서 소재 같은 새로운 분야로 쓰임새를 넓히는 중이에요 — 실리콘·SiC 다음 세대 반도체 소재 후보로 다이아몬드 웨이퍼도 연구되고 있어요."
     },
     {
       "name": "미코세라믹스",
@@ -2650,8 +2741,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "기계설계·반도체/디스플레이·생산관리·전기전자 등 여러 분야에서 신입 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "미코그룹 계열사로, 2020년 미코의 반도체 장비용 부품 사업부가 분리돼 만들어졌어요. 반도체 장비 안에서 웨이퍼를 고정하는 정전척(ESC), HBM(고대역폭메모리) 패키징용 세라믹 히터 등 그동안 일본 수입에 의존하던 고가 세라믹 부품을 국산화했어요."
     },
     {
       "name": "콤델코리아",
@@ -2686,8 +2780,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "현재 진행 중인 채용 공고는 검색상 확인 안 됐어요(웹서치 기반)"
+      },
+      "desc": "🔧 일본 반도체 진공펌프 기업 '가시야마(Kashiyama)공업'의 기술을 바탕으로 반도체·디스플레이 장비용 진공펌프를 만드는 회사예요. 저전력·대용량 펌프 국산화에 주력해왔고, 태양광·이차전지 등으로도 사업을 넓히고 있어요."
     },
     {
       "name": "코리아스펙트랄프로덕츠",
@@ -2710,8 +2807,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "인사부문 수시채용(신입/경력)이 2026-01-19~02-01 접수였지만 이미 지난 라운드로 보여요. 다음 채용은 공식 페이지에서 확인 필요(웹서치 기반)",
+        "url": "https://komico.recruiter.co.kr/career/apply"
+      },
+      "desc": "미코그룹 계열사로, 반도체 장비에 들어가는 값비싼 소모성 부품(챔버 내부 부품 등)을 새것처럼 정밀 세정하고 특수 코팅해서 재사용할 수 있게 만드는 회사예요. 삼성전자·SK하이닉스는 물론 인텔에도 납품하고 있고, 이 분야에서는 국내 1위예요."
     },
     {
       "name": "한국오츠카전자",
