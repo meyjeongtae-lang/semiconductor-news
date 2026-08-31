@@ -172,6 +172,10 @@
       <button data-tier="mid">중견</button>
       <button data-tier="small">소규모</button>
     </div>
+    <div class="groupswitch" id="hiringSwitch">
+      <button data-hiring="all" class="active">전체</button>
+      <button data-hiring="open">채용중만</button>
+    </div>
   </div>
   <div class="filters cat-filters" id="categoryFilters"></div>
   <div class="table-scroll">
@@ -201,7 +205,8 @@
   const CATEGORIES = DATA.categories;
   const companies = DATA.companies;
 
-  let state = { tier: 'all', category: 'all', sortKey: 'revenue', sortDir: -1 };
+  let state = { tier: 'all', category: 'all', hiring: 'all', sortKey: 'revenue', sortDir: -1 };
+  const HIRING_OPEN_STATUSES = ['open', 'frequent'];
 
   function fmtRevenue(n){
     if (n === null || n === undefined) return '-';
@@ -260,7 +265,10 @@
   }
 
   function renderCategoryFilters(){
-    const scoped = state.tier === 'all' ? companies : companies.filter(c => c.tier === state.tier);
+    const scoped = companies.filter(c =>
+      (state.tier==='all' || c.tier===state.tier) &&
+      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status)))
+    );
     const counts = {};
     scoped.forEach(c => { counts[c.category] = (counts[c.category]||0)+1; });
     const box = document.getElementById('categoryFilters');
@@ -273,7 +281,11 @@
   }
 
   function renderTable(){
-    let rows = companies.filter(c => (state.tier==='all' || c.tier===state.tier) && (state.category==='all' || c.category===state.category));
+    let rows = companies.filter(c =>
+      (state.tier==='all' || c.tier===state.tier) &&
+      (state.category==='all' || c.category===state.category) &&
+      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status)))
+    );
     rows = [...rows].sort((a,b) => {
       let av = a[state.sortKey], bv = b[state.sortKey];
       if (state.sortKey === 'name') return state.sortDir * a.name.localeCompare(b.name, 'ko');
@@ -312,6 +324,14 @@
     btn.addEventListener('click', () => {
       state.tier = btn.dataset.tier; state.category = 'all';
       document.getElementById('tierSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
+      renderCategoryFilters(); renderTable();
+    });
+  });
+
+  document.getElementById('hiringSwitch').querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.hiring = btn.dataset.hiring; state.category = 'all';
+      document.getElementById('hiringSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
       renderCategoryFilters(); renderTable();
     });
   });
