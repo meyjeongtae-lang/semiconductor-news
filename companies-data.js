@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T00:13:23.205Z",
+  "generatedAt": "2026-08-31T00:46:25.127Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -9,19 +9,16 @@ window.COMPANIES_DATA = {
   },
   "companies": [
     {
-      "name": "삼성전자",
+      "name": "SK키파운드리",
       "category": "device_foundry",
-      "tier": "mid",
-      "revenue": 333605938000000,
-      "employees": 94273,
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
       "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "DS부문 채용 공지사항에 2026년 하반기 정기공채 공지 아직 없음(최신 공지는 2024년 하계·동계 인턴십 모집). 예상 시기 불확실, 인재 등록으로 상시지원만 가능. 잡코리아 2차 확인 결과도 삼성전자가 직접 올린 신입 공고는 없고 전부 협력사(부품사·시설관리업체 등) 공고였음",
-        "url": "https://www.samsung-dsrecruit.com/",
-        "asOf": "2026-08-31"
-      },
-      "desc": "🔧 이 회사의 반도체 사업은 'DS(Device Solutions)부문'이 담당해요 — 메모리(D램·낸드), 시스템반도체 설계, 파운드리(위탁생산)가 여기 다 들어가요. 그 외에 스마트폰·가전을 만드는 MX·VD부문도 같은 회사 안에 있어요(별도 법인 아님). 세계 최대 종합반도체·전자기업으로, 최근 DS부문은 HBM(고대역폭메모리) 등 AI 반도체 메모리 경쟁에서 SK하이닉스와 선두를 다투고 있어요. 다만 우리 데이터의 매출·직원수는 DS부문만이 아니라 회사 전체(스마트폰·가전 포함) 합산 숫자예요."
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
     },
     {
       "name": "SK하이닉스",
@@ -30,6 +27,8 @@ window.COMPANIES_DATA = {
       "revenue": 97146675000000,
       "employees": 34549,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "closed",
         "note": "월간 수시채용 방식('월간 hy-way'). 8월 모집 라운드는 접수 마감, 9월 공고는 아직 미공개. 잡코리아 2차 확인에서도 SK하이닉스가 직접 올린 공고는 안 보이고 전부 협력사(건설·설비·엔지니어링업체) 공고였음",
@@ -39,143 +38,14 @@ window.COMPANIES_DATA = {
       "desc": "삼성전자와 함께 세계 메모리반도체(D램·낸드플래시) 시장을 양분하는 회사예요. 최근 몇 년간 AI 데이터센터에 들어가는 HBM(고대역폭메모리) 수요가 폭발적으로 늘면서, 이 분야에서는 세계 1위 자리를 두고 삼성전자와 경쟁하고 있어요. 미국 인디애나에 첫 해외 HBM 패키징 공장을 짓고 있는 것도 이 흐름의 연장선이에요."
     },
     {
-      "name": "한화",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 74785440000000,
-      "employees": 3264,
-      "source": "dart",
-      "hiring": {
-        "status": "open",
-        "note": "계열사별 하반기 공채 진행 중 — 한화에어로스페이스 8/31~9/20, 한화금융 8/21~9/18 등",
-        "url": "https://www.hanwhain.com/"
-      },
-      "desc": "⚠️ 확인해보니 이 회사(주식회사 한화, 화약·방산·기계·무역 4개 사업부)는 반도체 사업부를 직접 갖고 있지 않아요. 반도체 장비는 완전히 별도로 상장된 계열사인 '한화세미텍'(구 한화정밀기계, 증착·본딩 장비)과 '한화비전'이 담당하고 있어요 — 즉 지주 성격의 모기업일 뿐, (주)한화 자체의 매출·직원수 안에는 반도체 사업이 포함돼 있지 않다는 뜻이에요."
-    },
-    {
-      "name": "현대모비스",
-      "category": "device_foundry",
-      "tier": "mid",
-      "revenue": 61118127000000,
-      "employees": 12535,
-      "source": "dart",
-      "hiring": {
-        "status": "closed",
-        "note": "경력직 상시채용은 91건 진행 중(예: 2026-08-21~09-02, 2026-08-28~09-08 등 개별 마감). 신입 정기공채는 상반기(2/25~3/13) 마감 이후 새 라운드 없음. 잡코리아 2차 확인에서도 현대모비스 본사 직접 공고는 안 보이고 전부 대리점·협력사 공고였음",
-        "url": "https://careers.mobis.com/jobs",
-        "asOf": "2026-08-31"
-      },
-      "desc": "🔧 이 회사의 반도체 관련 사업은 '전동화 사업부'가 담당해요(2024년 7월 모듈사업부와 통합됨). 다만 아직은 개발·설계 내재화 단계예요 — SiC(실리콘카바이드) 전력반도체 양산은 2029년을 목표로 하고 있고, 지금 당장 대량 생산 중인 건 아니에요. 원래 이 회사의 주력은 현대차그룹에 납품하는 자동차 전장·섀시·램프 부품(모듈 조립)이고, 반도체는 미래 성장동력으로 새로 키우는 사업이에요."
-    },
-    {
-      "name": "고려아연",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 16587850779912,
-      "employees": 2054,
-      "source": "dart",
-      "hiring": {
-        "status": "closed",
-        "note": "채용페이지 진행 중 공고 0건(전체·신입·경력·신입경력·기타 모두 0). 하반기 일정 미공개. 잡코리아 2차 확인에서도 고려아연 직접 공고는 없고 전부 대행사·계열사 공고였음",
-        "url": "https://careers.koreazinc.co.kr/",
-        "asOf": "2026-08-31"
-      },
-      "desc": "🔧 이 회사의 반도체 관련 사업은 별도 사업부라기보다, 아연·연 제련 과정에서 나오는 부산물을 활용한 소재 사업이에요 — 반도체 세정·식각에 쓰는 초고순도황산(반도체황산) 국내 1위 생산업체이고, 최근 갈륨·인듐·게르마늄 같은 반도체용 희귀금속 회수 공정도 확대하고 있어요. 다만 회사 매출의 대부분은 세계 1위인 아연·연 제련 사업에서 나오고, 반도체 소재는 상대적으로 작은 비중이에요."
-    },
-    {
-      "name": "세메스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 2471334739133,
-      "employees": 2660,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "SK실트론",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 2057485935000,
-      "employees": 3624,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
-      },
-      "desc": "SK그룹 계열의 반도체용 실리콘 웨이퍼 전문 제조사예요. 웨이퍼는 반도체 회로를 새기는 얇은 원판인데, 순도 높은 실리콘 덩어리(잉곳)를 균일한 두께로 얇게 잘라서 만들어요. 삼성전자·SK하이닉스 같은 반도체 제조사에 이 웨이퍼를 공급하는 상류(업스트림) 소재 회사라고 보면 돼요."
-    },
-    {
-      "name": "동우화인켐",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 2039861520000,
-      "employees": null,
-      "source": "web",
-      "hiring": {
-        "status": "unknown",
-        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
-      },
-      "desc": "일본 스미토모화학이 100% 투자한 회사예요. 반도체·디스플레이 제조 공정에 쓰이는 화학소재(포토레지스트 등)를 만들고, LCD·OLED 디스플레이용 편광필름 분야에서는 세계적인 점유율을 갖고 있어요."
-    },
-    {
-      "name": "OCI",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 2009429144000,
-      "employees": 3360,
-      "source": "dart",
-      "hiring": {
-        "status": "open",
-        "note": "OCI(반도체 소재 법인) 자체는 '경력사원 상시채용' 1건만 진행 중(상시, 마감일 미정). 채용포털의 신입 공고 다수는 계열사 부광약품(제약)이며 OCI 자체 신입공고 아님",
-        "url": "https://oci.career.greetinghr.com/ko/home",
-        "asOf": "2026-08-30"
-      },
-      "desc": "폴리실리콘(실리콘 웨이퍼의 원료), TDI·카본블랙 같은 화학소재를 만드는 회사예요. 폴리실리콘은 태양광 패널과 반도체 웨이퍼 모두에 쓰이는데, 지금까지는 태양광용이 생산량의 약 88%로 훨씬 큰 비중을 차지했어요. 다만 태양광 사업이 중국산 저가 공세로 적자를 내면서, 중국이 아직 못 들어온 반도체용 고순도 폴리실리콘 쪽을 회사가 의도적으로 키우는 중이에요."
-    },
-    {
-      "name": "태광산업",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 1827439561466,
-      "employees": 721,
-      "source": "dart",
-      "hiring": {
-        "status": "closed",
-        "note": "상반기 마감(1/29~2/8)"
-      },
-      "desc": "석유화학(PTA·프로필렌 등)과 섬유(아크릴·나일론·스판덱스 등)가 주력인 전통 제조업체예요. 반도체 소재 회사라기보다는 섬유·석유화학 회사에 가깝고, 우리 목록에는 소재 산업 전반을 다루는 계열사 특성 때문에 포함돼 있어요."
-    },
-    {
-      "name": "디엔솔루션즈",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 1786721170000,
-      "employees": 2200,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "심텍",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 1410559919451,
-      "employees": 2902,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "진행 중 공고 있으나 신입 정기일정 불명확"
-      },
-      "desc": "반도체 패키지 기판과 인쇄회로기판(PCB)을 전문으로 만드는 회사예요. 반도체 칩을 완성한 뒤 이걸 다른 부품과 연결해주는 '기판' 부분을 담당하는 후공정(패키징) 소재 회사예요."
-    },
-    {
       "name": "DB하이텍",
       "category": "device_foundry",
       "tier": "mid",
       "revenue": 1397233307039,
       "employees": 2221,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "open",
         "note": "신입: 조직문화·사회공헌 체험형 인턴 접수 2026-08-28~09-06. 경력: 경력사원 공채(8월) 접수 2026-08-21~09-03",
@@ -185,556 +55,14 @@ window.COMPANIES_DATA = {
       "desc": "국내를 대표하는 반도체 파운드리(위탁생산) 회사예요. 삼성전자·TSMC 같은 회사들이 최첨단 미세공정에 집중한다면, DB하이텍은 아날로그·전력반도체처럼 정밀한 미세화보다 안정성이 중요한 반도체를 전문으로 생산해요."
     },
     {
-      "name": "파트론",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": 1349528006319,
-      "employees": 544,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "대덕전자",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 1065294559811,
-      "employees": 2633,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "신입 공고 거의 없음, 경력 위주"
-      },
-      "desc": "1972년에 설립된 국내 대표 인쇄회로기판(PCB) 제조사예요. PCB는 전자부품들을 서로 연결해주는 회로가 새겨진 기판인데, 반도체 패키지용 기판도 함께 생산하고 있어요."
-    },
-    {
-      "name": "미코",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 977036793661,
-      "employees": 207,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "원익큐엔씨",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 943641492868,
-      "employees": 1212,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "솔브레인",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 923381966875,
-      "employees": 1133,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "인턴·연구직 상시 공고 있음, 정기일정 불명확"
-      },
-      "desc": "반도체 제조 공정에 쓰이는 식각액(회로를 깎아내는 화학약품)·세정액 같은 공정용 화학소재(케미컬)를 만드는 대표적인 국내 회사예요. 반도체 미세공정이 정밀해질수록 이런 특수 화학소재의 중요성도 커지고 있어요."
-    },
-    {
-      "name": "원익IPS",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 909795691103,
-      "employees": 1509,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "탑엔지니어링",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 798498300100,
-      "employees": 206,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "SK스페셜티",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 749391482881,
-      "employees": 764,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "이엔에프테크놀로지",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 670896289801,
-      "employees": 639,
-      "source": "dart",
-      "hiring": {
-        "status": "closed",
-        "note": "현재 개별 채용공고 없음 — '상시 인재풀 등록'만 가능(실제 공고 아님). 잡코리아 2차 확인에서도 이엔에프테크놀로지 직접 공고는 없었음(검색결과는 무관한 다른 회사)",
-        "url": "https://enf-recruit.career.greetinghr.com/ko/home",
-        "asOf": "2026-08-31"
-      },
-      "desc": "한국알콜그룹 계열로, 반도체·디스플레이 제조 공정에 쓰이는 화학제품을 만드는 회사예요. 2021년에 유비머트리얼즈(반도체 CMP 슬러리 회사)를 인수하기도 했어요."
-    },
-    {
-      "name": "해성디에스",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 653396882375,
-      "employees": 1354,
-      "source": "dart",
-      "hiring": {
-        "status": "open",
-        "note": "경력직 수시채용 진행 중(BGA Panel 등, 접수마감 2026-09-03). 신입 공채는 상반기(1/5~1/19) 이후 새 라운드 안 보임(8/30 기준)",
-        "url": "https://haesunggroup.select-in.co.kr/recruit/apply/recruitList?comp_idx=145",
-        "asOf": "2026-08-30"
-      },
-      "desc": "반도체 리드프레임·BGA 기판을 만드는 회사예요. 이건 반도체 칩을 패키지 안에서 외부 회로와 전기적으로 연결해주는 부품으로, 반도체 후공정(패키징)에 필요한 핵심 소재예요."
-    },
-    {
-      "name": "에어퍼스트",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 651543180000,
-      "employees": 283,
-      "source": "web",
-      "hiring": {
-        "status": "open",
-        "note": "포항·평택·서산 공장 등 신입 포함 다수 직무 15건 상시채용 진행 중(엔지니어·오퍼레이터·영업 등, 8/30 기준)",
-        "url": "https://airfirst.career.greetinghr.com/ko/apply",
-        "asOf": "2026-08-30"
-      },
-      "desc": "반도체·석유화학·철강 공정에 쓰이는 산업용 가스(산소·질소·아르곤 등)를 공급하는 회사예요. 1975년 설립된 47년 업력의 회사로, 반도체 공장이 안정적으로 돌아가려면 이런 특수가스 공급이 꾸준히 필요해요."
-    },
-    {
-      "name": "켐트로닉스",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 637485933185,
-      "employees": 649,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
-      },
-      "desc": "원래 화학소재 사업으로 시작해서, 지금은 자율주행·전장(유무선 충전 모듈)·OLED 유리 식각 공정 같은 첨단산업 분야로 사업을 넓혀가고 있는 회사예요."
-    },
-    {
-      "name": "에스피삼화",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 617067546154,
-      "employees": 899,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "코미코",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 604110117086,
-      "employees": 868,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "뉴파워프라즈마",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 577990393724,
-      "employees": 373,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "한미반도체",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 576684619527,
-      "employees": 737,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "네패스",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": 521439287008,
-      "employees": 1200,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이에스엠케이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 472400000000,
-      "employees": 570,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "AP시스템",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 460144858180,
-      "employees": 619,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "피에스케이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 457213151918,
-      "employees": 343,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "디아이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 432293560547,
-      "employees": 171,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "한화세미텍",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 431200000000,
-      "employees": 865,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "티에스이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 428900789083,
-      "employees": 985,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아바코",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 392896306694,
-      "employees": 406,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "제우스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 383307591232,
-      "employees": 628,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "케이씨텍",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 382856574357,
-      "employees": 782,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "이오테크닉스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 380890608578,
-      "employees": 636,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "경인양행",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 379701831841,
-      "employees": 470,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "생산·공정기술 상시채용 언급, 정기일정 불명확"
-      },
-      "desc": "1971년 설립된 국내 최대 염료회사예요. 원래는 옷감에 색을 입히는 염료가 주력이었는데, 지금은 정밀화학·전자재료 분야로도 사업을 확장하고 있어요."
-    },
-    {
-      "name": "리노공업",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 372534084608,
-      "employees": 677,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "SFA반도체",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": 367389147993,
-      "employees": 584,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "이화다이아몬드공업",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 361200000000,
-      "employees": 699,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "테스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 351115732341,
-      "employees": 438,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "유진테크",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 350324287104,
-      "employees": 348,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "글로벌스탠다드테크놀로지",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 347158632861,
-      "employees": 757,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에스티아이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 328058707879,
-      "employees": 407,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "원익머트리얼즈",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 322467412745,
-      "employees": 531,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
-      },
-      "desc": "반도체 제조 공정에 쓰이는 특수가스와 프리커서(박막을 만드는 원료 물질)를 만드는 회사예요. 원익그룹 계열이고, 반도체 소재 국산화에 기여해온 회사 중 하나예요."
-    },
-    {
-      "name": "국제엘렉트릭코리아",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 321288934804,
-      "employees": null,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이치앤이루자",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 313000000000,
-      "employees": 300,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "주성엔지니어링",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 310692584812,
-      "employees": 485,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "두산테스나",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": 303874072000,
-      "employees": 786,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "티씨케이",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 301334302844,
-      "employees": 471,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "한국알박",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 285460360000,
-      "employees": 541,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에프에스티",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 280262733555,
-      "employees": 855,
-      "source": "dart",
-      "hiring": {
-        "status": "open",
-        "note": "여러 직무 상시채용 다수(17건) 진행 중"
-      },
-      "desc": "1987년 설립된 회사로, 반도체·디스플레이용 포토마스크를 먼지·이물질로부터 보호하는 얇은 막인 '펠리클(Pellicle)'과, 반도체 장비의 온도를 정밀하게 조절하는 '칠러(Chiller)' 등을 만들어요."
-    },
-    {
-      "name": "티이엠씨",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 279708410111,
-      "employees": 105,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "개별 공고 형태, 정기일정 불명확"
-      },
-      "desc": "반도체·디스플레이 공정에 쓰이는 특수가스를 만들어 삼성전자·SK하이닉스 같은 대형 반도체 제조사에 직접 공급하는 B2B 회사예요. 가스 합성부터 정제·충전까지 전 과정을 자체적으로 갖추고 있는 게 특징이에요."
-    },
-    {
-      "name": "삼성SDI",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 275152734663,
-      "employees": 12826,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "삼성 채용 포털에 삼성SDI 개별 채용공고는 안 보이고 '인재 등록'(상시등록)만 가능. 정기 공채 일정 미확정. 잡코리아 2차 확인에서도 삼성SDI가 직접 올린 공고는 없고 전부 협력사 공고였음",
-        "url": "https://www.samsungcareers.com/",
-        "asOf": "2026-08-31"
-      },
-      "desc": "🔧 이 회사의 반도체 관련 사업은 '전자재료사업부문'이 담당해요 — SOH(스핀코팅 방식 하드마스크), SOD(층간 절연 코팅재), CMP 슬러리(웨이퍼 연마재), EMC(반도체를 습기·충격에서 보호하는 봉지재) 같은 반도체 공정용 소재를 만들어요. 다만 회사 매출의 대부분은 전기차·ESS(에너지저장장치)용 배터리(2차전지) 사업에서 나오고, 반도체 소재는 부차적인 사업이에요."
-    },
-    {
-      "name": "유니셈",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 273330435300,
-      "employees": 859,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "시노펙스",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 261537523873,
-      "employees": 162,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "경력직 중심, 신입은 정기공채로 추정"
-      },
-      "desc": "1985년 설립된 회사로, 휘어지는 회로기판인 연성회로기판(FPCB)과 고성능 필터를 만들어 다양한 산업에 부품을 공급하고 있어요."
-    },
-    {
-      "name": "쎄믹스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 257698930000,
-      "employees": 345,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "미코세라믹스",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 252500000000,
-      "employees": 750,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엘오티베큠",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 244892905459,
-      "employees": 634,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
       "name": "매그나칩반도체",
       "category": "device_foundry",
       "tier": "mid",
       "revenue": 244168670000,
       "employees": 2500,
       "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "unknown",
         "note": "채용페이지에 게시된 공고의 마감일이 이미 지남(SiC Power Device R&D, ~2026-03-31). 신규 공고 확인 안 됨. 잡코리아 2차 확인도 검색결과 0건으로 동일하게 나옴",
@@ -744,27 +72,55 @@ window.COMPANIES_DATA = {
       "desc": "2004년 옛 하이닉스반도체의 비메모리 사업부가 분리되며 출범한 회사예요. 스마트폰·TV 화면을 구동하는 디스플레이 구동칩과, 전력을 변환·제어하는 전력반도체를 파운드리 방식으로 만들어요."
     },
     {
-      "name": "에스앤에스텍",
-      "category": "materials",
+      "name": "삼성전자",
+      "category": "device_foundry",
       "tier": "mid",
-      "revenue": 243733252593,
-      "employees": 311,
+      "revenue": 333605938000000,
+      "employees": 94273,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
-        "status": "open",
-        "note": "용인EUV센터·대구사업장 등 7건 상시채용 진행 중(대부분 계약직, 경력무관 다수 포함, 8/30 기준)",
-        "url": "https://snstech.career.greetinghr.com/ko/guide",
-        "asOf": "2026-08-30"
+        "status": "unknown",
+        "note": "DS부문 채용 공지사항에 2026년 하반기 정기공채 공지 아직 없음(최신 공지는 2024년 하계·동계 인턴십 모집). 예상 시기 불확실, 인재 등록으로 상시지원만 가능. 잡코리아 2차 확인 결과도 삼성전자가 직접 올린 신입 공고는 없고 전부 협력사(부품사·시설관리업체 등) 공고였음",
+        "url": "https://www.samsung-dsrecruit.com/",
+        "asOf": "2026-08-31"
       },
-      "desc": "국내에서 유일하게 블랭크마스크(포토마스크의 원판, 반도체 노광공정의 핵심소재)를 생산하는 회사예요. 삼성전자·SK하이닉스는 물론 TSMC·SMIC 같은 해외 파운드리에도 공급하고 있고, 최고급 기술인 EUV용 블랭크마스크도 국산화를 추진 중이에요."
+      "desc": "🔧 이 회사의 반도체 사업은 'DS(Device Solutions)부문'이 담당해요 — 메모리(D램·낸드), 시스템반도체 설계, 파운드리(위탁생산)가 여기 다 들어가요. 그 외에 스마트폰·가전을 만드는 MX·VD부문도 같은 회사 안에 있어요(별도 법인 아님). 세계 최대 종합반도체·전자기업으로, 최근 DS부문은 HBM(고대역폭메모리) 등 AI 반도체 메모리 경쟁에서 SK하이닉스와 선두를 다투고 있어요. 다만 우리 데이터의 매출·직원수는 DS부문만이 아니라 회사 전체(스마트폰·가전 포함) 합산 숫자예요."
     },
     {
-      "name": "프로텍",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 230542705719,
-      "employees": 310,
+      "name": "세미로드",
+      "category": "device_foundry",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이프로세미콘",
+      "category": "device_foundry",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "온세미컨덕터코리아",
+      "category": "device_foundry",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
@@ -775,6 +131,8 @@ window.COMPANIES_DATA = {
       "revenue": 229616634285,
       "employees": 542,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "open",
         "note": "회사 공식 채용페이지엔 2024년치 마감 공고 1건뿐이라 비어 보이지만, 잡코리아에 케이이씨 본사가 직접 올린 공고 발견 — 경북 경주 '제조단순종사원'(신입, 시급 10,320원), 접수 2026-08-31 마감(오늘). 공식 페이지가 최신화 안 돼 있으니 지원 전엔 잡코리아도 같이 확인 필요",
@@ -784,198 +142,14 @@ window.COMPANIES_DATA = {
       "desc": "1969년부터 이어온 국내 전력반도체 전문기업(KEC)이에요. 국내 전력반도체 중견기업 중 유일하게 자체 생산시설을 갖고 있고, 최근에는 SiC·GaN 같은 차세대 전력반도체 개발에도 투자하고 있어요."
     },
     {
-      "name": "한국에바라정밀기계",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 227036480000,
-      "employees": 287,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "삼익티에이치케이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 222175005872,
-      "employees": 526,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아이에스시",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 220194751972,
-      "employees": 407,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "피에스케이홀딩스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 207764042799,
-      "employees": 133,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "파크시스템스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 205613479882,
-      "employees": 392,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아이씨디",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 197041477697,
-      "employees": 267,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엘에스이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 196900000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이치피에스피",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 172964572189,
-      "employees": 127,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "테크센드포토마스크",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 169800000000,
-      "employees": null,
-      "source": "web",
-      "hiring": {
-        "status": "unknown",
-        "note": "구체적 채용정보 확인 안 됨"
-      },
-      "desc": "반도체 생산에 쓰이는 포토마스크(회로 패턴이 새겨진 원판)를 만들고 판매하는 전문기업이에요."
-    },
-    {
-      "name": "싸이맥스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 164404533950,
-      "employees": 235,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "일진다이아몬드",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 162400019578,
-      "employees": 226,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "테크윙",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 159128398402,
-      "employees": 589,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "금강쿼츠",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 149112520000,
-      "employees": 317,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "브이엠",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 144411787537,
-      "employees": 102,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이앤아이",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 136840000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "윌비에스엔티",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 126590000000,
-      "employees": 190,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "로체시스템즈",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 124870173744,
-      "employees": 246,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엠케이켐앤텍",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 114064420000,
-      "employees": 140,
-      "source": "web",
-      "hiring": {
-        "status": "unknown",
-        "note": "진행 중 공고 없음(최근 이력 기준)"
-      },
-      "desc": "PCB(인쇄회로기판)에 금도금을 하는 화학약품을 만드는 회사로, 국내 PCB 금도금 약품 시장의 약 70%를 차지하고 있어요. 최근에는 반도체 웨이퍼용 표면처리 화학약품 제조로도 사업을 넓히고 있어요."
-    },
-    {
       "name": "티에프이",
       "category": "device_foundry",
       "tier": "mid",
       "revenue": 111742413458,
       "employees": 274,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "open",
         "note": "제조품질 등 마감임박 공고 진행 중"
@@ -983,266 +157,79 @@ window.COMPANIES_DATA = {
       "desc": "반도체 테스트(검사) 공정에 필요한 부품인 테스트 소켓·테스트 보드·번인 보드 등을 만드는 전문기업이에요. 이 네 가지 부품을 모두 자체 생산하는 게 국내에서 유일한 강점이에요."
     },
     {
-      "name": "유니테스트",
-      "category": "equipment",
+      "name": "현대모비스",
+      "category": "device_foundry",
       "tier": "mid",
-      "revenue": 110195025305,
-      "employees": 194,
+      "revenue": 61118127000000,
+      "employees": 12535,
       "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "디아이티",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 107910277371,
-      "employees": 237,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "한덕화학",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 106700000000,
-      "employees": null,
-      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
-        "status": "unknown",
-        "note": "최근 공고 확인 안 됨"
-      },
-      "desc": "반도체·디스플레이의 '현상' 공정(회로 패턴을 새긴 뒤 필요 없는 부분을 씻어내는 공정)에 쓰이는 핵심소재 TMAH를 만드는 회사예요. 이 분야 세계 시장점유율 1위(35%)를 차지하고 있어요."
-    },
-    {
-      "name": "필옵틱스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 103440867014,
-      "employees": 319,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "디에스테크노",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 103300000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "영신쿼츠",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 101700000000,
-      "employees": 219,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "메카로",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 94613747133,
-      "employees": 227,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "오킨스전자",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 94373992165,
-      "employees": 171,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "이큐셀",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 88624181072,
-      "employees": 175,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "와이씨켐",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 83088557517,
-      "employees": 185,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "구체적 채용정보 확인 안 됨"
-      },
-      "desc": "2001년 설립된 회사로, 반도체·디스플레이·친환경에너지 산업에 쓰이는 화학소재를 개발·생산하고 있어요."
-    },
-    {
-      "name": "지아이에스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 75810672480,
-      "employees": 94,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "로봇앤드디자인",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 71100000000,
-      "employees": 163,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "보부하이테크",
-      "category": "components",
-      "tier": "mid",
-      "revenue": 70991880000,
-      "employees": 217,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "펨트론",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 69861835068,
-      "employees": 257,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "큐알티",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": 68861373936,
-      "employees": 218,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이치비솔루션",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 62848643582,
-      "employees": 238,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "제너셈",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 56757244825,
-      "employees": 159,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엠에이티플러스",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 55089750000,
-      "employees": 290,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "오로스테크놀로지",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 52136517687,
-      "employees": 221,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "한국비철",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": 50900000000,
-      "employees": 29,
-      "source": "web",
-      "hiring": {
-        "status": "open",
-        "note": "생산직·영업직 상시채용 진행 중"
-      },
-      "desc": "반도체·항공·방산·조선 산업에 쓰이는 알루미늄 원자재를 유통하는 국내 최대 규모의 알루미늄 종합 유통회사예요."
-    },
-    {
-      "name": "미래컴퍼니",
-      "category": "equipment",
-      "tier": "mid",
-      "revenue": 40897794013,
-      "employees": 364,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "하나마이크론",
-      "category": "test_packaging",
-      "tier": "mid",
-      "revenue": null,
-      "employees": 771,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "동진쎄미켐",
-      "category": "materials",
-      "tier": "mid",
-      "revenue": null,
-      "employees": 1469,
-      "source": "dart",
-      "hiring": {
-        "status": "unknown",
-        "note": "현재 '생산직 인재풀' 상시등록만 진행 중(신입/경력 구분 없음). 정기 신입공채(4월·7월 등) 라운드는 지금 안 열림. 잡코리아 2차 확인도 검색결과 0건으로 동일하게 나옴",
-        "url": "https://dongjin.careerlink.kr",
+        "status": "closed",
+        "note": "경력직 상시채용은 91건 진행 중(예: 2026-08-21~09-02, 2026-08-28~09-08 등 개별 마감). 신입 정기공채는 상반기(2/25~3/13) 마감 이후 새 라운드 없음. 잡코리아 2차 확인에서도 현대모비스 본사 직접 공고는 안 보이고 전부 대리점·협력사 공고였음",
+        "url": "https://careers.mobis.com/jobs",
         "asOf": "2026-08-31"
       },
-      "desc": "반도체·디스플레이용 포토레지스트(감광액, 회로 패턴을 새길 때 쓰는 핵심 화학소재)를 만드는 회사예요. 반도체용 3D 낸드 포토레지스트 분야에서는 세계 시장 1위를 차지하고 있어요."
+      "desc": "🔧 이 회사의 반도체 관련 사업은 '전동화 사업부'가 담당해요(2024년 7월 모듈사업부와 통합됨). 다만 아직은 개발·설계 내재화 단계예요 — SiC(실리콘카바이드) 전력반도체 양산은 2029년을 목표로 하고 있고, 지금 당장 대량 생산 중인 건 아니에요. 원래 이 회사의 주력은 현대차그룹에 납품하는 자동차 전장·섀시·램프 부품(모듈 조립)이고, 반도체는 미래 성장동력으로 새로 키우는 사업이에요."
     },
     {
-      "name": "에스에프에이",
-      "category": "equipment",
+      "name": "네패스",
+      "category": "test_packaging",
       "tier": "mid",
-      "revenue": null,
-      "employees": 735,
+      "revenue": 521439287008,
+      "employees": 1200,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
     {
-      "name": "씨에스케이",
-      "category": "equipment",
-      "tier": "mid",
+      "name": "쿨마이크로",
+      "category": "test_packaging",
+      "tier": null,
       "revenue": null,
-      "employees": 620,
-      "source": "web",
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "파트론",
+      "category": "test_packaging",
+      "tier": "mid",
+      "revenue": 1349528006319,
+      "employees": 544,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "피엔에스",
+      "category": "test_packaging",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "두산테스나",
+      "category": "test_packaging",
+      "tier": "mid",
+      "revenue": 303874072000,
+      "employees": 786,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
@@ -1253,176 +240,8 @@ window.COMPANIES_DATA = {
       "revenue": null,
       "employees": 103,
       "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이티세미콘",
-      "category": "test_packaging",
-      "tier": "small",
-      "revenue": 14868039232,
-      "employees": 4,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "넥스틴",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 9717895291,
-      "employees": 152,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "러셀",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 27069629521,
-      "employees": 52,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "서플러스글로벌",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 14624435187,
-      "employees": 99,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엑시콘",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": null,
-      "employees": 179,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "자비스",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 27895397844,
-      "employees": 160,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "제이티",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 38378522208,
-      "employees": 161,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "케이씨",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": null,
-      "employees": 235,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "레이저쎌",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 4684448307,
-      "employees": 39,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "베셀",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 16571060267,
-      "employees": 55,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아이에스티이",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 32220867462,
-      "employees": 88,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아이엠티",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 32943967760,
-      "employees": 72,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "저스템",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 48288744108,
-      "employees": 139,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "코닉오토메이션",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 30100048633,
-      "employees": 117,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "티로보틱스",
-      "category": "components",
-      "tier": "small",
-      "revenue": 43812661900,
-      "employees": 121,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아스플로",
-      "category": "components",
-      "tier": "small",
-      "revenue": null,
-      "employees": 205,
-      "source": "dart",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에스케이엔펄스",
-      "category": "components",
-      "tier": "small",
-      "revenue": 34949377119,
-      "employees": 153,
-      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
@@ -1433,250 +252,85 @@ window.COMPANIES_DATA = {
       "revenue": 9950000000,
       "employees": 179,
       "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
     {
-      "name": "솔머티리얼즈",
-      "category": "materials",
+      "name": "에이티세미콘",
+      "category": "test_packaging",
       "tier": "small",
-      "revenue": 23700000000,
+      "revenue": 14868039232,
+      "employees": 4,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "큐알티",
+      "category": "test_packaging",
+      "tier": "mid",
+      "revenue": 68861373936,
+      "employees": 218,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "하나마이크론",
+      "category": "test_packaging",
+      "tier": "mid",
+      "revenue": null,
+      "employees": 771,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "SFA반도체",
+      "category": "test_packaging",
+      "tier": "mid",
+      "revenue": 367389147993,
+      "employees": 584,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아인크리스탈",
+      "category": "materials",
+      "tier": null,
+      "revenue": null,
       "employees": null,
-      "source": "web",
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "켐트로닉스",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 637485933185,
+      "employees": 649,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": {
         "status": "unknown",
-        "note": "구체적 채용정보 확인 안 됨"
+        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
       },
-      "desc": "산업용 가스를 제조하는 회사예요."
-    },
-    {
-      "name": "에프알디",
-      "category": "materials",
-      "tier": "small",
-      "revenue": 28300000000,
-      "employees": 58,
-      "source": "web",
-      "hiring": {
-        "status": "unknown",
-        "note": "구체적 채용정보 확인 안 됨"
-      },
-      "desc": "반도체 산업에 쓰이는 특수가스를 만드는 회사예요. 반도체 부품·가스화학제품 제조와 판매, 수출입 무역까지 함께 하고 있어요."
-    },
-    {
-      "name": "로움하이텍",
-      "category": "materials",
-      "tier": "small",
-      "revenue": 3959060000,
-      "employees": 20,
-      "source": "web",
-      "hiring": {
-        "status": "open",
-        "note": "연구개발 등 3건 상시채용 진행 중"
-      },
-      "desc": "반도체·디스플레이용 화학소재(포토레지스트 관련)를 국산화해온 회사예요. 아직 규모는 작지만, 향후 코스닥 상장과 매출 확대를 목표로 하고 있어요."
-    },
-    {
-      "name": "유비머트리얼즈",
-      "category": "materials",
-      "tier": "small",
-      "revenue": 3393180000,
-      "employees": 21,
-      "source": "web",
-      "hiring": {
-        "status": "unknown",
-        "note": "최근 진행 중인 공고 없음"
-      },
-      "desc": "반도체 CMP(화학기계연마) 공정에 쓰이는 슬러리(연마용 화학 용액)를 만드는 기술 혁신형 기업이에요. 2021년 이엔에프테크놀로지에 인수됐어요."
-    },
-    {
-      "name": "나인벨",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 44000000000,
-      "employees": 65,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "세츠",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 20000000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에이텍솔루션",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 47360000000,
-      "employees": 55,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "나노엑스",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 5806040000,
-      "employees": 30,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "다이헨한국",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 28140000000,
-      "employees": 38,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "브이에이디인스트루먼트",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 5048790000,
-      "employees": 24,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엔비스아나",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": 20249350000,
-      "employees": 50,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "비엔에스알",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": null,
-      "employees": 15,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "파인솔루션",
-      "category": "equipment",
-      "tier": "small",
-      "revenue": null,
-      "employees": 102,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "아센디아",
-      "category": "components",
-      "tier": "small",
-      "revenue": 13500000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "알파플러스",
-      "category": "components",
-      "tier": "small",
-      "revenue": 10900000000,
-      "employees": 42,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "에어포인트",
-      "category": "components",
-      "tier": "small",
-      "revenue": 16309610000,
-      "employees": 42,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "유민에쓰티",
-      "category": "components",
-      "tier": "small",
-      "revenue": 3119000000,
-      "employees": 14,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "케이에스티이",
-      "category": "components",
-      "tier": "small",
-      "revenue": null,
-      "employees": 104,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "파웰코퍼레이션",
-      "category": "components",
-      "tier": "small",
-      "revenue": 20640000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "모벤시스",
-      "category": "components",
-      "tier": "small",
-      "revenue": 17710000000,
-      "employees": 60,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엠케이프리시젼",
-      "category": "components",
-      "tier": "small",
-      "revenue": 20390000000,
-      "employees": 48,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "엠케이피",
-      "category": "components",
-      "tier": "small",
-      "revenue": 20100000000,
-      "employees": null,
-      "source": "web",
-      "hiring": null,
-      "desc": null
-    },
-    {
-      "name": "케이케이테크",
-      "category": "components",
-      "tier": "small",
-      "revenue": null,
-      "employees": 258,
-      "source": "web",
-      "hiring": null,
-      "desc": null
+      "desc": "원래 화학소재 사업으로 시작해서, 지금은 자율주행·전장(유무선 충전 모듈)·OLED 유리 식각 공정 같은 첨단산업 분야로 사업을 넓혀가고 있는 회사예요."
     },
     {
       "name": "KPX일렉트로켐",
@@ -1685,6 +339,458 @@ window.COMPANIES_DATA = {
       "revenue": 1252934659,
       "employees": 93,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "OCI",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 2009429144000,
+      "employees": 3360,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "OCI(반도체 소재 법인) 자체는 '경력사원 상시채용' 1건만 진행 중(상시, 마감일 미정). 채용포털의 신입 공고 다수는 계열사 부광약품(제약)이며 OCI 자체 신입공고 아님",
+        "url": "https://oci.career.greetinghr.com/ko/home",
+        "asOf": "2026-08-30"
+      },
+      "desc": "폴리실리콘(실리콘 웨이퍼의 원료), TDI·카본블랙 같은 화학소재를 만드는 회사예요. 폴리실리콘은 태양광 패널과 반도체 웨이퍼 모두에 쓰이는데, 지금까지는 태양광용이 생산량의 약 88%로 훨씬 큰 비중을 차지했어요. 다만 태양광 사업이 중국산 저가 공세로 적자를 내면서, 중국이 아직 못 들어온 반도체용 고순도 폴리실리콘 쪽을 회사가 의도적으로 키우는 중이에요."
+    },
+    {
+      "name": "SK머티리얼즈 퍼포먼스",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "SK스페셜티",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 749391482881,
+      "employees": 764,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "SK실트론",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 2057485935000,
+      "employees": 3624,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
+      },
+      "desc": "SK그룹 계열의 반도체용 실리콘 웨이퍼 전문 제조사예요. 웨이퍼는 반도체 회로를 새기는 얇은 원판인데, 순도 높은 실리콘 덩어리(잉곳)를 균일한 두께로 얇게 잘라서 만들어요. 삼성전자·SK하이닉스 같은 반도체 제조사에 이 웨이퍼를 공급하는 상류(업스트림) 소재 회사라고 보면 돼요."
+    },
+    {
+      "name": "경인양행",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 379701831841,
+      "employees": 470,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "생산·공정기술 상시채용 언급, 정기일정 불명확"
+      },
+      "desc": "1971년 설립된 국내 최대 염료회사예요. 원래는 옷감에 색을 입히는 염료가 주력이었는데, 지금은 정밀화학·전자재료 분야로도 사업을 확장하고 있어요."
+    },
+    {
+      "name": "동진쎄미켐",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": null,
+      "employees": 1469,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "현재 '생산직 인재풀' 상시등록만 진행 중(신입/경력 구분 없음). 정기 신입공채(4월·7월 등) 라운드는 지금 안 열림. 잡코리아 2차 확인도 검색결과 0건으로 동일하게 나옴",
+        "url": "https://dongjin.careerlink.kr",
+        "asOf": "2026-08-31"
+      },
+      "desc": "반도체·디스플레이용 포토레지스트(감광액, 회로 패턴을 새길 때 쓰는 핵심 화학소재)를 만드는 회사예요. 반도체용 3D 낸드 포토레지스트 분야에서는 세계 시장 1위를 차지하고 있어요."
+    },
+    {
+      "name": "솔머티리얼즈",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 23700000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "구체적 채용정보 확인 안 됨"
+      },
+      "desc": "산업용 가스를 제조하는 회사예요."
+    },
+    {
+      "name": "시노펙스",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 261537523873,
+      "employees": 162,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "경력직 중심, 신입은 정기공채로 추정"
+      },
+      "desc": "1985년 설립된 회사로, 휘어지는 회로기판인 연성회로기판(FPCB)과 고성능 필터를 만들어 다양한 산업에 부품을 공급하고 있어요."
+    },
+    {
+      "name": "에스앤에스텍",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 243733252593,
+      "employees": 311,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "용인EUV센터·대구사업장 등 7건 상시채용 진행 중(대부분 계약직, 경력무관 다수 포함, 8/30 기준)",
+        "url": "https://snstech.career.greetinghr.com/ko/guide",
+        "asOf": "2026-08-30"
+      },
+      "desc": "국내에서 유일하게 블랭크마스크(포토마스크의 원판, 반도체 노광공정의 핵심소재)를 생산하는 회사예요. 삼성전자·SK하이닉스는 물론 TSMC·SMIC 같은 해외 파운드리에도 공급하고 있고, 최고급 기술인 EUV용 블랭크마스크도 국산화를 추진 중이에요."
+    },
+    {
+      "name": "에어퍼스트",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 651543180000,
+      "employees": 283,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "포항·평택·서산 공장 등 신입 포함 다수 직무 15건 상시채용 진행 중(엔지니어·오퍼레이터·영업 등, 8/30 기준)",
+        "url": "https://airfirst.career.greetinghr.com/ko/apply",
+        "asOf": "2026-08-30"
+      },
+      "desc": "반도체·석유화학·철강 공정에 쓰이는 산업용 가스(산소·질소·아르곤 등)를 공급하는 회사예요. 1975년 설립된 47년 업력의 회사로, 반도체 공장이 안정적으로 돌아가려면 이런 특수가스 공급이 꾸준히 필요해요."
+    },
+    {
+      "name": "에프알디",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 28300000000,
+      "employees": 58,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "구체적 채용정보 확인 안 됨"
+      },
+      "desc": "반도체 산업에 쓰이는 특수가스를 만드는 회사예요. 반도체 부품·가스화학제품 제조와 판매, 수출입 무역까지 함께 하고 있어요."
+    },
+    {
+      "name": "에프에스티",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 280262733555,
+      "employees": 855,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "여러 직무 상시채용 다수(17건) 진행 중"
+      },
+      "desc": "1987년 설립된 회사로, 반도체·디스플레이용 포토마스크를 먼지·이물질로부터 보호하는 얇은 막인 '펠리클(Pellicle)'과, 반도체 장비의 온도를 정밀하게 조절하는 '칠러(Chiller)' 등을 만들어요."
+    },
+    {
+      "name": "엠에스머트리얼즈",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "원익머트리얼즈",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 322467412745,
+      "employees": 531,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
+      },
+      "desc": "반도체 제조 공정에 쓰이는 특수가스와 프리커서(박막을 만드는 원료 물질)를 만드는 회사예요. 원익그룹 계열이고, 반도체 소재 국산화에 기여해온 회사 중 하나예요."
+    },
+    {
+      "name": "이엔에프테크놀로지",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 670896289801,
+      "employees": 639,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "closed",
+        "note": "현재 개별 채용공고 없음 — '상시 인재풀 등록'만 가능(실제 공고 아님). 잡코리아 2차 확인에서도 이엔에프테크놀로지 직접 공고는 없었음(검색결과는 무관한 다른 회사)",
+        "url": "https://enf-recruit.career.greetinghr.com/ko/home",
+        "asOf": "2026-08-31"
+      },
+      "desc": "한국알콜그룹 계열로, 반도체·디스플레이 제조 공정에 쓰이는 화학제품을 만드는 회사예요. 2021년에 유비머트리얼즈(반도체 CMP 슬러리 회사)를 인수하기도 했어요."
+    },
+    {
+      "name": "이큐테크플러스",
+      "category": "materials",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "클랩",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한국비철",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 50900000000,
+      "employees": 29,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "생산직·영업직 상시채용 진행 중"
+      },
+      "desc": "반도체·항공·방산·조선 산업에 쓰이는 알루미늄 원자재를 유통하는 국내 최대 규모의 알루미늄 종합 유통회사예요."
+    },
+    {
+      "name": "한화",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 74785440000000,
+      "employees": 3264,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "계열사별 하반기 공채 진행 중 — 한화에어로스페이스 8/31~9/20, 한화금융 8/21~9/18 등",
+        "url": "https://www.hanwhain.com/"
+      },
+      "desc": "⚠️ 확인해보니 이 회사(주식회사 한화, 화약·방산·기계·무역 4개 사업부)는 반도체 사업부를 직접 갖고 있지 않아요. 반도체 장비는 완전히 별도로 상장된 계열사인 '한화세미텍'(구 한화정밀기계, 증착·본딩 장비)과 '한화비전'이 담당하고 있어요 — 즉 지주 성격의 모기업일 뿐, (주)한화 자체의 매출·직원수 안에는 반도체 사업이 포함돼 있지 않다는 뜻이에요."
+    },
+    {
+      "name": "고려아연",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 16587850779912,
+      "employees": 2054,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "closed",
+        "note": "채용페이지 진행 중 공고 0건(전체·신입·경력·신입경력·기타 모두 0). 하반기 일정 미공개. 잡코리아 2차 확인에서도 고려아연 직접 공고는 없고 전부 대행사·계열사 공고였음",
+        "url": "https://careers.koreazinc.co.kr/",
+        "asOf": "2026-08-31"
+      },
+      "desc": "🔧 이 회사의 반도체 관련 사업은 별도 사업부라기보다, 아연·연 제련 과정에서 나오는 부산물을 활용한 소재 사업이에요 — 반도체 세정·식각에 쓰는 초고순도황산(반도체황산) 국내 1위 생산업체이고, 최근 갈륨·인듐·게르마늄 같은 반도체용 희귀금속 회수 공정도 확대하고 있어요. 다만 회사 매출의 대부분은 세계 1위인 아연·연 제련 사업에서 나오고, 반도체 소재는 상대적으로 작은 비중이에요."
+    },
+    {
+      "name": "대덕전자",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 1065294559811,
+      "employees": 2633,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "신입 공고 거의 없음, 경력 위주"
+      },
+      "desc": "1972년에 설립된 국내 대표 인쇄회로기판(PCB) 제조사예요. PCB는 전자부품들을 서로 연결해주는 회로가 새겨진 기판인데, 반도체 패키지용 기판도 함께 생산하고 있어요."
+    },
+    {
+      "name": "동우화인켐",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 2039861520000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 일정 미확정. 통상 하반기는 9~11월"
+      },
+      "desc": "일본 스미토모화학이 100% 투자한 회사예요. 반도체·디스플레이 제조 공정에 쓰이는 화학소재(포토레지스트 등)를 만들고, LCD·OLED 디스플레이용 편광필름 분야에서는 세계적인 점유율을 갖고 있어요."
+    },
+    {
+      "name": "로움하이텍",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 3959060000,
+      "employees": 20,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "연구개발 등 3건 상시채용 진행 중"
+      },
+      "desc": "반도체·디스플레이용 화학소재(포토레지스트 관련)를 국산화해온 회사예요. 아직 규모는 작지만, 향후 코스닥 상장과 매출 확대를 목표로 하고 있어요."
+    },
+    {
+      "name": "메타일렉트로",
+      "category": "materials",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "삼성SDI",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 275152734663,
+      "employees": 12826,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "삼성 채용 포털에 삼성SDI 개별 채용공고는 안 보이고 '인재 등록'(상시등록)만 가능. 정기 공채 일정 미확정. 잡코리아 2차 확인에서도 삼성SDI가 직접 올린 공고는 없고 전부 협력사 공고였음",
+        "url": "https://www.samsungcareers.com/",
+        "asOf": "2026-08-31"
+      },
+      "desc": "🔧 이 회사의 반도체 관련 사업은 '전자재료사업부문'이 담당해요 — SOH(스핀코팅 방식 하드마스크), SOD(층간 절연 코팅재), CMP 슬러리(웨이퍼 연마재), EMC(반도체를 습기·충격에서 보호하는 봉지재) 같은 반도체 공정용 소재를 만들어요. 다만 회사 매출의 대부분은 전기차·ESS(에너지저장장치)용 배터리(2차전지) 사업에서 나오고, 반도체 소재는 부차적인 사업이에요."
+    },
+    {
+      "name": "솔브레인",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 923381966875,
+      "employees": 1133,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "인턴·연구직 상시 공고 있음, 정기일정 불명확"
+      },
+      "desc": "반도체 제조 공정에 쓰이는 식각액(회로를 깎아내는 화학약품)·세정액 같은 공정용 화학소재(케미컬)를 만드는 대표적인 국내 회사예요. 반도체 미세공정이 정밀해질수록 이런 특수 화학소재의 중요성도 커지고 있어요."
+    },
+    {
+      "name": "심텍",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 1410559919451,
+      "employees": 2902,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "진행 중 공고 있으나 신입 정기일정 불명확"
+      },
+      "desc": "반도체 패키지 기판과 인쇄회로기판(PCB)을 전문으로 만드는 회사예요. 반도체 칩을 완성한 뒤 이걸 다른 부품과 연결해주는 '기판' 부분을 담당하는 후공정(패키징) 소재 회사예요."
+    },
+    {
+      "name": "아데카코리아",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아토텍코리아",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스피삼화",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 617067546154,
+      "employees": 899,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에어프로덕츠코리아",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     },
@@ -1695,6 +801,2134 @@ window.COMPANIES_DATA = {
       "revenue": 32263951723,
       "employees": 61,
       "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엠이엠씨코리아",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엠케이켐앤텍",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 114064420000,
+      "employees": 140,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "진행 중 공고 없음(최근 이력 기준)"
+      },
+      "desc": "PCB(인쇄회로기판)에 금도금을 하는 화학약품을 만드는 회사로, 국내 PCB 금도금 약품 시장의 약 70%를 차지하고 있어요. 최근에는 반도체 웨이퍼용 표면처리 화학약품 제조로도 사업을 넓히고 있어요."
+    },
+    {
+      "name": "와이씨켐",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 83088557517,
+      "employees": 185,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "구체적 채용정보 확인 안 됨"
+      },
+      "desc": "2001년 설립된 회사로, 반도체·디스플레이·친환경에너지 산업에 쓰이는 화학소재를 개발·생산하고 있어요."
+    },
+    {
+      "name": "유비머트리얼즈",
+      "category": "materials",
+      "tier": "small",
+      "revenue": 3393180000,
+      "employees": 21,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "최근 진행 중인 공고 없음"
+      },
+      "desc": "반도체 CMP(화학기계연마) 공정에 쓰이는 슬러리(연마용 화학 용액)를 만드는 기술 혁신형 기업이에요. 2021년 이엔에프테크놀로지에 인수됐어요."
+    },
+    {
+      "name": "제이케이머트리얼즈",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "쎄닉",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스제이세미텍",
+      "category": "materials",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "이포트",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "태광산업",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 1827439561466,
+      "employees": 721,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "closed",
+        "note": "상반기 마감(1/29~2/8)"
+      },
+      "desc": "석유화학(PTA·프로필렌 등)과 섬유(아크릴·나일론·스판덱스 등)가 주력인 전통 제조업체예요. 반도체 소재 회사라기보다는 섬유·석유화학 회사에 가깝고, 우리 목록에는 소재 산업 전반을 다루는 계열사 특성 때문에 포함돼 있어요."
+    },
+    {
+      "name": "테크센드포토마스크",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 169800000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "구체적 채용정보 확인 안 됨"
+      },
+      "desc": "반도체 생산에 쓰이는 포토마스크(회로 패턴이 새겨진 원판)를 만들고 판매하는 전문기업이에요."
+    },
+    {
+      "name": "티이엠씨",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 279708410111,
+      "employees": 105,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "개별 공고 형태, 정기일정 불명확"
+      },
+      "desc": "반도체·디스플레이 공정에 쓰이는 특수가스를 만들어 삼성전자·SK하이닉스 같은 대형 반도체 제조사에 직접 공급하는 B2B 회사예요. 가스 합성부터 정제·충전까지 전 과정을 자체적으로 갖추고 있는 게 특징이에요."
+    },
+    {
+      "name": "한덕화학",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 106700000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "최근 공고 확인 안 됨"
+      },
+      "desc": "반도체·디스플레이의 '현상' 공정(회로 패턴을 새긴 뒤 필요 없는 부분을 씻어내는 공정)에 쓰이는 핵심소재 TMAH를 만드는 회사예요. 이 분야 세계 시장점유율 1위(35%)를 차지하고 있어요."
+    },
+    {
+      "name": "해성디에스",
+      "category": "materials",
+      "tier": "mid",
+      "revenue": 653396882375,
+      "employees": 1354,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": {
+        "status": "open",
+        "note": "경력직 수시채용 진행 중(BGA Panel 등, 접수마감 2026-09-03). 신입 공채는 상반기(1/5~1/19) 이후 새 라운드 안 보임(8/30 기준)",
+        "url": "https://haesunggroup.select-in.co.kr/recruit/apply/recruitList?comp_idx=145",
+        "asOf": "2026-08-30"
+      },
+      "desc": "반도체 리드프레임·BGA 기판을 만드는 회사예요. 이건 반도체 칩을 패키지 안에서 외부 회로와 전기적으로 연결해주는 부품으로, 반도체 후공정(패키징)에 필요한 핵심 소재예요."
+    },
+    {
+      "name": "효성네오켐",
+      "category": "materials",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "넥센서",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이에스피",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스에스피",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이치피에스피",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 172964572189,
+      "employees": 127,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "필옵틱스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 103440867014,
+      "employees": 319,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "AP시스템",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 460144858180,
+      "employees": 619,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "글로벌스탠다드테크놀로지",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 347158632861,
+      "employees": 757,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "나인벨",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 44000000000,
+      "employees": 65,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "넥스틴",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 9717895291,
+      "employees": 152,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "디아이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 432293560547,
+      "employees": 171,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "라온테크",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "러셀",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 27069629521,
+      "employees": 52,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "로봇앤드디자인",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 71100000000,
+      "employees": 163,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "뮤텍코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "미래컴퍼니",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 40897794013,
+      "employees": 364,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "서플러스글로벌",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 14624435187,
+      "employees": 99,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "세츠",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 20000000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "싸이맥스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 164404533950,
+      "employees": 235,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "쎄믹스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 257698930000,
+      "employees": 345,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아바코",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 392896306694,
+      "employees": 406,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이씨디",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 197041477697,
+      "employees": 267,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스에프에이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": null,
+      "employees": 735,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스티아이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 328058707879,
+      "employees": 407,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이앤아이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 136840000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이치앤이루자",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 313000000000,
+      "employees": 300,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이텍솔루션",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 47360000000,
+      "employees": 55,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엑시콘",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": null,
+      "employees": 179,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "오로스테크놀로지",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 52136517687,
+      "employees": 221,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "유니테스트",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 110195025305,
+      "employees": 194,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "유진테크",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 350324287104,
+      "employees": 348,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "이오테크닉스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 380890608578,
+      "employees": 636,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "자비스",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 27895397844,
+      "employees": 160,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "제우스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 383307591232,
+      "employees": 628,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "제이티",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 38378522208,
+      "employees": 161,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "케이씨",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": null,
+      "employees": 235,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "케이씨텍",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 382856574357,
+      "employees": 782,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "큐빅셀",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "탑엔지니어링",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 798498300100,
+      "employees": 206,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "테스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 351115732341,
+      "employees": 438,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "테크윙",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 159128398402,
+      "employees": 589,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "티에스이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 428900789083,
+      "employees": 985,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "피티씨",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한국에바라정밀기계",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 227036480000,
+      "employees": 287,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한영",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "국제엘렉트릭코리아",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 321288934804,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "나노엑스",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 5806040000,
+      "employees": 30,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "다이헨한국",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 28140000000,
+      "employees": 38,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "디아이티",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 107910277371,
+      "employees": 237,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "레이저쎌",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 4684448307,
+      "employees": 39,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "로체시스템즈",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 124870173744,
+      "employees": 246,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "멜콘",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "버슘머트리얼즈",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "부쉬코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "브이에이디인스트루먼트",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 5048790000,
+      "employees": 24,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "브이엠",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 144411787537,
+      "employees": 102,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "삼익티에이치케이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 222175005872,
+      "employees": 526,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "세메스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 2471334739133,
+      "employees": 2660,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "싸이머코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "씨에스케이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": null,
+      "employees": 620,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아드반테스트코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이씨엠리서치코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이에스엠케이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 472400000000,
+      "employees": 570,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이치비솔루션",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 62848643582,
+      "employees": 238,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엔비스아나",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 20249350000,
+      "employees": 50,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엔에스엔텍",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엘에스이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 196900000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엠에이티플러스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 55089750000,
+      "employees": 290,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "유니셈",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 273330435300,
+      "employees": 859,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "이솔",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "제너셈",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 56757244825,
+      "employees": 159,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "주성엔지니어링",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 310692584812,
+      "employees": 485,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "마인즈아이",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "베셀",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 16571060267,
+      "employees": 55,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "비엔에스알",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": null,
+      "employees": 15,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이에스티이",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 32220867462,
+      "employees": 88,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이엠티",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 32943967760,
+      "employees": 72,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "원익IPS",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 909795691103,
+      "employees": 1509,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "이큐셀",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 88624181072,
+      "employees": 175,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "저스템",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 48288744108,
+      "employees": 139,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "젠",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "지아이에스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 75810672480,
+      "employees": 94,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "크레셈",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "티에스케이코퍼레이션",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "not_semi",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "펨트론",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 69861835068,
+      "employees": 257,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "프로텍",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 230542705719,
+      "employees": 310,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "청진테크",
+      "category": "equipment",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "코닉오토메이션",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": 30100048633,
+      "employees": 117,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "코리아테크노",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "파인솔루션",
+      "category": "equipment",
+      "tier": "small",
+      "revenue": null,
+      "employees": 102,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "파크시스템스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 205613479882,
+      "employees": 392,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "피에스케이",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 457213151918,
+      "employees": 343,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "피에스케이홀딩스",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 207764042799,
+      "employees": 133,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한국알박",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 285460360000,
+      "employees": 541,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한미반도체",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 576684619527,
+      "employees": 737,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한화세미텍",
+      "category": "equipment",
+      "tier": "mid",
+      "revenue": 431200000000,
+      "employees": 865,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에이엔텍",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "오킨스전자",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 94373992165,
+      "employees": 171,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "금강쿼츠",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 149112520000,
+      "employees": 317,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "네프코",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "뉴파워프라즈마",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 577990393724,
+      "employees": 373,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "디에스테크노",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 103300000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "메카로",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 94613747133,
+      "employees": 227,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "미코",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 977036793661,
+      "employees": 207,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "쎄미콤",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아센디아",
+      "category": "components",
+      "tier": "small",
+      "revenue": 13500000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아이에스시",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 220194751972,
+      "employees": 407,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "알파플러스",
+      "category": "components",
+      "tier": "small",
+      "revenue": 10900000000,
+      "employees": 42,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에어포인트",
+      "category": "components",
+      "tier": "small",
+      "revenue": 16309610000,
+      "employees": 42,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엘오티베큠",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 244892905459,
+      "employees": 634,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "원익큐엔씨",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 943641492868,
+      "employees": 1212,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "윌비에스엔티",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 126590000000,
+      "employees": 190,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "유민에쓰티",
+      "category": "components",
+      "tier": "small",
+      "revenue": 3119000000,
+      "employees": 14,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "유시스템",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "케이에스티이",
+      "category": "components",
+      "tier": "small",
+      "revenue": null,
+      "employees": 104,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "코리아인스트루먼트",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "티로보틱스",
+      "category": "components",
+      "tier": "small",
+      "revenue": 43812661900,
+      "employees": 121,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "티씨케이",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 301334302844,
+      "employees": 471,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "파웰코퍼레이션",
+      "category": "components",
+      "tier": "small",
+      "revenue": 20640000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "핫앤쿨",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "디엔솔루션즈",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 1786721170000,
+      "employees": 2200,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "리노공업",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 372534084608,
+      "employees": 677,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "리얼센",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "모벤시스",
+      "category": "components",
+      "tier": "small",
+      "revenue": 17710000000,
+      "employees": 60,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "보부하이테크",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 70991880000,
+      "employees": 217,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "아스플로",
+      "category": "components",
+      "tier": "small",
+      "revenue": null,
+      "employees": 205,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에드워드코리아",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "에스케이엔펄스",
+      "category": "components",
+      "tier": "small",
+      "revenue": 34949377119,
+      "employees": 153,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엠케이프리시젼",
+      "category": "components",
+      "tier": "small",
+      "revenue": 20390000000,
+      "employees": 48,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엠케이피",
+      "category": "components",
+      "tier": "small",
+      "revenue": 20100000000,
+      "employees": null,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "영신쿼츠",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 101700000000,
+      "employees": 219,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "이화다이아몬드공업",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 361200000000,
+      "employees": 699,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "인아오리엔탈모터",
+      "category": "components",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "일진다이아몬드",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 162400019578,
+      "employees": 226,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "미코세라믹스",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 252500000000,
+      "employees": 750,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "콤델코리아",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "피엠씨",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "케이케이테크",
+      "category": "components",
+      "tier": "small",
+      "revenue": null,
+      "employees": 258,
+      "source": "web",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "코리아스펙트랄프로덕츠",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "코미코",
+      "category": "components",
+      "tier": "mid",
+      "revenue": 604110117086,
+      "employees": 868,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한국오츠카전자",
+      "category": "components",
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "notfound",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "시높시스코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "실바코코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엑시트론",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "니콘프레시전코리아",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "도쿄일렉트론코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "램리서치코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "매슨인터내셔널코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "머크 퍼포먼스머티리얼즈",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "버커트코리아",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "어플라이드머티어리얼즈코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "ASML코리아",
+      "category": "equipment",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "엑셀리스코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "인피니언테크놀로지스코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "한국요코오",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "지멘스EDA",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "케이던스디자인시스템즈",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "KLA코리아",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "타이코에이엠피",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "하팅코리아",
+      "category": null,
+      "tier": null,
+      "revenue": null,
+      "employees": null,
+      "source": null,
+      "dartStatus": "unregistered",
+      "reason": "foreign",
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "호리바에스텍코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
+      "hiring": null,
+      "desc": null
+    },
+    {
+      "name": "히타치하이테크코리아",
+      "category": "foreign",
+      "tier": "nodata",
+      "revenue": null,
+      "employees": null,
+      "source": "dart",
+      "dartStatus": "registered",
+      "reason": null,
       "hiring": null,
       "desc": null
     }
