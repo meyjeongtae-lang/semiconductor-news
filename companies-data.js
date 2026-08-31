@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T11:27:25.483Z",
+  "generatedAt": "2026-08-31T15:14:25.687Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -100,8 +100,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체·LCD 제조에 쓰이는 특수 농도계(액체 속 성분 비율을 재는 장비)를 만들고, 웨이퍼(반도체의 재료가 되는 얇은 원판) 위에 얇은 막을 입히는 '증착' 공정을 대신 해주는 파운드리(위탁 생산) 서비스를 제공해요. 산화막, 금속막, 질화막 등 다양한 막질을 증착해주며, 2007년 국내 최초로 반도체·LCD용 농도계를 개발했어요. 경기도에 본사가 있어요."
     },
     {
       "name": "에이프로세미콘",
@@ -206,8 +209,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "AI 반도체 칩처럼 열이 많이 나는 반도체를 액체로 식혀주는 냉각 솔루션을 만드는 회사예요. 특허 기술인 IMMC(통합 매니폴드 마이크로채널)로 칩에 직접 냉각수를 흘려보내는 방식이며, 데이터센터·반도체 제조사·자동차 업계에 공급하고 있어요. 2026년 초 실리콘밸리 벤처캐피탈로부터 Pre-A 투자를 유치했어요."
     },
     {
       "name": "파트론",
@@ -233,7 +239,10 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
       "desc": null
     },
     {
@@ -353,8 +362,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "전력반도체와 RF(무선 통신) 반도체에 쓰이는 SiC(탄화규소) 단결정 기둥(잉곳)과, 이를 얇게 잘라 만드는 웨이퍼를 만드는 회사예요. SiC는 실리콘보다 높은 전압과 열을 잘 견뎌 전기차나 통신 장비용 반도체에 많이 쓰이며, 결정 위에 얇은 막을 성장시키는 '에피택시' 서비스도 제공해요. 충남에 본사가 있어요."
     },
     {
       "name": "켐트로닉스",
@@ -584,7 +596,10 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
       "desc": "반도체·디스플레이 공정용 특수가스·화학소재를 만드는 회사예요(2008년 설립, 충남 공주). 웨이퍼를 만드는 핵심 원료인 트리클로로실란(TCS)의 국내 시장점유율이 80%로 1위예요."
     },
     {
@@ -628,8 +643,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 웨이퍼 위에 절연막 역할을 하는 산화막을 입히는 '증착' 장비를 만드는 회사예요. 저온에서 반응성이 높은 라디칼 입자를 만들어 막질을 더 촘촘하고 균일하게 입히는 독자 기술을 갖고 있고, 전력반도체용 산화막 증착장비도 만들어요. 경기도 수원시에 본사가 있어요."
     },
     {
       "name": "클랩",
@@ -748,8 +766,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 등 전자제품을 만들고 남은 폐전자스크랩에서 금·은·백금·팔라듐 같은 귀금속을 회수해 다시 원료로 쓸 수 있게 만드는 회사예요. 반도체 제조에는 금선 와이어본딩이나 금속 타겟처럼 귀금속이 들어가는데, 이런 폐기물을 재활용해 자원 순환에 기여해요. 인천광역시 남동구에 본사가 있어요."
     },
     {
       "name": "삼성SDI",
@@ -974,8 +995,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "KSIA(한국반도체산업협회) 회원사로 등록된 소재업체라는 것은 확인했지만, 별도 홈페이지가 없고 관련 보도도 찾지 못해 구체적으로 어떤 소재를 만드는 회사인지는 확인하지 못했어요. (중국 SJ Semiconductor, 국내 성진세미텍과는 다른 별개 회사예요.)"
     },
     {
       "name": "이포트",
@@ -1093,8 +1117,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 첨단 패키징(칩을 완제품으로 포장하는 후공정) 공정에서 막의 두께나 결함을 정밀하게 재는 3D 광학 계측 장비를 만드는 회사예요. 대표 제품인 nXI 시리즈는 백색광 간섭 방식으로 얇은 막의 구조를 초정밀·초고속으로 측정할 수 있어, 세계 유수 반도체 생산 기업들에 공급하고 있어요."
     },
     {
       "name": "아이에스피",
@@ -1637,8 +1664,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 패키징 공정에서 미세한 결함을 찾아내는 홀로그램 AOI(자동광학검사) 장비를 만드는 회사예요. 자체 특허 기술인 FSH(플라잉 오버 스캐닝 홀로그래피)로 1마이크로미터 이하 수준까지 실시간 검사가 가능해, HBM(고대역폭 메모리) 같은 첨단 패키징 검사에 강점이 있어요. 서울에 본사가 있고, 2024년 산업통상자원부 국가과제 주관기관으로 선정됐어요."
     },
     {
       "name": "탑엔지니어링",
@@ -2057,8 +2087,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체·디스플레이 제조 장비 안에서 부품을 정밀하게 움직이는 '스테이지(이동 장치)'를 만드는 회사예요. 잉크젯 장비, 스크라이버(기판을 정밀하게 자르는 장비), 마스크 리페어 장비 등에 들어가는 갠트리형·하이브리드형·에어베어링형 스테이지를 생산해요. 경기도 화성시에 본사가 있어요."
     },
     {
       "name": "엘에스이",
@@ -2161,8 +2194,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체와 디스플레이 패널, 카메라 모듈 등을 검사하는 자동화 검사 장비를 만드는 회사예요. 대기업에서 20년 넘게 검사 장비를 개발하던 인력이 창업했고, 2016년에는 테라헤르츠파를 이용해 반도체 칩·패키지 내부를 검사하는 장비를 국책과제로 개발했어요. 경기도 안양시에 본사가 있고, 넥스트아이가 지분 51%를 인수해 경영권을 갖고 있어요."
     },
     {
       "name": "베셀",
@@ -2279,8 +2315,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "KSIA(한국반도체산업협회) 회원사로 등록된 장비업체(경기도 소재)라는 것은 확인했지만, 홈페이지가 만료돼 접속이 안 되고 관련 보도도 찾지 못해 구체적으로 어떤 장비를 만드는 회사인지는 확인하지 못했어요."
     },
     {
       "name": "지아이에스",
@@ -2363,8 +2402,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 장비인 식각기(Etch, 불필요한 부분을 깎아내는 장비), 증착기(CVD), 포토 장비, 이온주입기(Implanter) 등에 들어가는 소모성 부품을 공급하고 장비 유지보수 서비스를 제공하는 회사예요. 반도체 회로 패턴을 만드는 방법 중 하나인 '리프트오프' 기술도 다루고 있어요. 경기도 성남시 판교에 본사가 있어요."
     },
     {
       "name": "코닉오토메이션",
@@ -2390,7 +2432,10 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
       "desc": "반도체 공장에서 웨이퍼를 자동으로 옮기고 분류하고 검사하는 자동화 장비를 만드는 회사예요. 웨이퍼를 장비 앞단에서 옮기는 EFEM과, 웨이퍼를 종류별로 분류하는 웨이퍼 소터(Wafer Sorter)가 대표 제품이에요. 1997년 설립, 경기 광주에 있어요."
     },
     {
@@ -2507,7 +2552,10 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
       "desc": "반도체 제조 장비에 들어가는 부품을 정밀 가공하는 회사예요. 경기 화성에 있고, 장비 자체보다는 장비 안에 들어가는 부품을 깎고 다듬는 일을 해요. (직원 39명, 연매출 약 60억원 규모의 작은 회사라 상세 제품정보는 제한적이에요.)"
     },
     {
@@ -2761,8 +2809,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체·디스플레이·태양광 장비의 핵심 부품인 스로틀 밸브(가스 흐름이나 압력을 조절하는 밸브)를 국산화해 만드는 회사예요. 반도체 공정은 진공 상태에서 가스 압력을 정밀하게 조절해야 하는데, 이때 쓰이는 압력제어 밸브를 공급하는 국내 진공설비 부품 기업이에요."
     },
     {
       "name": "케이에스티이",
@@ -2848,8 +2899,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "주식회사핫앤쿨이 직접 올린 SK하이닉스 이천·청주 공장내 제품 설치/유지보수 신입 채용이 진행 중으로 확인됨(접수마감 9/11, 잡코리아 직접 확인, 09/01 확인)"
+      },
+      "desc": "반도체 장비에서 가스 배관이나 부품을 일정한 온도로 데워주는 히팅 시스템(가열 장치)을 만드는 회사예요. 배관을 감싸 가열하는 히팅 자켓, 신축 가능한 주름관을 데우는 벨로우즈 히터, 레조네이터(공진기) 정비 부품 등을 공급해요. 2010년 설립됐고 경기도 용인시에 본사가 있어요."
     },
     {
       "name": "디엔솔루션즈",
@@ -2890,8 +2944,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "KSIA(한국반도체산업협회) 회원사로 등록된 부분품업체(대전 소재, 2021년 설립)라는 것까지는 확인했지만, 홈페이지가 만료돼 접속이 안 되고 관련 보도도 찾지 못해 구체적으로 어떤 제품을 만드는 회사인지는 확인하지 못했어요. (인텔의 '리얼센스'와는 다른 별개 회사예요.)"
     },
     {
       "name": "모벤시스",
@@ -3083,8 +3140,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "반도체 제조 장비에 들어가는 RF 제너레이터(고주파 발생 장치)와, 웨이퍼를 정전기 힘으로 고정하는 장치인 ESC용 전원 공급 장치를 공급하는 회사예요. 이런 부품은 식각이나 증착 공정에서 웨이퍼를 고정하고 플라즈마를 만드는 데 꼭 필요해요. 경기도에 본사가 있어요."
     },
     {
       "name": "피엠씨",
@@ -3095,8 +3155,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "공압·유압 기기, 리니어 모션(직선 운동) 장치, 전동 액추에이터 같은 정밀 구동 부품을 만드는 회사예요. 한국반도체산업협회(KSIA)에 부분품업체로 등록돼 있지만, 회사 홈페이지에는 의료기기용 밸브 등 다른 산업 분야 제품도 함께 소개하고 있어 반도체 공정 내 구체적 쓰임새까지는 확인하지 못했어요. 경기도에 본사가 있어요."
     },
     {
       "name": "케이케이테크",
@@ -3122,8 +3185,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "빛을 파장별로 분석하는 분광 분석 장비(작은 분광기부터 모노크로미터까지)를 만들고 유통하는 회사예요. 반도체·디스플레이뿐 아니라 농업, 환경, 의료, 화학 분야에서도 광학 측정·분석 솔루션을 제공해요. 2003년 설립됐고 서울 구로구에 본사가 있어요."
     },
     {
       "name": "코미코",
@@ -3149,8 +3215,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "notfound",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(09/01 확인)"
+      },
+      "desc": "빛을 이용해 소재의 특성을 분석하는 광학 측정·검사 장비를 만드는 회사예요. 평판 디스플레이(LCD 등) 검사 장비와 광학·전자 소재 분석 장비가 주요 제품으로, 반도체·디스플레이 업계에서 소재 검사에 쓰여요. 2003년 설립됐고 경기도 성남시에 본사가 있어요."
     },
     {
       "name": "시높시스코리아",
