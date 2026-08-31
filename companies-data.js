@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T10:36:39.724Z",
+  "generatedAt": "2026-08-31T11:27:25.483Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -17,8 +17,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "SK하이닉스 계열의 반도체 파운드리(위탁생산) 회사예요(2020년 매그나칩반도체에서 파운드리 사업부만 분리·독립, SK하이닉스가 인수). 8인치 웨이퍼 특화 공정으로 아날로그·전력반도체를 주로 생산하고, 최근엔 SiC(실리콘카바이드) 전력반도체 파운드리 사업도 시작하고 있어요."
     },
     {
       "name": "SK하이닉스",
@@ -109,8 +112,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 이차전지 장비회사 '에이프로'의 반도체 사업부가 2020년 분사한 회사예요. 전기차·전력반도체에 쓰이는 질화갈륨(GaN) 반도체와, 그 원료가 되는 에피웨이퍼(반도체 결정을 얇게 성장시킨 웨이퍼)를 만들어요."
     },
     {
       "name": "온세미컨덕터코리아",
@@ -121,8 +127,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 반도체회사 onsemi(온세미)의 한국 지사예요. 전기차·산업기기에 쓰이는 전력반도체와 이미지센서를 주로 만드는 회사로, 한국에선 영업·기술지원 위주로 운영돼요."
     },
     {
       "name": "케이이씨",
@@ -404,8 +413,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "에스케이 머티리얼즈㈜가 직접 올린 R&D·영업·품질·경영기획·안전·구매·생산 등 경력 채용이 진행 중으로 확인됨(접수마감 9/4, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "SK그룹 계열의 반도체 소재 회사예요(2020년 설립). 반도체 회로를 새길 때 쓰는 감광액(포토소재), 금속 전구체, 식각가스 같은 첨단 화학소재를 만들어요."
     },
     {
       "name": "SK스페셜티",
@@ -573,7 +585,7 @@ window.COMPANIES_DATA = {
       "dartStatus": "registered",
       "reason": null,
       "hiring": null,
-      "desc": null
+      "desc": "반도체·디스플레이 공정용 특수가스·화학소재를 만드는 회사예요(2008년 설립, 충남 공주). 웨이퍼를 만드는 핵심 원료인 트리클로로실란(TCS)의 국내 시장점유율이 80%로 1위예요."
     },
     {
       "name": "원익머트리얼즈",
@@ -628,8 +640,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체·디스플레이용 유기물 소재를 연구개발하는 회사예요. 유기물반도체 박막(아주 얇은 막) 기판을 만드는데, 이건 휴대폰 지문 센서나 접히는(플렉서블) 디스플레이에 들어가는 부품이에요. 독일 화학회사 BASF와 파트너십을 맺고 있어요."
     },
     {
       "name": "한국비철",
@@ -792,8 +807,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 일본 화학회사 ADEKA(아데카)의 한국 지사예요. 반도체 제조 공정에 쓰이는 특수 화학소재(전구체 등)를 취급해요."
     },
     {
       "name": "아토텍코리아",
@@ -804,8 +822,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 독일계 표면처리 화학소재 회사 아토텍(현재 미국 MKS Instruments 계열)의 한국 지사예요. 금속 도금·표면처리에 쓰이는 화학소재를 반도체·전자산업에 공급해요."
     },
     {
       "name": "에스피삼화",
@@ -832,8 +853,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 산업가스 회사 Air Products(에어프로덕츠)의 한국 지사예요. 반도체 제조에 필수적인 질소·수소 같은 특수가스를 대량으로 공급해요."
     },
     {
       "name": "에이치엘비이노베이션",
@@ -860,8 +884,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 대만 웨이퍼회사 글로벌웨이퍼스(GlobalWafers) 계열의 실리콘 웨이퍼 제조회사예요(1990년 미국 MEMC·삼성전자·포항제철 합작 설립, 2016년 글로벌웨이퍼스에 인수). 충남 천안 공장에서 반도체용 8~12인치 실리콘 웨이퍼를 만들고, 웨이퍼를 흠 없이 만드는 기술로는 세계 5개 회사 중 3위 수준이에요."
     },
     {
       "name": "엠케이켐앤텍",
@@ -917,8 +944,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 회로를 새기는 노광 공정에 쓰이는 감광액(포토레지스트, PR)의 핵심 원료를 만드는 회사예요. 그동안 대부분 수입에 의존하던 원료(PAG, 가교제 등)를 국산화하고 있고, 최근엔 극자외선(EUV) 공정용 초고순도 용제 사업도 넓히고 있어요. 한울소재과학의 자회사예요."
     },
     {
       "name": "쎄닉",
@@ -929,8 +959,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "채용상태는 아직 확인 못 했어요 — 회사설명은 확인됨"
+      },
+      "desc": "🔧 SKC 계열의 SiC(실리콘카바이드) 웨이퍼·잉곳(결정 덩어리) 전문회사예요(2004년 설립된 크리스밴드가 전신). 전기차용 전력반도체의 핵심 소재인 SiC 웨이퍼를 국내에서 유일하게 생산해요."
     },
     {
       "name": "에스제이세미텍",
@@ -953,8 +986,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "㈜이포트가 직접 올린 반도체/전기차 방열 소재 기술영업 신입 채용이 상시채용으로 진행 중으로 확인됨(잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "AI 반도체 등 첨단 메모리 반도체 패키지에서 나는 열을 식히는 데 쓰이는 세라믹 소재를 만드는, 국내 유일의 회사예요. 특히 고대역폭메모리(HBM, D램을 여러 층 쌓아 만든 초고속 메모리)처럼 열이 많이 나는 부품에 쓰이는 방열 세라믹 소재를 연구·생산해요. 2017년 법인으로 전환됐어요."
     },
     {
       "name": "태광산업",
@@ -1042,8 +1078,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "채용상태는 아직 확인 못 했어요 — 회사설명은 확인됨"
+      },
+      "desc": "🔧 효성티앤씨(효성그룹 계열)가 2020년 인수해 출범시킨 특수가스 전문회사예요. 반도체·디스플레이 공정에서 챔버(공정 장비 내부 공간)를 세정하거나 식각할 때 쓰는 삼불화질소(NF3) 가스를 만들어요."
     },
     {
       "name": "넥센서",
@@ -1066,8 +1105,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "엑스레이(X-ray)를 쏘아서 금속막의 두께나 성분을 아주 정밀하게 재는 검사장비를 만드는 회사예요. 반도체 배선 공정(다마신 공정)에서 도금된 금속막이 원하는 두께로 잘 입혀졌는지 확인하는 데 쓰여요. 2004년 설립됐고, PCB·MLCC 검사장비에서 반도체 쪽으로 영역을 넓혔어요."
     },
     {
       "name": "에스에스피",
@@ -1078,8 +1120,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체를 기판에 연결할 때 쓰는 아주 작은 땜납 알갱이(솔더볼)를 붙이는 '볼마운트' 장비를 만드는 회사예요. 반도체 패키징(칩을 포장해 완제품으로 만드는 후공정) 과정에 쓰이며, 국내 시장 점유율이 약 60%예요. 1996년 인천에서 설립됐고, 2026년 사모펀드에 약 4000억원에 인수됐어요."
     },
     {
       "name": "에이치피에스피",
@@ -1196,8 +1241,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 공장 안에서 웨이퍼(반도체를 만드는 얇은 원판)를 진공 상태로 옮기는 로봇과 자동화 장비를 만드는 회사예요. 장비 앞단에서 웨이퍼를 옮기는 EFEM과 진공 환경에서 옮기는 백본(Backbone)이 대표 제품이에요. 2000년 설립, 원익IPS·테스 같은 반도체 장비회사에 로봇을 납품하고 2021년 코스닥에 상장됐어요."
     },
     {
       "name": "러셀",
@@ -1238,8 +1286,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "㈜뮤텍코리아가 직접 올린 반도체 기구 설계, 반도체 장비 광학 모듈 설치/제조, 반도체 검사 설비 SW개발자, 기술영업팀 등 다수의 신입 채용이 진행 중으로 확인됨(접수마감 9/4~9/9, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "레이저를 이용한 정밀 광학 검사·수리 장비를 만드는 회사예요. 원래는 디스플레이(TFT·LCD·OLED) 불량을 찾아 고치는 장비로 시작했다가, 점차 반도체 검사 장비로도 기술을 넓혔어요. 2000년 설립됐어요."
     },
     {
       "name": "미래컴퍼니",
@@ -1660,8 +1711,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 식각(깎아내는 공정)이나 증착(막을 입히는 공정) 중 웨이퍼와 장비 내부 온도를 일정하게 유지해주는 '칠러(냉각기)'를 만드는 회사예요. 온도가 조금만 흔들려도 웨이퍼가 손상될 수 있어서 이런 정밀 온도조절 장비가 꼭 필요해요."
     },
     {
       "name": "한국에바라정밀기계",
@@ -1687,8 +1741,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "1995년부터 반도체·디스플레이 제조에 쓰이는 쿼츠(석영) 제품을 만들어온 회사예요. 쿼츠는 고온에도 잘 견디고 불순물이 적어서 웨이퍼를 다루는 용기나 부품 재료로 많이 쓰여요. (같은 이름의 회사가 여러 곳이라 100% 확신은 어렵고, 사업자 분류상 반도체/디스플레이제조업으로 등록된 점을 근거로 판단했어요.)"
     },
     {
       "name": "국제엘렉트릭코리아",
@@ -1790,8 +1847,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 포토리소그래피(빛으로 회로 무늬를 새기는 노광 공정) 장비 안의 온도와 습도를 아주 정밀하게 조절하는 장비를 만드는 회사예요. 감광액(포토레지스트)을 바르고 현상하는 과정에서 온습도가 조금만 흔들려도 회로가 삐뚤어질 수 있어서, 이 분야 세계 시장 점유율 1위를 차지하고 있어요. 2003년 설립, 삼성전자·SK하이닉스의 1차 협력사이고 2026년 코스닥 상장을 앞두고 있어요."
     },
     {
       "name": "버슘머트리얼즈",
@@ -1802,8 +1862,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 화학회사 머크(Merck)에 인수된 반도체 소재 전문회사(옛 버슘머트리얼즈)의 한국 지사예요. 웨이퍼 표면을 매끄럽게 가는 CMP 공정용 소재, 식각가스 등 반도체 화학소재를 공급해요."
     },
     {
       "name": "부쉬코리아",
@@ -1814,8 +1877,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 독일 진공펌프 회사 부쉬(Busch)의 한국 지사예요. 반도체 공정에서 챔버 안을 진공 상태로 만드는 데 쓰이는 진공펌프를 공급해요."
     },
     {
       "name": "브이에이디인스트루먼트",
@@ -1886,8 +1952,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 노광 공정(빛으로 웨이퍼에 회로를 새기는 공정)에 쓰이는 광원 장치, 즉 엑시머 레이저를 만드는 미국 회사 싸이머(Cymer)의 한국 법인이에요. 싸이머는 노광장비 세계 1위 기업 ASML의 자회사이고, 한국 평택에 생산공장이 있어요."
     },
     {
       "name": "씨에스케이",
@@ -1913,8 +1982,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 일본 반도체 검사장비 회사 어드반테스트(Advantest)의 한국 지사예요. 반도체가 완성된 뒤 제대로 작동하는지 검사하는 테스터 장비 분야에서 세계적인 회사예요."
     },
     {
       "name": "에이씨엠리서치코리아",
@@ -1925,8 +1997,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 중국계 반도체 장비회사 ACM Research(에이씨엠리서치)의 한국 지사예요. 웨이퍼를 세정하거나 도금하는 습식 공정 장비를 만들어요."
     },
     {
       "name": "에이에스엠케이",
@@ -2040,8 +2115,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아에 \"㈜이솔\" 이름의 채용공고는 있으나 반도체장비/가방생산 등 서로 다른 업종이 섞여 있어 어느 곳이 EUV 마스크 검사장비 회사인지 특정하지 못함(08/31 확인)"
+      },
+      "desc": "극자외선(EUV)을 이용하는 최첨단 반도체 노광 공정에서, 회로 무늬가 새겨진 원판인 '마스크'의 결함을 찾아내는 장비를 만드는 국내 유일의 EUV 장비 회사예요. 2018년 설립, 창업자는 삼성전자 반도체 사업부 출신이에요."
     },
     {
       "name": "제너셈",
@@ -2228,8 +2306,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "㈜크레셈이 직접 올린 반도체장비 기술영업직, 제어기술팀 SW개발자 신입 채용이 상시채용으로 진행 중으로 확인됨(잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "반도체를 기판에 붙이는 패키징 공정에서 부품이 제대로 붙었는지 검사하는 장비와, 초음파로 부품을 붙이는(ACF 본딩) 장비를 만드는 회사예요. AI 기반 자동검사 기술로 예전에 60명이 하던 검사를 1명이 할 수 있게 효율을 높였어요. 2014년 인천에서 설립됐어요."
     },
     {
       "name": "티에스케이코퍼레이션",
@@ -2310,7 +2391,7 @@ window.COMPANIES_DATA = {
       "dartStatus": "registered",
       "reason": null,
       "hiring": null,
-      "desc": null
+      "desc": "반도체 공장에서 웨이퍼를 자동으로 옮기고 분류하고 검사하는 자동화 장비를 만드는 회사예요. 웨이퍼를 장비 앞단에서 옮기는 EFEM과, 웨이퍼를 종류별로 분류하는 웨이퍼 소터(Wafer Sorter)가 대표 제품이에요. 1997년 설립, 경기 광주에 있어요."
     },
     {
       "name": "파인솔루션",
@@ -2427,7 +2508,7 @@ window.COMPANIES_DATA = {
       "dartStatus": "registered",
       "reason": null,
       "hiring": null,
-      "desc": null
+      "desc": "반도체 제조 장비에 들어가는 부품을 정밀 가공하는 회사예요. 경기 화성에 있고, 장비 자체보다는 장비 안에 들어가는 부품을 깎고 다듬는 일을 해요. (직원 39명, 연매출 약 60억원 규모의 작은 회사라 상세 제품정보는 제한적이에요.)"
     },
     {
       "name": "오킨스전자",
@@ -2468,8 +2549,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체·인쇄회로기판(PCB)·디스플레이 제조에 쓰이는 포토마스크(회로 무늬가 새겨진 원판)를 만드는 회사예요. 정전기 방지, 오염 방지 코팅 같은 자체 기술을 갖고 있어요. 1992년 설립(2000년 법인 전환), 경기 안산에 있어요."
     },
     {
       "name": "뉴파워프라즈마",
@@ -2541,8 +2625,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "㈜쎄미콤이 직접 올린 영업팀·제조2팀 신입 채용이 진행 중으로 확인됨(접수마감 9/19, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "경기 화성시에 있는 반도체 장비 제조 회사예요. KSIA(한국반도체산업협회) 회원사로 등록돼 있는 건 확인했지만, 홈페이지 접속 문제로 정확히 어떤 장비(세정·코팅·검사 등)를 만드는지는 구체적으로 확인하지 못했어요."
     },
     {
       "name": "아센디아",
@@ -2701,8 +2788,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "㈜코리아인스트루먼트가 직접 올린 기술연구소 회로설계, 반도체장비 생산/제조/품질/CS 신입·경력 채용이 진행 중으로 확인됨(접수마감 9/4, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "완성되기 전 반도체가 전기적으로 잘 작동하는지 찔러서 검사하는 부품인 '프로브카드'를 만드는 회사예요. 프로브카드는 수백 개의 아주 가는 바늘로 웨이퍼 위 회로를 찔러 전기 신호를 확인하는 도구예요. 1996년 화성에서 설립됐고, 세계 프로브카드 시장 6위권이에요."
     },
     {
       "name": "티로보틱스",
@@ -2857,8 +2947,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 영국 진공펌프 회사 에드워드(Edwards)의 한국 지사예요. 반도체 공정용 진공펌프와 유해가스 처리장비(스크러버) 분야에서 세계적인 회사예요."
     },
     {
       "name": "에스케이엔펄스",
@@ -2945,8 +3038,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "인아오리엔탈모터㈜가 직접 올린 기술본부 기술지원 신입/경력 채용이 진행 중으로 확인됨(서울 금천, 접수마감 9/23, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "🔧 일본 정밀모터 회사 오리엔탈모터(Oriental Motor)의 한국 지사예요. 반도체 장비 안에서 정밀하게 움직이는 부품을 제어하는 스텝모터 등을 공급해요."
     },
     {
       "name": "일진다이아몬드",
@@ -3065,8 +3161,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 EDA(반도체 설계자동화) 소프트웨어 회사 시높시스(Synopsys)의 한국 지사예요. 반도체 칩을 설계할 때 쓰는 소프트웨어 도구를 만드는, 반도체 설계 분야 세계 1위 회사예요."
     },
     {
       "name": "실바코코리아",
@@ -3077,8 +3176,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 EDA(반도체 설계자동화) 소프트웨어 회사 실바코(Silvaco)의 한국 지사예요. 반도체 소자·공정을 컴�터로 시뮬레이션하는 TCAD 소프트웨어가 주력이에요."
     },
     {
       "name": "엑시트론",
@@ -3089,8 +3191,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 독일 반도체 장비회사 에이젠트론(Aixtron)의 한국 지사예요. 화합물반도체(GaN, SiC 등)를 만들 때 쓰는 MOCVD(유기금속화학증착) 장비 분야의 선두 기업이에요."
     },
     {
       "name": "니콘프레시전코리아",
@@ -3101,8 +3206,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체·디스플레이 노광장비(빛으로 회로 무늬를 새기는 장비)를 만드는 일본 니콘의 반도체 장비 부문 한국 법인이에요. 국내에서는 장비 판매보다는 이미 설치된 니콘 노광장비의 기술지원·점검·수리·부품 공급을 주로 담당해요. 1990년 설립, 경기 용인에 있어요."
     },
     {
       "name": "도쿄일렉트론코리아",
@@ -3113,8 +3221,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 일본 반도체 장비회사 도쿄일렉트론(TEL)의 한국 지사예요. 반도체 코팅·현상 장비 분야 세계 1위이고, 식각·증착 장비에서도 세계적인 회사예요."
     },
     {
       "name": "램리서치코리아",
@@ -3125,8 +3236,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "램리서치매뉴팩춰링코리아 유한회사가 직접 올린 Production Planner/Master Scheduler, Process Technician 등 채용이 진행 중으로 확인됨(잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "🔧 미국 반도체 장비회사 램리서치(Lam Research)의 한국 지사예요. 반도체 회로를 깎아내는 식각(에칭) 장비와 증착 장비 분야에서 세계적인 회사예요."
     },
     {
       "name": "매슨인터내셔널코리아",
@@ -3137,8 +3251,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 반도체 장비회사 매트슨테크놀로지(Mattson Technology)의 한국 지사예요. 반도체 웨이퍼의 감광액을 벗겨내는 스트립 장비, 열처리(어닐링) 장비 등을 만들어요."
     },
     {
       "name": "머크 퍼포먼스머티리얼즈",
@@ -3149,8 +3266,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "머크퍼포먼스머티리얼즈가 직접 올린 QC Engineer(12개월 계약직, 신입/경력, 평택 포승 근무) 채용이 진행 중으로 확인됨(접수마감 9/30, 잡코리아 직접 확인, 08/31 확인)"
+      },
+      "desc": "🔧 독일 화학회사 머크(Merck)의 반도체 소재 사업부 한국 지사예요. 반도체 제조에 쓰이는 특수가스, 화학소재(포토레지스트 등)를 공급해요."
     },
     {
       "name": "버커트코리아",
@@ -3161,8 +3281,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "유체(액체·기체)의 흐름을 정밀하게 조절하는 밸브·유량계·압력센서를 만드는 독일 Bürkert의 한국 법인이에요. 반도체 전공정에서 화학약품이나 가스를 정확한 양만큼 흘려보내는 배관 설비에 쓰이고, 반도체뿐 아니라 디스플레이·바이오·수처리 설비에도 두루 쓰여요."
     },
     {
       "name": "어플라이드머티어리얼즈코리아",
@@ -3173,8 +3296,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아에 \"어플라이드 머티어리얼즈 코리아\" 명의 공고가 있으나 근무지가 일본·중국으로 표시돼 있어 국내(한국) 채용인지 확인 못함(08/31 확인)"
+      },
+      "desc": "🔧 미국 반도체 장비회사 어플라이드머티어리얼즈(Applied Materials)의 한국 지사예요. 반도체 제조장비 시장에서 매출 기준 세계 1위 회사로, 증착·식각 등 거의 모든 반도체 공정 장비를 만들어요."
     },
     {
       "name": "ASML코리아",
@@ -3185,8 +3311,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색 결과는 전부 협력사(㈜피에스피 물류, ㈜에프앤씨 설치엔지니어 파견) 공고이고 ASML코리아 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 네덜란드 반도체 장비회사 ASML의 한국 지사예요. 반도체 회로를 웨이퍼에 새기는 노광(리소그래피) 장비, 특히 가장 미세한 공정에 필수인 EUV(극자외선) 장비를 세계에서 유일하게 만드는 회사예요."
     },
     {
       "name": "엑셀리스코리아",
@@ -3197,8 +3326,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 반도체 장비회사 엑셀리스(Axcelis)의 한국 지사예요. 반도체에 불순물을 주입해 전기적 성질을 만드는 이온주입장비(Ion Implanter) 분야의 대표 기업이에요."
     },
     {
       "name": "인피니언테크놀로지스코리아",
@@ -3209,8 +3341,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 독일 종합반도체회사 인피니언(Infineon)의 한국 지사예요. 전력반도체와 자동차용 반도체 분야에서 세계적인 회사이고, 한국에선 영업·기술지원을 담당해요."
     },
     {
       "name": "한국요코오",
@@ -3221,8 +3356,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "완성되기 전 반도체가 제대로 작동하는지 찔러서 검사하는 초정밀 테스트 핀(MEMS 프로브)과 테스트 소켓을 만드는 일본 Yokowo의 한국 법인이에요. 1922년 설립된 일본 본사는 반도체 검사용 정밀 부품 분야에서 세계적인 기업이에요."
     },
     {
       "name": "지멘스EDA",
@@ -3233,8 +3371,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 칩의 회로를 설계하고, 설계한 대로 잘 만들어졌는지 검증하는 소프트웨어(EDA, 전자설계자동화)를 만드는 독일 지멘스의 사업부예요. 시높시스·케이던스와 함께 세계 EDA 시장을 사실상 3사가 나눠 갖고 있는 대표 기업 중 하나이고, 한국 법인은 경기 성남 판교에 있어요."
     },
     {
       "name": "케이던스디자인시스템즈",
@@ -3245,8 +3386,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체 칩의 회로를 설계하고 검증하는 소프트웨어(EDA, 전자설계자동화)와 관련 하드웨어·지적재산권(IP)을 제공하는 미국 기업이에요. 시높시스와 함께 세계 EDA 시장의 약 70%를 차지하는 양대 기업 중 하나이며, 삼성 파운드리와 TSMC의 공식 EDA 파트너이기도 해요. 한국 법인은 경기 성남 분당에 있어요."
     },
     {
       "name": "KLA코리아",
@@ -3257,8 +3401,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "반도체를 만드는 도중 웨이퍼(반도체 원판) 위에 생긴 미세한 결함을 찾아내는 검사·계측 장비를 만드는 미국 KLA의 한국 법인이에요. 웨이퍼 검사·계측 장비 분야에서 세계 시장 점유율 약 63%로 35년째 1위를 지키고 있는 회사예요. 1993년 한국 법인이 설립됐고, 경기 동탄·이천에 사무소가 있어요."
     },
     {
       "name": "타이코에이엠피",
@@ -3269,8 +3416,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 미국 커넥터회사 TE커넥티비티(옛 타이코 AMP)의 한국 지사예요. 반도체·전자기기 안에서 부품끼리 전기적으로 연결해주는 커넥터를 만들어요."
     },
     {
       "name": "하팅코리아",
@@ -3281,8 +3431,11 @@ window.COMPANIES_DATA = {
       "source": null,
       "dartStatus": "unregistered",
       "reason": "foreign",
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "전기·전자 신호를 연결하는 산업용 커넥터(연결 부품)를 만드는 독일 HARTING의 한국 법인이에요. 반도체 제조 장비를 비롯해 각종 산업 설비에서 전력·데이터를 안정적으로 주고받게 해주는 커넥터·케이블 하니스를 공급해요. 1998년 한국 법인이 설립됐어요."
     },
     {
       "name": "호리바에스텍코리아",
@@ -3293,8 +3446,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 일본 계측기회사 호리바(HORIBA)의 반도체 부문 자회사(STEC)의 한국 지사예요. 반도체 공정에 가스를 정밀하게 흘려보내는 유량제어기(MFC) 분야의 원조 기업이에요."
     },
     {
       "name": "히타치하이테크코리아",
@@ -3305,8 +3461,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "잡코리아 검색에서 본사 직접 공고는 안 보임(08/31 확인)"
+      },
+      "desc": "🔧 일본 종합전자회사 히타치(Hitachi)의 반도체 장비 부문 한국 지사예요. 반도체 식각 장비, 전자현미경 기반 검사장비 등을 만들어요."
     }
   ]
 };
