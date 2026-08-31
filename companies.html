@@ -81,6 +81,15 @@
   .stat .n{font-family:ui-monospace,Consolas,monospace;font-size:22px;font-weight:700;color:var(--copper);line-height:1;}
   .stat .l{font-size:11.5px;color:var(--slate);margin-top:6px;}
 
+  .search-row{padding-top:18px;}
+  .search-input{
+    width:100%;font-size:14px;font-family:inherit;padding:11px 16px;border-radius:12px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);box-shadow:var(--shadow);
+    outline:none;transition:border-color .15s ease;
+  }
+  .search-input::placeholder{color:var(--slate);}
+  .search-input:focus{border-color:var(--copper);}
+
   .control-bar{
     display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;
     padding:18px 0;position:sticky;top:0;z-index:5;
@@ -175,6 +184,9 @@
   </div>
 </header>
 <div class="wrap">
+  <div class="search-row">
+    <input type="text" id="searchInput" class="search-input" placeholder="회사명으로 검색 (예: 원익IPS)" autocomplete="off">
+  </div>
   <div class="control-bar">
     <div class="groupswitch" id="tierSwitch">
       <button data-tier="all" class="active">전체</button>
@@ -216,7 +228,7 @@
   const CATEGORIES = DATA.categories;
   const companies = DATA.companies;
 
-  let state = { tier: 'all', category: 'all', hiring: 'all', sortKey: 'revenue', sortDir: -1, page: 1 };
+  let state = { tier: 'all', category: 'all', hiring: 'all', query: '', sortKey: 'revenue', sortDir: -1, page: 1 };
   const HIRING_OPEN_STATUSES = ['open', 'frequent'];
   const PAGE_SIZE = 30;
 
@@ -284,7 +296,8 @@
   function renderCategoryFilters(){
     const scoped = companies.filter(c =>
       (state.tier==='all' || c.tier===state.tier) &&
-      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status)))
+      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status))) &&
+      (!state.query || c.name.toLowerCase().includes(state.query))
     );
     const counts = {};
     scoped.forEach(c => { counts[c.category] = (counts[c.category]||0)+1; });
@@ -301,7 +314,8 @@
     let rows = companies.filter(c =>
       (state.tier==='all' || c.tier===state.tier) &&
       (state.category==='all' || c.category===state.category) &&
-      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status)))
+      (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status))) &&
+      (!state.query || c.name.toLowerCase().includes(state.query))
     );
     rows = [...rows].sort((a,b) => {
       let av = a[state.sortKey], bv = b[state.sortKey];
@@ -398,6 +412,14 @@
       state.page = 1;
       renderTable();
     });
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    state.query = e.target.value.trim().toLowerCase();
+    state.category = 'all';
+    state.page = 1;
+    renderCategoryFilters();
+    renderTable();
   });
 
   renderStats();
