@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T00:46:25.127Z",
+  "generatedAt": "2026-08-31T00:54:53.252Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -182,8 +182,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "반도체 공정기술·공정개발·품질보증·영업마케팅 등 다양한 신입 직무 다수 채용 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "시스템반도체(비메모리) 후공정 패키징을 전문으로 하는 회사예요. 국내 후공정(OSAT) 업체 대다수가 메모리 패키징에 집중하는 것과 달리, 네패스는 비메모리 쪽에 주력해서 차별화하고 있어요. 최근엔 AI 반도체용 전력반도체 패키징 수주도 늘고 있어요."
     },
     {
       "name": "쿨마이크로",
@@ -206,8 +209,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "자회사(파트론이에스엘)의 영업·SW개발 등 공고는 보이지만, 파트론 본사의 정기 신입공채 진행 여부는 불확실해요(웹서치 기반, 공식 페이지 직접 확인 권장)"
+      },
+      "desc": "🔧 원래는 무선주파수(RF) 부품·카메라모듈이 주력인 회사예요(삼성전기 RF 인력들이 2003년 설립). 매출의 절반 이상이 카메라모듈에서 나오고, 반도체와 직접 관련된 사업은 '센서&패키지사업' 부문 하나예요 — 반도체 칩을 기판에 실장·포장하는 패키징 관련 부품을 만들어요."
     },
     {
       "name": "피엔에스",
@@ -230,8 +236,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "두산그룹 공채(Global Talent, 3/30~4/26 접수)를 통해 지원하는 방식인데 이미 지난 라운드로 보여요. 상시 직무별 공고도 있는 편(웹서치 기반)"
+      },
+      "desc": "🔧 두산 계열의 반도체 테스트 전문회사예요 — 웨이퍼 상태에서 양품·불량을 가려내는 게 주업이에요. 매출의 90% 이상이 삼성전자 파운드리·시스템LSI 사업부에서 나올 정도로 삼성 의존도가 높은데, 최근엔 엔비디아·애플 등 해외 고객사向 테스트도 맡기 시작했어요."
     },
     {
       "name": "루켄테크놀러지스",
@@ -242,8 +251,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "반도체 Test부품 엔지니어 등 신입/경력 정규직 채용이 진행 중으로 확인됨(웹서치 기반)"
+      },
+      "desc": "🔧 원래는 디스플레이 검사장비가 주력(매출의 80~90%)인 회사인데, 디스플레이 업황이 안 좋아지면서 반도체 검사용 소모성 부품(테스트소켓, 프로브카드 — 완성된 칩이 제대로 작동하는지 찔러서 검사하는 부품) 사업으로 무게중심을 옮기고 있어요. 2026년 코스닥 이전상장을 목표로 반도체 매출을 키우는 중이에요."
     },
     {
       "name": "에이아이웍스",
@@ -254,8 +266,11 @@ window.COMPANIES_DATA = {
       "source": "web",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "frequent",
+        "note": "로봇·C++·Python·AI개발 등 여러 직무를 정규직 상시채용 중으로 확인됨(웹서치 기반). 다만 이 회사는 반도체 전문기업이 아니라 AI 데이터/테스트자동화가 주력이라, 반도체 관련 채용은 일부 직무에 한정될 수 있어요"
+      },
+      "desc": "🔧 원래는 AI 데이터 가공·소프트웨어 테스트 자동화가 주력인 회사예요. 반도체 관련 사업은 그중 일부인 '테스트 및 검증' 사업부가 담당하는데, 차량용·모바일용 반도체 칩을 검증하는 자동화 플랫폼('디바이스프로브')을 만들어요."
     },
     {
       "name": "에이티세미콘",
@@ -266,8 +281,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "최근 채용 사이트에 진행 중인 공고가 뜸한 편이에요. 회사 공식 채용페이지에서 직접 확인 필요(웹서치 기반)"
+      },
+      "desc": "반도체 후공정(테스트) 전문회사예요. 원래 반도체 패키징 사업도 같이 했는데, 2022년에 패키징 사업부만 720억원에 에이팩트라는 회사에 팔고, 지금은 테스트 사업 위주로 운영하고 있어요."
     },
     {
       "name": "큐알티",
@@ -278,8 +296,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "frequent",
+        "note": "분기별로 신입 공고가 자주 올라오는 수시채용 스타일이에요. 최근엔 2026년 2분기 프로젝트협력단 신입 공고가 확인됨(웹서치 기반)",
+        "url": "https://www.qrtkr.com/kr/business/recruit.php"
+      },
+      "desc": "반도체·전자부품의 '신뢰성 평가' 전문회사예요(1983년부터). 반도체가 고온·충격·수명 등 실제 환경에서 얼마나 버티는지 시험하고, 불량이 나면 원인을 분석해주는 서비스를 해요. 미국 국방성 밀스펙 인증 시험도 가능한 국내 공인시험기관이에요."
     },
     {
       "name": "하나마이크론",
@@ -290,8 +312,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년 4월 신입/경력 채용(4/3~4/12 접수)이 있었지만 이미 지난 라운드로 보여요. 상시 채용 페이지가 있어서 다음 공고 확인 가능(웹서치 기반)",
+        "url": "https://hanamicron.recruiter.co.kr/career/home"
+      },
+      "desc": "국내 1위, 세계 11위 규모의 반도체 후공정(OSAT) 전문회사예요. 반도체 칩을 회로기판과 연결해주는 패키징이 주력 사업이고, 최근엔 AI 반도체에 쓰이는 첨단 패키징(2.5D 등) 기술 개발에도 나서고 있어요."
     },
     {
       "name": "SFA반도체",
@@ -302,8 +328,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2026년도 부문별 신입/경력 채용(4/7~4/20 접수)이 있었지만 이미 지난 라운드로 보여요. 다음 일정은 공식 채용페이지에서 확인 필요(웹서치 기반)",
+        "url": "https://recruit.sfa.co.kr/sfasemicon/"
+      },
+      "desc": "반도체 후공정(패키징·테스트)을 전문으로 하는 회사예요. 삼성전자·SK하이닉스·마이크론이 주요 고객사이고, 최근엔 2차전지 제조 장비·검사장비 공급으로 사업을 넓히고 있어요."
     },
     {
       "name": "아인크리스탈",
@@ -341,8 +371,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "2024년 말 KPX케미칼에서 갓 분할된 회사라 채용 이력이 짧아요. 모기업이었던 KPX케미칼 채용 홈페이지를 통해 진행되는 것으로 보여요(웹서치 기반)",
+        "url": "https://www.kpxelectrochem.com/recruit/talent.aspx"
+      },
+      "desc": "KPX케미칼에서 2024년 12월 분할된 반도체 소재 전문회사예요. 반도체 회로를 깎아내는 데 쓰는 식각액, 표면을 매끄럽게 가는 CMP(화학기계연마) 공정용 패드 같은 소재를 만들어요. 아직 매출 규모(500억원 미만)가 작아서 코스닥 상장 요건을 못 채웠고, 2027년 상장을 목표로 하고 있어요."
     },
     {
       "name": "OCI",
@@ -382,8 +416,11 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "채용정보 사이트 기준 현재 진행 중인 공고 없음으로 표시됨(웹서치 기반)"
+      },
+      "desc": "반도체·디스플레이 공정에 쓰이는 특수가스를 만드는 회사예요(옛 SK머티리얼즈). 웨이퍼에 남은 찌꺼기를 씻어내는 데 쓰는 삼불화질소(NF3)에서 세계 시장 점유율 40%로 1위예요. 2025년 3월 사모펀드 한앤컴퍼니가 지분 85%를 인수해서 SK그룹 계열사에서 분리됐어요."
     },
     {
       "name": "SK실트론",
@@ -779,8 +816,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "open",
+        "note": "재무/공시·IR 신입 등 진행 중인 공고 3건 확인됨(웹서치 기반)",
+        "url": "https://samhwapaint.career.greetinghr.com/ko/apply"
+      },
+      "desc": "🔧 원래는 '삼화페인트' 계열의 도료(페인트) 제조회사였는데, 최근 반도체 패키징 핵심소재인 EMC(에폭시몰딩컴파운드 — 열·습기·충격에서 반도체 칩을 보호하는 봉지재)를 양산하기 시작하면서 첨단소재 기업으로 전환 중이에요. 아직 EMC는 새 사업이라, 매출 대부분은 여전히 기존 도료 사업에서 나올 가능성이 커요."
     },
     {
       "name": "에어프로덕츠코리아",
@@ -803,8 +844,12 @@ window.COMPANIES_DATA = {
       "source": "dart",
       "dartStatus": "registered",
       "reason": null,
-      "hiring": null,
-      "desc": null
+      "hiring": {
+        "status": "unknown",
+        "note": "HLB그룹 채용사이트 기준 진행 중인 신입 공고 0건으로 확인됨(웹서치 기반)",
+        "url": "https://hlb-group.career.greetinghr.com/ko/home"
+      },
+      "desc": "🔧 이 회사의 반도체 관련 사업은 '반도체부문'이 담당해요 — 반도체 칩과 회로기판을 연결하는 뼈대인 리드프레임을 만들어요. 1978년 리드프레임 생산으로 시작한 회사인데, HLB그룹에 속하면서 최근엔 항암 치료제를 개발하는 '바이오사업'도 같이 하고 있어요(반도체와 무관한 별개 사업부)."
     },
     {
       "name": "엠이엠씨코리아",
