@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-08-31T01:11:14.050Z",
+  "generatedAt": "2026-08-31T01:28:05.474Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -23,7 +23,7 @@ window.COMPANIES_DATA = {
     {
       "name": "SK하이닉스",
       "category": "device_foundry",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 97146675000000,
       "employees": 34549,
       "source": "dart",
@@ -40,7 +40,7 @@ window.COMPANIES_DATA = {
     {
       "name": "DB하이텍",
       "category": "device_foundry",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1397233307039,
       "employees": 2221,
       "source": "dart",
@@ -74,7 +74,7 @@ window.COMPANIES_DATA = {
     {
       "name": "삼성전자",
       "category": "device_foundry",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 333605938000000,
       "employees": 94273,
       "source": "dart",
@@ -159,7 +159,7 @@ window.COMPANIES_DATA = {
     {
       "name": "현대모비스",
       "category": "device_foundry",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 61118127000000,
       "employees": 12535,
       "source": "dart",
@@ -203,7 +203,7 @@ window.COMPANIES_DATA = {
     {
       "name": "파트론",
       "category": "test_packaging",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1349528006319,
       "employees": 544,
       "source": "dart",
@@ -381,7 +381,7 @@ window.COMPANIES_DATA = {
     {
       "name": "OCI",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 2009429144000,
       "employees": 3360,
       "source": "dart",
@@ -425,7 +425,7 @@ window.COMPANIES_DATA = {
     {
       "name": "SK실트론",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 2057485935000,
       "employees": 3624,
       "source": "dart",
@@ -649,7 +649,7 @@ window.COMPANIES_DATA = {
     {
       "name": "한화",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 74785440000000,
       "employees": 3264,
       "source": "dart",
@@ -665,7 +665,7 @@ window.COMPANIES_DATA = {
     {
       "name": "고려아연",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 16587850779912,
       "employees": 2054,
       "source": "dart",
@@ -682,7 +682,7 @@ window.COMPANIES_DATA = {
     {
       "name": "대덕전자",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1065294559811,
       "employees": 2633,
       "source": "dart",
@@ -697,7 +697,7 @@ window.COMPANIES_DATA = {
     {
       "name": "동우화인켐",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 2039861520000,
       "employees": null,
       "source": "web",
@@ -771,7 +771,7 @@ window.COMPANIES_DATA = {
     {
       "name": "심텍",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1410559919451,
       "employees": 2902,
       "source": "dart",
@@ -959,7 +959,7 @@ window.COMPANIES_DATA = {
     {
       "name": "태광산업",
       "category": "materials",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1827439561466,
       "employees": 721,
       "source": "dart",
@@ -1864,7 +1864,7 @@ window.COMPANIES_DATA = {
     {
       "name": "세메스",
       "category": "equipment",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 2471334739133,
       "employees": 2660,
       "source": "dart",
@@ -2764,7 +2764,7 @@ window.COMPANIES_DATA = {
     {
       "name": "디엔솔루션즈",
       "category": "components",
-      "tier": "mid",
+      "tier": "large",
       "revenue": 1786721170000,
       "employees": 2200,
       "source": "web",

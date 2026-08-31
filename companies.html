@@ -115,6 +115,7 @@
   td.name{font-weight:600;}
   .cat-tag{display:inline-block;font-size:11px;font-weight:500;padding:3px 9px;border-radius:6px;background:var(--graphite-soft);color:var(--graphite);white-space:nowrap;}
   .tier-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;}
+  .tier-tag.large{background:var(--wafer-soft);color:var(--wafer);}
   .tier-tag.mid{background:var(--moss-soft);color:var(--moss);}
   .tier-tag.small{background:var(--copper-soft);color:var(--copper);}
   .hire-tag{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px;white-space:normal;cursor:pointer;text-decoration:none;transition:filter .15s ease,transform .15s ease;line-height:1.5;}
@@ -155,7 +156,7 @@
   <div class="header-inner">
     <span class="eyebrow"><span class="dot"></span>SEMICONDUCTOR NEWS · CAREER RADAR</span>
     <h1>반도체 관심기업</h1>
-    <p class="sub">KSIA 회원사 중 소자/공정 직무에 맞는 후보 232곳을 DART 공시와 취업정보 사이트로 규모를 확인해 정리했어요. 매출 500억 또는 직원 300명 이상이면 "중견 이상"이에요.</p>
+    <p class="sub">KSIA 회원사 중 소자/공정 직무에 맞는 후보 232곳을 DART 공시와 취업정보 사이트로 규모를 확인해 정리했어요. 매출 1조원 이상이면 "대기업", 매출 500억(또는 직원 300명) 이상이면 "중견"이에요 — 매출액만 본 간단 기준이라, 삼성·SK 같은 대기업집단 계열사가 매출이 적어 "중견"으로 뜨는 경우도 있을 수 있어요.</p>
     <div class="sitenav">
       <a href="index.html">뉴스</a>
       <a href="companies.html" class="active">관심기업</a>
@@ -167,7 +168,8 @@
   <div class="control-bar">
     <div class="groupswitch" id="tierSwitch">
       <button data-tier="all" class="active">전체</button>
-      <button data-tier="mid">중견 이상</button>
+      <button data-tier="large">대기업</button>
+      <button data-tier="mid">중견</button>
       <button data-tier="small">소규모</button>
     </div>
   </div>
@@ -246,11 +248,13 @@
   }
 
   function renderStats(){
+    const large = companies.filter(c=>c.tier==='large').length;
     const mid = companies.filter(c=>c.tier==='mid').length;
     const small = companies.filter(c=>c.tier==='small').length;
     document.getElementById('statRow').innerHTML = `
       <div class="stat"><div class="n">${companies.length}</div><div class="l">전체 후보</div></div>
-      <div class="stat"><div class="n">${mid}</div><div class="l">중견 이상</div></div>
+      <div class="stat"><div class="n">${large}</div><div class="l">대기업</div></div>
+      <div class="stat"><div class="n">${mid}</div><div class="l">중견</div></div>
       <div class="stat"><div class="n">${small}</div><div class="l">소규모</div></div>
     `;
   }
@@ -283,7 +287,7 @@
         <td class="name">${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}</td>
         <td>
           <span class="cat-tag">${CATEGORIES[r.category]||'-'}</span>
-          ${(r.tier==='mid'||r.tier==='small') ? `<span class="tier-tag ${r.tier}">${r.tier==='mid'?'중견':'소규모'}</span>` : ''}
+          ${(r.tier==='large'||r.tier==='mid'||r.tier==='small') ? `<span class="tier-tag ${r.tier}">${r.tier==='large'?'대기업':r.tier==='mid'?'중견':'소규모'}</span>` : ''}
         </td>
         <td>${dartBadge(r)}</td>
         <td class="num mono">${fmtRevenue(r.revenue)}</td>
