@@ -224,14 +224,19 @@
     unknown: '정보 부족',
   };
   function hireBadge(h, name){
-    const searchUrl = 'https://www.jobkorea.co.kr/Search/?stext=' + encodeURIComponent(name) + '&tabType=recruit&careerType=1';
+    const jobkoreaUrl = 'https://www.jobkorea.co.kr/Search/?stext=' + encodeURIComponent(name) + '&tabType=recruit&careerType=1';
+    const saraminUrl = 'https://www.saramin.co.kr/zf_user/search/recruit?searchword=' + encodeURIComponent(name) + '&recruitPage=1';
     if (!h) {
-      return `<a class="hire-tag none" href="${searchUrl}" target="_blank" rel="noopener" title="잡코리아에서 ${escapeAttr(name)} 신입 채용공고 찾아보기(회사 자체 공고 아닌 협력사 공고가 섞일 수 있어요)">미확인</a>`;
+      return `<a class="hire-tag none" href="${jobkoreaUrl}" target="_blank" rel="noopener" title="잡코리아에서 ${escapeAttr(name)} 신입 채용공고 찾아보기(회사 자체 공고 아닌 협력사 공고가 섞일 수 있어요)">미확인</a>`;
     }
     const label = HIRE_LABEL[h.status] || '정보 부족';
     const hasOfficial = !!h.url;
+    // 노트에 "사람인"이 언급되면 실제로 사람인에서 확인된 것이므로, 잡코리아가 아니라 사람인 검색으로 연결해야 함
+    const foundOnSaramin = (h.note || '').includes('사람인');
+    const searchUrl = foundOnSaramin ? saraminUrl : jobkoreaUrl;
+    const searchSiteName = foundOnSaramin ? '사람인' : '잡코리아';
     const link = hasOfficial ? h.url : searchUrl;
-    const dest = hasOfficial ? '회사 공식 채용 페이지' : '잡코리아 신입 채용공고 검색(협력사 공고가 섞일 수 있어요)';
+    const dest = hasOfficial ? '회사 공식 채용 페이지' : `${searchSiteName} 신입 채용공고 검색(협력사 공고가 섞일 수 있어요)`;
     const asOfTxt = h.asOf ? `(${h.asOf.slice(5).replace('-','/')} 확인)` : '';
     const title = (h.note || '') + ` — 클릭하면 ${dest}로 이동해요`;
     return `<a class="hire-tag ${h.status}" href="${link}" target="_blank" rel="noopener" title="${escapeAttr(title)}">${label}${hasOfficial ? ' ↗' : ''}${asOfTxt ? ` <span class="hire-asof">${asOfTxt}</span>` : ''}</a>`;
