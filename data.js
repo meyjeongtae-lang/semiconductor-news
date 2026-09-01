@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-01T00:59:32.331Z",
+  "fetchedAt": "2026-09-01T23:48:01.324Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 대만 미디어텍에 4조8000억 투자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61659",
+      "date": "2026-09-02 07:33:38",
+      "desc": "엔비디아가 대만 미디어텍의 전환사채(CB) 35억달러(약 4조8000억원) 가량을 매입했다고 1일 밝혔다. 엔비디아가 미국 외 기업에 투자한 금액 중 최대다.엔비디아는 이번 투자를 계기로 미디어텍과 함께 인공지능(AI) 인프라와 AI 컴퓨팅, 자동차 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"한국 없으면 AI도 없다\"…미·중 무역전쟁 판 뒤집을 'HBM의 힘'",
+      "link": "https://www.hankyung.com/article/202609017058i",
+      "date": "Wed, 02 Sep 2026 08:00:07 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "중동 긴장 유가 급등에 채권 매도세까지…美 반도체주 하락 [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2026090281486",
+      "date": "Wed, 02 Sep 2026 07:26:59 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Exclusive: Sir Robin Saxby Reflects on Impact of AI, Geopolitics, and Retirement",
+      "link": "https://www.eetimes.com/exclusive-sir-robin-saxby-reflects-on-impact-of-ai-geopolitics-and-retirement/",
+      "date": "Tue, 01 Sep 2026 22:00:00 +0000",
+      "desc": "An EE Times exclusive video interview with Sir Robin Saxby, founding CEO of Arm, on industry transformation in the age of AI, geopolitics, a",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "HBM 수직으로 쌓는다…삼성전자, 3D 적층으로 메모리 한계 돌파",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61646",
+      "date": "2026-09-01 17:13:23",
+      "desc": "삼성전자가 인공지능(AI) 시대 메모리 기술 한계를 넘어설 전략을 공개했다. 메모리, 연산장치를 수직으로 쌓아 동일 면적에서 용량을 폭발적으로 늘리고 데이터 이동 거리를 깎아내는 구조가 핵심이다. 고대역폭메모리(HBM)5에 이어 zHBM, zNAND-",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "에코프로에이치엔, 마이크론에 936억원 규모 저감설비 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61645",
+      "date": "2026-09-01 16:39:40",
+      "desc": "에코프로에이치엔이 미국 반도체 기업 마이크론의 싱가포르 생산시설에 936억원 규모의 온실가스 저감설비를 공급한다. 지난달 미국 반도체 공장용 설비를 수주한 데 이어 해외 반도체 시장에서 대형 계약을 추가로 확보했다.에코프로에이치엔은 1일 전자공시를 통",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "How AI Is Reshaping the Global Semiconductor Patent Landscape",
+      "link": "https://www.eetimes.com/how-ai-is-reshaping-the-global-semiconductor-patent-landscape/",
+      "date": "Tue, 01 Sep 2026 16:32:49 +0000",
+      "desc": "AI is turning chip patents into a geopolitical battle for dominance, from Nvidia’s CUDA moat to China’s filing surge. The post How AI Is Res",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 드래곤윙 IoT 데이 개최, 기반 제품 16개 시연",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61600",
+      "date": "2026-09-01 15:03:54",
+      "desc": "퀄컴이 '퀄컴 드래곤윙 사물인터넷(IoT) 데이'에서 드래곤윙 기반 시연(데모) 제품을 선보였다고 1일 밝혔다.퀄컴 드래곤윙은 산업용과 임베디드 IoT, 네트워킹, 셀룰러 인프라 솔루션용 B2B(기업 간) 플랫폼이다. 퀄컴의 하드웨어(프로세서)와 소프",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원 \"일본 반도체 공장 투자 검토 중\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61619",
+      "date": "2026-09-01 12:35:45",
+      "desc": "최태원 SK그룹 회장이 해외 반도체 생산거점으로 일본을 검토한다는 입장을 밝혔다. 업계에 따르면 최 회장은 지난달 31일 일본 미야기현 센다이에서 열린 제15회 한일상공회의소 회장단 회의에서 일본 반도체 공장을 신설 등을 검토하고 있냐는 질문에 \"(일",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "라온텍, 글로벌 AI 데이터센터에 광통신 부품 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61557",
+      "date": "2026-09-01 11:30:00",
+      "desc": "라온텍이 엔비디아 인공지능(AI) 데이터센터에 광통신용 공간광변조기(SLM) 백플레인을 공급한다. SLM을 공급하면 코히어런트가 파장선택스위치(WSS)로 제작해 엔비디아에 공급하는 것으로 알려졌다.라온텍은 1일 해외 고객사와 109만달러(약 15억원)",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The imec Report: Advancing The CFET-Based Device Roadmap",
+      "link": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/",
+      "date": "Tue, 01 Sep 2026 07:01:52 +0000",
+      "desc": "Part I: Novel integration modules and standard cell configurations. The post The imec Report: Advancing The CFET-Based Device Roadmap appear",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Research Bits: Sept. 1",
+      "link": "https://semiengineering.com/research-bits-sep-1/",
+      "date": "Tue, 01 Sep 2026 07:01:15 +0000",
+      "desc": "Gallium nitride: High voltage; low resistance; diamond interposer. The post Research Bits: Sept. 1 appeared first on Semiconductor Engineeri",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Sept. 1",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/",
+      "date": "Tue, 01 Sep 2026 07:01:14 +0000",
+      "desc": "Wafer-scale optical interconnects for LLM training; Rowhammer-based inference attacks; 3D-IC test cases; liquid cooling for 2.5D/3D packages",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260831-TI-01호] 2026년 8월 31일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260831-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-31%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 01 Sep 2026 00:59:25 GMT",
+      "desc": "SK하이닉스, 차세대 HBM ‘베이스 다이’ 인텔에도 맡긴다 (2026년 8월 31일, 헤럴드경제, 박지영·이정완 기자) 원문보기: https://biz.heraldcorp.com/article/10857004?ref=naver [핵심 요약] [1] ",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -54,7 +194,7 @@ window.NEWS_DATA = {
     {
       "source": "IEEE Spectrum",
       "type": "intl",
-      "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
       "link": "https://spectrum.ieee.org/europes-ai-drive",
       "date": "Mon, 31 Aug 2026 14:00:04 +0000",
       "desc": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable co",
