@@ -136,6 +136,7 @@
   .hire-tag.unknown, .hire-tag.none{background:var(--graphite-soft);color:var(--slate);}
   .hire-asof{font-weight:400;opacity:.75;font-size:10px;}
   .src-tag{display:inline-block;font-size:9.5px;font-weight:700;padding:1px 6px;border-radius:5px;background:var(--wafer-soft);color:var(--wafer);vertical-align:middle;margin-left:4px;}
+  .origin-tag{display:inline-block;font-size:9.5px;font-weight:700;padding:1px 6px;border-radius:5px;background:var(--copper-soft);color:var(--copper);vertical-align:middle;margin-left:4px;cursor:help;}
   tr.has-desc{cursor:pointer;}
   tr.has-desc:hover td{background:var(--paper);}
   .desc-arrow{display:inline-block;font-size:10px;color:var(--slate);width:10px;}
@@ -175,7 +176,7 @@
   <div class="header-inner">
     <span class="eyebrow"><span class="dot"></span>SEMICONDUCTOR NEWS · CAREER RADAR</span>
     <h1>반도체 관심기업</h1>
-    <p class="sub">KSIA 회원사 중 소자/공정 직무에 맞는 후보 232곳을 DART 공시와 취업정보 사이트로 규모를 확인해 정리했어요. 매출 1조원 이상이면 "대기업", 매출 500억(또는 직원 300명) 이상이면 "중견"이에요 — 매출액만 본 간단 기준이라, 삼성·SK 같은 대기업집단 계열사가 매출이 적어 "중견"으로 뜨는 경우도 있을 수 있어요.</p>
+    <p class="sub">KSIA 회원사 중 소자/공정 직무에 맞는 후보 232곳에, 반도체를 직접 만들진 않지만 연결점이 있는 대기업 6곳(<span class="origin-tag" style="margin-left:0">추가</span> 표시)을 더해 정리했어요. DART 공시와 취업정보 사이트로 규모를 확인했고, 매출 1조원 이상이면 "대기업", 매출 500억(또는 직원 300명) 이상이면 "중견"이에요 — 매출액만 본 간단 기준이라, 삼성·SK 같은 대기업집단 계열사가 매출이 적어 "중견"으로 뜨는 경우도 있을 수 있어요.</p>
     <div class="sitenav">
       <a href="index.html">뉴스</a>
       <a href="companies.html" class="active">관심기업</a>
@@ -217,7 +218,7 @@
   </div>
   <div class="pagination" id="pagination"></div>
   <p class="section-note" id="countNote"></p>
-  <p class="section-note">KSIA 회원사 232곳을 전부 표시해요. 기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요. 매출·직원수가 <strong>-</strong>로 나오는 곳은 그 정보가 없다는 뜻이고, "DART 등록" 칸에서 이유를 확인할 수 있어요 — <strong>미등록(외국계 추정)</strong>은 본사가 해외에 있어 국내 별도 법인 공시가 없는 곳, <strong>미등록(못 찾음)</strong>은 DART 목록에서 이름을 못 찾은 곳, <strong>등록(데이터 없음)</strong>은 DART엔 있지만 비상장 등의 이유로 재무제표를 안 낸 곳이에요.</p>
+  <p class="section-note">KSIA 회원사 232곳 + <span class="origin-tag" style="margin-left:0">추가</span> 6곳(LS ELECTRIC, LG이노텍, 삼성전기, HL만도, 한화시스템, 한화에어로스페이스) 총 238곳을 표시해요. <span class="origin-tag" style="margin-left:0">추가</span> 6곳은 반도체를 직접 만드는 KSIA 회원사는 아니지만, 전력반도체 응용·반도체 패키징·전자부품 신뢰성 등으로 연결점이 있어 따로 넣었어요. 기준연도: 2025년 DART 공시(일부 2024년). 회사명 옆 <span class="src-tag">웹</span> 표시는 DART에 재무제표가 없어 사람인·나이스비즈인포 등 취업정보 사이트에서 대신 확인한 수치예요. 매출·직원수가 <strong>-</strong>로 나오는 곳은 그 정보가 없다는 뜻이고, "DART 등록" 칸에서 이유를 확인할 수 있어요 — <strong>미등록(외국계 추정)</strong>은 본사가 해외에 있어 국내 별도 법인 공시가 없는 곳, <strong>미등록(못 찾음)</strong>은 DART 목록에서 이름을 못 찾은 곳, <strong>등록(데이터 없음)</strong>은 DART엔 있지만 비상장 등의 이유로 재무제표를 안 낸 곳이에요.</p>
   <p class="section-note">채용상태·회사설명은 232곳 전부 조사했어요(회사설명을 못 찾은 곳 없음). 잡코리아·사람인 검색은 물론, 그걸로도 확인이 안 된 곳은 회사(또는 그룹) 자체 채용 사이트까지 직접 열어 실제 공고인지(협력사·파견업체·동명이인 회사 공고가 아닌지) 확인했어요. "마감"은 회사 자체 채널에서 "지금은 채용중인 공고가 없다"고 명확히 확인된 경우고, "정보 부족"은 그마저도 확인이 안 됐다는 뜻이에요(채용이 없다는 확정은 아니고, 이 방법들로는 못 찾았다는 뜻). 공고는 수시로 열리고 닫히니 지원 전에 꼭 회사 채용 홈페이지에서 다시 확인하세요.</p>
 </div>
 <footer>KSIA 반도체 관심기업을 DART 공시와 취업정보 사이트로 규모를 확인해 정리합니다.</footer>
@@ -332,7 +333,7 @@
     const pageRows = rows.slice(start, start + PAGE_SIZE);
     document.getElementById('companyBody').innerHTML = pageRows.map((r, i) => `
       <tr class="${r.desc ? 'has-desc' : ''}" data-idx="${i}">
-        <td class="name">${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}</td>
+        <td class="name">${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}${r.origin==='added' ? ' <span class="origin-tag" title="KSIA 회원사는 아니지만 반도체와 연결점이 있어 따로 추가한 회사예요">추가</span>' : ''}</td>
         <td>
           <span class="cat-tag">${CATEGORIES[r.category]||'-'}</span>
           ${(r.tier==='large'||r.tier==='mid'||r.tier==='small') ? `<span class="tier-tag ${r.tier}">${r.tier==='large'?'대기업':r.tier==='mid'?'중견':'소규모'}</span>` : ''}
