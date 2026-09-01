@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-09-01T03:24:28.872Z",
+  "generatedAt": "2026-09-01T03:25:51.980Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -138,7 +138,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 온세미컨덕터코리아(주)가 직접 올린 엔지니어(채용연계형 인턴)/테크니션, SiC EPD Engineer, Technical Marketing Engineer 등 신입/경력 채용을 확인함(접수마감 9/9~9/18, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 온세미컨덕터코리아(주)가 직접 올린 엔지니어(채용연계형 인턴)/테크니션, SiC EPD Engineer, Technical Marketing Engineer 등 신입/경력 채용을 확인함(접수마감 9/9~9/18, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "http://onsemi-korea.com/recruit"
       },
       "desc": "🔧 미국 반도체회사 onsemi(온세미)의 한국 지사예요. 전기차·산업기기에 쓰이는 전력반도체와 이미지센서를 주로 만드는 회사로, 한국에선 영업·기술지원 위주로 운영돼요.",
       "origin": "ksia"
@@ -453,7 +454,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "에스케이 머티리얼즈㈜가 직접 올린 R&D·영업·품질·경영기획·안전·구매·생산 등 경력 채용이 진행 중으로 확인됨(접수마감 9/4, 잡코리아 직접 확인, 08/31 확인)"
+        "note": "에스케이 머티리얼즈㈜가 직접 올린 R&D·영업·품질·경영기획·안전·구매·생산 등 경력 채용이 진행 중으로 확인됨(접수마감 9/4, 잡코리아 직접 확인, 08/31 확인)",
+        "url": "https://careers.sk-materials.com/family/familyView?companyName=SKMaterialsPerformance"
       },
       "desc": "SK그룹 계열의 반도체 소재 회사예요(2020년 설립). 반도체 회로를 새길 때 쓰는 감광액(포토소재), 금속 전구체, 식각가스 같은 첨단 화학소재를 만들어요.",
       "origin": "ksia"
@@ -888,7 +890,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 아데카코리아(주)가 직접 올린 서울사무소 영업직 신입/경력사원 채용을 확인함(접수마감 9/13, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 아데카코리아(주)가 직접 올린 서울사무소 영업직 신입/경력사원 채용을 확인함(접수마감 9/13, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "https://www.adekakorea.co.kr/kor/recruitment/recruitment_announcement.php"
       },
       "desc": "🔧 일본 화학회사 ADEKA(아데카)의 한국 지사예요. 반도체 제조 공정에 쓰이는 특수 화학소재(전구체 등)를 취급해요.",
       "origin": "ksia"
@@ -968,7 +971,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 엠이엠씨코리아(주)가 직접 올린 전기제어 엔지니어, 자재 입출고 관리, 재무회계 Staff 등 신입/경력 채용을 확인함(접수마감 9/8~9/30, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 엠이엠씨코리아(주)가 직접 올린 전기제어 엔지니어, 자재 입출고 관리, 재무회계 Staff 등 신입/경력 채용을 확인함(접수마감 9/8~9/30, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "https://www.memc.co.kr/board/recruit?parentId=38&menuId=42"
       },
       "desc": "🔧 대만 웨이퍼회사 글로벌웨이퍼스(GlobalWafers) 계열의 실리콘 웨이퍼 제조회사예요(1990년 미국 MEMC·삼성전자·포항제철 합작 설립, 2016년 글로벌웨이퍼스에 인수). 충남 천안 공장에서 반도체용 8~12인치 실리콘 웨이퍼를 만들고, 웨이퍼를 흠 없이 만드는 기술로는 세계 5개 회사 중 3위 수준이에요.",
       "origin": "ksia"
@@ -2032,7 +2036,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 (주)부쉬코리아가 직접 올린 진공펌프 기술영업, 현장서비스 엔지니어, 배관 용접 등을 확인함(접수마감 9/6~9/22, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 (주)부쉬코리아가 직접 올린 진공펌프 기술영업, 현장서비스 엔지니어, 배관 용접 등을 확인함(접수마감 9/6~9/22, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "https://www.buschvacuum.com/kr/ko/company/career/jobs-kr/"
       },
       "desc": "🔧 독일 진공펌프 회사 부쉬(Busch)의 한국 지사예요. 반도체 공정에서 챔버 안을 진공 상태로 만드는 데 쓰이는 진공펌프를 공급해요.",
       "origin": "ksia"
@@ -3300,7 +3305,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "인아오리엔탈모터㈜가 직접 올린 기술본부 기술지원 신입/경력 채용이 진행 중으로 확인됨(서울 금천, 접수마감 9/23, 잡코리아 직접 확인, 08/31 확인)"
+        "note": "인아오리엔탈모터㈜가 직접 올린 기술본부 기술지원 신입/경력 채용이 진행 중으로 확인됨(서울 금천, 접수마감 9/23, 잡코리아 직접 확인, 08/31 확인)",
+        "url": "https://www.inaom.co.kr/recruit/board.do"
       },
       "desc": "🔧 일본 정밀모터 회사 오리엔탈모터(Oriental Motor)의 한국 지사예요. 반도체 장비 안에서 정밀하게 움직이는 부품을 제어하는 스텝모터 등을 공급해요.",
       "origin": "ksia"
@@ -3526,7 +3532,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "램리서치매뉴팩춰링코리아 유한회사가 직접 올린 Production Planner/Master Scheduler, Process Technician 등 채용이 진행 중으로 확인됨(잡코리아 직접 확인, 08/31 확인)"
+        "note": "램리서치매뉴팩춰링코리아 유한회사가 직접 올린 Production Planner/Master Scheduler, Process Technician 등 채용이 진행 중으로 확인됨(잡코리아 직접 확인, 08/31 확인)",
+        "url": "https://lamresearch-careers.com/"
       },
       "desc": "🔧 미국 반도체 장비회사 램리서치(Lam Research)의 한국 지사예요. 반도체 회로를 깎아내는 식각(에칭) 장비와 증착 장비 분야에서 세계적인 회사예요.",
       "origin": "ksia"
@@ -3590,7 +3597,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 어플라이드머티어리얼즈코리아(주)가 직접 올린 Module Process Engineer, Application Engineer(ETCH) 등 경력직(경기 화성 동탄, 국내 근무)을 확인함(상시채용, 잡코리아엔 일본·중국 근무지 공고만 있었으나 사람인엔 국내 채용도 확인됨, 09/01 확인) - 경력직 위주"
+        "note": "사람인에서 어플라이드머티어리얼즈코리아(주)가 직접 올린 Module Process Engineer, Application Engineer(ETCH) 등 경력직(경기 화성 동탄, 국내 근무)을 확인함(상시채용, 잡코리아엔 일본·중국 근무지 공고만 있었으나 사람인엔 국내 채용도 확인됨, 09/01 확인) - 경력직 위주",
+        "url": "https://appliedkorea.applyin.co.kr/"
       },
       "desc": "🔧 미국 반도체 장비회사 어플라이드머티어리얼즈(Applied Materials)의 한국 지사예요. 반도체 제조장비 시장에서 매출 기준 세계 1위 회사로, 증착·식각 등 거의 모든 반도체 공정 장비를 만들어요.",
       "origin": "ksia"
@@ -3670,7 +3678,8 @@ window.COMPANIES_DATA = {
       "reason": "foreign",
       "hiring": {
         "status": "open",
-        "note": "사람인에서 한국지멘스일렉트로닉디자인오토메이션(유)(지멘스EDA 한국법인 정식명)이 직접 올린 3D-IC Solutions Application Engineer, Emulation Application Engineer 등 경력직을 확인함(잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - 경력직 위주"
+        "note": "사람인에서 한국지멘스일렉트로닉디자인오토메이션(유)(지멘스EDA 한국법인 정식명)이 직접 올린 3D-IC Solutions Application Engineer, Emulation Application Engineer 등 경력직을 확인함(잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - 경력직 위주",
+        "url": "https://www.siemens.com/kr/ko/company/jobs.html"
       },
       "desc": "반도체 칩의 회로를 설계하고, 설계한 대로 잘 만들어졌는지 검증하는 소프트웨어(EDA, 전자설계자동화)를 만드는 독일 지멘스의 사업부예요. 시높시스·케이던스와 함께 세계 EDA 시장을 사실상 3사가 나눠 갖고 있는 대표 기업 중 하나이고, 한국 법인은 경기 성남 판교에 있어요.",
       "origin": "ksia"
