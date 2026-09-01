@@ -122,6 +122,9 @@
   tbody tr:last-child td{border-bottom:none;}
   tbody tr:hover{background:var(--paper);}
   td.name{font-weight:600;}
+  .fav-star{display:inline-block;cursor:pointer;font-size:15px;line-height:1;width:16px;margin-right:5px;color:var(--line);vertical-align:middle;transition:color .15s ease, transform .15s ease;user-select:none;}
+  .fav-star:hover{transform:scale(1.2);}
+  .fav-star.active{color:#C9971F;}
   .cat-tag{display:inline-block;font-size:11px;font-weight:500;padding:3px 9px;border-radius:6px;background:var(--graphite-soft);color:var(--graphite);white-space:nowrap;}
   .tier-tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;}
   .tier-tag.large{background:var(--wafer-soft);color:var(--wafer);}
@@ -199,6 +202,10 @@
       <button data-hiring="all" class="active">전체</button>
       <button data-hiring="open">채용중만</button>
     </div>
+    <div class="groupswitch" id="favSwitch">
+      <button data-fav="all" class="active">전체</button>
+      <button data-fav="only">⭐ 즐겨찾기만</button>
+    </div>
   </div>
   <div class="filters cat-filters" id="categoryFilters"></div>
   <div class="table-scroll">
@@ -229,7 +236,25 @@
   const CATEGORIES = DATA.categories;
   const companies = DATA.companies;
 
-  let state = { tier: 'all', category: 'all', hiring: 'all', query: '', sortKey: 'revenue', sortDir: -1, page: 1 };
+  let state = { tier: 'all', category: 'all', hiring: 'all', fav: 'all', query: '', sortKey: 'revenue', sortDir: -1, page: 1, favorites: loadFavorites() };
+
+  function loadFavorites(){
+    try {
+      const raw = localStorage.getItem('semiFavorites');
+      return new Set(raw ? JSON.parse(raw) : []);
+    } catch(e) { return new Set(); }
+  }
+  function saveFavorites(){
+    try { localStorage.setItem('semiFavorites', JSON.stringify([...state.favorites])); } catch(e) {}
+  }
+  function toggleFavorite(name){
+    if (state.favorites.has(name)) state.favorites.delete(name);
+    else state.favorites.add(name);
+    saveFavorites();
+    renderStats();
+    renderCategoryFilters();
+    renderTable();
+  }
   const HIRING_OPEN_STATUSES = ['open', 'frequent'];
   const PAGE_SIZE = 30;
 
@@ -291,6 +316,7 @@
       <div class="stat"><div class="n">${large}</div><div class="l">대기업</div></div>
       <div class="stat"><div class="n">${mid}</div><div class="l">중견</div></div>
       <div class="stat"><div class="n">${small}</div><div class="l">소규모</div></div>
+      <div class="stat"><div class="n">${state.favorites.size}</div><div class="l">⭐ 즐겨찾기</div></div>
     `;
   }
 
@@ -298,6 +324,7 @@
     const scoped = companies.filter(c =>
       (state.tier==='all' || c.tier===state.tier) &&
       (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status))) &&
+      (state.fav==='all' || state.favorites.has(c.name)) &&
       (!state.query || c.name.toLowerCase().includes(state.query))
     );
     const counts = {};
@@ -316,6 +343,7 @@
       (state.tier==='all' || c.tier===state.tier) &&
       (state.category==='all' || c.category===state.category) &&
       (state.hiring==='all' || (c.hiring && HIRING_OPEN_STATUSES.includes(c.hiring.status))) &&
+      (state.fav==='all' || state.favorites.has(c.name)) &&
       (!state.query || c.name.toLowerCase().includes(state.query))
     );
     rows = [...rows].sort((a,b) => {
@@ -333,7 +361,7 @@
     const pageRows = rows.slice(start, start + PAGE_SIZE);
     document.getElementById('companyBody').innerHTML = pageRows.map((r, i) => `
       <tr class="${r.desc ? 'has-desc' : ''}" data-idx="${i}">
-        <td class="name">${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}${r.origin==='added' ? ' <span class="origin-tag" title="KSIA 회원사는 아니지만 반도체와 연결점이 있어 따로 추가한 회사예요">추가</span>' : ''}</td>
+        <td class="name"><span class="fav-star ${state.favorites.has(r.name) ? 'active' : ''}" data-fav-name="${escapeAttr(r.name)}" title="즐겨찾기">${state.favorites.has(r.name) ? '★' : '☆'}</span>${r.desc ? '<span class="desc-arrow">▸</span> ' : ''}${r.name}${r.source==='web' ? ' <span class="src-tag">웹</span>' : ''}${r.origin==='added' ? ' <span class="origin-tag" title="KSIA 회원사는 아니지만 반도체와 연결점이 있어 따로 추가한 회사예요">추가</span>' : ''}</td>
         <td>
           <span class="cat-tag">${CATEGORIES[r.category]||'-'}</span>
           ${(r.tier==='large'||r.tier==='mid'||r.tier==='small') ? `<span class="tier-tag ${r.tier}">${r.tier==='large'?'대기업':r.tier==='mid'?'중견':'소규모'}</span>` : ''}
@@ -345,6 +373,12 @@
       </tr>
       ${r.desc ? `<tr class="desc-row" data-idx="${i}" hidden><td colspan="6">${escapeAttr(r.desc)}${hireDetail(r.hiring)}</td></tr>` : ''}
     `).join('');
+    document.getElementById('companyBody').querySelectorAll('.fav-star').forEach(star => {
+      star.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleFavorite(star.dataset.favName);
+      });
+    });
     document.getElementById('companyBody').querySelectorAll('tr.has-desc').forEach(tr => {
       tr.addEventListener('click', () => {
         const detail = document.querySelector(`tr.desc-row[data-idx="${tr.dataset.idx}"]`);
@@ -401,6 +435,14 @@
     btn.addEventListener('click', () => {
       state.hiring = btn.dataset.hiring; state.category = 'all'; state.page = 1;
       document.getElementById('hiringSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
+      renderCategoryFilters(); renderTable();
+    });
+  });
+
+  document.getElementById('favSwitch').querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.fav = btn.dataset.fav; state.category = 'all'; state.page = 1;
+      document.getElementById('favSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
       renderCategoryFilters(); renderTable();
     });
   });
