@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-09-01T04:07:16.471Z",
+  "generatedAt": "2026-09-01T09:18:41.216Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -73,7 +73,7 @@ window.COMPANIES_DATA = {
       "hiring": {
         "status": "open",
         "note": "사람인에서 매그나칩반도체가 직접 올린 FAB 장비 Engineer 인턴 등 채용을 확인함(접수마감 9/14, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
-        "url": "https://magnachip.career.greetinghr.com/processnjob"
+        "url": "https://www.magnachip.com/kr/about-us/career/jobs/"
       },
       "desc": "2004년 옛 하이닉스반도체의 비메모리 사업부가 분리되며 출범한 회사예요. 스마트폰·TV 화면을 구동하는 디스플레이 구동칩과, 전력을 변환·제어하는 전력반도체를 파운드리 방식으로 만들어요.",
       "origin": "ksia"
