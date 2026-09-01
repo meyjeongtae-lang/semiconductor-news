@@ -1,6 +1,106 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-08-31T00:12:20.628Z",
+  "fetchedAt": "2026-09-01T00:59:32.331Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체주 주춤하자…2차전지주, ESS 업고 날았다 [종목+]",
+      "link": "https://www.hankyung.com/article/2026090152906",
+      "date": "Tue, 01 Sep 2026 08:48:18 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전자, 보급형 노트북 '뉴 갤럭시북6' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260901080514",
+      "date": "Tue, 01 Sep 2026 08:34:03 +0900",
+      "desc": "[지디넷코리아]삼성전자가 1일 온라인 학습과 일상 업무 처리에 최적화된 보급형 노트북 '뉴 갤럭시북6'를 국내 출시했다.뉴 갤럭시북6는 인텔이 4월 공개한 코어 시리즈3(와일드캣 레이크) 프로세서 기반으로 LPDDR5X 8GB 메모리, 14형 1920",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
+      "link": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/",
+      "date": "Mon, 31 Aug 2026 17:25:59 +0000",
+      "desc": "Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging High Bandwidth Flash for Capac",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "SUSE Positions Hardware Choice as a Core Part of Sovereign AI",
+      "link": "https://www.eetimes.com/suse-positions-hardware-choice-as-a-core-part-of-sovereign-ai/",
+      "date": "Mon, 31 Aug 2026 16:57:05 +0000",
+      "desc": "SUSE says enterprises need the flexibility to change AI hardware without rebuilding their infrastructure. The post SUSE Positions Hardware C",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "'TSMC 단골' LG전자…코아시아세미와 협력해 삼성 파운드리서 칩 생산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61518",
+      "date": "2026-08-31 14:38:32",
+      "desc": "코아시아세미가 산업통상부 주관 'K-온디바이스 AI 반도체 기술개발' 과제에 LG전자 합작으로 참여한다고 31일 밝혔다.코아시아세미는 LG전자 인공지능(AI) 홈 제품용 사물인터넷(IoT) 칩 2종을 개발한다. 기간은 지난 7월부터 오는 2030년 1",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+      "link": "https://spectrum.ieee.org/europes-ai-drive",
+      "date": "Mon, 31 Aug 2026 14:00:04 +0000",
+      "desc": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable co",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Advanced Cooling Technologies Address the Automotive Heat Challenge",
+      "link": "https://www.eetimes.com/advanced-cooling-technologies-address-the-automotive-heat-challenge/",
+      "date": "Mon, 31 Aug 2026 07:46:55 +0000",
+      "desc": "New cooling technologies are emerging as electric drivetrains, AI processors, and autonomous systems push automotive heat fluxes higher. The",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Trust, But Verify",
+      "link": "https://semiengineering.com/trust-but-verify/",
+      "date": "Mon, 31 Aug 2026 07:03:35 +0000",
+      "desc": "We trust designers to do the best they can, but know they cannot be perfect. That's why we verify. When AI gets involved, it cannot be trust",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Photonics Forces A Chiplet Rethink",
+      "link": "https://semiengineering.com/photonics-forces-a-chiplet-rethink/",
+      "date": "Mon, 31 Aug 2026 07:01:38 +0000",
+      "desc": "Thermal drift, stress, electromagnetic coupling, and verification gaps are turning optical integration into a full-system co-design problem ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260830-TI-01호] 2026년 8월 30일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260830-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-30%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 31 Aug 2026 00:59:37 GMT",
+      "desc": "한국 위협하는 중국 메모리 (2026년 8월 30일, 조선일보, 최인준 기자) 원문보기: https://www.chosun.com/economy/tech_it/2026/08/30/W2Z2MJFV3NH7RKGX7TLPZZVB4A/?utm_source=n",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
