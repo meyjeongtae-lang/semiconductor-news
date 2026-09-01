@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-09-01T03:39:17.850Z",
+  "generatedAt": "2026-09-01T03:42:44.978Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -948,7 +948,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 에어프로덕츠코리아(주)가 직접 올린 Project Procurement Specialist, Gaseous Pipeline Engineer, Lab Technician 등 경력직을 확인함(접수마감 9/26, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - 경력직만 확인됨"
+        "note": "사람인에서 에어프로덕츠코리아(주)가 직접 올린 Project Procurement Specialist, Gaseous Pipeline Engineer, Lab Technician 등 경력직을 확인함(접수마감 9/26, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - 경력직만 확인됨",
+        "url": "https://www.airproducts.co.kr/careers"
       },
       "desc": "🔧 미국 산업가스 회사 Air Products(에어프로덕츠)의 한국 지사예요. 반도체 제조에 필수적인 질소·수소 같은 특수가스를 대량으로 공급해요.",
       "origin": "ksia"
@@ -1515,7 +1516,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 (주)아바코가 직접 올린 PLC제어 담당자 경력직 채용을 확인함(접수마감 9/18, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 (주)아바코가 직접 올린 PLC제어 담당자 경력직 채용을 확인함(접수마감 9/18, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "http://www.avaco.co.kr/?menu_code=112"
       },
       "desc": "🔧 원래는 OLED 디스플레이용 진공증착 장비가 주력인 회사예요. 최근 HBM·유리기판 등 반도체 장비 쪽으로 사업을 넓히고 있고, 웨이퍼 레벨 패키징(WLP) 공정용 금속막 증착 장비를 개발했어요.",
       "origin": "ksia"
@@ -1565,7 +1567,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "잡코리아에서 ㈜에스티아이가 직접 올린 해외영업 및 영업관리 경력(일본어) 채용을 확인함(09/01 확인) - 경력직"
+        "note": "잡코리아에서 ㈜에스티아이가 직접 올린 해외영업 및 영업관리 경력(일본어) 채용을 확인함(09/01 확인) - 경력직",
+        "url": "https://www.sti.kr/kor/career/recruit"
       },
       "desc": "🔧 반도체·디스플레이 전공정에 쓰이는 세정·식각 장비를 국산화한 회사예요(영문 약칭 STI). 화학약품을 정밀하게 공급하는 CCSS(중앙화학약품공급시스템)가 주력 제품이고, 최근엔 SiC 전력반도체용 장비·소재로도 사업을 넓히고 있어요.",
       "origin": "ksia"
@@ -1712,7 +1715,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "잡코리아에서 ㈜자비스가 직접 올린 구매자재팀 신입/경력 채용을 확인함(09/01 확인)"
+        "note": "잡코리아에서 ㈜자비스가 직접 올린 구매자재팀 신입/경력 채용을 확인함(09/01 확인)",
+        "url": "https://www.xavis.co.kr/xavis/bbs/board.php?bo_table=recruitment"
       },
       "desc": "🔧 원래 식품 이물질 검사 장비로 시작한 회사예요. 엑스레이로 내부를 들여다보는 검사기술(XSCAN)을 반도체·이차전지 검사로 확장했고, 최근엔 차세대 반도체 기판(유리기판) 검사장비 개발에 나서고 있어요.",
       "origin": "ksia"
@@ -2705,7 +2709,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 한국알박크라이오(주)가 직접 올린 사내 IT 인프라 운영 담당 경력직을 확인함(접수마감 9/6, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - \"한국알박크라이오\"는 한국알박의 크라이오펌프(진공펌프) 관련 계열사로 보임, 경력직만 확인됨"
+        "note": "사람인에서 한국알박크라이오(주)가 직접 올린 사내 IT 인프라 운영 담당 경력직을 확인함(접수마감 9/6, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - \"한국알박크라이오\"는 한국알박의 크라이오펌프(진공펌프) 관련 계열사로 보임, 경력직만 확인됨",
+        "url": "https://recruit.ulvackorea.co.kr/"
       },
       "desc": "🔧 일본 알박(ULVAC)의 한국 법인이에요. 반도체·디스플레이 제조에 쓰이는 식각 장비, 스퍼터링(금속막 입히기) 장비, 감광액 제거 장비, 진공펌프 등을 만들고 정비해요.",
       "origin": "ksia"
@@ -3649,7 +3654,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "잡코리아에서 에이에스엠엘코리아 유한회사가 직접 올린 [Cymer Korea] Customs Analyst, Asia Intercompany Settlement Team Manager 경력직(5~12년)을 확인함(접수마감 9/3, 09/01 확인) - \"ASML코리아\"라는 영문 표기가 아니라 \"에이에스엠엘코리아\"라는 한글 정식명으로 등록돼 있어서 이전 검색에서 놓쳤던 것"
+        "note": "잡코리아에서 에이에스엠엘코리아 유한회사가 직접 올린 [Cymer Korea] Customs Analyst, Asia Intercompany Settlement Team Manager 경력직(5~12년)을 확인함(접수마감 9/3, 09/01 확인) - \"ASML코리아\"라는 영문 표기가 아니라 \"에이에스엠엘코리아\"라는 한글 정식명으로 등록돼 있어서 이전 검색에서 놓쳤던 것",
+        "url": "https://asmlkorea.recruiter.co.kr/career/home"
       },
       "desc": "🔧 네덜란드 반도체 장비회사 ASML의 한국 지사예요. 반도체 회로를 웨이퍼에 새기는 노광(리소그래피) 장비, 특히 가장 미세한 공정에 필수인 EUV(극자외선) 장비를 세계에서 유일하게 만드는 회사예요.",
       "origin": "ksia"
@@ -3665,7 +3671,8 @@ window.COMPANIES_DATA = {
       "reason": null,
       "hiring": {
         "status": "open",
-        "note": "사람인에서 엑셀리스코리아(주)가 직접 올린 HR Specialist 계약직 채용을 확인함(접수마감 9/25, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)"
+        "note": "사람인에서 엑셀리스코리아(주)가 직접 올린 HR Specialist 계약직 채용을 확인함(접수마감 9/25, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
+        "url": "https://www.axcelis.com/careers/?lang=ko"
       },
       "desc": "🔧 미국 반도체 장비회사 엑셀리스(Axcelis)의 한국 지사예요. 반도체에 불순물을 주입해 전기적 성질을 만드는 이온주입장비(Ion Implanter) 분야의 대표 기업이에요.",
       "origin": "ksia"
