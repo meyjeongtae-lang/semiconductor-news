@@ -1,6 +1,126 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-01T23:48:01.324Z",
+  "fetchedAt": "2026-09-02T23:51:34.264Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"티씨케이, SiC 포커스링 세계 1위…中 반도체 부상도 기회\"-IBK",
+      "link": "https://www.hankyung.com/article/2026090309206",
+      "date": "Thu, 03 Sep 2026 08:14:46 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "15% 폭등한 델 \"D램 D램, 낸드 낸드\"…골드만 '3개월간 중립' [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202609030742i",
+      "date": "Thu, 03 Sep 2026 08:09:30 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"美서 만들면 관세 없다\"…美상무장관, 반도체 '표적관세' 예고",
+      "link": "https://www.hankyung.com/article/2026090308037",
+      "date": "Thu, 03 Sep 2026 07:45:47 +0900",
+      "desc": "",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원 SK 회장 \"日 키옥시아와 넓은 협력도 선택지\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61720",
+      "date": "2026-09-02 19:07:22",
+      "desc": "최태원 SK그룹 회장이 일본 반도체 기업 키옥시아와 반도체를 공동 생산하는 방안을 고려하겠다고 밝혔다. 2일 일본 아사히신문과의 인터뷰에서 최 회장은 키옥시아와의 공동생산에 대해 \"하나의 선택지\"라고 밝혔다. 최 회장은 \"키옥시아는 많은 강점을 가진 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LB세미콘, 퀄컴 첫 제품 출하",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61714",
+      "date": "2026-09-02 18:32:36",
+      "desc": "반도체 후공정 외주(OSAT) 기업 LB세미콘이 퀄컴 첫 제품을 출하하며 기념식을 개최했다고 2일 밝혔다.기념식은 지난달 31일 LB세미콘 평택 본사에서 열렸다. 이대교 LB세미콘 대표 포함 경영진과 퀄컴 임원 등이 참석했다. 양사는 행사에서 협력 경",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Mercedes Spinout Athos Closes Its Doors",
+      "link": "https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/",
+      "date": "Wed, 02 Sep 2026 17:07:04 +0000",
+      "desc": "The startup was unable to secure the financing required to continue commercialising its chiplet-based technology The post Mercedes Spinout A",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 드래곤윙 2390 제품군 발표...비용·크기 줄였다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61676",
+      "date": "2026-09-02 13:48:32",
+      "desc": "퀄컴이 1일(현지시간) 비용과 크기를 줄인 신규 드래곤윙 Q-2390과 IQ-2390 프로세서를 발표했다. 퀄컴 드래곤윙은 산업용과 임베디드 사물인터넷(IoT), 네트워킹, 셀룰러 인프라 솔루션용 기업 간(B2B) 플랫폼이다. 신제품은 소비자-상업-산",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI에 모델 그 이상이 필요한 이유: CLOE의 인간 지각 아키텍처를 들여다보다",
+      "link": "https://zdnet.co.kr/view/?no=20260902221024",
+      "date": "Wed, 02 Sep 2026 22:10:24 +0900",
+      "desc": "[지디넷코리아] 새롭게 공개된 세부 내용에서 아이유노(Iyuno)의 CLOE가 어떻게 감각 입력, 인지 통합, 지속형 메모리를 결합해 콘텐츠를 일관되게 이해하는지 엿볼 수 있다. 버뱅크, 캘리포니아, 2026년 9월 2일 /PRNewswire/ -- ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Manufacturing Growth Slows in August Amid Supply and Cost Strains",
+      "link": "https://www.eetimes.com/manufacturing-growth-slows-in-august-amid-supply-and-cost-strains/",
+      "date": "Wed, 02 Sep 2026 13:00:00 +0000",
+      "desc": "U.S. manufacturing growth continued for the eighth consecutive month in August, though momentum slowed due to supply chain and cost pressure",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "세미콘 타이완: 작센, 글로벌 반도체 산업을 위한 유럽 최고의 중심지로 자리매김",
+      "link": "https://zdnet.co.kr/view/?no=20260902191013",
+      "date": "Wed, 02 Sep 2026 19:10:13 +0900",
+      "desc": "[지디넷코리아] 독일 드레스덴 및 대만 타이베이, 2026년 9월 2일 /PRNewswire/ -- 세미콘 타이완(SEMICON Taiwan)에서 독일 작센주가 유럽 최대 규모의 마이크로일렉트로닉스 클러스터인 '실리콘 작센(Silicon Saxony)",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "픽셀플러스, 해치텍 지분 매각...41억원 확보",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61658",
+      "date": "2026-09-02 09:57:47",
+      "desc": "픽셀플러스가 해치텍 지분 일부를 매각해 현금 40억원가량을 확보했다. 확보한 현금은 신기술 연구개발(R&D) 자금 등으로 활용한다.1일 거래소에 따르면 픽셀플러스는 지난달 27일부터 이틀에 걸쳐 해치텍 지분 총 22만1854주(발행주식 총수의 약 4.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Indian Startup HrdWyr Builds AI-Native SoCs for the Physical World",
+      "link": "https://www.eetimes.com/indian-startup-hrdwyr-builds-ai-native-socs-for-the-physical-world/",
+      "date": "Wed, 02 Sep 2026 08:00:00 +0000",
+      "desc": "HrdWyr is developing AI-native SoCs for power management, motor control, and other applications where AI meets physical systems. The post In",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +130,116 @@ window.NEWS_DATA = {
       "desc": "엔비디아가 대만 미디어텍의 전환사채(CB) 35억달러(약 4조8000억원) 가량을 매입했다고 1일 밝혔다. 엔비디아가 미국 외 기업에 투자한 금액 중 최대다.엔비디아는 이번 투자를 계기로 미디어텍과 함께 인공지능(AI) 인프라와 AI 컴퓨팅, 자동차 ",
       "category": "ai-compute",
       "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
+      "link": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1/",
+      "date": "Wed, 02 Sep 2026 07:04:59 +0000",
+      "desc": "A complete path from AI model, to trusted silicon, to deployable system. The post EBook &#8211; Accelerate Silicon Design for Physical AI (P",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Security In The Era Of Quantum Computing",
+      "link": "https://semiengineering.com/security-in-the-era-of-quantum-computing/",
+      "date": "Wed, 02 Sep 2026 07:02:11 +0000",
+      "desc": "Enable robust cryptographic mechanisms that remain resilient even against quantum-based computational attacks. The post Security In The Era ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
+      "link": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines/",
+      "date": "Wed, 02 Sep 2026 07:02:10 +0000",
+      "desc": "In edge AI, the most dangerous failure may not be a system that stops working, but one that continues operating while quietly accepting the ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
+      "link": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/",
+      "date": "Wed, 02 Sep 2026 07:01:59 +0000",
+      "desc": "Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains: optimization, ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Sept. 2",
+      "link": "https://semiengineering.com/blog-review-sept-2-3/",
+      "date": "Wed, 02 Sep 2026 07:01:39 +0000",
+      "desc": "Shifting landscape of chip design; AI for 3D-IC; India boosts semiconductors; 6G roadmap. The post Blog Review: Sept. 2 appeared first on Se",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Security Sign-Off Is Coming For Chips — But Standards May Not Be Enough",
+      "link": "https://semiengineering.com/security-sign-off-is-coming-for-chips-but-standards-may-not-be-enough/",
+      "date": "Wed, 02 Sep 2026 07:01:38 +0000",
+      "desc": "As AI, post-quantum cryptography, chiplets, and custom silicon expand the attack surface, semiconductor security is shifting from isolated s",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Multi-Die Design for Automotive Applications",
+      "link": "https://semiengineering.com/multi-die-design-for-automotive-applications/",
+      "date": "Wed, 02 Sep 2026 07:01:17 +0000",
+      "desc": "Multi-die design is becoming indispensable for automotive applications, such as ADAS and IVI, addressing demands for reliability and safety.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Extending 18A With Significant Power And Performance Gains",
+      "link": "https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains/",
+      "date": "Wed, 02 Sep 2026 07:01:16 +0000",
+      "desc": "A dual contact architecture with ultra-low-resistance contacts increases drive current and enables higher frequencies at matched capacitance",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[미리보는 IFA 2026] 〈하〉 한국 스타트업, K-가전 저력 선보인다",
+      "link": "https://www.etnews.com/20260902000225",
+      "date": "Wed, 2 Sep 2026 16:00:00 +0900",
+      "desc": "바닥 오염을 감지해 스팀 분사량을 바꾸는 로봇청소기, 반도체 온도조절 기술로 냉·온을 조절하는 수면매트, 대화하는 인공지능(AI) 프로젝터가 독일 베를린에서 공개된다. 삼성전자와 LG전자가 세계 시장에서 키운 'K-가전' 저변을 국내 중소기업과 스타트",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260901-TT-01호] 2026년 9월 1일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260901-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-1%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 02 Sep 2026 00:50:11 GMT",
+      "desc": "삼성, 반도체 설계도 클로드로 자동화 지원 (2026년 9월 1일, 매일경제, 고민서 기자) 원문보기: https://www.mk.co.kr/news/it/12141488 [핵심 요약] [1] 삼성전자, 클로드로 반도체 설계 자동화 시험 앤트로픽이 삼",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260901-TI-01호] 2026년 9월 1일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260901-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-1%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 02 Sep 2026 00:47:22 GMT",
+      "desc": "때리는 美, 추격하는 中 사이에 낀 삼전닉스... “특허침해 공동 대응 전선 짜라” (2026년 9월 1일, 한국일보, 홍인택 기자) 원문보기: https://www.hankookilbo.com/news/article/A20260901150400046",
+      "category": "legal",
+      "domain": "business"
     },
     {
       "source": "한국경제",
@@ -138,6 +368,26 @@ window.NEWS_DATA = {
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260831-ti-01%ED%98%B8-2026%EB%85%84-8%EC%9B%94-31%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
       "date": "Tue, 01 Sep 2026 00:59:25 GMT",
       "desc": "SK하이닉스, 차세대 HBM ‘베이스 다이’ 인텔에도 맡긴다 (2026년 8월 31일, 헤럴드경제, 박지영·이정완 기자) 원문보기: https://biz.heraldcorp.com/article/10857004?ref=naver [핵심 요약] [1] ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "LG전자, 실속형 노트북 '그램북 AI 2026' 7일 출시…“칩플레이션 부담 완화”",
+      "link": "https://www.etnews.com/20260901000078",
+      "date": "Tue, 1 Sep 2026 09:51:33 +0900",
+      "desc": "LG전자가 실속형 노트북 신제품 'LG 그램북 AI 2026'을 7일 출시한다. LG전자는 메모리 반도체 가격 급등으로 인한 고객 부담을 줄이기 위해 실속형 제품을 출시할 예정이라고 1일 밝혔다. 가격은 출하가 기준 145만원부터 시작한다. 신제품은 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, '뉴 갤럭시 북6' 출시…최소 가격 119만원",
+      "link": "https://www.etnews.com/20260901000075",
+      "date": "Tue, 1 Sep 2026 09:49:49 +0900",
+      "desc": "삼성전자가 '뉴 갤럭시 북6'를 국내 출시했다. 메모리 반도체 품귀 현상으로 완제품 출고가가 상승하는 가운데 소비자 구매 부담을 낮춘 게 특징이다. 삼성전자는 갤럭시 북6 시리즈 라인업을 기존 '갤럭시 북6 울트라', '갤럭시 북6 프로', '갤럭시 ",
       "category": "memory",
       "domain": "tech"
     },
