@@ -1,5 +1,5 @@
 window.COMPANIES_DATA = {
-  "generatedAt": "2026-09-01T09:18:41.216Z",
+  "generatedAt": "2026-09-02T05:53:34.985Z",
   "categories": {
     "device_foundry": "소자/파운드리",
     "materials": "소재",
@@ -782,7 +782,7 @@ window.COMPANIES_DATA = {
       "hiring": {
         "status": "open",
         "note": "사람인에서 대덕전자(주)가 직접 올린 PCB 기술/개발 엔지니어(경력), 제조직(Operator) 계약직 상시채용, 설비관리/개발 경력 등 다수 채용을 확인함(잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인)",
-        "url": "https://recruit.daeduck.com/"
+        "url": "https://www.daeduck.com/ko/content/recruitmentinfo.do"
       },
       "desc": "1972년에 설립된 국내 대표 인쇄회로기판(PCB) 제조사예요. PCB는 전자부품들을 서로 연결해주는 회로가 새겨진 기판인데, 반도체 패키지용 기판도 함께 생산하고 있어요.",
       "origin": "ksia"
@@ -2129,7 +2129,7 @@ window.COMPANIES_DATA = {
       "hiring": {
         "status": "open",
         "note": "사람인에서 세메스(주)가 직접 올린 고객기술지원(GCE) 경력 상시채용을 확인함(접수마감 9/4, 잡코리아엔 안 뜨고 사람인에서 확인됨, 09/01 확인) - 나머지 검색결과 대부분은 협력사 공고임",
-        "url": "https://semes.recruiter.co.kr/career/home"
+        "url": "https://semes.careerlink.kr/"
       },
       "desc": "🔧 삼성전자 계열의 반도체·디스플레이 장비 회사예요(연 매출 3조원 규모, 국내 최대 장비업체). 반도체 전공정에서는 포토(감광액 도포·현상) 장비와 세정·식각 장비를, 후공정에서는 칩을 자르고 붙이고 검사하는 장비를 만들어요.",
       "origin": "ksia"
