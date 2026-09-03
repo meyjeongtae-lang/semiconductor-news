@@ -108,6 +108,12 @@
   .groupswitch{display:flex;gap:2px;border:1px solid var(--line);border-radius:999px;padding:3px;background:var(--card);}
   .groupswitch button{font-size:12.5px;cursor:pointer;border:none;padding:7px 13px;border-radius:999px;background:transparent;color:var(--ink-soft);font-weight:500;transition:all .15s ease;font-family:inherit;}
   .groupswitch button.active{background:var(--copper);color:#fff;}
+  .copy-fav-btn{
+    font-size:12.5px;cursor:pointer;border:1px solid var(--line);padding:8px 13px;border-radius:999px;
+    background:var(--card);color:var(--ink-soft);font-weight:500;font-family:inherit;transition:all .15s ease;
+  }
+  .copy-fav-btn:hover{border-color:var(--copper);color:var(--copper);}
+  .copy-fav-btn.copied{border-color:var(--moss);color:var(--moss);}
 
   .table-scroll{overflow-x:auto;border-radius:14px;margin-top:14px;}
   table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);}
@@ -206,6 +212,7 @@
       <button data-fav="all" class="active">전체</button>
       <button data-fav="only">⭐ 즐겨찾기만</button>
     </div>
+    <button id="copyFavBtn" class="copy-fav-btn" title="즐겨찾기한 회사 이름을 복사해요. 채용상태 재확인을 요청할 때 Claude에게 붙여넣어 주세요.">즐겨찾기 목록 복사</button>
   </div>
   <div class="filters cat-filters" id="categoryFilters"></div>
   <div class="table-scroll">
@@ -445,6 +452,25 @@
       document.getElementById('favSwitch').querySelectorAll('button').forEach(b => b.classList.toggle('active', b===btn));
       renderCategoryFilters(); renderTable();
     });
+  });
+
+  document.getElementById('copyFavBtn').addEventListener('click', async () => {
+    const btn = document.getElementById('copyFavBtn');
+    const names = [...state.favorites];
+    if (names.length === 0) {
+      btn.textContent = '즐겨찾기가 비어있어요';
+      setTimeout(() => { btn.textContent = '즐겨찾기 목록 복사'; }, 1800);
+      return;
+    }
+    const text = names.join(', ');
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.textContent = `복사됨! (${names.length}곳)`;
+      btn.classList.add('copied');
+    } catch(e) {
+      btn.textContent = '복사 실패 — 직접 선택해서 복사해주세요';
+    }
+    setTimeout(() => { btn.textContent = '즐겨찾기 목록 복사'; btn.classList.remove('copied'); }, 2200);
   });
 
   document.querySelectorAll('#companyTable thead th[data-key]').forEach(th => {
