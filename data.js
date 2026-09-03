@@ -1,6 +1,196 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-02T23:51:34.264Z",
+  "fetchedAt": "2026-09-03T23:48:28.831Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, '아드레노 뉴럴 퓨전' 출격…모바일 GPU 아키텍처 대수술",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61803",
+      "date": "2026-09-04 07:46:52",
+      "desc": "퀄컴이 모바일 게이밍 환경을 개선한 인공지능(AI) 기반 그래픽처리장치(GPU) 기술을 선보인다.퀄컴은 2일(현지시간) '아드레노 뉴럴 퓨전(Adreno Neural Fusion)'을 소개했다. 렌더링 비용과 전력 소모를 줄이면서 더 뛰어난 그래픽 품",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 7월 경상수지 421억달러 흑자…반도체 호황에 동월 역대 최대",
+      "link": "https://www.hankyung.com/article/2026090434337",
+      "date": "Fri, 04 Sep 2026 08:01:49 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "美, 반도체 '표적' 관세 예고…靑 \"韓 기업 불이익 없도록 협의\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61788",
+      "date": "2026-09-03 18:18:35",
+      "desc": "정부가 미국이 반도체 표적 관세를 예고하자 국내 기업에 불리한 영향이 없도록 미국 측과 협의하겠다고 3일 밝혔다. 청와대 관계자는 \"미국의 반도체 관세와 관련한 구체적인 사항은 아직 확정되지 않은 것으로 알고 있다\"며 \"정부는 관련 동향을 면밀히 모니",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "큐알티-트리니티팹 MOU…\"반도체 소부장 양산 가속화\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61778",
+      "date": "2026-09-03 17:23:26",
+      "desc": "큐알티(QRT)가 트리니티팹과 '국내 반도체 소재·부품·장비(소부장) 산업 경쟁력 강화와 상호 연계 협력' 업무협약(MOU)을 체결했다고 3일 밝혔다.양사는 각각 보유한 핵심 인프라를 결합한다. 반도체 소부장 기업들의 제품 개발부터 양산까지 '전주기 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "젠듀어, IFA 2026에서 에이전틱 HEMS 공개... &apos;AI 시대의 홈 에너지 허브&apos;",
+      "link": "https://zdnet.co.kr/view/?no=20260903231003",
+      "date": "Thu, 03 Sep 2026 23:10:03 +0900",
+      "desc": "[지디넷코리아] 젠듀어, 독자적인 젠펄스(ZenPulse) 예측 모델, 젠키™(ZENKI™) AI 에이전트 및 오픈 젠+OS(Zen+OS) 플랫폼을 기반으로 홈 에너지를 단순한 AI 스케줄링을 넘어 스스로 예측하고 계획하며 실행할 수 있는 시스템 수준",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella",
+      "link": "https://www.eetimes.com/techworks-aligns-u-k-semiconductors-under-uksia-umbrella/",
+      "date": "Thu, 03 Sep 2026 13:46:01 +0000",
+      "desc": "TechWorks corrals U.K. chip groups under UKSIA as funding surges 65% and 700 execs swarm London. The post TechWorks Aligns U.K. Semiconducto",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "India’s Quantum Journey Goes Beyond the Qubit",
+      "link": "https://www.eetimes.com/indias-quantum-journey-goes-beyond-the-qubit/",
+      "date": "Thu, 03 Sep 2026 08:00:47 +0000",
+      "desc": "IBM’s Amaravati deployment could accelerate India’s quantum ecosystem as startups develop processors, software, and supporting technologies.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Intelligent Engineering: From Optimization To AI",
+      "link": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai/",
+      "date": "Thu, 03 Sep 2026 07:08:39 +0000",
+      "desc": "A methodology for transforming engineering decisions from educated guesses into data-driven choices. The post Intelligent Engineering: From ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
+      "link": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity/",
+      "date": "Thu, 03 Sep 2026 07:07:47 +0000",
+      "desc": "Aerospace and government systems need confidentiality, authentication, and implementation resilience for off-chip memory. The post Protectin",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Building Trust Into Physical AI Systems",
+      "link": "https://semiengineering.com/building-trust-into-physical-ai-systems/",
+      "date": "Thu, 03 Sep 2026 07:03:52 +0000",
+      "desc": "Security and safety are inseparable in the physical world. The post Building Trust Into Physical AI Systems appeared first on Semiconductor ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Humanoid Compute, Security More Complex Than AVs",
+      "link": "https://semiengineering.com/humanoid-compute-security-more-complex-than-avs/",
+      "date": "Thu, 03 Sep 2026 07:03:07 +0000",
+      "desc": "Robots and autonomous vehicles are both edge devices, but a humanoid has wheels as well as fingers. Close interaction with humans raises the",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Is Forcing Data Centers To Rethink Trust",
+      "link": "https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust/",
+      "date": "Thu, 03 Sep 2026 07:02:45 +0000",
+      "desc": "Exploding compute demand is exposing new gaps across the hardware supply chain, from chip identity and firmware integrity to post-quantum re",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Many Design Experiments Does A Machine Learning Predictor Actually Need?",
+      "link": "https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need/",
+      "date": "Thu, 03 Sep 2026 07:02:30 +0000",
+      "desc": "Required dataset size and achievable accuracy track how smooth the response is, not model size or number of design variables. The post How M",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Can Go Wrong In 800VDC AI Data Centers",
+      "link": "https://semiengineering.com/what-can-go-wrong-in-800vdc-ai-data-centers/",
+      "date": "Thu, 03 Sep 2026 07:01:33 +0000",
+      "desc": "Sparks and fires caused by higher electrical currents can cause costly outages and put people in danger. Hot chips also cause problems. The ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Continuing A Legacy Of Space Exploration: NASA’s Nancy Grace Roman Space Telescope",
+      "link": "https://semiengineering.com/continuing-a-legacy-of-space-exploration-nasas-nancy-grace-roman-space-telescope/",
+      "date": "Thu, 03 Sep 2026 07:01:28 +0000",
+      "desc": "Rad hard components help investigate dark energy, dark matter, and planets beyond our solar system. The post Continuing A Legacy Of Space Ex",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260902-TE-01호] 2026년 9월 2일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260902-te-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 03 Sep 2026 01:15:47 GMT",
+      "desc": "한미반도체, 대만서 AI 반도체 '2.5D 패키징' 장비 대거 공개 (2026년 9월 2일, 뉴스1, 정윤미 기자) 원문보기: https://www.news1.kr/industry/general-industry/6277420 [핵심 요약] [1] 한미",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260902-TT-01호] 2026년 9월 2일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260902-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 03 Sep 2026 01:12:53 GMT",
+      "desc": "TSMC, HBM 패키징 당분간 '마이크로범프'…협력사에 5μm 숙제 (2026년 9월 2일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20260902000223 [핵심 요약] [1] TSMC, HBM 패키징에 마이",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260902-TM-01호] 2026년 9월 2일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260902-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 03 Sep 2026 01:11:28 GMT",
+      "desc": "고려아연, 반도체 황산 32만톤 구축…韓 50만·美 10만톤 추진 (2026년 9월 2일, 머니투데이, 박한나 기자) 원문보기: https://www.mt.co.kr/industry/2026/09/02/2026090215505542424 [핵심 요약]",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260902-TI-01호] 2026년 9월 2일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260902-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-2%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 03 Sep 2026 01:10:17 GMT",
+      "desc": "美 '팍스 실리카' 맞불…中, 제3세계로 AI 인프라 확장 (2026년 9월 2일, 한국경제, 손주형 기자) 원문보기: https://www.hankyung.com/article/2026090203721 [핵심 요약] [1] 美·中, 데이터센터 패권 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
