@@ -1,6 +1,116 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-03T23:48:28.831Z",
+  "fetchedAt": "2026-09-04T23:43:31.517Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "EE Times Magazine – September 2026",
+      "link": "https://www.eetimes.com/ee-times-magazine-september-2026/",
+      "date": "Fri, 04 Sep 2026 22:40:26 +0000",
+      "desc": "The September 2026 edition of EE Times Magazine examines how smarter buildings combine ambient energy harvesting, sensing, AI, and connected",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "열받는 반도체",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61871",
+      "date": "2026-09-04 22:08:22",
+      "desc": "발열 관리가 인공지능(AI) 반도체 설계와 생산의 전제 조건이 됐다.전력, 성능, 면적(PPA:Power, Performance, Area)을 중심으로 이뤄졌던 반도체 개발에 열(Thermal)을 주요 변수로 추가해야 한다는 목소리도 나왔다.3일 경기",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "PSK, 램리서치 특허 1건 추가 무효화...침해소송서 취하된 특허",
+      "link": "https://zdnet.co.kr/view/?no=20260905023133",
+      "date": "Sat, 05 Sep 2026 02:40:05 +0900",
+      "desc": "[지디넷코리아]PSK(피에스케이)가 램리서치의 베벨 에처 특허 1건에 대해 추가로 무효 판단을 받았다. 해당 특허는 지난 8월 특허침해소송 변론기일에서 램리서치가 침해 주장을 철회한 특허다. 전체 분쟁에 미칠 영향은 미미하다. 베벨 에처는 웨이퍼 가장",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "美 국채서 떠나려는 국부펀드는 어디?…주가 부진, 메모리는 잘못이 없다[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609055459i",
+      "date": "Sat, 05 Sep 2026 00:43:58 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "밉스, 피지컬 AI용 개발 플랫폼 3종 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61819",
+      "date": "2026-09-04 13:29:50",
+      "desc": "밉스(MIPS)가 임베디드 기기에서 물리적(피지컬) 인공지능(AI)을 구현할 수 있는 개발 플랫폼 3종을 출시했다고 4일 밝혔다.피지컬 AI는 물리 세계에서 감각을 느끼고 판단하며 직접 행동하는 AI 기술이다. 로봇 팔, 자율주행(AD) 차량, 공장 ",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 불량 웨이퍼 등 재활용…폐기물 6859톤 감축",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61808",
+      "date": "2026-09-04 11:07:02",
+      "desc": "삼성전자가 사업장에서 발생하는 폐기물의 순환자원 인정을 확대하고 재활용 범위를 넓히고 있다.삼성전자는 올해 8월 기준 누적 38건의 순환자원 인정을 취득했다고 4일 밝혔다. 지난해 연간 6859톤(t)의 폐기물을 감축했다.순환자원 인정제도는 법적 기준",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "김정관 \"반도체 관세, 불리하지 않게 논의…대미투자 9월 중 발표\" [이상은의 워싱턴나우]",
+      "link": "https://www.hankyung.com/article/202609044351i",
+      "date": "Fri, 04 Sep 2026 20:02:13 +0900",
+      "desc": "",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SKC, 앱솔릭스에 2810억원 출자…유리기판 사업화 속도",
+      "link": "https://zdnet.co.kr/view/?no=20260904180354",
+      "date": "Fri, 04 Sep 2026 19:23:09 +0900",
+      "desc": "[지디넷코리아]SKC의 유리기판 사업 자회사 앱솔릭스가 4000억원 규모 유상증자에 나선다. 차세대 반도체 패키징 사업 상용화 준비에 속도를 내기 위한 준비다.SKC는 21일 앱솔릭스가 유리기판 상업화에 필요한 재원 확보를 위해 주주배정 유상증자를 결",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260904-TT-01호] 2026년 9월 4일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260904-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-4%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 04 Sep 2026 08:14:48 GMT",
+      "desc": "'분산 추론' 승부수 띄운 엔비디아… 여러 PC에 에이전트 추론 나눈다 (2026년 9월 4일, 한국일보, 김진욱 기자) 원문보기: https://www.hankookilbo.com/news/article/A2026090215420005001?did=",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260904-TI-01호] 2026년 9월 4일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260904-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-4%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 04 Sep 2026 08:13:33 GMT",
+      "desc": "“미국서 생산 안 하면 대가 각오”…러트닉, 삼전·닉스 콕 찍어 경고 (2026년 9월 4일, 중앙일보, 이승호 기자) 원문보기: https://www.joongang.co.kr/article/25458996 [핵심 요약] [1] 미국, 반도체 현지 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "When the Package Becomes an Electrical Design Variable",
+      "link": "https://www.eetimes.com/when-the-package-becomes-an-electrical-design-variable/",
+      "date": "Fri, 04 Sep 2026 07:50:10 +0000",
+      "desc": "AI power integrity now lives inside the package, not just the PCB. Treat chip, package, and board as one PDN. The post When the Package Beco",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -9,6 +119,26 @@ window.NEWS_DATA = {
       "date": "2026-09-04 07:46:52",
       "desc": "퀄컴이 모바일 게이밍 환경을 개선한 인공지능(AI) 기반 그래픽처리장치(GPU) 기술을 선보인다.퀄컴은 2일(현지시간) '아드레노 뉴럴 퓨전(Adreno Neural Fusion)'을 소개했다. 렌더링 비용과 전력 소모를 줄이면서 더 뛰어난 그래픽 품",
       "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-154/",
+      "date": "Fri, 04 Sep 2026 07:01:21 +0000",
+      "desc": "2D Tunnel FET; in-memory photonic computing; India's $13.4B Semicon 2.0; SEMICON Taiwan; PCIe 6/7 test; MediaTek deal; 300mm Si photonics; I",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260903-TI-01호] 2026년 9월 3일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260903-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-3%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 04 Sep 2026 00:55:00 GMT",
+      "desc": "中 물량공세에 美·日은 투자유치 총력…“메모리 주도권 뺏길 수도” (2026년 9월 3일, 서울경제, 구경우·이석진 기자) 원문보기: https://www.sedaily.com/article/20086943?ref=naver [핵심 요약] [1] CX",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -58,6 +188,16 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/techworks-aligns-u-k-semiconductors-under-uksia-umbrella/",
       "date": "Thu, 03 Sep 2026 13:46:01 +0000",
       "desc": "TechWorks corrals U.K. chip groups under UKSIA as funding surges 65% and 700 execs swarm London. The post TechWorks Aligns U.K. Semiconducto",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[IFA 2026]샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
+      "link": "https://www.etnews.com/20260903000424",
+      "date": "Thu, 3 Sep 2026 21:00:00 +0900",
+      "desc": "샤오미가 자체 반도체와 인공지능(AI), 스마트 가전, 전기차를 하나로 묶어 유럽 시장 공략에 나선다. 스마트폰과 일부 가전을 공급하는 단계를 넘어 현지 연구개발(R&D)과 차량 시험, 판매·서비스망까지 동시에 구축한다. 가격과 개별 제품을 앞세웠던 ",
       "category": "etc",
       "domain": "etc"
     },
@@ -950,16 +1090,6 @@ window.NEWS_DATA = {
       "desc": "SK그룹이 미국 첨단 기술 시장에 60조원 이상의 투자를 결정했다.유정준 SK그룹 미주총괄 부회장은 27일(현지시간) 미국에서 열린 SK하이닉스 인디애나 웨스트라피엣 반도체 공장 기공식에서 \"SK는 미 전역에서 반도체, 에너지와 첨단 기술 분야를 중심",
       "category": "policy",
       "domain": "business"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week in Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-153/",
-      "date": "Fri, 28 Aug 2026 07:01:37 +0000",
-      "desc": "Hot Chips AI HW wave; HBM vs HBC; capacity buildout; Infineon's latest buy; advanced packaging enablers; foundry report; ASIC security threa",
-      "category": "equipment",
-      "domain": "tech"
     },
     {
       "source": "EE Times",
