@@ -1,6 +1,46 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-04T23:43:31.517Z",
+  "fetchedAt": "2026-09-05T23:33:54.469Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"2028년까지 메모리 공급난\"…증권가, 삼성전자 '주가 재평가' 전망",
+      "link": "https://zdnet.co.kr/view/?no=20260905121046",
+      "date": "Sat, 05 Sep 2026 16:00:02 +0900",
+      "desc": "[지디넷코리아]국내외 증권가가 강력한 메모리 수요와 제한적 공급을 근거로 국내 반도체 기업 주가가 저평가됐다는 분석을 잇달아 내놨다. 글로벌 빅테크 기업의 장기공급계약(LTA) 체결 요구가 이어지며 공급난이 2028년까지 지속될 것으로 보이는 가운데,",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "딥시크, 화웨이 AI칩으로 中 최대 데이터센터 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260905071613",
+      "date": "Sat, 05 Sep 2026 15:23:31 +0900",
+      "desc": "[지디넷코리아]중국 인공지능(AI) 스타트업 딥시크가 화웨이의 차세대 AI 가속기 16만개 이상 투입한 대규모 데이터센터 구축을 추진한다. 미국의 대중국 반도체 수출 규제가 이어지는 가운데, 자국 AI 칩을 기반으로 대규모 컴퓨팅 인프라를 확보하며 엔",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI는 지금] \"GPU만으론 부족\"…삼성도 'AI 추론 SW' 짐렛랩스에 베팅",
+      "link": "https://zdnet.co.kr/view/?no=20260905143455",
+      "date": "Sat, 05 Sep 2026 14:35:12 +0900",
+      "desc": "[지디넷코리아]짐렛랩스가 서로 다른 종류의 반도체를 묶어 인공지능(AI) 추론을 처리하는 '멀티 실리콘' 기술을 앞세워 대규모 투자 유치에 성공했다. AI 추론 수요와 데이터센터 전력 부담이 함께 커지면서 짐렛랩스처럼 GPU·CPU·전용 가속기를 조합",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[안광섭 AI 진테제] 은행대출, 美中은 GPU와 토큰이 결정...한국은",
+      "link": "https://zdnet.co.kr/view/?no=20260905101655",
+      "date": "Sat, 05 Sep 2026 10:35:29 +0900",
+      "desc": "[지디넷코리아]AI역사에서 2026년 8월 14일도 주목해야 할 듯 하다. 이날, 광저우시 하이주구 은행 세 곳이 같은 이름의 금융상품을 나란히 내놨다. 이른바 '토큰 대출(Token贷)'이다. 중국은행 광저우분행이 내놓은 상품의 여신 심사 기준은 이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "EE Times",
       "type": "intl",
