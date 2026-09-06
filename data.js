@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-05T23:33:54.469Z",
+  "fetchedAt": "2026-09-06T23:28:54.393Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"삼전닉스 메모리 재고 10일 미만까지 뚝↓…내년 물량 고갈\"-KB",
+      "link": "https://www.hankyung.com/article/2026090773736",
+      "date": "Mon, 07 Sep 2026 08:12:10 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 인프라주로 부상한 NHN…한 달 새 66% 급등",
+      "link": "https://www.hankyung.com/article/202609066611i",
+      "date": "Mon, 07 Sep 2026 07:49:01 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "마이크론, YMTC 특허 7번째 무효 판단 받았다...쟁점특허 27건",
+      "link": "https://zdnet.co.kr/view/?no=20260906193737",
+      "date": "Sun, 06 Sep 2026 19:44:43 +0900",
+      "desc": "[지디넷코리아]미국 마이크론이 중국 YMTC를 상대로 자국에서 힘겨운 특허분쟁을 이어가고 있다. YMTC는 미국에서 마이크론을 상대로 메모리 반도체 특허침해소송 3건을 제기했다. 마이크론은 무효심판 등으로 대응 중이지만 결과는 신통치 않다. YMTC가",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260905160905",
+      "date": "Sun, 06 Sep 2026 09:37:10 +0900",
+      "desc": "[지디넷코리아]사우디아라비아가 글로벌 기업과 손잡고 자국 인공지능(AI) 생태계 구축에 나섰다. 미국 AI 인프라와 중국 모델 기술을 받아들이며 '소버린 AI' 구축에 필요한 기반을 확보하고 있다.사우디 AI 기업 휴메인은 지난달 31일부터 이달 3일",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 클라우드 엔스케일, IPO 앞두고 35억 달러 조달 추진…엔비디아도 논의",
+      "link": "https://zdnet.co.kr/view/?no=20260905084246",
+      "date": "Sun, 06 Sep 2026 09:35:01 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 클라우드 기업 엔스케일이 기업공개(IPO)를 앞두고 최대 35억 달러(약 4조 7000억원) 규모 자금 조달을 추진한다. AI 인프라 구축에 대규모 자금이 필요한 가운데, 핵심 파트너인 엔비디아로부터 약 20억 달러(약 ",
+      "category": "deals",
+      "domain": "business"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
@@ -57,7 +107,7 @@ window.NEWS_DATA = {
       "title": "열받는 반도체",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=61871",
       "date": "2026-09-04 22:08:22",
-      "desc": "발열 관리가 인공지능(AI) 반도체 설계와 생산의 전제 조건이 됐다.전력, 성능, 면적(PPA:Power, Performance, Area)을 중심으로 이뤄졌던 반도체 개발에 열(Thermal)을 주요 변수로 추가해야 한다는 목소리도 나왔다.3일 경기",
+      "desc": "발열 관리가 인공지능(AI) 반도체 설계와 생산의 필수 조건이 됐다.전력, 성능, 면적(PPA:Power, Performance, Area)을 중심으로 이뤄졌던 반도체 개발에 열(Thermal)을 주요 변수로 추가해야 한다는 목소리도 나왔다.3일 경기",
       "category": "etc",
       "domain": "etc"
     },
