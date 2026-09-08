@@ -1,6 +1,206 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-07T23:59:36.155Z",
+  "fetchedAt": "2026-09-08T23:50:12.410Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자-미스트랄 AI, 반도체 설계·제조 특화 AI 만든다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61984",
+      "date": "2026-09-09 01:00:00",
+      "desc": "삼성전자가 미스트랄 AI와 반도체 설계·제조에 특화된 AI 모델을 공동개발한다고 9일 밝혔다.양사는 이날 열린 한국·프랑스 정상회담 시점에 전략적 동반관계(파트너십)를 체결했다. 앞서 삼성전자는 미스트랄 AI에 대규모 지분 투자로 장기 기술 협력과 공",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-ai%ec%99%80-%ec%a0%84%eb%9e%b5%ec%a0%81-%ed%8c%8c%ed%8a%b8%eb%84%88%ec%8b%ad-%ec%b2%b4%ea%b2%b0",
+      "date": "Wed, 09 Sep 2026 01:00:00 +0000",
+      "desc": "8일 삼성전자가 프랑스 인공지능 기업 ‘미스트랄 AI(Mistral AI)’와 전략적 파트너십을 체결하고, 반도체 설계와 제조에 특화된 자체 AI 모델을 공동 개발하기로 했다. 이번 파트너십 체결은 한·프랑스 양국 정상회담 시점에 진행됐다. 양사는 삼",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "유가 100달러 역풍에도 반도체 급등했는데…MS \"모멘텀 마지막 불꽃\" [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202609092480i",
+      "date": "Wed, 09 Sep 2026 08:01:17 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "Arm, 에이전트 AI 대비 'CSS 포 모바일 2' 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61962",
+      "date": "2026-09-08 19:45:45",
+      "desc": "Arm이 모바일부터 데이터센터, 로보틱스 영역까지 에이전트 인공지능(AI) 확산에 대응한다.지난 7일 Arm은 모바일용 컴퓨트 서브시스템(CSS)인 'CSS 포 모바일 2'를 공개했다. CSS 포 모바일 2는 그래픽처리장치(GPU) '말리(Mali) ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61967",
+      "date": "2026-09-08 19:41:06",
+      "desc": "앤시스를 품은 시높시스가 반도체 설계 플랫폼을 확장해 한국 반도체 시장을 정조준한다.샹카 크리슈나무티 시높시스 최고 제품 개발 책임자(CPDO)는 8일 서울 강남 그랜드 인티컨티넨탈 서울 파르나스에서 기자간담회를 열고 \"에이전트 인공지능(AI), 멀티",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메타·파네시아, CXL로 데이터센터 연결",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61980",
+      "date": "2026-09-08 19:37:06",
+      "desc": "메타와 파네시아가 데이터센터를 하나의 칩처럼 동작시키는 차세대 인공지능(AI) 데이터센터 구조를 제시했다. AI 모델이 커지면서 발생하는 지연 문제를 해결할 수 있다.파네시아는 메타와 중앙처리장치(CPU), 가속기, 메모리를 컴퓨트익스프레스링크(CXL",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 4나노 반도체 첫 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61975",
+      "date": "2026-09-08 19:35:10",
+      "desc": "세미파이브가 4나노 공정 양산 사례를 처음으로 확보했다. 구체적인 공급 규모는 밝히지 않았다. 지난해 매출(약 1210억원) 10%를 상회한다.세미파이브는 국내 반도체 설계 전문(팹리스) 업체 하이퍼엑셀의 4나노 칩 양산을 시작한다고 8일 밝혔다. 기",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
+      "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
+      "date": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "desc": "Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자-ASML, D램 제조에 하이 EUV 도입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61969",
+      "date": "2026-09-08 17:48:18",
+      "desc": "삼성전자가 2028년까지 업계 최초로 네덜란드 반도체 노광 장비 기업 ASML의 고개구율(하이-NA) 극자외선 노광 장비를 첨단 D램 제조 시설에 도입한다. 300mm 대형 포토 마스크도 공동 개발한다.삼성전자가 8일 이같은 내용의 ASML과 차세대 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전자, 프랑스 미스트랄 AI에 지분 투자…반도체 특화 AI 공동 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260908192706",
+      "date": "Wed, 09 Sep 2026 01:00:01 +0900",
+      "desc": "[지디넷코리아]삼성전자가 프랑스 대표 인공지능(AI) 기업 '미스트랄 AI'에 투자하고, 반도체 특화 인공지능(AI) 모델을 공동 개발한다.한국·프랑스 정상회담에 맞춰 성사된 이번 협력에서 삼성전자는 미스트랄 AI와 전략 파트너십을 체결했다고 8일 밝",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성전자, ASML과 차세대 반도체 제조 협력 확대",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-asml%ea%b3%bc-%ec%b0%a8%ec%84%b8%eb%8c%80-%eb%b0%98%eb%8f%84%ec%b2%b4-%ec%a0%9c%ec%a1%b0-%ed%98%91%eb%a0%a5-%ed%99%95%eb%8c%80",
+      "date": "Tue, 08 Sep 2026 15:03:00 +0000",
+      "desc": "삼성전자, 12인치 포토 마스크 도입 위한 글로벌 컨소시엄 참여 삼성전자가 네덜란드 반도체 노광설비 기업 ASML이 주도하는 ‘대형 마스크 컨소시엄(Large Size Mask Consortium)’에 참여하고 차세대 12인치 포토 마스크 공동 개발에",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Security AI That Learns the Language of Movement",
+      "link": "https://www.eetimes.com/the-security-ai-that-learns-the-language-of-movement/",
+      "date": "Tue, 08 Sep 2026 13:15:17 +0000",
+      "desc": "UNC Charlotte researchers use edge AI to learn normal motion, predict what comes next, and flag anomalies for human review. The post The Sec",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "액셀리스, 한국 평택에 신규 제조 시설 건설",
+      "link": "https://zdnet.co.kr/view/?no=20260908221002",
+      "date": "Tue, 08 Sep 2026 22:10:02 +0900",
+      "desc": "[지디넷코리아] 베벌리, 매사추세츠, 2026년 9월 8일 /PRNewswire/ -- 반도체 산업용 핵심 이온 주입 솔루션의 선도적인 공급업체인 액셀리스 테크놀로지스(Axcelis Technologies, Inc.)(Nasdaq: ACLS)는 오늘 ",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "퀀티넘, 미국 내 포획 이온 양자 컴퓨터 제조 발전 위해 미국 상무부와 1억 달러 규모 CHIPS R&D 지원금 최종 확정",
+      "link": "https://zdnet.co.kr/view/?no=20260908211002",
+      "date": "Tue, 08 Sep 2026 21:10:02 +0900",
+      "desc": "[지디넷코리아] 연방정부 지원금으로 내결함성 포획 이온 양자 컴퓨팅 확장에 필요한 핵심 연구개발(R&amp;D)과 미국 내 양자 반도체 제조 역량 지원. 퀀티넘, 차세대 포획 이온 및 제어 전자장치 제작을 위해 글로벌파운드리스(GlobalFoundri",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "How Much Impact Will AI Have on IoT Software Engineering?",
+      "link": "https://www.eetimes.com/how-much-impact-will-ai-have-on-iot-software-engineering/",
+      "date": "Tue, 08 Sep 2026 08:06:55 +0000",
+      "desc": "In theory, AI is a surefire way to raise productivity in software engineering, but the reality may not be quite so cut-and-dried. The post H",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Smart Outlier Detection",
+      "link": "https://semiengineering.com/smart-outlier-detection/",
+      "date": "Tue, 08 Sep 2026 07:15:48 +0000",
+      "desc": "Just because a chip is deemed good doesn't mean it will work as expected. The post Smart Outlier Detection appeared first on Semiconductor E",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Research Bits: Sept. 8",
+      "link": "https://semiengineering.com/research-bits-sept-8-2/",
+      "date": "Tue, 08 Sep 2026 07:01:53 +0000",
+      "desc": "Carbon insulator for interconnects; high-temperature SiC JFETs; VCT dielectric. The post Research Bits: Sept. 8 appeared first on Semiconduc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Sept. 8",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/",
+      "date": "Tue, 08 Sep 2026 07:01:25 +0000",
+      "desc": "HBF for LLM inference; M3D SRAM with BEOL pass-gates at 2nm; distributed GPU architectures; hybrid HBM-HBF memory; GaN-on-silicon polarizati",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260907-TM-01호] 2026년 9월 7일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260907-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-7%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 08 Sep 2026 00:55:29 GMT",
+      "desc": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이' (2026년 9월 7일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20260907110055 [핵심 요약] [1] 삼성 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260907-TI-01호] 2026년 9월 7일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260907-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 08 Sep 2026 00:54:17 GMT",
+      "desc": "삼성, 美정부 주도 '파운드리스쿨' 등판…AI 제조 생태계 합류 (2026년 9월 7일, 이데일리, 김소연 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=03384966645577824&#38;mediaC",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
