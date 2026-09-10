@@ -1,6 +1,236 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-09T23:49:41.013Z",
+  "fetchedAt": "2026-09-10T23:43:17.988Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "유가·美 국채금리 급등에 일제 하락…반도체주 급락 [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2026091178316",
+      "date": "Fri, 11 Sep 2026 07:29:24 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "고작 0.5%p 격차…삼성, 파운드리 2위 자리도 '흔들'",
+      "link": "https://www.hankyung.com/article/202609107434i",
+      "date": "Fri, 11 Sep 2026 07:00:10 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "큐알티-에이아이웍스 MOU…반도체 검증에 AI 접목한다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62127",
+      "date": "2026-09-10 21:20:04",
+      "desc": "반도체 신뢰성 평가 분석 기업 큐알티(QRT)가 에이아이웍스(AIWORKX)와 인공지능(AI) 기반 반도체 신뢰성 검증 체계를 구축한다고 10일 밝혔다.양사는 이날 'AI 기반 반도체 테스트·분석·검증 협력' 목적의 업무협약(MOU)을 체결했다. 향후",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260910090943",
+      "date": "Fri, 11 Sep 2026 06:01:01 +0900",
+      "desc": "[지디넷코리아]\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "From AI-Assisted EDA to AI-Mediated Engineering",
+      "link": "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/",
+      "date": "Thu, 10 Sep 2026 20:23:10 +0000",
+      "desc": "What DAC 2026 revealed about agents, engines, trust—and why the industry should be optimistic. The post From AI-Assisted EDA to AI-Mediated ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 \"새로운 하이퍼스케일러와 맞춤형 AI 가속기 협력\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62109",
+      "date": "2026-09-10 17:44:23",
+      "desc": "퀄컴이 대규모 데이터센터 운영 기업(하이퍼스케일러)과 인공지능(AI) 가속기를 공동 설계·생산하는 두 번째 계약을 체결했다. 대부분 매출을 스마트폰 칩에 의존해왔던 퀄컴이 인공지능(AI) 분야에서 가시적 성과를 거두고 있다는 점에서 의미가 있다.아카시",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 2029년 매출 1695억 목표…LED·전장 사업 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62098",
+      "date": "2026-09-10 16:27:15",
+      "desc": "글로벌테크놀로지가 발광다이오드(LED) 구동칩, 투명 디스플레이, 마이크로 LED, 자동차용 시스템반도체 사업을 확대해 2029년 매출 1695억원을 목표로 제시했다.김민선 글로벌테크놀로지 대표는 10일 서울 여의도 CCMM 빌딩에서 열린 기자간담회에",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62062",
+      "date": "2026-09-10 11:36:54",
+      "desc": "SK하이닉스가 국내 사업장 용수 절감으로 2030년까지 총 6억톤(t)의 물을 아낄 계획이다.SK하이닉스는 10일 '대한민국 국제 물주간 2026' 행사에 참가해 용수 절감 성과와 목표를 소개한다고 밝혔다. 행사는 지난 9일부터 11일까지 대구 엑스코",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "ADI Snaps Alif Semiconductor to Push AI into Physical Systems",
+      "link": "https://www.eetimes.com/adi-snaps-alif-semiconductor-to-push-ai-into-physical-systems/",
+      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "desc": "The $1.35 billion deal marks another edge AI leap of faith, combining analog sensing with low-power AI processors. The post ADI Snaps Alif S",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 현금 50%·주식 50% 합의안 마련",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62068",
+      "date": "2026-09-10 10:55:56",
+      "desc": "SK하이닉스 노사가 성과급의 기본 지급 비율을 현금 50%, 주식 50%로 조정하는 잠정합의안을 지난 9일 마련했다. 10일 노조 임시대의원대회를 거쳐 오는 15일부터 16일까지 총투표를 진행한다. 지난달 마련한 잠정합의안의 큰 틀을 유지하고 성과급의",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI는 지금] AMD 추격에 '쿠다' 더 세졌다…엔비디아, AI SW 주도권 강화 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260910184038",
+      "date": "Thu, 10 Sep 2026 18:46:12 +0900",
+      "desc": "[지디넷코리아]엔비디아가 인공지능(AI) 가속기 시장의 주도권을 지키기 위해 소프트웨어 경쟁력을 한층 강화하고 있다. 차세대 그래픽처리장치(GPU)인 '루빈' 출하가 시작된 가운데 쿠다(CUDA)의 개발 지원을 확대하고 공유 GPU 관리와 AI 코딩 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "What Six Hours on the Runway Told Me About Air Traffic Control, Resilience, and AI",
+      "link": "https://www.eetimes.com/what-six-hours-on-the-runway-told-me-about-air-traffic-control-resilience-and-ai/",
+      "date": "Thu, 10 Sep 2026 08:09:30 +0000",
+      "desc": "A U.K. air traffic control glitch stranded flights for hours, prompting reflections on resilience, redundancy, legacy systems, and AI. The p",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Redefining Processes At Sub-2nm",
+      "link": "https://semiengineering.com/redefining-processes-at-sub-2nm/",
+      "date": "Thu, 10 Sep 2026 07:13:52 +0000",
+      "desc": "Discrete steps are being merged with others as dimensions shrink into the angstrom range. The post Redefining Processes At Sub-2nm appeared ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Silent Data Errors Redefine Test Coverage And Fleet Maintenance Strategies",
+      "link": "https://semiengineering.com/silent-data-errors-redefine-test-coverage-and-fleet-maintenance-strategies/",
+      "date": "Thu, 10 Sep 2026 07:12:39 +0000",
+      "desc": "Through better manufacturing screening, DFT for systems and fleet monitors, this major scourge on data center hardware is gradually being ta",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Validation Gets Tested At 1kW",
+      "link": "https://semiengineering.com/validation-gets-tested-at-1kw/",
+      "date": "Thu, 10 Sep 2026 07:11:34 +0000",
+      "desc": "Kilowatt-class AI accelerators are forcing engineers to rethink what counts as adequate coverage across workload, thermal behavior, test har",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond Thickness: Using Picosecond Ultrasonic Technology For SiCr Process Control In BCD Devices",
+      "link": "https://semiengineering.com/beyond-thickness-using-picosecond-ultrasonic-technology-for-sicr-process-control-in-bcd-devices/",
+      "date": "Thu, 10 Sep 2026 07:09:47 +0000",
+      "desc": "Improve visibility into deposition variation by combining thickness metrology with simultaneous reflectivity measurements. The post Beyond T",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond Conventional Ring Oscillators: Purpose-Built Process Detectors For Deeper Silicon Insight",
+      "link": "https://semiengineering.com/beyond-conventional-ring-oscillators-purpose-built-process-detectors-for-deeper-silicon-insight/",
+      "date": "Thu, 10 Sep 2026 07:08:40 +0000",
+      "desc": "How design-aware monitor analytics connects production measurements with device behavior and pre-silicon expectations. The post Beyond Conve",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "System-Level Test In The AI Era: Validating Reliability At Scale",
+      "link": "https://semiengineering.com/system-level-test-in-the-ai-era-validating-reliability-at-scale/",
+      "date": "Thu, 10 Sep 2026 07:03:56 +0000",
+      "desc": "Passing ATE no longer guarantees success in the field as sustained, high-power workloads push thermal and electrical limits. The post System",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Accelerating Shift Left With Early RTL DFT Analysis And Connectivity Verification",
+      "link": "https://semiengineering.com/accelerating-shift-left-with-early-rtl-dft-analysis-and-connectivity-verification/",
+      "date": "Thu, 10 Sep 2026 07:02:43 +0000",
+      "desc": "How early RTL testability analysis and DFT optimization enable shift left strategies that improve manufacturing test quality, reduce turnaro",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 2",
+      "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-2/",
+      "date": "Thu, 10 Sep 2026 07:02:24 +0000",
+      "desc": "How supply chain interdependencies and strategic alliances are reshaping the semiconductor landscape. The post From Silicon To Systems: Rede",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rethinking Verification Traceability for Modern Systems",
+      "link": "https://semiengineering.com/rethinking-verification-traceability-for-modern-systems/",
+      "date": "Thu, 10 Sep 2026 07:02:01 +0000",
+      "desc": "Enabling a comprehensive digital verification thread built on Verification Capture Points, structured coverage artifacts that link parameter",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "A Highly Scalable Architecture For AI-First Semiconductor Operations",
+      "link": "https://semiengineering.com/a-highly-scalable-architecture-for-ai-first-semiconductor-operations/",
+      "date": "Thu, 10 Sep 2026 07:01:41 +0000",
+      "desc": "Semiconductor manufacturing generates enormous volumes of data, yet only a fraction of it is analyzed. The post A Highly Scalable Architectu",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260909-TI-01호] 2026년 9월 9일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260909-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-9%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 10 Sep 2026 00:49:50 GMT",
+      "desc": "삼성전자, TSMC와 격차 더 벌어졌다… 中과 단 0.5%p차 (2026년 9월 9일, 디지털타임스, 이상현 기자) 원문보기: https://www.dt.co.kr/article/12083114?ref=naver [핵심 요약] [1] 삼성전자 파운드리",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
