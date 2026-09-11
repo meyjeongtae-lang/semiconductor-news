@@ -1,6 +1,206 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-10T23:43:17.988Z",
+  "fetchedAt": "2026-09-11T23:52:52.498Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 산업은 항상 사이클\"…현재 국면에서 투자 전략은?",
+      "link": "https://www.hankyung.com/article/202609119361i",
+      "date": "Sat, 12 Sep 2026 08:00:03 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "2분기 팹리스 톱10 매출 73% 급증…AMD, 퀄컴 제치고 첫 3위",
+      "link": "https://zdnet.co.kr/view/?no=20260911215419",
+      "date": "Sat, 12 Sep 2026 08:00:03 +0900",
+      "desc": "[지디넷코리아]2분기 전 세계 상위 10대 팹리스(반도체 설계전문) 기업 매출 합계가 전년 동기 대비 73% 급증했다. 인공지능(AI) 인프라 투자 광풍 영향이다. 서버용 중앙처리장치(CPU) 수요 폭증을 등에 업은 AMD가 모바일 침체에 발목 잡힌 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "세균끼리 신호 주고받아 덧셈 계산…MIT, 살아있는 회로 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260912072703",
+      "date": "Sat, 12 Sep 2026 07:30:02 +0900",
+      "desc": "[지디넷코리아]세균 여러 무리를 연결해 숫자를 더하고 조건에 따라 결과를 내놓는 살아있는 회로가 개발됐다. 전선과 전기 신호를 사용하는 반도체 회로와 달리 세균이 화학물질을 주고받으며 정보를 전달하는 방식이다.12일 씨넷재팬에 따르면 미국 매사추세츠공",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
+      "link": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/",
+      "date": "Fri, 11 Sep 2026 21:56:01 +0000",
+      "desc": "Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chipl",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
+      "link": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
+      "date": "Fri, 11 Sep 2026 21:43:18 +0000",
+      "desc": "Researchers at Rensselaer Polytechnic Institute and IBM T.J. Watson Research Center published a technical paper titled “REACH: Controller-Ma",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
+      "link": "https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/",
+      "date": "Fri, 11 Sep 2026 21:28:44 +0000",
+      "desc": "Researchers at National Yang Ming Chiao Tung University and TSMC published a technical paper titled “High contrast EUV imaging enabled by to",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+      "link": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/",
+      "date": "Fri, 11 Sep 2026 21:06:41 +0000",
+      "desc": "Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxid",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
+      "link": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
+      "date": "Fri, 11 Sep 2026 21:00:00 +0000",
+      "desc": "Space is the next frontier for semiconductor manufacturing, as startup Besxar, founded by an ex-OpenAI technical director, completed its fir",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)",
+      "link": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al/",
+      "date": "Fri, 11 Sep 2026 20:54:59 +0000",
+      "desc": "Researchers at the NIST, UCSD et al. published a technical paper titled “Predicting Cure Evolution and Thermal Endurance of a Highly Filled ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "HW Information-Flow Tracking for Pre-Silicon Security Testing (Princeton, MIT, EPFL)",
+      "link": "https://semiengineering.com/hw-information-flow-tracking-for-pre-silicon-security-testing-princeton-mit-epfl/",
+      "date": "Fri, 11 Sep 2026 20:15:35 +0000",
+      "desc": "Researchers at Princeton University, MIT CSAIL, and EPFL published a technical paper titled “Efficient Hardware Information-Flow Tracking fo",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Should Standards Trump Innovation?",
+      "link": "https://www.eetimes.com/should-standards-trump-innovation/",
+      "date": "Fri, 11 Sep 2026 13:52:31 +0000",
+      "desc": "Standards shouldn’t muzzle RFID’s next leap: Gen2X keeps Gen2 compatibility while boosting range, speed, and reliability. The post Should St",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "돈줄 마른 시지트로닉스, 유증 카드도 실패",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62153",
+      "date": "2026-09-11 10:50:55",
+      "desc": "시지트로닉스가 30억원 규모의 유상증자를 추친했으나 청약률 목표치 달성에 실패했다. 유증 여파로 시가총액은 상장폐지 벼랑 끝으로 내몰렸다.시지트로닉스는 지난 8일부터 이틀간 유증 청약을 실시했다. 지난 10일 99만3377주(발행주식총수 약 15.4%",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'열 감옥' 족쇄 3D 반도체…냉각 솔루션이 양산 물꼬 트나",
+      "link": "https://zdnet.co.kr/view/?no=20260911182151",
+      "date": "Fri, 11 Sep 2026 18:41:00 +0900",
+      "desc": "[지디넷코리아]평면(2D) 집적도 향상이 물리적 벽에 부딪히며 반도체 업계 관심이 '수직 적층(3D IC)'으로 쏠리는 가운데, 기술 도입 최대 장벽이었던 '발열 문제'를 해결할 냉각 솔루션이 속속 가시화하고 있다. 3D 반도체 시장도 본격 개화를 기",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260911-TE-01호] 2026년 9월 11일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260911-te-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-11%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 11 Sep 2026 07:33:24 GMT",
+      "desc": "\"레고처럼 조립\"…반도체 테스트 소켓 상식을 뒤집은 ISC (2026년 9월 11일, 한국경제, 이광식 기자) 원문보기: https://www.hankyung.com/article/202609118238i [핵심 요약] [1] ISC, 모듈형 대형 테",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260911-TT-01호] 2026년 9월 11일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260911-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-11%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 11 Sep 2026 07:32:19 GMT",
+      "desc": "AI 반도체 패키징 난이도↑...인텔 EMIB· TSMC CoWoS 경쟁 재점화 (2026년 9월 11일, ZDNet Korea, 권봉석 기자) 원문보기: https://zdnet.co.kr/view/?no=20260910211858 [핵심 요약] [",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Indian Researchers Look Beyond GPUs to Neuromorphic AI Hardware",
+      "link": "https://www.eetimes.com/indian-researchers-look-beyond-gpus-to-neuromorphic-ai-hardware/",
+      "date": "Fri, 11 Sep 2026 07:31:15 +0000",
+      "desc": "As AI workloads become more computationally demanding, Indian researchers argue that the next advance may come from rethinking computing arc",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260911-TI-01호] 2026년 9월 11일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260911-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-11%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 11 Sep 2026 07:31:03 GMT",
+      "desc": "中CXMT, 상하이 신규 팹 설비투자 준비…韓 맹추격 (2026년 9월 11일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20260911105941 [핵심 요약] [1] CXMT, 상하이 신규",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week in Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-155/",
+      "date": "Fri, 11 Sep 2026 07:01:29 +0000",
+      "desc": "12-inch high-NA EUV masks; Arm's edge AI push; Amkor's expansion; 3D memory; FeRAM startup makes waves; Qualcomm-AWS $60B custom silicon dea",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260910-TT-01호] 2026년 9월 10일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260910-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-10%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 11 Sep 2026 00:59:21 GMT",
+      "desc": "AMD 추격에 '쿠다' 더 세졌다…엔비디아, AI SW 주도권 강화 가속 (2026년 9월 10일, ZDNet Korea, 장유미 기자) 원문보기: https://zdnet.co.kr/view/?no=20260910184038 [핵심 요약] [1] 엔",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260910-TI-01호] 2026년 9월 10일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260910-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-10%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 11 Sep 2026 00:57:58 GMT",
+      "desc": "“해외 대비 뒤처진 첨단 패키징 역량… 정부 투자·인력 양성 강화해야” (2026년 9월 10일, 전자신문, 권동준 기자) 원문보기: https://www.etnews.com/20260910000016 [핵심 요약] [1] 국내 첨단 패키징 경쟁력 뒤",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -1079,16 +1279,6 @@ window.NEWS_DATA = {
       "date": "2026-09-04 07:46:52",
       "desc": "퀄컴이 모바일 게이밍 환경을 개선한 인공지능(AI) 기반 그래픽처리장치(GPU) 기술을 선보인다.퀄컴은 2일(현지시간) '아드레노 뉴럴 퓨전(Adreno Neural Fusion)'을 소개했다. 렌더링 비용과 전력 소모를 줄이면서 더 뛰어난 그래픽 품",
       "category": "memory",
-      "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-154/",
-      "date": "Fri, 04 Sep 2026 07:01:21 +0000",
-      "desc": "2D Tunnel FET; in-memory photonic computing; India's $13.4B Semicon 2.0; SEMICON Taiwan; PCIe 6/7 test; MediaTek deal; 300mm Si photonics; I",
-      "category": "research",
       "domain": "tech"
     },
     {
