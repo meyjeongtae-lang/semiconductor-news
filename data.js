@@ -1,6 +1,46 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-11T23:52:52.498Z",
+  "fetchedAt": "2026-09-12T23:44:29.280Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 차세대 NPU '헥사곤' 공개…에이전틱 AI 상시 구동 최적화",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62200",
+      "date": "2026-09-13 08:21:41",
+      "desc": "퀄컴이 자율적(에이전틱) 인공지능(AI) 상시 구동 차세대 신형 헥사곤을 10일(현지시간) 공개했다.퀄컴 헥사곤은 스냅드래곤 플랫폼 탑재 모바일용 신경망처리장치(NPU)다. 신형 헥사곤은 엘리먼트 가속기(Element Accelerator), 50% ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 반도체 공장 운영 비법 '공공나노팹'에 전수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62202",
+      "date": "2026-09-13 08:11:58",
+      "desc": "삼성전자가 한국 반도체 생태계를 강화 목적으로 반도체 공장 운영·관리 비법을 공공기관에 전수했다.과학기술정보통신부(과기정통부)는 11일 포항공과대학교 나노융합기술원에서 '삼성전자-나노융합기술원 공공나노팹 운영 효율화 컨설팅 성과보고회'를 열었다. 지난",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Inside Architect Labs’ Two-Week Chip Design",
+      "link": "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/",
+      "date": "Sat, 12 Sep 2026 02:00:00 +0000",
+      "desc": "Architect Labs says its AI can drag custom chip design from years to weeks with Redwood. The post Inside Architect Labs’ Two-Week Chip Desig",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "팹리스 톱10, 2분기 매출 73% 급증…AMD, 퀄컴 제치고 첫 3위",
+      "link": "https://zdnet.co.kr/view/?no=20260911215419",
+      "date": "Sat, 12 Sep 2026 08:00:03 +0900",
+      "desc": "[지디넷코리아]2분기 전 세계 상위 10대 팹리스(반도체 설계전문) 기업 매출 합계가 전년 동기 대비 73% 급증했다. 인공지능(AI) 인프라 투자 광풍 영향이다. 서버용 중앙처리장치(CPU) 수요 폭증을 등에 업은 AMD가 모바일 침체에 발목 잡힌 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -10,16 +50,6 @@ window.NEWS_DATA = {
       "desc": "",
       "category": "earnings",
       "domain": "business"
-    },
-    {
-      "source": "ZDNet Korea",
-      "type": "kr",
-      "title": "2분기 팹리스 톱10 매출 73% 급증…AMD, 퀄컴 제치고 첫 3위",
-      "link": "https://zdnet.co.kr/view/?no=20260911215419",
-      "date": "Sat, 12 Sep 2026 08:00:03 +0900",
-      "desc": "[지디넷코리아]2분기 전 세계 상위 10대 팹리스(반도체 설계전문) 기업 매출 합계가 전년 동기 대비 73% 급증했다. 인공지능(AI) 인프라 투자 광풍 영향이다. 서버용 중앙처리장치(CPU) 수요 폭증을 등에 업은 AMD가 모바일 침체에 발목 잡힌 ",
-      "category": "ai-compute",
-      "domain": "tech"
     },
     {
       "source": "ZDNet Korea",
