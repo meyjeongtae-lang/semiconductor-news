@@ -1,6 +1,26 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-12T23:44:29.280Z",
+  "fetchedAt": "2026-09-13T23:53:23.718Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "천당과 지옥 오간 한미반도체 주가…현 시점 전략 짜보니",
+      "link": "https://www.hankyung.com/article/202609119500i",
+      "date": "Mon, 14 Sep 2026 08:00:06 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체 급락할 때 '이 주식' 담았더니…\"15%나 올랐다\" 환호 [한경우의 케이스스터디]",
+      "link": "https://www.hankyung.com/article/2026091194626",
+      "date": "Sun, 13 Sep 2026 20:00:01 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -19,6 +39,26 @@ window.NEWS_DATA = {
       "date": "2026-09-13 08:11:58",
       "desc": "삼성전자가 한국 반도체 생태계를 강화 목적으로 반도체 공장 운영·관리 비법을 공공기관에 전수했다.과학기술정보통신부(과기정통부)는 11일 포항공과대학교 나노융합기술원에서 '삼성전자-나노융합기술원 공공나노팹 운영 효율화 컨설팅 성과보고회'를 열었다. 지난",
       "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 리더스] 법무법인 태평양 \"복잡해진 AI 데이터센터, 통합 자문으로 승부\"",
+      "link": "https://zdnet.co.kr/view/?no=20260913065945",
+      "date": "Sun, 13 Sep 2026 16:00:02 +0900",
+      "desc": "[지디넷코리아]\"인공지능(AI) 데이터센터는 이제 단순한 부동산 개발사업이 아니라 전력·투자·금융·규제·운영이 모두 연결된 국가 핵심 인프라 사업입니다. 각 분야 전문성을 하나로 모아 국내 AI 인프라 프로젝트가 실제 성공 사례로 이어질 수 있도록 지",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "MS, 러스트 '티어1' 언어로 격상...\"C++·타입스크립트와 동급\"",
+      "link": "https://zdnet.co.kr/view/?no=20260913001631",
+      "date": "Sun, 13 Sep 2026 12:30:01 +0900",
+      "desc": "[지디넷코리아]마이크로소프트가 러스트를 사내 개발을 위한 핵심 프로그래밍 언어인 '티어1'으로 공식 격상했다.관련 업계에선 기존 C/C++ 코드에서 반복되는 메모리 안전성 문제를 줄이고 윈도우와 클라우드 서비스 전반에서 러스트 도입을 표준화하기 위한 ",
+      "category": "memory",
       "domain": "tech"
     },
     {
