@@ -1,6 +1,116 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-13T23:53:23.718Z",
+  "fetchedAt": "2026-09-15T00:18:11.830Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, '1000억원 지출' 주장한 노소영 대리인 불기소 처분에 항고",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62276",
+      "date": "2026-09-15 08:39:03",
+      "desc": "최태원 SK그룹 회장 측이 노소영 아트센터 나비 관장 측 법률대리인 이상원 변호사에 대한 검찰의 불기소 처분에 항고했다고 15일 밝혔다. 최 회장 측 법률대리인은 입장문을 통해 \"이 변호사의 허위사실 유포에 따른 명예훼손 혐의와 관련해 검찰이 내린 불",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "자람테크놀로지, 유럽 통신 고객사용 반도체 설계 계약 해지",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62263",
+      "date": "2026-09-14 19:11:11",
+      "desc": "자람테크놀로지가 고객 요청에 따라 XGSPON 주문형반도체(ASIC) 개발을 중단했다. 자람테크놀로지는 지난 2025년 12월 8일 계약한 유럽 통신 장비 기업용 XGSPON 계약을 해지한다고 14일 공시했다. 해지 사유는 \"계약 상대방의 개발 중단 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스, AI 가속기 4종 정부 '녹색기술제품' 인증",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62243",
+      "date": "2026-09-14 19:05:28",
+      "desc": "딥엑스의 인공지능(AI) 가속기 4종이 14일 정부의 '녹색기술제품 확인'을 받았다.신경망처리장치(NPU) 'DX-M1' 기반 M.2 모듈 2종과 DX-H1 기반 PCIe 모듈 2종이 대상이다.녹색기술인증은 정부가 '기후위기 대응을 위한 탄소중립·녹색",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Digital Keys and Radio Technology in Smart Buildings",
+      "link": "https://www.eetimes.com/digital-keys-and-radio-technology-in-smart-buildings/",
+      "date": "Mon, 14 Sep 2026 17:12:56 +0000",
+      "desc": "The direction of travel seems clear enough: Digital keys are likely to replace physical ones entirely over time. The post Digital Keys and R",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "HB솔루션·프로이천, '국책과제' 올레도스 검사방법 특허 등록...수요기업 삼성D",
+      "link": "https://zdnet.co.kr/view/?no=20260915014629",
+      "date": "Tue, 15 Sep 2026 01:50:57 +0900",
+      "desc": "[지디넷코리아]HB솔루션과 프로이천이 올레도스(OLEDoS) 웨이퍼 검사방법 특허 2건을 지난 8월 지식재산처에 함께 등록했다. 올레도스는 실리콘 기판 위에 유기발광다이오드(OLED)를 증착하는 기술이다. 확장현실(XR) 기기에 적용할 수 있다.HB솔",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
+      "link": "https://www.hankyung.com/article/202609144281i",
+      "date": "Mon, 14 Sep 2026 23:18:09 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "에코프로에이치엔, 반도체 환경설비 등 올해 1914억원 수주",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62221",
+      "date": "2026-09-14 13:59:00",
+      "desc": "에코프로에이치엔이 반도체 온실가스 저감 설비와 발전소 환경설비 수주를 확대하고 있다. 올해 공시 기준 누적 수주액은 1914억원으로 지난해 매출을 넘어섰다.에코프로에이치엔은 올해 누적 수주액이 1914억원으로 집계됐다고 14일 밝혔다. 지난해 매출 1",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Ambient IoT: From Battery-Free Promise to Mass-Market Reality",
+      "link": "https://www.eetimes.com/ambient-iot-from-battery-free-promise-to-mass-market-reality/",
+      "date": "Mon, 14 Sep 2026 12:26:58 +0000",
+      "desc": "Surging investment, maturing tech, and emerging standards are pushing ambient IoT toward mainstream deployment. The post Ambient IoT: From B",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Small Indian Manufacturers Hit Data, Legacy-System Barriers to Scaling AI",
+      "link": "https://www.eetimes.com/small-indian-manufacturers-hit-data-legacy-system-barriers-to-scaling-ai/",
+      "date": "Mon, 14 Sep 2026 05:53:04 +0000",
+      "desc": "AI adoption across manufacturing in India is progressing, but scaling it is running into structural problems across tiers. The post Small In",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260913-TM-01호] 2026년 9월 13일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260913-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 14 Sep 2026 01:02:47 GMT",
+      "desc": "시범가동 튼 삼성 테일러 팹, 본양산 앞두고 '2나노 수율 검증' 총력전 (2026년 9월 13일, 아주경제, 김나윤 기자) 원문보기: https://www.ajunews.com/view/20260913145931268 [핵심 요약] [1] 테일러 팹",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260913-TI-01호] 2026년 9월 13일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260913-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-13%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 14 Sep 2026 00:58:37 GMT",
+      "desc": "GPU 확보 다음은 ‘연결’…韓, AIDC 광통신 기술 키운다 (2026년 9월 13일, 서울경제, 김기혁 기자) 원문보기: https://www.sedaily.com/article/20090298?ref=naver [핵심 요약] [1] AI 데이터센",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
