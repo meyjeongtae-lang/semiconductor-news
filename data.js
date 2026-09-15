@@ -1,6 +1,66 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-15T00:18:11.830Z",
+  "fetchedAt": "2026-09-15T23:57:49.040Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Aircraft Actuator Electrification Redefines System-Level Architecture",
+      "link": "https://www.eetimes.com/aircraft-actuator-electrification-redefines-system-level-architecture/",
+      "date": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "desc": "The transition from hydraulic to electric-motor aircraft actuators also encompasses many system-level issues and opportunities. The post Air",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, DDR5 모듈 외주만 늘린다...베트남·인도 등 해외생산 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62306",
+      "date": "2026-09-15 18:51:50",
+      "desc": "삼성전자가 범용(컨벤셔널) 메모리 모듈 증산 물량을 모두 외주로 돌린다. 고대역폭메모리(HBM) 등 고부가가치 메모리 생산에 집중하기 위해서다. 15일 업계에 따르면 삼성전자는 늘어나는 범용 메모리 모듈 수요에 대응해 조립·테스트 외주(OSAT) 협력",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 공모가 1만원 확정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62320",
+      "date": "2026-09-15 18:24:16",
+      "desc": "코스닥 상장을 앞둔 글로벌테크놀로지가 최종 공모가를 희망가보다 낮은 금액에 확정했다.글로벌테크놀로지는 최종 공모가를 1만원으로 정했다고 15일 밝혔다. 회사는 공모가 희망 밴드를 1만3000~1만5000원으로 설정한 바 있다. 제시한 가격보다 최대 3",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "반도체 식각분쟁...월덱스 \"상부전극-기판 관계 불분명\" vs. 램리서치 \"비교발명과 달라\"",
+      "link": "https://zdnet.co.kr/view/?no=20260916025346",
+      "date": "Wed, 16 Sep 2026 02:57:35 +0900",
+      "desc": "[지디넷코리아]반도체 식각장비 상부 전극을 놓고 램리서치와 특허분쟁 중인 월덱스가 \"(램리서치가 특허에서 기술한) 상부 전극과 기판 사이 상관관계가 불분명하다\"고 주장했다. 청구항(권리범위) 내용이 명확하지 않아 특허성을 인정하기 어렵다는 주장이다. ",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
+      "link": "https://www.eetimes.com/fcc-rule-on-optical-connectivity-could-slow-ai-race/",
+      "date": "Tue, 15 Sep 2026 12:32:10 +0000",
+      "desc": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to na",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "GPU 없이 돌리는 AI…비드래프트 '포켓', 7주 만에 100만 다운로드",
+      "link": "https://zdnet.co.kr/view/?no=20260915180024",
+      "date": "Tue, 15 Sep 2026 18:02:55 +0900",
+      "desc": "[지디넷코리아]비드래프트가 그래픽처리장치(GPU) 없이 개인용 기기에서 구동하는 온디바이스 인공지능(AI) 모델로 빠르게 다운로드를 늘리고 있다. 350억 파라미터 규모 모델 '포켓(POCKET)-35B'는 공개 약 7주 만에 누적 다운로드 100만건",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -8,6 +68,126 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62276",
       "date": "2026-09-15 08:39:03",
       "desc": "최태원 SK그룹 회장 측이 노소영 아트센터 나비 관장 측 법률대리인 이상원 변호사에 대한 검찰의 불기소 처분에 항고했다고 15일 밝혔다. 최 회장 측 법률대리인은 입장문을 통해 \"이 변호사의 허위사실 유포에 따른 명예훼손 혐의와 관련해 검찰이 내린 불",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Data Centers Have A Stranded Power Problem",
+      "link": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/",
+      "date": "Tue, 15 Sep 2026 07:13:41 +0000",
+      "desc": "Redundant feeds protect uptime, but they also strand capacity that could support more hardware. The post AI Data Centers Have A Stranded Pow",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hardware-Software Co-Design In The AI Era",
+      "link": "https://semiengineering.com/hardware-software-co-design-in-the-ai-era/",
+      "date": "Tue, 15 Sep 2026 07:12:38 +0000",
+      "desc": "Even though the benefits are accepted, a combined hardware/software development flow is hampered by a lot of challenges. The post Hardware-S",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Scaling Thermal Analysis From Transistors To Data Centers",
+      "link": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers/",
+      "date": "Tue, 15 Sep 2026 07:11:30 +0000",
+      "desc": "Rising power density and chiplet complexity drive thermal considerations earlier in the design process. The post Scaling Thermal Analysis Fr",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "India Hardens Its Cyber Defenses",
+      "link": "https://www.eetimes.com/india-hardens-its-cyber-defenses/",
+      "date": "Tue, 15 Sep 2026 07:11:27 +0000",
+      "desc": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+      "link": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers/",
+      "date": "Tue, 15 Sep 2026 07:06:12 +0000",
+      "desc": "Build configurable PCIe subsystems spanning local expansion, shared resource domains, and longer-reach topologies. The post Scaling AI Infra",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+      "link": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/",
+      "date": "Tue, 15 Sep 2026 07:04:57 +0000",
+      "desc": "Transforming established SoC design paradigms into system-level fabrics capable of supporting next-generation AI, HPC, and data center workl",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Compressing An 11B VLM To 2.7-bit Weights For Mobile CPUs",
+      "link": "https://semiengineering.com/compressing-an-11b-vlm-to-2-7-bit-weights-for-mobile-cpus/",
+      "date": "Tue, 15 Sep 2026 07:03:29 +0000",
+      "desc": "Combining a novel weight format for efficient decoding with quantization-aware training to reduce model size while retaining accuracy for mu",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Validating PCIe 6.0 Connectivity In A 3D Multi-Die Test Chip",
+      "link": "https://semiengineering.com/validating-pcie-6-0-connectivity-in-a-3d-multi-die-test-chip/",
+      "date": "Tue, 15 Sep 2026 07:02:24 +0000",
+      "desc": "Implementing 64.0 GT/s PCIe connectivity in a stacked-die, face-to-face 3D architecture. The post Validating PCIe 6.0 Connectivity In A 3D M",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "One Processor, One Toolchain",
+      "link": "https://semiengineering.com/one-processor-one-toolchain/",
+      "date": "Tue, 15 Sep 2026 07:01:24 +0000",
+      "desc": "A single, software-controlled core that handles matrix, vector, and scalar code in one execution pipeline. The post One Processor, One Toolc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260914-TT-01호] 2026년 9월 14일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260914-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-14%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 15 Sep 2026 00:51:27 GMT",
+      "desc": "코닉오토메이션, LG AI연구원에 자율실험실 자동화 시스템 공급...국책과제용 (2026년 9월 14일, ZDNet Korea, 이기종 기자) 원문보기: https://zdnet.co.kr/view/?no=20260914192225 [핵심 요약] [1",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260914-TE-01호] 2026년 9월 14일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260914-te-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-14%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 15 Sep 2026 00:49:37 GMT",
+      "desc": "한미반도체 패키징 장비…머스크 '테라팹'에 공급 (2026년 9월 14일, 한국경제, 이광식 기자) 원문보기: https://www.hankyung.com/article/2026091438481 [핵심 요약] [1] 한미반도체, 테라팹에 패키징 장비 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260914-TI-01호] 2026년 9월 14일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260914-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-14%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 15 Sep 2026 00:47:46 GMT",
+      "desc": "삼성·SK하이닉스 美 'AI 인프라 서밋' 출격…LA선 젠슨 황·나델라 뜬다 (2026년 9월 14일, 아이뉴스24, 권서아 기자) 원문보기: https://www.inews24.com/view/2005500 [핵심 요약] [1] 삼성·SK하이닉스, ",
       "category": "etc",
       "domain": "etc"
     },
@@ -62,6 +242,16 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "date": "Mon, 14 Sep 2026 14:06:31 +0000",
+      "desc": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compu",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "에코프로에이치엔, 반도체 환경설비 등 올해 1914억원 수주",
@@ -80,6 +270,26 @@ window.NEWS_DATA = {
       "desc": "Surging investment, maturing tech, and emerging standards are pushing ambient IoT toward mainstream deployment. The post Ambient IoT: From B",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management",
+      "link": "https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management/",
+      "date": "Mon, 14 Sep 2026 07:04:02 +0000",
+      "desc": "How to understand every chiplet inside the system-in-package. The post Advanced Packaging Changes The Rules For Semiconductor Health And Per",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Sept. 14",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14/",
+      "date": "Mon, 14 Sep 2026 07:01:44 +0000",
+      "desc": "Heterogeneous memory chiplets for multi-request LLM inference; long-span ECC for HBM AI inference; quasi phase-only EUV masks; advanced pack",
+      "category": "research",
+      "domain": "tech"
     },
     {
       "source": "EE Times",
