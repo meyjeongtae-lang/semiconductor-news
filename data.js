@@ -1,6 +1,216 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-15T23:57:49.040Z",
+  "fetchedAt": "2026-09-17T00:05:18.749Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\"",
+      "link": "https://www.hankyung.com/article/202609179965i",
+      "date": "Thu, 17 Sep 2026 08:24:02 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 시장 HBM 독주 계속될 듯…\"CXL로 대체할 수 없어\"",
+      "link": "https://www.hankyung.com/article/2026091798777",
+      "date": "Thu, 17 Sep 2026 07:43:08 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "성과급 수억 받는 '반도체 부자'…종착지는 결국 '이곳'",
+      "link": "https://www.hankyung.com/article/2026091691481",
+      "date": "Thu, 17 Sep 2026 07:00:04 +0900",
+      "desc": "",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Smarter Cameras Need More Than Edge AI to Protect Privacy",
+      "link": "https://www.eetimes.com/smarter-cameras-need-more-than-edge-ai-to-protect-privacy/",
+      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
+      "desc": "Axis Communications and Pimloc show how masking, encryption, anonymization, and governance can protect privacy without destroying useful evi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 일반 청약 실시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62374",
+      "date": "2026-09-16 17:14:42",
+      "desc": "글로벌테크놀로지가 16일부터 이틀간 일반 투자자 대상으로 청약을 받는다고 밝혔다.글로벌테크놀로지는 오는 29일 코스닥에 입성한다. 지난 7일부터 5거래일간 기관투자자 대상 수요를 예측한 결과 공모가는 1만원으로 15일 확정됐다.글로벌테크놀로지는 \"본질",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Z-Wave Long Range Extends IoT Reach Beyond Mesh Networks",
+      "link": "https://www.eetimes.com/z-wave-long-range-extends-iot-reach-beyond-mesh-networks/",
+      "date": "Wed, 16 Sep 2026 14:51:54 +0000",
+      "desc": "Z-Wave Long Range blasts past mesh limits with 1.5-mile IoT reach and open security. The post Z-Wave Long Range Extends IoT Reach Beyond Mes",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리벨리온, 일본 기업에 AI 서버 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62352",
+      "date": "2026-09-16 14:26:01",
+      "desc": "리벨리온이 일본 인공지능(AI) 업체 ai& 데이터센터에 랙(Rack)을 공급한다고 16일 밝혔다. 향후 공급 물량을 100대 이상으로 늘릴 계획이다.리벨리온은 ai& 데이터센터의 이기종 인프라 '리벨랙'을 구축한다. ai& 도쿄 데이터센터에 초도 물",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "노바 그룹, 글로벌 AI 인프라 전력 공급 위해 ABO 에너지로부터 3.17GW 규모의 획기적 재생에너지 포트폴리오 확보",
+      "link": "https://zdnet.co.kr/view/?no=20260916221024",
+      "date": "Wed, 16 Sep 2026 22:10:24 +0900",
+      "desc": "[지디넷코리아]파리 2026년 9월 16일 /PRNewswire/ -- IDC, 전력 공급 부지, 전력 공급 쉘(Powered Shell), 재생에너지 인프라에 특화된 통합 산업•금융 AI 인프라 플랫폼 노바 그룹(NOVVA Group, 이하 '노바'",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "0.7nm 두께 단층 2차원 반도체 언제 나올까",
+      "link": "https://zdnet.co.kr/view/?no=20260916205231",
+      "date": "Wed, 16 Sep 2026 20:52:31 +0900",
+      "desc": "[지디넷코리아]서로 다른 두 종류의 초박막 반도체에 전기를 원활하게 공급할 수 있는 ‘범용 반데르발스 터널링 주입기’가 개발됐다.차세대 저전력·고집적 소자로 주목받고 있는 0.7nm 두께의 단층 2차원 반도체 개발에 한발 더 다가설 것으로 예측됐다.K",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SK하이닉스, 인텔과 美 메모리 협력설에 \"확정된 바 없다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260916195802",
+      "date": "Wed, 16 Sep 2026 20:02:12 +0900",
+      "desc": "[지디넷코리아]SK하이닉스가 인텔과의 미국 내 메모리 칩 생산 협상과 관련한 외신 보도에 대해 결정된 사항은 없다고 밝혔다. SK하이닉스는 16일 회사 뉴스룸을 통해 \"SK하이닉스는 글로벌 경쟁력 강화를 위해 다양한 방안을 검토하고 있으나 현재 어떠한",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 임단협 수정안 가결…성과급 50% 현금",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62350",
+      "date": "2026-09-16 10:37:35",
+      "desc": "SK하이닉스 노사가 마련한 2026년 임금·단체협약(임단협) 수정 합의안이 조합원 투표에서 가결됐다. 지난달 1차 잠정합의안이 25표 차이로 부결된 지 3주 만이다. 성과급 현금 비중을 50%로 상향해 타결했다. 16일 SK하이닉스 이천·청주 전임직 ",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Pasqal’s Nasdaq Debut Meets a Risk Reckoning",
+      "link": "https://www.eetimes.com/pasqal-nasdaq-debut-meets-a-risk-reckoning/",
+      "date": "Wed, 16 Sep 2026 08:03:27 +0000",
+      "desc": "A sharp share price drop exposes the challenge of valuing quantum companies before commercial demand is proven. The post Pasqal’s Nasdaq Deb",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Moving Test Data Faster",
+      "link": "https://semiengineering.com/moving-test-data-faster/",
+      "date": "Wed, 16 Sep 2026 07:15:46 +0000",
+      "desc": "Options and workarounds for improving reliability in chips. The post Moving Test Data Faster appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why SoC Interconnects Have Outgrown the Bus",
+      "link": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus/",
+      "date": "Wed, 16 Sep 2026 07:05:15 +0000",
+      "desc": "How advanced NoC architectures and coherent subsystem IP can address the industry's next-gen scalability, safety, and performance challenges",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Missing Science Of Robotic Systems",
+      "link": "https://semiengineering.com/the-missing-science-of-robotic-systems/",
+      "date": "Wed, 16 Sep 2026 07:04:55 +0000",
+      "desc": "More capable robots require systems that realize capabilities through appropriate paradigms, compose them across time, distribute them acros",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite",
+      "link": "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite/",
+      "date": "Wed, 16 Sep 2026 07:04:53 +0000",
+      "desc": "Simplify the complexity of 3D IC design by unifying die-level and package-level power integrity analysis in a single, intuitive environment.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Enhancing AI Inference Efficiency with Cadence LPDDR Memory IP Solutions",
+      "link": "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions/",
+      "date": "Wed, 16 Sep 2026 07:03:33 +0000",
+      "desc": "Next-gen LPDDR6 and LPDDR5x memory controller and PHY IP is purpose-built to solve the memory wall at every tier of the AI inference hierarc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Enabling Efficient Edge AI Inferencing Through Ecosystem Collaboration",
+      "link": "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration/",
+      "date": "Wed, 16 Sep 2026 07:02:43 +0000",
+      "desc": "A scalable LPDDR-based memory platform optimized for edge AI inferencing. The post Enabling Efficient Edge AI Inferencing Through Ecosystem ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Sept. 16",
+      "link": "https://semiengineering.com/blog-review-sept-16-3/",
+      "date": "Wed, 16 Sep 2026 07:01:34 +0000",
+      "desc": "First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260915-TM-01호] 2026년 9월 15일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260915-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-15%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 16 Sep 2026 00:54:04 GMT",
+      "desc": "삼성 美 테일러팹 본격 가동…‘22조 수주’ 테슬라칩 만든다 (2026년 9월 15일, 서울경제, 구경우 기자) 원문보기: https://www.sedaily.com/article/20091221?ref=naver [핵심 요약] [1] 테일러팹, 2나",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260915-TT-01호] 2026년 9월 15일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260915-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-15%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 16 Sep 2026 00:52:33 GMT",
+      "desc": "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진 (2026년 9월 15일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20260915100431 [핵심 요약] ",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "EE Times",
       "type": "intl",
@@ -1062,16 +1272,6 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
-      "source": "디일렉",
-      "type": "kr",
-      "title": "삼성전자-미스트랄 AI, 반도체 설계·제조 특화 AI 만든다",
-      "link": "https://www.thelec.kr/news/articleView.html?idxno=61984",
-      "date": "2026-09-09 01:00:00",
-      "desc": "삼성전자가 미스트랄 AI와 반도체 설계·제조에 특화된 AI 모델을 공동개발한다고 9일 밝혔다.양사는 이날 열린 한국·프랑스 정상회담 시점에 전략적 동반관계(파트너십)를 체결했다. 앞서 삼성전자는 미스트랄 AI에 대규모 지분 투자로 장기 기술 협력과 공",
-      "category": "memory",
-      "domain": "tech"
-    },
-    {
       "source": "삼성 뉴스룸",
       "type": "corp",
       "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결",
@@ -1079,6 +1279,16 @@ window.NEWS_DATA = {
       "date": "Wed, 09 Sep 2026 01:00:00 +0000",
       "desc": "8일 삼성전자가 프랑스 인공지능 기업 ‘미스트랄 AI(Mistral AI)’와 전략적 파트너십을 체결하고, 반도체 설계와 제조에 특화된 자체 AI 모델을 공동 개발하기로 했다. 이번 파트너십 체결은 한·프랑스 양국 정상회담 시점에 진행됐다. 양사는 삼",
       "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자-미스트랄 AI, 반도체 설계·제조 특화 AI 만든다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=61984",
+      "date": "2026-09-09 01:00:00",
+      "desc": "삼성전자가 미스트랄 AI와 반도체 설계·제조에 특화된 AI 모델을 공동개발한다고 9일 밝혔다.양사는 이날 열린 한국·프랑스 정상회담 시점에 전략적 동반관계(파트너십)를 체결했다. 앞서 삼성전자는 미스트랄 AI에 대규모 지분 투자로 장기 기술 협력과 공",
+      "category": "memory",
       "domain": "tech"
     },
     {
