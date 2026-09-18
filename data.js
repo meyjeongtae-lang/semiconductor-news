@@ -1,6 +1,156 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-17T23:54:31.477Z",
+  "fetchedAt": "2026-09-18T23:53:04.313Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202609194944i",
+      "date": "Sat, 19 Sep 2026 08:26:52 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "막판 10분 뛴 반도체, 아셴브레너가 돌아왔다…21~23일은 '나쁜 사흘' [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202609194909i",
+      "date": "Sat, 19 Sep 2026 08:02:50 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
+      "link": "https://zdnet.co.kr/view/?no=20260918221337",
+      "date": "Sat, 19 Sep 2026 08:00:02 +0900",
+      "desc": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하이퍼스케일러의 고성능 AI 칩 개발 경쟁으로 기판 대면",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
+      "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
+      "date": "Fri, 18 Sep 2026 22:00:00 +0000",
+      "desc": "Panther Lake validates High NA in manufacturing, while electrical stitching and larger masks remain the next hurdles. The post Intel Puts Hi",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "알파칩스, '빛 반도체' 4종 내년 출하",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62519",
+      "date": "2026-09-18 18:54:35",
+      "desc": "알파칩스가 2018년 흡수합병한 적외선(IR) 수신기 사업부 기반 광통신·광센서 반도체 사업을 확장한다.알파칩스는 광통신과 광센서 집적회로(IC) 4종을 개발 중이라고 18일 밝혔다. 플라스틱 광섬유(POF) 기반 광통신 수신용 IC, 광센서용 포토 ",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "갤S26·A57 쌍끌이…삼성 엑시노스 2년 내 최고 점유율",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62517",
+      "date": "2026-09-18 18:46:45",
+      "desc": "삼성전자 애플리케이션 프로세서(AP) 엑시노스가 최근 2년 기준 최고 시장 점유율을 달성했다.18일 카운터포인트리서치에 따르면 삼성전자 엑시노스는 올해 2분기 전 세계 스마트폰용 칩셋 시장에서 9% 점유율을 달성했다. 전년 동기 대비 3%p 상승했고,",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 손자회사 솔리다임, 美 낸드 공장 구축 검토",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62529",
+      "date": "2026-09-18 18:39:38",
+      "desc": "SK하이닉스의 손자회사 솔리다임이 미국에 낸드플래시 생산 공장 구축을 검토하고 있다.18일 업계에 따르면 솔리다임은 미국 동부 낸드 양산 라인 구축 목적으로 부지, 세부 요건을 검토 중이다. 첫 미국 내 낸드 양산 거점이다. 현재 보유 공장은 중국 다",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이씨티케이, 지란지교시큐리티와 PQC 전환 사업 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62509",
+      "date": "2026-09-18 16:34:53",
+      "desc": "아이씨티케이(ICTK)가 지란지교시큐리티와 공공·금융·기업·교육 분야 양자내성암호(PQC) 전환 사업을 협력한다.ICTK는 지란지쿄시큐리티와 '큐브릿지'(Q-BRIDGE) 협약을 맺었다고 18일 밝혔다. 양자컴퓨터 시대에 대비해 기업과 기관 등이 보유",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Demand Will Keep DRAM Market Under Pressure",
+      "link": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
+      "date": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "desc": "AI infrastructure spending is driving DRAM shortages that will continue through 2027, pushing consumer electronics makers further down prior",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Piecing Together the Indian Electronics and Semiconductor Ecosystem",
+      "link": "https://www.eetimes.com/piecing-together-the-indian-electronics-and-semiconductor-ecosystem/",
+      "date": "Fri, 18 Sep 2026 08:00:00 +0000",
+      "desc": "India Semiconductor Mission 2.0, quantum computing with IBM, neuromorphic chips, and deep-tech startups: six stories on how India’s chip eco",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260918-TM-01호] 2026년 9월 18일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260918-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-18%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 18 Sep 2026 07:24:14 GMT",
+      "desc": "엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다 (2026년 9월 18일, 중앙일보, 김인경·이영근 기자) 원문보기: https://www.joongang.co.kr/article/25462912 [핵심 요약] [1] 삼성전자, 팹 로봇 전담",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260918-TI-01호] 2026년 9월 18일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260918-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-18%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 18 Sep 2026 07:23:02 GMT",
+      "desc": "잡힐 듯 안 잡히는 TSMC…삼성 파운드리, 빅테크로 추격 (2026년 9월 18일, 뉴스1, 양새롬 기자) 원문보기: https://www.news1.kr/industry/general-industry/6294386 [핵심 요약] [1] TSMC, ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-156/",
+      "date": "Fri, 18 Sep 2026 07:01:07 +0000",
+      "desc": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm &#038; below advances; Huawei's chip offensive; RoT solution for data",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260917-TT-01호] 2026년 9월 17일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260917-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-17%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 18 Sep 2026 00:43:07 GMT",
+      "desc": "\"AI 응답속도 10배 빠르게\"…삼전·하닉 AI 추론 메모리 경쟁 (2026년 9월 17일, 이데일리, 최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=06294326645581104&#38;medi",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260917-TI-01호] 2026년 9월 17일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260917-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-17%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 18 Sep 2026 00:41:31 GMT",
+      "desc": "美, 반도체 수출통제 기업→국가 단위 확대…EAR 대비해야 (2026년 9월 17일, 뉴스1, 정윤미 기자) 원문보기: https://www.news1.kr/industry/general-industry/6293847 [핵심 요약] [1] 반도체 수출",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -184,7 +334,7 @@ window.NEWS_DATA = {
     {
       "source": "SPTA TIMES",
       "type": "digest",
-      "title": "[제20260916-TI-01호] 2026년 9월 16일 글로벌 반도체 산업 관련 주요 뉴스 요약6",
+      "title": "[제20260916-TI-01호] 2026년 9월 16일 글로벌 반도체 산업 관련 주요 뉴스 요약",
       "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260916-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-16%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD6",
       "date": "Thu, 17 Sep 2026 00:58:22 GMT",
       "desc": "AI 감속론 뚫고 서버 D램값 5.5배↑…분기 영업익 ‘100조 시대’ 연다 (2026년 9월 16일, 서울경제, 서종갑 기자) 원문보기: https://www.sedaily.com/article/20091807?ref=naver [핵심 요약] [1]",
@@ -380,6 +530,16 @@ window.NEWS_DATA = {
       "desc": "First-silicon success falls; engineering capacity; minimum clock period; optimizing PyTorch; counterfeit electronics. The post Blog Review: ",
       "category": "security",
       "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "이재용 삼성전자 회장, 日 참의원 대표단 회동…반도체·AI 협력 논의",
+      "link": "https://www.etnews.com/20260916000238",
+      "date": "Wed, 16 Sep 2026 14:11:45 +0900",
+      "desc": "이재용 삼성전자 회장이 한국을 찾은 일본 참의원(상원) 대표단과 회동, 반도체와 인공지능(AI) 분야 협력을 논의했다. 히라키 다이사쿠 공명당 참의원 국회대책위원장은 자신의 사회관계망서비스(SNS)를 통해 “한일 관계에 정통한 대학 교수·전 주일대사·",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "SPTA TIMES",
@@ -959,16 +1119,6 @@ window.NEWS_DATA = {
       "date": "Fri, 11 Sep 2026 07:31:03 GMT",
       "desc": "中CXMT, 상하이 신규 팹 설비투자 준비…韓 맹추격 (2026년 9월 11일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20260911105941 [핵심 요약] [1] CXMT, 상하이 신규",
       "category": "earnings",
-      "domain": "business"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week in Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-155/",
-      "date": "Fri, 11 Sep 2026 07:01:29 +0000",
-      "desc": "12-inch high-NA EUV masks; Arm's edge AI push; Amkor's expansion; 3D memory; FeRAM startup makes waves; Qualcomm-AWS $60B custom silicon dea",
-      "category": "deals",
       "domain": "business"
     },
     {
