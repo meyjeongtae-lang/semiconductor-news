@@ -1,6 +1,96 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-18T23:53:04.313Z",
+  "fetchedAt": "2026-09-19T23:54:06.588Z",
   "items": [
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+      "link": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
+      "date": "Sat, 19 Sep 2026 20:05:04 +0000",
+      "desc": "Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conductivity Modeling Framework for BEO",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+      "link": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
+      "date": "Sat, 19 Sep 2026 20:01:40 +0000",
+      "desc": "Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agentic Framework utilizing Inferen",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts (NYU)",
+      "link": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/",
+      "date": "Sat, 19 Sep 2026 18:54:29 +0000",
+      "desc": "Researchers at New York University published a technical paper titled “Routing Dense Layouts with History-Aware Offline Reinforcement Learni",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+      "link": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/",
+      "date": "Sat, 19 Sep 2026 18:44:42 +0000",
+      "desc": "Researchers at the University of Michigan published a technical paper titled “Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Ne",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
+      "link": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/",
+      "date": "Sat, 19 Sep 2026 18:37:45 +0000",
+      "desc": "Researchers at the University of Technology Sydney, ShanghaiTech University, and Technical University of Munich published a technical paper ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+      "link": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/",
+      "date": "Sat, 19 Sep 2026 18:30:22 +0000",
+      "desc": "Researchers at the University of Edinburgh published a technical perspective titled “LLMs in Digital EDA: A perspective on shifting roles fr",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
+      "link": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/",
+      "date": "Sat, 19 Sep 2026 18:23:56 +0000",
+      "desc": "Researchers at Heidelberg University published a technical paper titled “A Unified Interconnection Network for Chiplet-Based Scaling of the ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI는 지금] AI 투자, 오픈AI·앤트로픽에 몰렸다…韓도 상위 10곳 74.5% 점유",
+      "link": "https://zdnet.co.kr/view/?no=20260918182257",
+      "date": "Sat, 19 Sep 2026 11:05:16 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 벤처투자 시장이 빠르게 커지고 있지만 자금은 소수 대형 기업으로 쏠리고 있는 것으로 나타났다. 글로벌 시장에선 오픈AI·앤트로픽 등 프론티어 AI 기업의 초대형 후속투자가 전체 시장을 끌어올렸고, 국내에서도 AI 반도체와",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI가 밀어올린 스마트폰 가격, 신흥국 인터넷 보급 급제동",
+      "link": "https://zdnet.co.kr/view/?no=20260919084130",
+      "date": "Sat, 19 Sep 2026 08:41:30 +0900",
+      "desc": "[지디넷코리아]AI 인프라 투자 열풍이 스마트폰 가격까지 밀어 올리면서 전 세계 디지털 격차를 확대할 수 있다는 경고가 나왔다. AI 데이터센터를 중심으로 메모리 수요가 급증하자 부품 가격이 치솟고, 가격에 민감한 저가 스마트폰 시장이 직격탄으로 돌아",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
