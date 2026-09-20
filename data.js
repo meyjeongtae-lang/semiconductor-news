@@ -1,6 +1,46 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-19T23:54:06.588Z",
+  "fetchedAt": "2026-09-20T23:50:57.758Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "메타서 엔비디아까지…AI 인프라 '장부 밖 보증' 확산",
+      "link": "https://www.hankyung.com/article/202609216866i",
+      "date": "Mon, 21 Sep 2026 08:13:46 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "한경협, “반도체 기반시설 확충 서둘러야” 바이오 등 정책과제 41건 건의",
+      "link": "https://www.etnews.com/20260921000003",
+      "date": "Mon, 21 Sep 2026 07:11:54 +0900",
+      "desc": "한국경제인협회(한경협)는 반도체·디스플레이·배터리·바이오·로봇 등 국가첨단전략산업 분야 기업 투자를 가로막는 정책과제 41건을 규제합리화위원회 등에 건의했다고 21일 밝혔다. 이 중 20건은 법률 개정 없이 정부가 검토·착수할 수 있고 나머지 21건은",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"BOE, 반도체 패키징 전략 분명...삼성·LGD 관심은 중간\"",
+      "link": "https://zdnet.co.kr/view/?no=20260921014801",
+      "date": "Mon, 21 Sep 2026 02:16:26 +0900",
+      "desc": "[지디넷코리아]전 세계 주요 패널 업체 중 BOE와 이노룩스만 첨단 반도체 패키징 전략이 분명하다는 관측이 나왔다. 시장조사업체 옴디아는 이달 중순 중국에서 개최한 컨퍼런스에서 \"대부분의 패널 업체가 첨단 반도체 패키징 시장을 어느 정도 평가했다\"며 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제 202609-AI-01호] 2026년 9월 3주차 글로벌 반도체산업 관련 기사 분석",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-202609-ai-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
+      "date": "Sun, 20 Sep 2026 01:06:16 GMT",
+      "desc": "AI 반도체 경쟁, ‘칩 성능’에서 ‘공급망·메모리·제조 생태계’ 경쟁으로 진화한다 글쓴이: 이종욱 2026년 9월 3주차 글로벌 반도체 시장에서 가장 주목해야 할 변화는 AI 반도체 산업의 경쟁축이 단순한 AI 가속기 성능 경쟁에서 제조공정, HBM",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
