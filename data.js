@@ -1,6 +1,126 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-22T00:35:45.691Z",
+  "fetchedAt": "2026-09-22T23:59:05.593Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴, 스마트폰 칩에 데이터센터용 HBC 심었다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62685",
+      "date": "2026-09-23 07:49:05",
+      "desc": "퀄컴이 차세대 모바일 플랫폼에 데이터센터용 기술 고대역폭연산(HBC:High Bandwith Compute)을 심었다.크리스티아노 아몬 퀄컴 최고경영자(CEO)는 22일(현지시각) 미국 마우이에서 열린 스냅드래곤 서밋 2026에서 \"퀄컴이 데이터센터 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴 \"소비자 70%, AI 에이전트 원한다\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62684",
+      "date": "2026-09-23 07:48:27",
+      "desc": "퀄컴이 전세계 소비자의 인공지능(AI) 에이전트 관심도를 강조하며 본격적인 '에이전틱 AI 시대' 개막을 알렸다.돈 맥과이어 퀄컴 최고마케팅책임자(CMO)는 22일(현지시각) 미국 마우이에서 열린 스냅드래곤 서밋 2026에서 \"기업들이 AI 에이전트를",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴-마스터카드, 에이전틱 커머스 협력 발표",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62686",
+      "date": "2026-09-23 07:47:34",
+      "desc": "퀄컴과 마스터카드가 인공지능(AI) 에이전틱 상거래(커머스) 구축 협력을 공식 발표했다. 스냅드래곤과 마스터카드 보안 체계를 결합한다.마이클 미에바흐 마스터카드 최고경영자(CEO)는 22일(현지시각) 미국 마우이에서 열린 스냅드래곤 서밋 2026에서 ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴, 스냅드래곤 8 엘리트 6세대 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62682",
+      "date": "2026-09-23 07:47:25",
+      "desc": "퀄컴이 22일(현지시간) 차세대 최상위 모바일용 플랫폼 스냅드래곤 8 엘리트 6세대 시리즈를 공개했다.'스냅드래곤 8 엘리트 6세대 익스트림'과 '스냅드래곤 8 엘리트 6세대' 기본형 2종이다. 두 제품은 스마트폰의 두뇌 역할을 하는 애플리케이션 프로",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야 \"-키움",
+      "link": "https://www.hankyung.com/article/2026092323706",
+      "date": "Wed, 23 Sep 2026 07:58:51 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Wafer-Scale Sub-5nm Channel Monolayer MoS2 Transistors (CMU, UF, MIT et al.)",
+      "link": "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
+      "date": "Tue, 22 Sep 2026 17:51:42 +0000",
+      "desc": "Researchers at Carnegie Mellon University, University of Florida, MIT, Texas A&#38;M University et al. published a technical paper titled “W",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "수출입은행, AI 반도체 기업 '딥엑스' 직접투자 검토",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62653",
+      "date": "2026-09-22 17:20:41",
+      "desc": "한국수출입은행이 딥엑스에 대한 직접투자를 검토하고 있다. 이르면 올해 투자를 결정할 전망이다.22일 업계에 따르면 수출입은행 투자금융부는 최근 김녹원 딥엑스 대표를 만나 투자 시점을 조율했다. 투자 시점은 올해 말, 내년 초가 유력하다.수출입은행은 딥",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)",
+      "link": "https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems/",
+      "date": "Tue, 22 Sep 2026 17:09:41 +0000",
+      "desc": "Researchers at the University of Minnesota published a technical paper titled “Toward Multi-kW Power Delivery Methodologies for Advanced 3D ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
+      "link": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto/",
+      "date": "Tue, 22 Sep 2026 16:30:25 +0000",
+      "desc": "Researchers at the University of Toronto published a technical paper titled “GPUThor: Amplifying Rowhammer Attacks via Non-Uniform Patterns ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Canadian Startup Sees Success in Space Qualification",
+      "link": "https://www.eetimes.com/canadian-startup-sees-success-in-space-qualification/",
+      "date": "Tue, 22 Sep 2026 16:21:10 +0000",
+      "desc": "Novigrad is forging a pathway for faster, more accessible radiation testing as a growing wave of space missions drives demand for reliable, ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 성호전자 자회사 ADST와 마이크로 LED 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62655",
+      "date": "2026-09-22 13:34:10",
+      "desc": "글로벌테크놀로지가 성호전자 자회사 에이디에스테크(ADST)와 마이크로 발광다이오드(LED) 관련 협력(MOU)을 체결했다고 22일 밝혔다. 글로벌테크놀로지는 ADST와 마이크로 LED 양산 공정·장비 최적화, ADST 장비 핵심 부품 국산화, 국내외 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "How AI Is Accelerating PCB Design and Prototyping",
+      "link": "https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/",
+      "date": "Tue, 22 Sep 2026 07:59:35 +0000",
+      "desc": "AI tools compress PCB design timelines from months to hours, enabling faster iteration cycles and letting engineers focus on innovation. The",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,14 +132,74 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Test Compression To Hierarchical Connectivity: Scaling SoC Test For AI And HPC Devices",
+      "link": "https://semiengineering.com/from-test-compression-to-hierarchical-connectivity-scaling-soc-test-for-ai-and-hpc-devices/",
+      "date": "Tue, 22 Sep 2026 07:01:51 +0000",
+      "desc": "While compression reduces test data volume, efficient distribution of test data remains equally important. The post From Test Compression To",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Sept. 22",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/",
+      "date": "Tue, 22 Sep 2026 07:01:29 +0000",
+      "desc": "AI thermal modeling for 2.5D/3D ICs; chiplet and AI accelerator co-design; BEOL thermal conductivity; agentic DRC repair; RL for dense-layou",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "LCD TV용 반도체 가격, 메모리 대란에 패널값 처음으로 넘었다",
+      "link": "https://www.etnews.com/20260921000346",
+      "date": "Tue, 22 Sep 2026 16:00:00 +0900",
+      "desc": "액정표시장치(LCD) TV 원가에서 반도체 가격이 패널값을 추월했다. TV용 반도체 가격이 디스플레이보다 높아진 건 처음으로, 인공지능(AI) 인프라 투자 확대에 따른 메모리 품귀 현상이 TV 원가 구조를 뒤흔들고 있다. 삼성전자와 LG전자 등 TV ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260921-TT-01호] 2026년 9월 21일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260921-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-21%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 22 Sep 2026 00:57:38 GMT",
+      "desc": "“극저온·오류 넘는다”…인텔·IBM, 양자컴 상용화 속도 (2026년 9월 21일, 서울경제, 김창영 기자) 원문보기: https://www.sedaily.com/article/20093589?ref=naver [핵심 요약] [1] IBM, 양자컴 오",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260921-TM-01호] 2026년 9월 21일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260921-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-21%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 22 Sep 2026 00:52:25 GMT",
+      "desc": "가동률 오른 삼성 파운드리… 2나노·테일러가 흑자전환 시점 가른다 (2026년 9월 21일, 조선비즈, 최효정 기자) 원문보기: https://biz.chosun.com/it-science/ict/2026/09/21/FBVPRGVBDFGOBGZSJ6R",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260921-TI-01호] 2026년 9월 21일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260921-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-21%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 22 Sep 2026 00:50:30 GMT",
+      "desc": "\"중국 반도체 결국 ‘무기’ 된다… 삼전닉스, 경쟁 말고 협력할 때\" (2026년 9월 21일, 한국일보, 홍인택 기자) 원문보기: https://www.hankookilbo.com/news/article/A2026092115190000424?did=",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "한국경제",
       "type": "kr",
       "title": "한 달 새 74% 뛰었다…SFA반도체, 삼전 업고 '불기둥' [종목+]",
       "link": "https://www.hankyung.com/article/2026092296626",
       "date": "Tue, 22 Sep 2026 08:27:03 +0900",
       "desc": "",
-      "category": "etc",
-      "domain": "etc"
+      "category": "memory",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -28,8 +208,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/",
       "date": "Mon, 21 Sep 2026 23:21:18 +0000",
       "desc": "Researchers at the University of Wisconsin–Madison and Marist University published a technical paper titled “Demystifying Gate-Level Localiz",
-      "category": "research",
-      "domain": "tech"
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "Semiconductor Engineering",
@@ -38,7 +218,7 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
       "date": "Mon, 21 Sep 2026 23:13:37 +0000",
       "desc": "Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOOST: Concurrent Access to Host M",
-      "category": "research",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -68,8 +248,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/singapore-turning-quantum-research-into-business-opportunity/",
       "date": "Mon, 21 Sep 2026 20:00:00 +0000",
       "desc": "Singapore’s government funding, research infrastructure, and commercial focus are creating a booming regional hub for quantum technologies. ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
@@ -98,8 +278,8 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62562",
       "date": "2026-09-21 17:53:29",
       "desc": "글로벌테크놀로지가 차량용 반도체 첫 양산 사례를 확보했다. TV와 모니터용 반도체 시장을 넘어 자동차까지 사업을 확장한다.글로벌테크놀로지는 글로벌 전장부품 업체로부터 차량용 스마트 무드램프 반도체(SAL) 초도 양산 발주서(PO)를 확보했다고 21일 ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "deals",
+      "domain": "business"
     },
     {
       "source": "디일렉",
@@ -108,7 +288,7 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62583",
       "date": "2026-09-21 17:27:53",
       "desc": "리벨리온이 주요 고객인 SK텔레콤 인공지능(AI) 사업에서 AI 칩 적용 범위를 넓히고 있다.리벨리온은 '에이닷 음성 합성기능', 'AI 고객센터', '스캠 뱅가드' 등 SK텔레콤 AI 모델에 신경망처리장치(NPU) '아톰맥스' 등을 적용 중이라고 2",
-      "category": "ai-compute",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -118,8 +298,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/ai-power-demands-push-gan-into-data-center-design/",
       "date": "Mon, 21 Sep 2026 16:59:04 +0000",
       "desc": "Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density. The post AI P",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "EE Times",
@@ -138,7 +318,7 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62558",
       "date": "2026-09-21 11:24:20",
       "desc": "삼성SDI가 모바일 반도체 패키징용 '고방열 EMC(Epoxy Molding Compound)' 소재로 2026년 37주차 IR52 장영실상을 수상했다. 고성능 반도체의 발열을 줄이는 소재 기술을 개발해 양산에 적용한 성과를 인정받았다.삼성SDI는 지",
-      "category": "foundry",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -148,8 +328,8 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260921191018",
       "date": "Mon, 21 Sep 2026 19:21:35 +0900",
       "desc": "[지디넷코리아]대한민국 반도체 초격차를 이끈 권오현 전 삼성전자 대표이사 회장·오렌지플래닛 창업재단 이사장이 KAIST 이사장을 맡게 됐다.KAIST 이사회는 9월 21일 서울에서 제298회 임시이사회를 열고, 권오현 전 삼성회장을 신임 이사장으로 선",
-      "category": "etc",
-      "domain": "etc"
+      "category": "memory",
+      "domain": "tech"
     },
     {
       "source": "ZDNet Korea",
@@ -158,8 +338,8 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260921181024",
       "date": "Mon, 21 Sep 2026 18:10:24 +0900",
       "desc": "[지디넷코리아]싱가포르, 2026년 9월 21일 /PRNewswire/ -- 메타렌즈 기술을 선도하는 최첨단 반도체 광학 기업 메타옵틱스(MetaOptics Ltd, Catalist: 9MT, 이하 '메타옵틱스' 또는 '회사', 자회사 포함 '그룹')",
-      "category": "earnings",
-      "domain": "business"
+      "category": "foundry",
+      "domain": "tech"
     },
     {
       "source": "EE Times",
@@ -168,8 +348,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/ai-crypto-mining-expose-global-compute-infrastructure-constraints/",
       "date": "Mon, 21 Sep 2026 07:50:44 +0000",
       "desc": "Global semiconductor bottlenecks, multi-year foundry lead times, and rising trade friction leave European compute infrastructure supply-cons",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -228,7 +408,7 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/202609216866i",
       "date": "Mon, 21 Sep 2026 08:13:46 +0900",
       "desc": "",
-      "category": "ai-compute",
+      "category": "equipment",
       "domain": "tech"
     },
     {
@@ -268,7 +448,7 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
       "date": "Sat, 19 Sep 2026 20:05:04 +0000",
       "desc": "Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conductivity Modeling Framework for BEO",
-      "category": "research",
+      "category": "foundry",
       "domain": "tech"
     },
     {
@@ -278,7 +458,7 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
       "date": "Sat, 19 Sep 2026 20:01:40 +0000",
       "desc": "Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agentic Framework utilizing Inferen",
-      "category": "research",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -288,8 +468,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/",
       "date": "Sat, 19 Sep 2026 18:54:29 +0000",
       "desc": "Researchers at New York University published a technical paper titled “Routing Dense Layouts with History-Aware Offline Reinforcement Learni",
-      "category": "research",
-      "domain": "tech"
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "Semiconductor Engineering",
@@ -308,8 +488,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/",
       "date": "Sat, 19 Sep 2026 18:37:45 +0000",
       "desc": "Researchers at the University of Technology Sydney, ShanghaiTech University, and Technical University of Munich published a technical paper ",
-      "category": "research",
-      "domain": "tech"
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "Semiconductor Engineering",
@@ -328,8 +508,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/",
       "date": "Sat, 19 Sep 2026 18:23:56 +0000",
       "desc": "Researchers at Heidelberg University published a technical paper titled “A Unified Interconnection Network for Chiplet-Based Scaling of the ",
-      "category": "research",
-      "domain": "tech"
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "ZDNet Korea",
@@ -338,8 +518,8 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260918182257",
       "date": "Sat, 19 Sep 2026 11:05:16 +0900",
       "desc": "[지디넷코리아]인공지능(AI) 벤처투자 시장이 빠르게 커지고 있지만 자금은 소수 대형 기업으로 쏠리고 있는 것으로 나타났다. 글로벌 시장에선 오픈AI·앤트로픽 등 프론티어 AI 기업의 초대형 후속투자가 전체 시장을 끌어올렸고, 국내에서도 AI 반도체와",
-      "category": "earnings",
-      "domain": "business"
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "ZDNet Korea",
@@ -358,8 +538,8 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/202609194944i",
       "date": "Sat, 19 Sep 2026 08:26:52 +0900",
       "desc": "",
-      "category": "etc",
-      "domain": "etc"
+      "category": "market",
+      "domain": "business"
     },
     {
       "source": "한국경제",
@@ -368,8 +548,8 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/202609194909i",
       "date": "Sat, 19 Sep 2026 08:02:50 +0900",
       "desc": "",
-      "category": "etc",
-      "domain": "etc"
+      "category": "market",
+      "domain": "business"
     },
     {
       "source": "ZDNet Korea",
@@ -378,7 +558,7 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260918221337",
       "date": "Sat, 19 Sep 2026 08:00:02 +0900",
       "desc": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하이퍼스케일러의 고성능 AI 칩 개발 경쟁으로 기판 대면",
-      "category": "ai-compute",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -388,7 +568,7 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
       "date": "Fri, 18 Sep 2026 22:00:00 +0000",
       "desc": "Panther Lake validates High NA in manufacturing, while electrical stitching and larger masks remain the next hurdles. The post Intel Puts Hi",
-      "category": "foundry",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -398,8 +578,8 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62519",
       "date": "2026-09-18 18:54:35",
       "desc": "알파칩스가 2018년 흡수합병한 적외선(IR) 수신기 사업부 기반 광통신·광센서 반도체 사업을 확장한다.알파칩스는 광통신과 광센서 집적회로(IC) 4종을 개발 중이라고 18일 밝혔다. 플라스틱 광섬유(POF) 기반 광통신 수신용 IC, 광센서용 포토 ",
-      "category": "deals",
-      "domain": "business"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
@@ -408,8 +588,8 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62517",
       "date": "2026-09-18 18:46:45",
       "desc": "삼성전자 애플리케이션 프로세서(AP) 엑시노스가 최근 2년 기준 최고 시장 점유율을 달성했다.18일 카운터포인트리서치에 따르면 삼성전자 엑시노스는 올해 2분기 전 세계 스마트폰용 칩셋 시장에서 9% 점유율을 달성했다. 전년 동기 대비 3%p 상승했고,",
-      "category": "etc",
-      "domain": "etc"
+      "category": "memory",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
@@ -428,7 +608,7 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62509",
       "date": "2026-09-18 16:34:53",
       "desc": "아이씨티케이(ICTK)가 지란지교시큐리티와 공공·금융·기업·교육 분야 양자내성암호(PQC) 전환 사업을 협력한다.ICTK는 지란지쿄시큐리티와 '큐브릿지'(Q-BRIDGE) 협약을 맺었다고 18일 밝혔다. 양자컴퓨터 시대에 대비해 기업과 기관 등이 보유",
-      "category": "ai-compute",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -448,7 +628,7 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/piecing-together-the-indian-electronics-and-semiconductor-ecosystem/",
       "date": "Fri, 18 Sep 2026 08:00:00 +0000",
       "desc": "India Semiconductor Mission 2.0, quantum computing with IBM, neuromorphic chips, and deep-tech startups: six stories on how India’s chip eco",
-      "category": "ai-compute",
+      "category": "equipment",
       "domain": "tech"
     },
     {
@@ -478,8 +658,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/chip-industry-week-in-review-156/",
       "date": "Fri, 18 Sep 2026 07:01:07 +0000",
       "desc": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm &#038; below advances; Huawei's chip offensive; RoT solution for data",
-      "category": "etc",
-      "domain": "etc"
+      "category": "deals",
+      "domain": "business"
     },
     {
       "source": "SPTA TIMES",
@@ -518,8 +698,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
       "date": "Thu, 17 Sep 2026 22:00:00 +0000",
       "desc": "Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind. The post U.S. Awards Anderon $1B f",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
@@ -538,8 +718,8 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62439",
       "date": "2026-09-17 14:44:39",
       "desc": "SK하이닉스가 주요 협력사 130여개의 구성원과 가족을 초청해 감사 행사(ThanksFULL Day)를 연다고 17일 밝혔다.오는 10월 15일 과천 서울랜드에서 열린다. SK하이닉스와 성과를 일군 협력사 구성원에게 감사를 전하려는 목적이다. 협력사 ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "equipment",
+      "domain": "tech"
     },
     {
       "source": "ZDNet Korea",
@@ -548,8 +728,8 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20260917162009",
       "date": "Thu, 17 Sep 2026 23:17:01 +0900",
       "desc": "[지디넷코리아]한국과학기술연구원(KIST)이 삼성전자, 가온칩스 등과 COMS(상보형 금속 산화물 반도체) 기반 RPU(랜덤처리장치) 칩 설계를 완료했다. 오는 2030년까지 현대, 네이버, 쿠팡 등이 참여해 세계 최초 랜덤연산 프로세서를 구현하는 것",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
@@ -568,8 +748,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/sk-hynixs-intel-liaisons-what-you-need-to-know/",
       "date": "Thu, 17 Sep 2026 11:30:00 +0000",
       "desc": "The deal between Intel and SK Hynix seems imminent not because of technology business imperatives, but because of geopolitical factors. The ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "policy",
+      "domain": "business"
     },
     {
       "source": "EE Times",
@@ -578,8 +758,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
       "date": "Thu, 17 Sep 2026 08:03:34 +0000",
       "desc": "There was a time when summer slowed the semiconductor news cycle. Not this year. The post No Summer Lull for Semiconductors appeared first o",
-      "category": "etc",
-      "domain": "etc"
+      "category": "deals",
+      "domain": "business"
     },
     {
       "source": "Semiconductor Engineering",
@@ -588,8 +768,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/",
       "date": "Thu, 17 Sep 2026 07:13:29 +0000",
       "desc": "Models need to be synchronized with what manufacturing actually builds. The post Why Package Digital Twins Are So Hard To Build appeared fir",
-      "category": "etc",
-      "domain": "etc"
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -608,8 +788,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/",
       "date": "Thu, 17 Sep 2026 07:11:08 +0000",
       "desc": "Intel may be the marquee name, but materials suppliers, packaging hubs, and quantum startups will determine whether the region becomes a tru",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -618,8 +798,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/",
       "date": "Thu, 17 Sep 2026 07:06:17 +0000",
       "desc": "Expanding computational capabilities and deeper co-development are changing how materials move from lab to fab. The post Beyond Scaling: The",
-      "category": "etc",
-      "domain": "etc"
+      "category": "equipment",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -638,8 +818,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center/",
       "date": "Thu, 17 Sep 2026 07:04:55 +0000",
       "desc": "As AI systems scale, advanced power delivery innovations are becoming critical to performance, efficiency and reliability. The post Driving ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -648,8 +828,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/virtual-fabrication-meets-stress-physics-solving-gaa-channel-non-uniformity/",
       "date": "Thu, 17 Sep 2026 07:04:20 +0000",
       "desc": "Even small imbalances between stacked nanosheets can distort device behavior in ways that are difficult to predict from geometry alone. The ",
-      "category": "etc",
-      "domain": "etc"
+      "category": "foundry",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -658,8 +838,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance/",
       "date": "Thu, 17 Sep 2026 07:02:44 +0000",
       "desc": "Design space exploration must become a core capability for advanced packaging and chiplet-based systems. The post From Silicon To Systems: H",
-      "category": "etc",
-      "domain": "etc"
+      "category": "memory",
+      "domain": "tech"
     },
     {
       "source": "Semiconductor Engineering",
@@ -668,7 +848,7 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers/",
       "date": "Thu, 17 Sep 2026 07:01:51 +0000",
       "desc": "Wafer-validated optical simulation for high-NA EUV applications. The post Predicting Silicon Behavior Years Before Test Wafers appeared firs",
-      "category": "foundry",
+      "category": "security",
       "domain": "tech"
     },
     {
@@ -678,8 +858,8 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration/",
       "date": "Thu, 17 Sep 2026 07:01:39 +0000",
       "desc": "Workflow for predictive simulation of normally-off p-GaN HEMTs, with an emphasis on device-physics calibration, leakage modeling, dynamic RD",
-      "category": "etc",
-      "domain": "etc"
+      "category": "foundry",
+      "domain": "tech"
     },
     {
       "source": "SPTA TIMES",
@@ -718,7 +898,7 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/2026091691481",
       "date": "Thu, 17 Sep 2026 07:00:04 +0900",
       "desc": "",
-      "category": "labor",
+      "category": "legal",
       "domain": "business"
     },
     {
@@ -728,8 +908,8 @@ window.NEWS_DATA = {
       "link": "https://www.eetimes.com/smarter-cameras-need-more-than-edge-ai-to-protect-privacy/",
       "date": "Wed, 16 Sep 2026 18:00:00 +0000",
       "desc": "Axis Communications and Pimloc show how masking, encryption, anonymization, and governance can protect privacy without destroying useful evi",
-      "category": "etc",
-      "domain": "etc"
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
