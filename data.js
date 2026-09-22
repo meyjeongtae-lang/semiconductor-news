@@ -1,6 +1,226 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-20T23:50:57.758Z",
+  "fetchedAt": "2026-09-22T00:35:45.691Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "한미글로벌, SK하이닉스 웨스트라피엣 공장 PM 맡았다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62629",
+      "date": "2026-09-22 07:49:37",
+      "desc": "한미글로벌이 SK하이닉스 미국 인디애나주 웨스트라피엣 패키징 공장 프로젝트의 건설사업관리(PM) 용역을 수행하고 있다고 21일 밝혔다.웨스트라피엣 공장은 SK하이닉스가 미국에 첫 구축하는 40억달러(약 5조4900억원) 규모 인공지능(AI) 메모리 생",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "한 달 새 74% 뛰었다…SFA반도체, 삼전 업고 '불기둥' [종목+]",
+      "link": "https://www.hankyung.com/article/2026092296626",
+      "date": "Tue, 22 Sep 2026 08:27:03 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+      "link": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/",
+      "date": "Mon, 21 Sep 2026 23:21:18 +0000",
+      "desc": "Researchers at the University of Wisconsin–Madison and Marist University published a technical paper titled “Demystifying Gate-Level Localiz",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+      "link": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+      "date": "Mon, 21 Sep 2026 23:13:37 +0000",
+      "desc": "Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOOST: Concurrent Access to Host M",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Can Agents Design Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+      "link": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/",
+      "date": "Mon, 21 Sep 2026 22:59:48 +0000",
+      "desc": "Researchers at UCLA published a technical paper titled “Can Agents Design Better Chips with a Higher Level Abstraction?” Abstract Excerpt: “",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 스냅드래곤 X 엘리트, 구글북 두뇌로 탑재",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62617",
+      "date": "2026-09-21 20:00:00",
+      "desc": "구글의 차세대 인공지능(AI) 기반 노트북 '구글북'이 PC용 퀄컴 스냅드래곤 칩셋으로 구동된다.퀄컴은 21일(현지시간) 구글북에 스냅드래곤 X 엘리트 플랫폼을 탑재한다고 밝혔다. 구글북은 '제미나이 인텔리전스'를 중심으로 설계된 차세대 프리미엄 노트",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Singapore: Turning Quantum Research into Business Opportunity",
+      "link": "https://www.eetimes.com/singapore-turning-quantum-research-into-business-opportunity/",
+      "date": "Mon, 21 Sep 2026 20:00:00 +0000",
+      "desc": "Singapore’s government funding, research infrastructure, and commercial focus are creating a booming regional hub for quantum technologies. ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "곽노정 \"메모리 없는 AI 산업 없다...용인·미국서 기술 우위\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62626",
+      "date": "2026-09-21 19:42:19",
+      "desc": "곽노정 SK하이닉스 대표가 현재 짓고 있는 생산 거점에서 차세대 메모리 시장 경쟁력을 강화해 나갈 것이라고 밝혔다.21일 SK하이닉스에 따르면 곽 대표는 지난 18일(현지시간) 미국 캘리포니아 산타클라라 메리어트 호텔에서 열린 2026 글로벌 포럼에서",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "수퍼게이트, KAI와 국책으로 드론용 AI 칩 개발",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62627",
+      "date": "2026-09-21 19:42:15",
+      "desc": "수퍼게이트가 한국항공우주(KAI)와 함께 공중 드론 플랫폼용 인공지능(AI) 칩을 개발한다.수퍼게이트는 산업통상부 'K-온디바이스 AI 반도체 기술 개발 사업' 방산 분야 국책 과제 협약을 체결했다고 21일 밝혔다. KAI와 실제 운용 환경에서 AI ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 차량용 반도체로 외연 확장...전장사향 제품 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62562",
+      "date": "2026-09-21 17:53:29",
+      "desc": "글로벌테크놀로지가 차량용 반도체 첫 양산 사례를 확보했다. TV와 모니터용 반도체 시장을 넘어 자동차까지 사업을 확장한다.글로벌테크놀로지는 글로벌 전장부품 업체로부터 차량용 스마트 무드램프 반도체(SAL) 초도 양산 발주서(PO)를 확보했다고 21일 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리벨리온 NPU로 SK텔레콤 AI '4대 서비스' 가동",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62583",
+      "date": "2026-09-21 17:27:53",
+      "desc": "리벨리온이 주요 고객인 SK텔레콤 인공지능(AI) 사업에서 AI 칩 적용 범위를 넓히고 있다.리벨리온은 '에이닷 음성 합성기능', 'AI 고객센터', '스캠 뱅가드' 등 SK텔레콤 AI 모델에 신경망처리장치(NPU) '아톰맥스' 등을 적용 중이라고 2",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Power Demands Push GaN into Data Center Design",
+      "link": "https://www.eetimes.com/ai-power-demands-push-gan-into-data-center-design/",
+      "date": "Mon, 21 Sep 2026 16:59:04 +0000",
+      "desc": "Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density. The post AI P",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
+      "link": "https://www.eetimes.com/chinas-dram-specialist-cxmt-eyes-nand-flash-entry/",
+      "date": "Mon, 21 Sep 2026 11:58:25 +0000",
+      "desc": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Sp",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성SDI, 반도체용 '고방열 EMC'로 장영실상 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62558",
+      "date": "2026-09-21 11:24:20",
+      "desc": "삼성SDI가 모바일 반도체 패키징용 '고방열 EMC(Epoxy Molding Compound)' 소재로 2026년 37주차 IR52 장영실상을 수상했다. 고성능 반도체의 발열을 줄이는 소재 기술을 개발해 양산에 적용한 성과를 인정받았다.삼성SDI는 지",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'반도체 초격차 신화' 권오현 전 삼성회장, KAIST 이사장에",
+      "link": "https://zdnet.co.kr/view/?no=20260921191018",
+      "date": "Mon, 21 Sep 2026 19:21:35 +0900",
+      "desc": "[지디넷코리아]대한민국 반도체 초격차를 이끈 권오현 전 삼성전자 대표이사 회장·오렌지플래닛 창업재단 이사장이 KAIST 이사장을 맡게 됐다.KAIST 이사회는 9월 21일 서울에서 제298회 임시이사회를 열고, 권오현 전 삼성회장을 신임 이사장으로 선",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "메타옵틱스, 메타렌즈 기술의 미국 내 이전을 위해 첫 미국 기관 투자자인 화이트 라이온 캐피탈로부터 최대 1,000만 달러 규모의 투자 약정 확보",
+      "link": "https://zdnet.co.kr/view/?no=20260921181024",
+      "date": "Mon, 21 Sep 2026 18:10:24 +0900",
+      "desc": "[지디넷코리아]싱가포르, 2026년 9월 21일 /PRNewswire/ -- 메타렌즈 기술을 선도하는 최첨단 반도체 광학 기업 메타옵틱스(MetaOptics Ltd, Catalist: 9MT, 이하 '메타옵틱스' 또는 '회사', 자회사 포함 '그룹')",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI, Crypto Mining Expose Global Compute Infrastructure Constraints",
+      "link": "https://www.eetimes.com/ai-crypto-mining-expose-global-compute-infrastructure-constraints/",
+      "date": "Mon, 21 Sep 2026 07:50:44 +0000",
+      "desc": "Global semiconductor bottlenecks, multi-year foundry lead times, and rising trade friction leave European compute infrastructure supply-cons",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices",
+      "link": "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/",
+      "date": "Mon, 21 Sep 2026 07:01:47 +0000",
+      "desc": "Track occupancy and motion continuously without keeping the full sensing and processing chain active. The post How 60 GHz Radar Improves Low",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
+      "link": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
+      "date": "Mon, 21 Sep 2026 07:01:36 +0000",
+      "desc": "Behind the scenes, advanced equipment control and robotics are enabling higher levels of repeatability, tool uptime, and yield. The post How",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260920-TE-01호] 2026년 9월 20일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260920-te-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-20%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 21 Sep 2026 01:02:40 GMT",
+      "desc": "클린룸 등 똑같이 조성…“반도체 장비 점검 5분대기 거점” (2026년 9월 20일, 서울경제, 우영탁 기자) 원문보기: https://www.sedaily.com/article/20093086?ref=naver [핵심 요약] [1] TEL, SK하이",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260920-TM-01호] 2026년 9월 20일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260920-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-20%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 21 Sep 2026 01:01:10 GMT",
+      "desc": "삼성전자, 내년 HBM4·4E 생산 2배 늘린다 (2026년 9월 20일, 서울경제, 서종갑 기자) 원문보기: https://www.sedaily.com/article/20093074?ref=naver [핵심 요약] [1] HBM4·HBM4E 생산량 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260920-TI-01호] 2026년 9월 20일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260920-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-20%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 21 Sep 2026 00:59:44 GMT",
+      "desc": "AI 속도조절론에도…\"올해 반도체시장 1.6조달러로 성장 가속\" (2026년 9월 20일, 연합뉴스, 임성호 기자) 원문보기: https://www.yna.co.kr/view/AKR20260918167800003?input=1195m [핵심 요약] [",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
