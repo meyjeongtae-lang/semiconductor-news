@@ -1,6 +1,206 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-24T00:14:17.325Z",
+  "fetchedAt": "2026-09-25T00:16:40.095Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴 \"1비트 AI 모델, 용량·원가 줄이고 정확도는 유지\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62773",
+      "date": "2026-09-25 09:07:11",
+      "desc": "퀄컴이 최신 웨어러블용 스냅드래곤에 1비트(bit) 인공지능(AI) 모델을 탑재했다. 초소형 AI 기기에서도 자체 AI를 원활하게 구동하려는 목적이다.지아드 아스가르 퀄컴 수석 부사장 겸 확장현실(XR)·웨어러블·퍼스널 인공지능(AI) 본부장은 23일",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] '스냅드래곤 최적화 AI' 개발·운영 쉬워진다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62770",
+      "date": "2026-09-25 09:06:54",
+      "desc": "모듈러가 퀄컴 스냅드래곤 플랫폼용 인공지능(AI)의 개발 최적화를 지원한다. 마이크로소프트(MS)와 협력해 윈도에서 네이티브 개발도 가능하다.크리스 래트너 퀄컴 첨단 AI 소프트웨어·플랫폼 총괄 부사장은 23일(현지시각) 미국 마우이에서 열린 스냅드래",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Delos Data Targets Heterogeneous AI with Data Interface",
+      "link": "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
+      "date": "Thu, 24 Sep 2026 18:43:38 +0000",
+      "desc": "Delos’s Apollo chiplet is designed to bridge different endpoint semantics and interconnects, creating a low-latency domain spanning GPUs, ac",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴 \"스냅드래곤 윈도PC 호환성 걱정은 옛말\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62760",
+      "date": "2026-09-24 18:07:45",
+      "desc": "퀄컴이 PC용 스냅드래곤 플랫폼의 소프트웨어 호환성 우려를 지우고 안정적인 윈도 생태계를 구축했다. 윈도 뿐 아니라 구글북, 리눅스 등으로 영역을 확장한다.케다르 콘답 퀄컴 수석 부사장 겸 컴퓨팅 및 게이밍 부문 본부장은 23일(현지시각) 미국 마우이",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry",
+      "link": "https://www.eetimes.com/after-ionq-buyout-skywater-reiterates-role-as-quantum-foundry/",
+      "date": "Thu, 24 Sep 2026 14:08:18 +0000",
+      "desc": "As SkyWater scales its 200-mm and 300-mm manufacturing platforms to support diverse quantum modalities, leadership emphasizes that protectin",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴, 스냅드래곤 사운드 엘리트 2세대 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62757",
+      "date": "2026-09-24 10:25:23",
+      "desc": "퀄컴이 차세대 오디오 웨어러블 플랫폼 '스냅드래곤 사운드 엘리트 2세대'를 공개했다.지아드 아스가르 퀄컴 수석 부사장 겸 확장현실(XR)·웨어러블·퍼스널 인공지능(AI) 본부장은 23일(현지시각) 미국 마우이에서 열린 스냅드래곤 서밋 2026에서 \"A",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] \"사용자 일상 읽고 기록한다\" 능동형 AI 에이전트 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62756",
+      "date": "2026-09-24 10:18:33",
+      "desc": "퀄컴, 리퀴드AI(Liquid AI)가 스냅드래곤 플랫폼 최적화 '지능형 맥락 기억층(Smart Memory Layer)'을 발표했다. 메르세데스-벤츠 전용 연산 플랫폼에 이식해 상용화 단계를 밟는다.라민 하사니 리퀴드.ai 최고경영자(CEO)는 23",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴 ANF 기술, 게이밍 성능·전력 효율 모두 잡았다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62755",
+      "date": "2026-09-24 10:15:37",
+      "desc": "퀄컴 '아드레노 뉴럴 퓨전(ANF)' 기술이 전력 효율, 게이밍 성능을 대폭 끌어올렸다퀄컴은 22일(현지시간) 미국 마우이에서 열린 스냅드래곤 서밋 2026에서 '스냅드래곤 8 엘리트 익스트림 6세대'를 탑재한 참조용(레퍼런스) 스마트폰을 공개했다. ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "모빌린트, 2세대 칩 양산 6개월 밀렸다...매출 전망도 '반토막'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62731",
+      "date": "2026-09-24 09:34:38",
+      "desc": "모빌린트의 2세대 신경망처리장치(NPU) '레귤러스' 양산 일정이 6개월 지연된다. 당초 올해 말 양산이 목표였으나, 빨라야 내년 6월에야 가능할 것으로 보인다. 파운드리 공정 최적화를 위한 에이직랜드와 협업 과정에서 문제가 있었던 것으로 파악됐다.이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "SEMICON India 2026: Startup Mitra Sheds Light on Early-Stage Silicon Startup Funding",
+      "link": "https://www.eetimes.com/semicon-india-2026-startup-mitra-sheds-light-on-early-stage-silicon-startup-funding/",
+      "date": "Thu, 24 Sep 2026 08:15:06 +0000",
+      "desc": "Indian semiconductor startups are seeking capital beyond seed rounds as they advance from prototypes and tape-out toward volume production. ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
+      "link": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
+      "date": "Thu, 24 Sep 2026 07:07:06 +0000",
+      "desc": "Transporting the native packetized traffic of the NoC directly across die boundaries using a stable, invariant interface. The post A Network",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Managing 3D-IC Design And IP",
+      "link": "https://semiengineering.com/managing-3d-ic-design-and-ip/",
+      "date": "Thu, 24 Sep 2026 07:05:05 +0000",
+      "desc": "Design data management, traceability, and revision control are critical for multi-chiplet heterogeneous integration. The post Managing 3D-IC",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "When AI Agents Cross Chip Design Silos",
+      "link": "https://semiengineering.com/when-ai-agents-cross-chip-design-silos/",
+      "date": "Thu, 24 Sep 2026 07:03:42 +0000",
+      "desc": "Specialization and orchestration are becoming more important as the role of AI agents in chip design widens, but coordination, control, and ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "EDA’s Future Is Evidence-Driven Automation",
+      "link": "https://semiengineering.com/edas-future-is-evidence-driven-automation/",
+      "date": "Thu, 24 Sep 2026 07:02:50 +0000",
+      "desc": "AI may accelerate semiconductor design, but users still need formal proof, semantic continuity, and auditable workflows to trust automation.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI-Driven Device Modeling For Next Generation Quantum Applications",
+      "link": "https://semiengineering.com/ai-driven-device-modeling-for-next-generation-quantum-applications/",
+      "date": "Thu, 24 Sep 2026 07:02:21 +0000",
+      "desc": "Extracting advanced compact models and overcoming their shortcomings using a hybrid ANN approach at cryogenic temperatures. The post AI-Driv",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Autonomy Levels For Design Agents: L1 To L5 Explained",
+      "link": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained/",
+      "date": "Thu, 24 Sep 2026 07:01:59 +0000",
+      "desc": "Determining what a system can decide, the scope it owns, how work is validated, when it asks for help, and who remains accountable for fallb",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "3D Chips Push EDA Into New Territory",
+      "link": "https://semiengineering.com/3d-chips-push-eda-into-new-territory/",
+      "date": "Thu, 24 Sep 2026 07:01:12 +0000",
+      "desc": "As AI chips move to stacked, chiplet-based architectures, EDA vendors are reworking mature tools for cross-domain analysis, faster explorati",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[신간] '칩노믹스'...TSMC 신화 뒤 숨겨진 대만 60년 성공 전략 분석",
+      "link": "https://zdnet.co.kr/view/?no=20260924154858",
+      "date": "Thu, 24 Sep 2026 15:48:58 +0900",
+      "desc": "[지디넷코리아]대만은 어떻게 세계 반도체의 심장이 되었을까? 또 왜 세계 최고의 AI 기업들이 모두 대만을 향할까?불과 몇 년 전만 해도 대만은 한국보다 한 수 아래라는 인식이 지배적이었다. 하지만 대만은 지난해에 이어 올해도 1인당 국내총생산(GDP",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI發 메모리 호황에 D램 가치, TSMC 첨단 공정 추월",
+      "link": "https://zdnet.co.kr/view/?no=20260924090839",
+      "date": "Thu, 24 Sep 2026 11:29:43 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 열풍에 따른 메모리 수요 폭증으로 D램 가격이 사상 최고치 행진을 이어가는 가운데, 단위 면적당 메모리 칩의 가치가 TSMC의 최첨단 연산용 웨이퍼 가격마저 추월했다는 분석이 나왔다.24일 반도체 분석 업체 커널 인사이트",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"1GB 모델을 125MB로\"…퀄컴, '1비트 AI'로 웨어러블 메모리 장벽 깬다",
+      "link": "https://zdnet.co.kr/view/?no=20260924110259",
+      "date": "Thu, 24 Sep 2026 11:02:59 +0900",
+      "desc": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 메모리 공간과 배터리 제약이 극심한 소형 웨어러블 기기용 메모리 절감 기술과 플랫폼 최적화 전략을 내놨다.퀄컴은 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -114,7 +314,7 @@ window.NEWS_DATA = {
     {
       "source": "EE Times",
       "type": "intl",
-      "title": "SEMICON INDIA 2026: India Starts Packaging Chips as Ecosystem Takes Shape",
+      "title": "SEMICON India 2026: India Starts Packaging Chips as Ecosystem Takes Shape",
       "link": "https://www.eetimes.com/semicon-india-2026-india-starts-packaging-chips-as-ecosystem-takes-shape/",
       "date": "Wed, 23 Sep 2026 10:56:15 +0000",
       "desc": "India moves five chip packaging plants into production as $13.5 billion ISM 2.0 expands manufacturing, design, and engineering capabilities.",
