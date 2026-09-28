@@ -1,6 +1,106 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-27T00:14:10.252Z",
+  "fetchedAt": "2026-09-28T00:17:55.750Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴, 삼성 2나노 공정 사전 평가…파운드리 협력 '솔솔'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62790",
+      "date": "2026-09-28 07:32:32",
+      "desc": "퀄컴이 삼성전자의 반도체 위탁생산(파운드리) 2나노 공정을 사전 평가하고 있다. 차세대 애플리케이션 프로세서(AP) 생산이 목적이다.크리스 패트릭 퀄컴 모바일 핸드셋 본부장 겸 수석 부사장은 22일(현지시간) 미국 마우이에서 열린 스냅드래곤 서밋 20",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체효과 두배 '껑충'...2분기 건설공사 80.9조, 27.3%↑",
+      "link": "https://www.hankyung.com/article/202609288272i",
+      "date": "Mon, 28 Sep 2026 08:37:07 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "美는 중국 AI칩 막는데…월가는 中테크 172억달러 조달 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609277393i",
+      "date": "Mon, 28 Sep 2026 07:00:02 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"정유·석유화학도 '반도체 쏠림' 피해…종전 후에도 공급 부족\" [인터뷰+]",
+      "link": "https://www.hankyung.com/article/2026092341396",
+      "date": "Mon, 28 Sep 2026 06:30:06 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 차세대 스냅드래곤X 성능 퀀텀점프…리눅스 문호 개방",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62784",
+      "date": "2026-09-27 18:58:44",
+      "desc": "퀄컴이 PC 리눅스까지 영역을 확장하며 개발자, 제조사의 선택지를 넓힌다.니틴 쿠마르 퀄컴 제품 관리·멀티미디어 담당 부사장은 24일(현지시간) 미국 마우이에서 개최된 스냅드래곤 서밋 2026에서 \"(차세대 스냅드래곤 X에 대해) 현재 내부에서 흥미로",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'인텔 특허 인수' NPE, 대만 난야에 D램 특허침해소송",
+      "link": "https://zdnet.co.kr/view/?no=20260928015236",
+      "date": "Mon, 28 Sep 2026 02:01:15 +0900",
+      "desc": "[지디넷코리아]인텔 특허를 인수한 특허관리전문기업(NPE)이 대만 난야를 상대로 D램 특허소송을 제기했다. 인텔은 지난 2022년 특허 수익화를 위해 IP밸류 매니지먼트 그룹(IPValue Management, 아래 IP밸류) 산하 신설 기업 타호리서",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋] 퀄컴 \"6G, 단순 비전 제시 넘어 상용 로드맵 가동\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62783",
+      "date": "2026-09-27 10:51:11",
+      "desc": "퀄컴이 6G 상용화 제품 전략(로드맵)을 가동하고, 공언한 대로 3년 내 상용화를 달성할 계획이다. 6G는 에이전틱 AI 생태계를 구축할 주요 인프라로 활용된다.두르가 말라디 퀄컴 기술 기획과 엣지 솔루션·데이터센터 본부장 겸 총괄 부사장은 22일(현",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "이재용·최태원·젠슨 황, 28일 뉴욕서 만난다",
+      "link": "https://zdnet.co.kr/view/?no=20260927191300",
+      "date": "Sun, 27 Sep 2026 19:14:24 +0900",
+      "desc": "[지디넷코리아]이재용 삼성전자 회장, 최태원 SK그룹 회장, 젠슨 황 엔비디아 최고경영자(CEO)가 28일(현지시간) 미국 뉴욕에서 만난다. 고대역폭메모리(HBM)와 인공지능(AI) 인프라 협력 논의가 업계 관심사다. 27일 뉴스1 등에 따르면 이재용",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "과기정통부, 반도체 연구시설 특별 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260923163836",
+      "date": "Sun, 27 Sep 2026 12:00:03 +0900",
+      "desc": "[지디넷코리아]과학기술정보통신부가 이달 말 한국기술교육대학교를 시작으로 전국 22개 대학 및 정부출연연구기관 반도체 연구시설에 대한 특별 점검에 나선다.최근 AI 데이터센터가 잇따라 지어지면서 반도체 연구도 덩달어 늘어 관련 연구실 사고가 급증하고 있",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "日, AI 광반도체 생산거점 키운다...타워세미컨 5.6조 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260927112052",
+      "date": "Sun, 27 Sep 2026 11:20:52 +0900",
+      "desc": "[지디넷코리아]일본이 AI 데이터센터 확대로 수요가 늘어나는 광반도체 생산거점 확보에 속도를 낸다. 이스라엘 파운드리 기업 타워세미컨덕터가 일본에 약 5조 6000억원을 투자하고, 일본 정부도 약 1조 4000억원을 지원한다.25일(현지시간) 톰스하드",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
