@@ -1,6 +1,156 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-28T00:17:55.750Z",
+  "fetchedAt": "2026-09-29T01:28:44.949Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260928-TT-01호] 2026년 9월 28일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260928-tt-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-28%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 29 Sep 2026 00:54:44 GMT",
+      "desc": "\"반도체 생산량 4배\"…日레조낙 300㎜ SiC 개발 성공 (2026년 9월 28일, 한국경제, 최만수 기자) 원문보기: https://www.hankyung.com/article/202609289292i [핵심 요약] [1] 레조낙, 300㎜ SiC",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260928-TI-01호] 2026년 9월 28일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260928-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-28%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 29 Sep 2026 00:51:59 GMT",
+      "desc": "BOE \"삼성·LG와 전략적 협력 가능\" (2026년 9월 28일, ZDNet Korea, 이기종 기자) 원문보기: https://zdnet.co.kr/view/?no=20260928163029 [핵심 요약] [1] BOE, 삼성·LG와 전략적 협력 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "타임스스퀘어에 뜬 젠슨 황…삼성, 엔비디아와 'AI 협력' 과시",
+      "link": "https://www.etnews.com/20260929000047",
+      "date": "Tue, 29 Sep 2026 09:40:21 +0900",
+      "desc": "삼성전자가 미국 뉴욕 타임스스퀘어 전광판에 젠슨 황 엔비디아 창립자 겸 최고경영자(CEO)의 수상을 축하하는 영상을 띄웠다. 젠슨 황 CEO가 한미 간 AI·반도체 협력에 기여한 공로로 '2026 밴 플리트상'을 받게 된 것을 기념했다. AI 반도체 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 하락에 줍줍\"…삼전닉스 쓸어담은 주식 초고수",
+      "link": "https://www.hankyung.com/article/202609290857i",
+      "date": "Tue, 29 Sep 2026 09:00:10 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성 6개사, 美 AI 인프라 기업 헬릭스에 1조 3600억원 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260929081000",
+      "date": "Tue, 29 Sep 2026 08:51:07 +0900",
+      "desc": "[지디넷코리아]삼성 주요 관계사들이 글로벌 사모펀드 KKR이 설립한 인공지능(AI) 인프라 기업 투자로 AI 생태계 주도권 확보에 나섰다.삼성전자와 삼성물산, 삼성SDS, 삼성SDI, 삼성생명, 삼성화재 등 6개사는 미국 AI 인프라 기업 '헬릭스 디",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자…'부품' 넘어 AI 인프라 판 짠다",
+      "link": "https://www.etnews.com/20260929000015",
+      "date": "Tue, 29 Sep 2026 08:13:40 +0900",
+      "desc": "삼성 관계사들이 미국 KKR이 설립한 AI 인프라 기업에 10억달러를 공동 투자한다. 반도체·부품 공급을 넘어 AI 데이터센터 생태계에 직접 뛰어들겠다는 포석이다. 삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 등 6개사는 '헬릭스 디지털 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억 달러 투자",
+      "link": "https://www.hankyung.com/article/2026092905977",
+      "date": "Tue, 29 Sep 2026 08:12:53 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, TSMC와 HBM5 검증...2년 연속 올해 파트너 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62873",
+      "date": "2026-09-28 21:15:05",
+      "desc": "SK하이닉스가 TSMC와의 차세대 고대역폭메모리(HBM) 검증 협업 성과를 인정 받아 올해의 파트너상을 수상했다. 지난해에 이어 2년 연속 수상이다.SK하이닉스는 지난 23일(현지시간) 미국 캘리포니아 산타클라라에서 열린 TSMC 오픈 이노베이션 플랫",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why U.S.-Europe Cooperation Matters for Quantum Leadership",
+      "link": "https://www.eetimes.com/why-u-s-europe-cooperation-matters-for-quantum-leadership/",
+      "date": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "desc": "U.S.-Europe collaboration is critical for global quantum leadership, combining capital and talent to scale against rising competition. The p",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA)",
+      "link": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
+      "date": "Mon, 28 Sep 2026 18:02:09 +0000",
+      "desc": "Researchers at Purdue University and the UCLA published a technical paper titled “Experimental Evidence for the Impact of Copper Microstruct",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "칩스앤미디어, '130억원 규모' 자사주 소각",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62867",
+      "date": "2026-09-28 17:23:54",
+      "desc": "칩스앤미디어가 주주환원 정책으로 130억원 규모 자사주를 소각한다.칩스앤미디어는 자사주 111만2812주를 내년 4월 30일 소각한다고 28일 공시했다. 발행주식총수의 약 5.21%다. 기존 자사주 25만4443주를 포함해 추가 주식 85만8369주를",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍 파운드리 단가 최대 30%↑…中 주문에 행복한 비명",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62785",
+      "date": "2026-09-28 17:22:20",
+      "desc": "DB하이텍이 반도체 위탁생산(파운드리) 수요 확대로 가격 인상을 본격화했다. 올해 3월과 9월 두 차례에 걸쳐 파운드리 가격을 인상한 것으로 28일 알려졌다. 인상폭은 5~30% 가량이다.중국 고객사에 대한 파운드리 인상이 도드라졌다. 20~30%가 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "[스냅드래곤 서밋 2026] 스마트폰 넘어 모든 스마트 기기 대응",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62816",
+      "date": "2026-09-28 15:07:48",
+      "desc": "퀄컴이 스마트폰을 넘어 차세대 개인화(퍼스널) 인공지능(AI) 기기에 대응하는 스냅드래곤 플랫폼 제품군을 구축했다. AI 에이전트가 촉진하는 신규 단말기 시장의 주도권을 노린다.지아드 아스가르 퀄컴 확장현실(XR) 웨어러블·퍼스널 인공지능(AI) 본부",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Calterah Turns UWB Digital Keys into In-Cabin Sensors",
+      "link": "https://www.eetimes.com/calterah-turns-uwb-digital-keys-into-in-cabin-sensors/",
+      "date": "Mon, 28 Sep 2026 12:58:32 +0000",
+      "desc": "Calterah brings UWB keyless anchors into synchronized networks, delivering enhanced vehicle safety without adding expensive hardware. The po",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전기, 국내외 FC-BGA 팹 증설에 6.8조 투자…엔비디아 등 선수금 기반",
+      "link": "https://zdnet.co.kr/view/?no=20260928180250",
+      "date": "Mon, 28 Sep 2026 21:50:30 +0900",
+      "desc": "[지디넷코리아]삼성전기가 고부가 반도체 기판 플립칩-볼그리드어레이(FC-BGA) 생산능력 확장 투자계획을 구체화했다. 이번 투자에는 엔비디아 등 글로벌 빅테크 기업 선수금이 포함된 것으로 파악됐다. 고성능 인공지능(AI) 반도체 기판 수요가 급증한 만",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -9,6 +159,56 @@ window.NEWS_DATA = {
       "date": "2026-09-28 07:32:32",
       "desc": "퀄컴이 삼성전자의 반도체 위탁생산(파운드리) 2나노 공정을 사전 평가하고 있다. 차세대 애플리케이션 프로세서(AP) 생산이 목적이다.크리스 패트릭 퀄컴 모바일 핸드셋 본부장 겸 수석 부사장은 22일(현지시간) 미국 마우이에서 열린 스냅드래곤 서밋 20",
       "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Xcena Cuts Data Movement to Address Memory Bottlenecks",
+      "link": "https://www.eetimes.com/xcena-cuts-data-movement-to-address-memory-bottlenecks/",
+      "date": "Mon, 28 Sep 2026 07:30:00 +0000",
+      "desc": "Xcena’s MX1 uses CXL to push compute into memory by combining DDR5, SSDs, and RISC-V cores while easing programmability. The post Xcena Cuts",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Intuition and AI",
+      "link": "https://semiengineering.com/intuition-and-ai/",
+      "date": "Mon, 28 Sep 2026 07:01:56 +0000",
+      "desc": "Can AI be creative? It is impossible to know unless we understand what creativity really means, and that's difficult to describe. The post I",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "One Substrate No Longer Rules Them All",
+      "link": "https://semiengineering.com/one-substrate-no-longer-rules-them-all/",
+      "date": "Mon, 28 Sep 2026 07:01:09 +0000",
+      "desc": "Larger packages, finer routing, and embedded functions are pushing advanced substrates toward application-specific designs. The post One Sub",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "CES 2027 트렌드, 서울서 먼저 본다…KES 2026 키노트에 CTA·엔비디아 총출동",
+      "link": "https://www.etnews.com/20260928000211",
+      "date": "Mon, 28 Sep 2026 12:16:42 +0900",
+      "desc": "글로벌 최대 정보기술(IT) 전시회 CES를 주관하는 미국 소비자기술협회(CTA)가 서울에서 'CES 2027' 기술 트렌드를 공개한다. 엔비디아코리아·망고부스트·HD한국조선해양 등 AI 인프라와 산업 현장을 대표하는 기업은 인공지능(AI) 산업 확산",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260927-TI-01호] 2026년 9월 27일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260927-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-27%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 28 Sep 2026 00:48:55 GMT",
+      "desc": "미중 회담서 빠진 반도체 합의…K메모리 '안도 반 긴장 반' (2026년 9월 27일, 이데일리, 최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=01856486645584384&#38;mediaCo",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -90,6 +290,16 @@ window.NEWS_DATA = {
       "desc": "[지디넷코리아]과학기술정보통신부가 이달 말 한국기술교육대학교를 시작으로 전국 22개 대학 및 정부출연연구기관 반도체 연구시설에 대한 특별 점검에 나선다.최근 AI 데이터센터가 잇따라 지어지면서 반도체 연구도 덩달어 늘어 관련 연구실 사고가 급증하고 있",
       "category": "ai-compute",
       "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "제조업 체감경기 두 분기 연속 반등…10곳 중 6곳은 “이익 목표 못 채워”",
+      "link": "https://www.etnews.com/20260927000017",
+      "date": "Sun, 27 Sep 2026 12:00:00 +0900",
+      "desc": "제조업 체감경기가 두 분기 연속 반등했다. 반도체·화장품 등 수출 호조 업종을 중심으로 경기 개선 기대가 확산됐지만, 제조기업 10곳 중 6곳은 올해 영업이익이 연초 목표에 못 미칠 것으로 내다봤다. 생산비용 상승이 수익성 회복 발목을 잡고 있다는 분",
+      "category": "earnings",
+      "domain": "business"
     },
     {
       "source": "ZDNet Korea",
