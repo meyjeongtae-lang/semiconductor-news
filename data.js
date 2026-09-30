@@ -1,6 +1,276 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-29T01:28:44.949Z",
+  "fetchedAt": "2026-09-30T01:04:13.146Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "보스반도체, Arm 생태계 합류...피지컬 AI 칩 개발 속도",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62980",
+      "date": "2026-09-30 07:33:22",
+      "desc": "보스반도체가 Arm 토탈 디자인 포 피지컬 인공지능(AI) 생태계에 합류했다고 29일 밝혔다. 자동차와 로보틱스, 드론, 산업 자동화 등 피지컬 AI용 AI 칩과 주문형 반도체(ASIC) 경쟁력을 강화한다.Arm 토탈 디자인 포 피지컬 AI는 AI 모",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "서울대, AI 반도체 인재 키운다...6년간 석박사급 110명 양성",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62982",
+      "date": "2026-09-30 07:27:03",
+      "desc": "서울대학교가 정부 주관 인재 양성소 인공지능(AI) 반도체 혁신 연구소 닻을 올렸다. 석박사급 AI 반도체 인재 양성, 산학 협력 체계를 구축한다.서울대는 29일 서울 관악 서울대 반도체공동연구소 설계연구관 도연홀에서 AI 반도체 혁신 연구소 개소식을",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 상장 첫날 45% 상승 마감",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62983",
+      "date": "2026-09-30 05:59:34",
+      "desc": "글로벌테크놀로지가 공모가 흥행 부진을 딛고 상장 첫날 공모가 대비 45% 상승한 채 마감했다. 종가는 1만4500원이다.글로벌테크놀로지는 29일 코스닥에 입성했다. 주가는 공모가인 1만원으로 시작했다. 장중 자금이 쏠리며 공모가 대비 2.6배 이상 오",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260929-TM-01호] 2026년 9월 29일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260929-tm-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-29%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 30 Sep 2026 00:52:27 GMT",
+      "desc": "\"삼성전자, 2나노 파운드리 수율 60% 근접\"… 전성비 개선에 총력전 (2026년 9월 29일, 조선비즈, 황민규 기자) 원문보기: https://biz.chosun.com/it-science/ict/2026/09/29/IZEIILGLR5GFJN7I",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260929-TE-01호] 2026년 9월 29일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260929-te-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-29%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 30 Sep 2026 00:49:50 GMT",
+      "desc": "CPO發 광반도체 후공정 시장 열린다 (2026년 9월 29일, 서울경제, 김예솔 기자) 원문보기: https://www.sedaily.com/article/20096287?ref=naver [핵심 요약] [1] AIDC 확산으로 CPO 후공정 시장 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260929-TI-01호] 2026년 9월 29일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260929-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-29%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 30 Sep 2026 00:46:48 GMT",
+      "desc": "“삼전 레시피 훔쳐와”…대놓고 협박한 창신메모리 CEO (2026년 9월 29일, 중앙일보, 김수민·이영근 기자) 원문보기: https://www.joongang.co.kr/article/25465442 [핵심 요약] [1] CXMT 전 CEO, 삼성",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "미분양 무덤 된 경기도…반도체 도시만 달랐다",
+      "link": "https://www.hankyung.com/article/2026093035436",
+      "date": "Wed, 30 Sep 2026 08:58:01 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"SK하이닉스, AI 메모리 수요 오히려 늘어날 것\"-NH",
+      "link": "https://www.hankyung.com/article/2026093034116",
+      "date": "Wed, 30 Sep 2026 08:09:34 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"삼성전자, AI 인프라에 10억달러 베팅…메모리 가치 재평가\"-KB",
+      "link": "https://www.hankyung.com/article/2026093033476",
+      "date": "Wed, 30 Sep 2026 07:59:09 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Astera Labs’ Leo Controller Update Targets Memory Constraints",
+      "link": "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
+      "date": "Tue, 29 Sep 2026 22:00:00 +0000",
+      "desc": "Astera Labs pairs Leo memory controllers with Scorpio fabric switches to bring scalable memory closer to AI accelerators. The post Astera La",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 협력사 동반 성장 25주년...협력사 대금 지원 두배로",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62966",
+      "date": "2026-09-29 19:00:39",
+      "desc": "SK하이닉스가 협력사 지원 방안을 확대한다. 협력사의 납품대금지원을 두배로 확대하고 연구개발(R&D) 손실도 분담하기로 했다.곽노정 대표는 28일 '2026 파트너스 데이'에서 \"현재 SK하이닉스가 인공지능(AI) 시대를 주도하는 글로벌 기업으로 성장",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 美 AI 팹리스 703억 '잭팟'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62938",
+      "date": "2026-09-29 18:44:36",
+      "desc": "세미파이브가 미국 인공지능(AI) 반도체 설계(팹리스) 업체로부터 역대 최대 개발 계약을 체결했다. 양산까지 포함된 턴키 계약으로 이후 양산 매출이 지속 발생할 수 있다.세미파이브는 미국 AI 팹리스와 703억원 규모로 AI 추론 가속기 개발 계약을 ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아스플로, 세계 3대 반도체 장비 美L사 품질감사 통과…10월부터 부품 출하",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62957",
+      "date": "2026-09-29 18:03:45",
+      "desc": "반도체 가스 배관 부품 업체 아스플로가 세계 3대 반도체 장비 회사인 미국 L사의 품질경영시스템(QMS:Quality Management System) 감사를 통과한 것으로 확인됐다. 다음달부터 L사 장비용 부품을 출하한다.반도체 공장에 설치되는 고순",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 윈팩에 패키징 외주 다시 맡긴다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62922",
+      "date": "2026-09-29 16:44:06",
+      "desc": "SK하이닉스가 윈팩에 메모리 반도체 패키징 외주를 다시 맡겼다. 4년 만에 거래를 재개하는 것이다.29일 업계에 따르면 SK하이닉스는 최근 메모리 반도체의 플립칩(Flip Chip) 패키징 외주 물량과 협력사를 확대했다. 외주반도체패키지테스트(OSAT",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Data Centers Make Power, Cooling Critical to Scaling",
+      "link": "https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/",
+      "date": "Tue, 29 Sep 2026 14:42:45 +0000",
+      "desc": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Da",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "필옵틱스, 2mm 유리기판용 TGV 장비 수주",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62912",
+      "date": "2026-09-29 13:35:59",
+      "desc": "필옵틱스가 2밀리미터(mm) 두께의 유리기판을 가공할 수 있는 유리관통전극(TGV) 장비를 신규 글로벌 고객사에 공급한다.필옵틱스는 신규 글로벌 고객사로부터 차세대 유리기판용 TGV 장비를 수주했다고 29일 밝혔다. 구체적인 고객사와 수주 금액은 공개",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성·SK, 젠슨 황 '밴 플리트상' 수상 축하",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62911",
+      "date": "2026-09-29 13:34:44",
+      "desc": "삼성전자와 SK그룹이 젠슨 황 엔비디아 최고경영자(CEO)의 '2026 밴 플리트상(Van Fleet Award)' 수상을 축하했다. 삼성전자는 미국 뉴욕 타임스스퀘어에 축하 영상을 송출했다. 최태원 SK그룹 회장은 시상식에 직접 참석해 황 CEO를 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "EU Cyber Resilience Act: Three Misconceptions That Put Embedded Products at Risk",
+      "link": "https://www.eetimes.com/eu-cyber-resilience-act-three-misconceptions-that-put-embedded-products-at-risk/",
+      "date": "Tue, 29 Sep 2026 13:13:52 +0000",
+      "desc": "The EU Cyber Resilience Act affects more embedded products than manufacturers may expect, with implications for connectivity, resale, and lo",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=62895",
+      "date": "2026-09-29 11:20:15",
+      "desc": "삼성전자, 삼성물산, 삼성SDS, 삼성SDI, 삼성생명, 삼성화재가 '헬릭스 디지털 인프라스트럭처(Helix Digital Infrastructure)'에 10억달러(약 1조3600억원)를 투자한다고 29일 밝혔다. KKR, 엔비디아, 미국 전력 회사",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "홍진배 IITP 원장 \"AI중심대학·AX대학원서 파괴적 혁신 인재 나와야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260929201011",
+      "date": "Tue, 29 Sep 2026 20:10:11 +0900",
+      "desc": "[지디넷코리아]\"AI 모델, AI 반도체, 네트워크, 사이버보안, 피지컬 AI 등 핵심기술 자체의 고도화와 더불어 각 산업과 서비스 분야 도메인과 서로 융합되면서 공진화하는 풀스택 경쟁이 본격화하고 있습니다. 이러한 AX 2.0 경쟁의 핵심에는 AI·",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성 6개사, 美 AI 인프라 기업 ‘헬릭스’에 10억 달러 투자",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1-6%ea%b0%9c%ec%82%ac-%e7%be%8e-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%97%85-%ed%97%ac%eb%a6%ad%ec%8a%a4%ec%97%90-10%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90",
+      "date": "Tue, 29 Sep 2026 08:00:00 +0000",
+      "desc": "삼성전자와 삼성물산, 삼성SDS, 삼성SDI, 삼성생명, 삼성화재 등 6개사는 29일 미국의 글로벌 투자 회사 KKR이 설립한 AI 인프라 기업 ‘헬릭스 디지털 인프라스트럭처(Helix Digital Infrastructure, 이하 헬릭스)’에 총 ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "IBM Details Quantum, AI Developments in India",
+      "link": "https://www.eetimes.com/ibm-details-quantum-ai-developments-in-india/",
+      "date": "Tue, 29 Sep 2026 07:30:00 +0000",
+      "desc": "At SEMICON India 2026, IBM's Rahul Rao details India's role in quantum scaling, Qiskit education, and AI accelerators. The post IBM Details ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "TSMC OIP: Chip Industry Growth Blows Past Forecast",
+      "link": "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/",
+      "date": "Tue, 29 Sep 2026 07:01:50 +0000",
+      "desc": "Aggressive prediction of $1T by 2030 was $700B too low. Here's why. The post TSMC OIP: Chip Industry Growth Blows Past Forecast appeared fir",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Verification Needs a Thread, Not More Fragments",
+      "link": "https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/",
+      "date": "Tue, 29 Sep 2026 07:01:46 +0000",
+      "desc": "Why traceability at scale is so critical. The post Why Verification Needs a Thread, Not More Fragments appeared first on Semiconductor Engin",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Sept. 29",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
+      "date": "Tue, 29 Sep 2026 07:01:34 +0000",
+      "desc": "A7 CFET vs. A10 NSFETs; wafer-scale sub-5nm MoS₂ transistors; multi-kW power delivery for 3D HI; copper microstructure and TSV residual stre",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Moores Lab AI: Applying Agentic AI Across Chip Design",
+      "link": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/",
+      "date": "Tue, 29 Sep 2026 07:01:00 +0000",
+      "desc": "EDA startup bets on domain expertise to speed the design process. The post Moores Lab AI: Applying Agentic AI Across Chip Design appeared fi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성, AI 데이터센터 '판' 짠다…미국 AI 인프라 기업에 1.4조 투자",
+      "link": "https://www.etnews.com/20260929000238",
+      "date": "Tue, 29 Sep 2026 14:19:19 +0900",
+      "desc": "삼성전자 등 삼성 6개 관계사가 글로벌 투자회사 KKR이 설립한 미국 인공지능(AI) 인프라 기업에 10억달러(약 1조3600억원)를 투자한다. AI 반도체 등 부품 공급에 머물지 않고 AI 데이터센터(AIDC) 건설·운영 생태계에 진입하겠다는 포석이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
