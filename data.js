@@ -1,6 +1,166 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-09-30T01:04:13.146Z",
+  "fetchedAt": "2026-10-01T01:04:06.214Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "마이크론, 또 역대급 실적…2030년까지 매출 35% 이미 계약",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63067",
+      "date": "2026-10-01 08:34:12",
+      "desc": "마이크론이 인공지능(AI) 투자로 촉발된 메모리 반도체 수요가 이어지면서 연간 D램 매출이 처음으로 1000억달러(약 135조8000억원)를 넘어섰다. 분기 영업이익률도 80%대를 다시 한번 기록했고, 연간으로도 70% 이상을 나타냈다.마이크론은 30",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "D램·낸드 가격 9월에도 사상 최고…상승폭은 감소",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63057",
+      "date": "2026-10-01 07:41:07",
+      "desc": "D램과 낸드플래시의 9월 평균 가격이 나란히 역대 최고치를 경신했다. 상승세는 주춤했다.30일 시장조사업체 D램익스체인지에 따르면 PC용 범용 제품 DDR4 8Gb의 9월 평균가는 26달러다. 전월(25달러) 대비 4% 증가했다. 전월에 이어 최고가를",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LB세미콘, 구미 전력반도체 후공정 설비 증설",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63058",
+      "date": "2026-10-01 07:37:49",
+      "desc": "LB세미콘과 구미시가 전력반도체 후공정 생산라인 증설 목적의 양해각서(MOU)를 체결했다고 30일 밝혔다.MOU는 경상북도와 구미시의 행정 지원, 한국산업단지공단이 협조로 성사됐다. 체결식은 이날 오후 구미 시청 대회의실에서 열렸으며, 이대교 LB세미",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20260930-TI-01호] 2026년 9월 30일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20260930-ti-01%ED%98%B8-2026%EB%85%84-9%EC%9B%94-30%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 01 Oct 2026 00:53:14 GMT",
+      "desc": "“젠슨 황, 밴 플리트상 축하”…뉴욕서 뭉친 삼성·SK 깐부 (2026년 9월 29일, 중앙일보, 박영우 기자) 원문보기: https://www.joongang.co.kr/article/25465757 [핵심 요약] [1] 이재용·최태원, 뉴욕서 젠슨",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 9월 반도체 수출 603억달러…사상 첫 600억달러 돌파",
+      "link": "https://www.hankyung.com/article/2026100165527",
+      "date": "Thu, 01 Oct 2026 09:01:27 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+      "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
+      "date": "Wed, 30 Sep 2026 21:31:25 +0000",
+      "desc": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The pos",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "\"한국, 분산형 AI로 2035년 67조 이상 가치 창출\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63048",
+      "date": "2026-09-30 18:38:04",
+      "desc": "한국이 분산형 인공지능(AI)으로 사회·구조적 문제를 해결하고 연간 67조원 이상의 가치를 창출할 수 있다는 전망이 나왔다.최근 기술 정책 자문 기업 액세스 파트너십에 따르면, 한국은 2035년 기준 분산형 AI로 연간 500억달러(약 67조7000억",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 11월 서울서 'AI 데이' 개최",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63050",
+      "date": "2026-09-30 18:32:54",
+      "desc": "엔비디아가 오는 11월 9~10일 이틀간 서울 강남 코엑스에서 엔비디아 AI 데이 서울을 개최한다고 30일 밝혔다.엔비디아 AI 데이 서울은 개발자, 기업, 연구자 등이 모여 최신 인공지능(AI) 기술과 산업 트렌드 등을 공유하는 자리다. 올해는 약 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리사 수 AMD CEO 내달 방한…국내 NPU 업체와 회동",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63046",
+      "date": "2026-09-30 18:32:19",
+      "desc": "리사 수 AMD 최고경영자(CEO)가 내달 방한해 한국 정부와 국내 인공지능(AI) 반도체 업체와 회동한다. 지난 7월 한국 정부와 맺은 개방형 AI 컴퓨팅 협력 일환으로 분석된다.30일 업계에 따르면 리사 수 CEO는 내달 방한할 것으로 알려졌다. ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 대만 아이스타트텍 EDA 툴 도입…AI로 수율↑",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63025",
+      "date": "2026-09-30 18:27:03",
+      "desc": "퀄컴이 온디바이스 인공지능(AI)에 주로 활용되는 드래곤윙 시스템온칩(SoC)에 대만산 전자설계자동화(EDA) 툴을 도입했다. AI 기반 기술을 활용해 수율을 높이는 목적이다.30일 업계에 따르면 퀄컴은 지난 6월 대만 아이스타트텍(iSTART-tek",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "하나의 이해, 다양한 결과물: 아이유노, 현대적 로컬라이제이션을 지원하는 CLOE Skills 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261001011003",
+      "date": "Thu, 01 Oct 2026 01:10:03 +0900",
+      "desc": "[지디넷코리아] 지속적인 컨텍스트 메모리(Persistent Contextual Memory)를 통해 목적별로 설계된 Skills가 여러 결과물에 동일한 콘텐츠 이해 공유 버뱅크, 캘리포니아, 2026년 9월 30일 /PRNewswire/ -- 아이유",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "TSMC’s 3-nm Ramp Looks Different in Historical Context",
+      "link": "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
+      "date": "Wed, 30 Sep 2026 15:40:17 +0000",
+      "desc": "TSMC’s 3-nm node nears the revenue lead, but history shows 7 nm ramped faster; compare the data before evaluating 2 nm. The post TSMC’s 3-nm",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "온세미, 2030년 매출 110억달러 목표…자동차 넘어 AI 데이터센터로",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63014",
+      "date": "2026-09-30 13:36:13",
+      "desc": "미국 반도체 기업 온세미가 자동차를 넘어 인공지능(AI) 데이터센터와 피지컬 AI로 사업 영역을 확장해 2030년 매출 110억달러에 도전한다.자동차용 전력반도체와 센서에서 쌓은 기술을 AI 데이터센터와 로봇 등에 적용해 큰 폭의 성장세를 달성하겠다고",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "어플라이드-키옥시아, 에픽 센터 참여…차세대 메모리 공동개발",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63007",
+      "date": "2026-09-30 12:12:45",
+      "desc": "어플라이드머티어리얼즈(어플라이드)와 키옥시아가 차세대 메모리의 구조·소재 개발을 협력한다.29일(현지시간) 어플라이드는 키옥시아가 에픽(EPIC) 센터의 혁신 협력사로 합류한다고 밝혔다. 에픽 센터는 미국 실리콘밸리에 조성되는 반도체 장비 공정 혁신 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "현대모비스, 차량용 반도체 국산화·SDV 전환 지원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63003",
+      "date": "2026-09-30 11:51:18",
+      "desc": "현대모비스가 국내 차량용 반도체 국산화와 중형 완성차 업체의 소프트웨어 중심 자동차(SDV) 전환을 지원한다.현대모비스는 30일 서울 강남구 본사에서 산업통상부가 주관하는 '미래차 생태계 구축 협력' 업무협약(MOU)을 체결했다고 밝혔다. 협약에는 자",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Drives Larger, Denser Packaging, Raising New Challenges for Equipment Makers",
+      "link": "https://www.eetimes.com/ai-drives-larger-denser-packaging-raising-new-challenges-for-equipment-makers/",
+      "date": "Wed, 30 Sep 2026 08:55:36 +0000",
+      "desc": "At A*STAR’s Innovate Together 2026, industry experts explored packaging, hybrid bonding, optical interconnects, and process control for AI. ",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -18,6 +178,106 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=62982",
       "date": "2026-09-30 07:27:03",
       "desc": "서울대학교가 정부 주관 인재 양성소 인공지능(AI) 반도체 혁신 연구소 닻을 올렸다. 석박사급 AI 반도체 인재 양성, 산학 협력 체계를 구축한다.서울대는 29일 서울 관악 서울대 반도체공동연구소 설계연구관 도연홀에서 AI 반도체 혁신 연구소 개소식을",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "E-Series GPU IP: The First Step Towards Converged Acceleration",
+      "link": "https://semiengineering.com/e-series-gpu-ip-the-first-step-towards-converged-acceleration/",
+      "date": "Wed, 30 Sep 2026 07:04:53 +0000",
+      "desc": "Combine graphics, compute and AI on one flexible architecture and one programmable software stack, with up to 32 TOPS Int8 per core at 1GHz ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Caliptra Foundation To Full Production Deployment",
+      "link": "https://semiengineering.com/from-caliptra-foundation-to-full-production-deployment/",
+      "date": "Wed, 30 Sep 2026 07:04:24 +0000",
+      "desc": "Bridging the gap between open-source Root of Trust foundations and enterprise-grade security deployments. The post From Caliptra Foundation ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Make Your Interface Work For Your AI SoC—A 10 Step Program: IP Solutions And Models",
+      "link": "https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-ip-solutions-and-models/",
+      "date": "Wed, 30 Sep 2026 07:02:49 +0000",
+      "desc": "How proven IP, verification solutions, and virtual platforms enable earlier SW development, improve interoperability, and streamline deploym",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Designing Physical AI Systems Under Real-World Constraints",
+      "link": "https://semiengineering.com/designing-physical-ai-systems-under-real-world-constraints/",
+      "date": "Wed, 30 Sep 2026 07:02:34 +0000",
+      "desc": "Where latency, power, reliability, and data movement shape system behavior. The post Designing Physical AI Systems Under Real-World Constrai",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "PCIe 8.0 Over UCIe 3.0: Bringing A Proven Protocol Into The Chiplet Era",
+      "link": "https://semiengineering.com/pcie-8-0-over-ucie-3-0-bringing-a-proven-rrotocol-into-the-chiplet-era/",
+      "date": "Wed, 30 Sep 2026 07:02:19 +0000",
+      "desc": "UCIe standardizes die-to-die communication within a package and allows PCIe traffic to traverse chiplet boundaries with seamless interoperab",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Data Center Energy Trends Force A Rethink Of Chip Power Delivery",
+      "link": "https://semiengineering.com/data-center-energy-trends-force-a-rethink-of-chip-power-delivery/",
+      "date": "Wed, 30 Sep 2026 07:01:54 +0000",
+      "desc": "Enabling silicon to operate closer to its true performance envelope without excessive guard banding. The post Data Center Energy Trends Forc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rethinking AI Validation",
+      "link": "https://semiengineering.com/rethinking-ai-validation/",
+      "date": "Wed, 30 Sep 2026 07:01:53 +0000",
+      "desc": "A lifecycle-driven approach for explainable and trustworthy AI by design. The post Rethinking AI Validation appeared first on Semiconductor ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Sept. 30",
+      "link": "https://semiengineering.com/blog-review-sept-30-3/",
+      "date": "Wed, 30 Sep 2026 07:01:52 +0000",
+      "desc": "Quantum computing applications; monitoring shared memory; simulating solid state batteries; trusting ML in automotive; integrating standards",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Switch Faster, Regulate Faster, Protect Faster With Performance Line Microcontrollers",
+      "link": "https://semiengineering.com/switch-faster-regulate-faster-protect-faster-with-performance-line-microcontrollers/",
+      "date": "Wed, 30 Sep 2026 07:01:22 +0000",
+      "desc": "How high-speed control, precision timing, and hardware acceleration enable next-gen PSUs, IBCs, and BBUs. The post Switch Faster, Regulate F",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Photonics Fundamentals For Electronics Engineers: eBook",
+      "link": "https://semiengineering.com/photonics-fundamentals-for-electronics-engineers-ebook/",
+      "date": "Wed, 30 Sep 2026 07:01:05 +0000",
+      "desc": "What it is, why it's important, and how it's impacting the movement of data. The post Photonics Fundamentals For Electronics Engineers: eBoo",
       "category": "etc",
       "domain": "etc"
     },
@@ -264,7 +524,7 @@ window.NEWS_DATA = {
     {
       "source": "전자신문",
       "type": "kr",
-      "title": "삼성, AI 데이터센터 '판' 짠다…미국 AI 인프라 기업에 1.4조 투자",
+      "title": "삼성, 美 AI인프라 기업에 1.4조 투자",
       "link": "https://www.etnews.com/20260929000238",
       "date": "Tue, 29 Sep 2026 14:19:19 +0900",
       "desc": "삼성전자 등 삼성 6개 관계사가 글로벌 투자회사 KKR이 설립한 미국 인공지능(AI) 인프라 기업에 10억달러(약 1조3600억원)를 투자한다. AI 반도체 등 부품 공급에 머물지 않고 AI 데이터센터(AIDC) 건설·운영 생태계에 진입하겠다는 포석이",
