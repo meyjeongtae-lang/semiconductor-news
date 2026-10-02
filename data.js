@@ -1,6 +1,136 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-01T01:04:06.214Z",
+  "fetchedAt": "2026-10-02T01:17:06.071Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261001-TT-01호] 2026년 10월 1일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261001-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-1%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 02 Oct 2026 00:54:47 GMT",
+      "desc": "삼성·SK 주도 차세대 메모리…마이크론 '커스텀 HBM'으로 도전장 (2026년 10월 1일, 아주경제, 김나윤 기자) 원문보기: https://www.ajunews.com/view/20261001142916566 [핵심 요약] [1] 마이크론, 엔비",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261001-TI-01호] 2026년 10월 1일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261001-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-1%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 02 Oct 2026 00:50:10 GMT",
+      "desc": "삼성 파운드리, AI 수요 타고 세계 2위 유지…4·5나노 수요 확대 (2026년 10월 1일, 서울경제, 이석진 기자) 원문보기: https://www.sedaily.com/article/20096796?ref=naver [핵심 요약] [1] 삼성 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"압도적 매수 의견\"…'반도체 훈풍' 삼전닉스 투자전략은?",
+      "link": "https://www.hankyung.com/article/202610018177i",
+      "date": "Fri, 02 Oct 2026 08:00:05 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "마이크론 \"NVHBM, 자체 베이스다이 빠져도 수익성↑\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63114",
+      "date": "2026-10-01 18:25:11",
+      "desc": "마이크론이 엔비디아용 맞춤형(커스텀) 고대역폭메모리(HBM) 'NVHBM'에 외부에서 생산한 베이스다이를 사용한다. 외주 생산에도 수익성은 더 좋아질 예정이다.스캇 디보어 마이크론 최고기술·제품책임자(CTPO)는 30일(현지시간) 2026회계연도 4분",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "원자층 재배열, 차세대 반도체용 초박 절연막 제조 길 열었다",
+      "link": "https://zdnet.co.kr/view/?no=20261001190912",
+      "date": "Fri, 02 Oct 2026 03:00:01 +0900",
+      "desc": "[지디넷코리아]물질의 기본 기능은 유지하면서도, 새로운 기능을 더하는 원자 설계법이 개발됐다.과학기술정보통신부는 이대수·이길호·최시영 포항공과대학교(POSTECH) 물리학과 교수와 박세영 숭실대학교 박세영 교수 공동 연구팀이 원자층 조성 배열을 정밀하",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+      "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+      "date": "Thu, 01 Oct 2026 17:31:45 +0000",
+      "desc": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wea",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"항상 주변에 삼성·국정원이 있다고 생각하라\"",
+      "link": "https://zdnet.co.kr/view/?no=20261002004931",
+      "date": "Fri, 02 Oct 2026 01:07:41 +0900",
+      "desc": "[지디넷코리아]\"항상 주변에 삼성전자와 국정원이 있다고 생각하라. 출입국이 금지되거나 체포되면 위챗(중국 SNS)으로 하트 4개를 보내라.\" 1일 서울고등법원에서 열린 산업기술 해외유출 사건 항소심 공판에서 \"(중국 D램 업체) CXMT 근무 시절 다",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 \"솔리다임 상장 미확정\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63083",
+      "date": "2026-10-01 15:41:08",
+      "desc": "SK하이닉스가 손자회사 솔리다임 상장 확정설을 일축했다.SK하이닉스는 1일 \"솔리다임과 관련해 현재 구체적으로 결정된 사항은 없다\"며 \"솔리다임 외부 자본이나 내부 자본 활용 여부는 형식뿐 아니라 기존 주주에게 미치는 경제적 가치를 종합 고려해 판단할",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "보안칩에 솔루션 얹었다…ICTK-위드네트웍스 합병 시너지",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63079",
+      "date": "2026-10-01 15:34:05",
+      "desc": "아이씨티케이(ICTK)가 보안 솔루션 역량을 갖추게 됐다. 위드네트웍스 최대주주로 올라서며 보안칩과 솔루션 사업을 동시에 진행한다.ICTK는 지난 9월 30일 이사회를 열고 비상장사 위드네트웍스 지분 56.75%(126만주 중 71만5080주)를 양수",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 대동·모빌린트 농업 로봇용 AI 칩 설계",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63085",
+      "date": "2026-10-01 14:14:20",
+      "desc": "세미파이브가 농기계 업체 대동, 인공지능AI) 반도체 기업 모빌린트와 협력한다. 농업 로봇용 AI 칩 설계 사업을 따냈다.세미파이브는 로보틱스 AI 반도체 설계와 개발 계약을 확보했다고 1일 공시했다. 계약 당사자는 모빌린트다. 기간은 2029년 4월",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "2회 '미래기술 전략포럼' 열려...\"피지컬AI로 미래 선도\"",
+      "link": "https://zdnet.co.kr/view/?no=20261001214530",
+      "date": "Thu, 01 Oct 2026 21:45:30 +0900",
+      "desc": "[지디넷코리아]인공지능(AI), 반도체, 양자 등 미래 기술간 시너지를 통해 국가경쟁력 향상을 도모하는 민간주도 단체인 '미래기술 전략포럼' 두번째 행사가 1일 오후 서울 여의도 국회의원회관 제8간담회의실에서 열렸다.행사에는 포럼 공동회장인 송승현 한",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "'이건희 컬렉션' 참석한 이재용, 런던서 첨단기업 수장들과 만나",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63072",
+      "date": "2026-10-01 10:00:00",
+      "desc": "이재용 삼성전자 회장이 영국 런던에서 글로벌 정·재계 인사와 교류했다. 이건희 컬렉션(KH컬렉션) 해외 순회전을 계기로 문화 교류와 글로벌 사업 네트워크를 넓혔다.삼성은 지난달 30일(현지시간) 영국 런던 영국박물관에서 특별전 '한국: 2000년 창의",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Europe’s Space Industry Seeks Greater Supply Chain Control",
+      "link": "https://www.eetimes.com/europe-space-industry-seeks-greater-supply-chain-control/",
+      "date": "Thu, 01 Oct 2026 09:57:15 +0000",
+      "desc": "Europe's strategic space independence will depend on semiconductor supply chains, satellite networks, and 6G communications. The post Europe",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -9,6 +139,16 @@ window.NEWS_DATA = {
       "date": "2026-10-01 08:34:12",
       "desc": "마이크론이 인공지능(AI) 투자로 촉발된 메모리 반도체 수요가 이어지면서 연간 D램 매출이 처음으로 1000억달러(약 135조8000억원)를 넘어섰다. 분기 영업이익률도 80%대를 다시 한번 기록했고, 연간으로도 70% 이상을 나타냈다.마이크론은 30",
       "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[유미's 픽] 대기업 SI, AI 기술 내재화 가속…올 상반기 R&D 투자 가장 많이 한 기업은",
+      "link": "https://zdnet.co.kr/view/?no=20260923171505",
+      "date": "Thu, 01 Oct 2026 16:52:42 +0900",
+      "desc": "[지디넷코리아]인공지능 전환(AX) 경쟁이 본격화하면서 국내 주요 IT서비스 기업들이 자체 기술 경쟁력을 높이기 위한 연구개발(R&amp;D)에 적극 나서고 있다. AI 에이전트와 산업별 AI 플랫폼, 그래픽처리장치(GPU) 인프라 등으로 사업 영역이",
+      "category": "ai-compute",
       "domain": "tech"
     },
     {
@@ -30,6 +170,126 @@ window.NEWS_DATA = {
       "desc": "LB세미콘과 구미시가 전력반도체 후공정 생산라인 증설 목적의 양해각서(MOU)를 체결했다고 30일 밝혔다.MOU는 경상북도와 구미시의 행정 지원, 한국산업단지공단이 협조로 성사됐다. 체결식은 이날 오후 구미 시청 대회의실에서 열렸으며, 이대교 LB세미",
       "category": "foundry",
       "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Hidden Challenges of Edge AI Design",
+      "link": "https://semiengineering.com/the-hidden-challenges-of-edge-ai-design/",
+      "date": "Thu, 01 Oct 2026 07:13:48 +0000",
+      "desc": "As models evolve faster than silicon cycles, chip architects must balance flexible compute, data movement, and defense-in-depth security. Th",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI-Defined Vehicles Push Compute, Memory, And Validation Limits",
+      "link": "https://semiengineering.com/ai-defined-vehicles-push-compute-memory-and-validation-limits/",
+      "date": "Thu, 01 Oct 2026 07:12:08 +0000",
+      "desc": "The shift from software-defined to AI-defined vehicles raises questions about whether the hardware can keep up. The post AI-Defined Vehicles",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Turning Edge AI Data Into Real-Time Action",
+      "link": "https://semiengineering.com/turning-edge-ai-data-into-real-time-action/",
+      "date": "Thu, 01 Oct 2026 07:11:07 +0000",
+      "desc": "On-device AI can deliver faster insights, greater autonomy, and less cloud traffic — but only with the right infrastructure. The post Turnin",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Memory At The Edge: Non-Volatile Memory Challenges And Requirements For Humanoid Robots",
+      "link": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/",
+      "date": "Thu, 01 Oct 2026 07:08:12 +0000",
+      "desc": "Distributed NVM supports high-endurance telemetry logging, functional safety, and time-sensitive networking where resilience is critical. Th",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Open Security Foundations Are Only The Beginning: Deploying Caliptra Hardware in Production",
+      "link": "https://semiengineering.com/open-security-foundations-are-only-the-beginning-deploying-caliptra-hardware-in-production/",
+      "date": "Thu, 01 Oct 2026 07:07:44 +0000",
+      "desc": "Roots of trust are beginning to assume a broader role as platform security orchestrators. The post Open Security Foundations Are Only The Be",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why LLMs Are The Best Thing To Happen To Chip Design",
+      "link": "https://semiengineering.com/why-llms-are-the-best-thing-to-happen-to-chip-design/",
+      "date": "Thu, 01 Oct 2026 07:06:18 +0000",
+      "desc": "Moving beyond RTL to a new representation that allows engineers to express intent more intuitively. The post Why LLMs Are The Best Thing To ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Mitigating Threats With Pre-Silicon Security Verification",
+      "link": "https://semiengineering.com/mitigating-threats-with-pre-silicon-security-verification/",
+      "date": "Thu, 01 Oct 2026 07:05:59 +0000",
+      "desc": "The types of threats that must be mitigated and a process to verify that designs are secure in real-world deployment. The post Mitigating Th",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Crossing Chiplet Boundaries With PCIe Over UCIe",
+      "link": "https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie/",
+      "date": "Thu, 01 Oct 2026 07:03:02 +0000",
+      "desc": "Observe how protocol intent becomes die-to-die activity and how link-state transitions affect transaction behavior. The post Crossing Chiple",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "LLM Performance And Acceleration: Part 1",
+      "link": "https://semiengineering.com/llm-performance-and-acceleration-part-1/",
+      "date": "Thu, 01 Oct 2026 07:02:13 +0000",
+      "desc": "Time to first token, inter-token latency, and how they apply to the two main stages of LLM compute. The post LLM Performance And Acceleratio",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "US Executive Order On Energy Grid Supply Chain Security",
+      "link": "https://semiengineering.com/us-executive-order-on-energy-grid-supply-chain-security/",
+      "date": "Thu, 01 Oct 2026 07:01:39 +0000",
+      "desc": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executi",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다",
+      "link": "https://www.etnews.com/20261001000279",
+      "date": "Thu, 1 Oct 2026 16:00:00 +0900",
+      "desc": "인공지능(AI) 가전 열풍이 대형가전을 넘어 인덕션과 환기가전 등 중소·생활가전으로 확산하고 있다. 별도 신경망처리장치(NPU) 없이도 마이크로컨트롤러유닛(MCU) 단위에서 저렴한 가격으로 필요한 AI 기능을 구현하는 온디바이스AI가 확산하고 있다. ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "이재용 뉴욕 이어 런던 '갈라 외교'…반도체 핵심 파트너 CEO 한자리에 모였다",
+      "link": "https://www.etnews.com/20261001000156",
+      "date": "Thu, 1 Oct 2026 10:33:24 +0900",
+      "desc": "이재용 삼성전자 회장이 영국 런던에서 반도체 핵심 파트너 최고경영자(CEO)들과 한자리에 모였다. 한국 문화유산을 매개로 글로벌 공급망 네트워크를 다지는 '민간외교' 행보다. 삼성은 9월 30일(현지시간) 영국박물관에서 특별전 '한국: 2000년 창의",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "SPTA TIMES",
@@ -54,7 +314,7 @@ window.NEWS_DATA = {
     {
       "source": "EE Times",
       "type": "intl",
-      "title": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+      "title": "Emergence AI Targets Fabless Chipmakers With Neuroformal AI",
       "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
       "date": "Wed, 30 Sep 2026 21:31:25 +0000",
       "desc": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The pos",
