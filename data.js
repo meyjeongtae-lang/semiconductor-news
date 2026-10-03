@@ -1,6 +1,156 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-02T01:17:06.071Z",
+  "fetchedAt": "2026-10-03T00:55:57.825Z",
   "items": [
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+      "link": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/",
+      "date": "Fri, 02 Oct 2026 22:46:46 +0000",
+      "desc": "Researchers at Infineon Technologies and Technical University of Munich published a technical paper titled “From Physical Devices to RTL Mod",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
+      "link": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/",
+      "date": "Fri, 02 Oct 2026 20:15:40 +0000",
+      "desc": "Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidth Flash for LLM Serving.” Abstr",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Formal Automotive Security Analysis Of CAN XL (Georgia Tech, QCRI, Purdue)",
+      "link": "https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue/",
+      "date": "Fri, 02 Oct 2026 19:05:52 +0000",
+      "desc": "Researchers at Georgia Institute of Technology, Qatar Computing Research Institute, and Purdue University published a technical paper titled",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 엑시노스 2700 물량 10% 늘려 양산 돌입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63219",
+      "date": "2026-10-02 18:09:07",
+      "desc": "삼성전자가 스마트폰 갤럭시S27 시리즈의 두뇌인 엑시노스 2700 양산을 시작했다. 생산 물량은 전작보다 10% 늘어난 것으로 파악됐다.2일 업계에 따르면 삼성전자는 최근 자체 애플리케이션 프로세서(AP) 엑시노스 2700의 전공정(파운드리) 양산라인",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "반도체 IP 업계, 'K-온디바이스 국책 과제' 수혜 시작",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63218",
+      "date": "2026-10-02 17:35:00",
+      "desc": "국내 반도체 설계자산(IP) 업계가 산업통상부 주관 'K-온디바이스 AI 반도체 기술 개발' 사업이 시작되면서 숨통이 트였다.오픈엣지테크놀로지는 국내 기업에 IP 라이선스 계약을 체결했다고 2일 공시했다. K-온디바이스 AI 반도체 기술 개발 국책의 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, 재산 분할액 대비 SK 지분 9440억원 매각",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63212",
+      "date": "2026-10-02 17:17:44",
+      "desc": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에 지급할 재산분할액 9440억원 마련을 위해 지주사 SK 주식 9440억원어치를 매각한다. 전략적 투자자(SI)에게 5440억원어치를 매각하고 증권사와 4000억원 규모의 주식 매각과 주가수익스왑(PR",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63206",
+      "date": "2026-10-02 16:52:28",
+      "desc": "배터리 드라이룸 전문기업 씨케이솔루션이 반도체와 데이터센터로 신사업 확대에 성공했다. 대형 프로젝트를 확보하며 올해 5000억~6000억원의 누적 수주 달성에 다가섰다. 미국 인디애나주 첨단 패키징 공장 프로젝트로 SK하이닉스와 첫 거래도 시작했다. ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610031370i",
+      "date": "Sat, 03 Oct 2026 01:44:24 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
+      "link": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
+      "date": "Fri, 02 Oct 2026 15:58:50 +0000",
+      "desc": "At AutoSens Europe, automotive sensing designs reflected tighter safety standards, advances in AI processing, and growing cybersecurity requ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "어플라이드-베시, 에픽 센터서 하이브리드 본딩 공동개발",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63168",
+      "date": "2026-10-02 11:54:41",
+      "desc": "어플라이드머티어리얼즈(어플라이드)와 베시가 이종 집적·접합 등 차세대 패키징 연구개발(R&D)의 협력을 강화한다.어플라이드는 1일(현지시간) 베시가 에픽(EPIC) 센터에 혁신 파트너로 합류한다고 밝혔다. 에픽 센터는 미국 실리콘밸리에 조성되는 반도체",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Continuous Health Monitoring Drives Integrated Wearable System Design",
+      "link": "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/",
+      "date": "Fri, 02 Oct 2026 11:29:26 +0000",
+      "desc": "Analog Devices India’s Praveen Jose said device miniaturization is driving higher performance and quality in smaller form factors. The post ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261002-TE-01호] 2026년 10월 2일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261002-te-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-2%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 02 Oct 2026 08:16:26 GMT",
+      "desc": "어플라이드·베시, 차세대 패키징 시장 전략적 파트너십 확대 (2026년 10월 2일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20261002090337 [핵심 요약] [1] 베시, 어플라이드",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261002-TI-01호] 2026년 10월 2일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261002-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-2%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 02 Oct 2026 08:15:18 GMT",
+      "desc": "'반도체 풍향계' 마이크론, 영업익 1097% 증가한 59조원 (2026년 10월 2일, 조선일보, 박지민 기자 · 강다은 기자) 원문보기: https://www.chosun.com/economy/tech_it/2026/10/02/HXXWJLSS5ZB",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Proof Economy",
+      "link": "https://semiengineering.com/the-proof-economy/",
+      "date": "Fri, 02 Oct 2026 07:01:52 +0000",
+      "desc": "As artificial intelligence makes creation abundant, proof becomes the new scarcity. The post The Proof Economy appeared first on Semiconduct",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-158/",
+      "date": "Fri, 02 Oct 2026 07:01:31 +0000",
+      "desc": "Autonomous workflow design; CFETs push scaling beyond 10 angstroms; onsemi-Synaptics deal revised; physical AI M&#038;A and funding; AI data",
+      "category": "robotics",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
@@ -1230,16 +1380,6 @@ window.NEWS_DATA = {
       "desc": "As edge AI transforms smart buildings, Wi-Fi HaLow bridges the gap between bandwidth, long range, and low power. The post Balancing Bandwidt",
       "category": "security",
       "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-157/",
-      "date": "Fri, 25 Sep 2026 07:01:42 +0000",
-      "desc": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical m",
-      "category": "deals",
-      "domain": "business"
     },
     {
       "source": "ZDNet Korea",
