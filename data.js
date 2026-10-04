@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-03T00:55:57.825Z",
+  "fetchedAt": "2026-10-04T00:21:31.930Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제 20261004-AI-01호] 2026년 10월 1주차 글로벌 반도체산업 관련 기사 분석",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20261004-ai-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
+      "date": "Sun, 04 Oct 2026 00:08:08 GMT",
+      "desc": "AI가 반도체 지형을 다시 쓴다…HBM·첨단패키징·파운드리 경쟁 넘어 ‘기술·공급망·인재’ 전쟁으로 글쓴이: 이종욱 10월 첫째 주 글로벌 반도체 산업은 몇 가지 뚜렷한 변화를 동시에 보여줬다. AI 반도체 수요가 HBM과 첨단 패키징을 중심으로 산업",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'메모리 풍향계' 마이크론 호실적… 삼성·SK 3분기 실적 '파란불'",
+      "link": "https://zdnet.co.kr/view/?no=20261002212844",
+      "date": "Sun, 04 Oct 2026 08:00:02 +0900",
+      "desc": "[지디넷코리아]글로벌 메모리 반도체 시장 '풍향계' 마이크론이 시장 전망을 크게 웃도는 분기 실적을 기록하면서, 삼성전자와 SK하이닉스의 3분기 실적 기대감도 커지고 있다.4일 업계에 따르면 삼성전자와 SK하이닉스는 3분기 역대급 영업이익을 거둘 것으",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "주요 IB, 엔비디아 HPE 등 'AI 인프라' 다시 주목 [월가 업&다운]",
+      "link": "https://www.hankyung.com/article/202610042009i",
+      "date": "Sun, 04 Oct 2026 06:00:02 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "원전 파운드리, 반도체 신화 이을까…K기업, 美 심장부 뚫는다 [분석+]",
+      "link": "https://www.hankyung.com/article/2026100179916",
+      "date": "Sat, 03 Oct 2026 16:43:51 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "연간 설비투자 '2배' 늘리는 마이크론…삼성·SK 압박",
+      "link": "https://zdnet.co.kr/view/?no=20261002121520",
+      "date": "Sat, 03 Oct 2026 09:00:01 +0900",
+      "desc": "[지디넷코리아]미국 메모리 업체 마이크론이 내년에 전년비 2배에 가까운 설비투자를 계획하고 있다. 삼성전자·SK하이닉스 등에 준하는 가파른 증가세다.인공지능(AI)용 고부가 메모리 수요가 중장기적으로 견조할 것으로 전망되는 만큼, 생산능력을 최대한 빨",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
