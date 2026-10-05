@@ -1,6 +1,36 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-04T00:21:31.930Z",
+  "fetchedAt": "2026-10-05T00:27:35.371Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[포토] 삼성전자, 지역민에 '용인 반도체산단' 미래 모습 소개",
+      "link": "https://www.hankyung.com/article/2026100426301",
+      "date": "Sun, 04 Oct 2026 18:15:34 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "메모리 가격 인상에…구글 ‘픽셀 10a’, 13만원 비싸졌다",
+      "link": "https://zdnet.co.kr/view/?no=20261004105356",
+      "date": "Sun, 04 Oct 2026 14:45:31 +0900",
+      "desc": "[지디넷코리아]메모리 가격 상승으로 구글이 출시 7개월 된 보급형 스마트폰 ‘픽셀 10a’의 가격을 100달러(약 13만4900원) 인상했다.3일(현지시간) 나인투파이브구글, 블룸버그 등 외신은 구글 모회사 알파벳이 픽셀 10a의 가격을 기존보다 10",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엔비디아, 메모리 64GB 탑재 'DGX 스파크' 이달 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261003235013",
+      "date": "Sun, 04 Oct 2026 10:00:05 +0900",
+      "desc": "[지디넷코리아]엔비디아가 2일(현지시간) AI 워크스테이션 'DGX 스파크'의 통합메모리를 절반으로 줄인 파생 모델을 이달 하순부터 공급한다고 밝혔다.엔비디아는 CES 2025 기조연설에서 클라우드 없이 개인이 AI 연산에 활용할 수 있는 장치 '프로",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
