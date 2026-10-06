@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-05T00:27:35.371Z",
+  "fetchedAt": "2026-10-06T02:03:43.887Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261005-TM-01호] 2026년 10월 5일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261005-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-5%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 06 Oct 2026 00:58:12 GMT",
+      "desc": "삼성전자, 칩 검사 라인 베트남에 구축 추진 (2026년 10월 5일, 서울경제, 이석진 기자) 원문보기: https://www.sedaily.com/article/20098164?ref=naver [핵심 요약] [1] 베트남에 메모리 테스트팹 2곳 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261005-TI-01호] 2026년 10월 5일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261005-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-5%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 06 Oct 2026 00:55:49 GMT",
+      "desc": "판 커지는 'AI 데이터센터'…삼성·SK·LG도 투자 확대 나서 (2026년 10월 5일, 뉴시스, 박나리 기자) 원문보기: https://www.newsis.com/view/NISX20261002_0003813107 [핵심 요약] [1] AI 데이터",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 소부장株 훨훨\"…나스닥 최고치에 삼성전기 등 급등",
+      "link": "https://www.hankyung.com/article/2026100647566",
+      "date": "Tue, 06 Oct 2026 09:46:45 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "두산로보틱스, 1000억원 국책과제 2건 수주",
+      "link": "https://zdnet.co.kr/view/?no=20261006085025",
+      "date": "Tue, 06 Oct 2026 09:39:49 +0900",
+      "desc": "[지디넷코리아]두산로보틱스가 1000억원 규모 국책과제 2건 수행기업에 선정됐다고 6일 밝혔다. 이번 과제는 산업통상부와 한국산업기술기획평가원이 공동 주관하는 'K-온디바이스 인공지능(AI) 반도체 기술개발사업'과 '로봇산업 기술개발사업' 일환이다. ",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[공모주 분석] 'AI 교육' 옷 벗은 엘리스그룹, '몸값 1조' AI 인프라 승부수",
+      "link": "https://www.hankyung.com/article/202610020258i",
+      "date": "Tue, 06 Oct 2026 09:30:04 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
+      "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
+      "date": "Mon, 05 Oct 2026 20:00:00 +0000",
+      "desc": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launc",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)",
+      "link": "https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc/",
+      "date": "Mon, 05 Oct 2026 18:07:21 +0000",
+      "desc": "Researchers at the University of California, Santa Cruz published a technical paper titled “Design Space Exploration of Backside Clock Meshe",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
+      "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
+      "date": "Mon, 05 Oct 2026 17:48:56 +0000",
+      "desc": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
+      "link": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus/",
+      "date": "Mon, 05 Oct 2026 17:25:40 +0000",
+      "desc": "Researchers at Huazhong University of Science and Technology, Hong Kong Polytechnic University, University of California, Santa Barbara, and",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)",
+      "link": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden/",
+      "date": "Mon, 05 Oct 2026 16:16:28 +0000",
+      "desc": "Researchers at Syracuse University, Friedrich-Alexander-Universität Erlangen-Nürnberg, and TU Dresden published a technical paper titled “RA",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+      "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "date": "Mon, 05 Oct 2026 12:00:00 +0000",
+      "desc": "Synopsys joins OpenAI for a leap of faith in AI-native IC design by augmenting frontier models with EDA tools. The post GPT-Synopsys Combine",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Agentic AI Super Cycle",
+      "link": "https://semiengineering.com/the-agentic-ai-supercycle/",
+      "date": "Mon, 05 Oct 2026 07:01:51 +0000",
+      "desc": "AI is the biggest revolution of our lives, and it will grow exponentially into the 2030s. The post The Agentic AI Super Cycle appeared first",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Extreme Environments Push Chips To Their Breaking Point",
+      "link": "https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/",
+      "date": "Mon, 05 Oct 2026 07:01:21 +0000",
+      "desc": "Orbital data centers, defense systems, quantum computing, particle physics, and advanced manufacturing are raising the bar for simulation, t",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Electric Car Makers Need to Appeal to the ‘Other 90%’",
+      "link": "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/",
+      "date": "Mon, 05 Oct 2026 05:30:55 +0000",
+      "desc": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal t",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -8,6 +148,16 @@ window.NEWS_DATA = {
       "link": "https://www.hankyung.com/article/2026100426301",
       "date": "Sun, 04 Oct 2026 18:15:34 +0900",
       "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 용인 과학축제서 반도체 국가산단 청사진 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63241",
+      "date": "2026-10-04 06:00:00",
+      "desc": "삼성전자가 지난 3일부터 4일까지 용인미르스타디움에서 열린 '2026 용인 사이버 과학축제'에서 용인 첨단시스템반도체 국가산업단지의 미래 모습을 지역주민에게 소개했다. 첫날 부스에 청소년과 어린이 등 지역주민 6000여명이 방문했다.용인 사이버 과학축",
       "category": "etc",
       "domain": "etc"
     },
