@@ -1,6 +1,136 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-06T02:03:43.887Z",
+  "fetchedAt": "2026-10-07T01:12:43.233Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261006-TI-01호] 2026년 10월 6일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261006-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-6%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 07 Oct 2026 00:37:48 GMT",
+      "desc": "SK하닉, 美 AI·차세대 메모리 조직 대폭 확대 (2026년 10월 6일, 파이낸셜뉴스, 임수빈 기자) 원문보기: https://www.fnnews.com/news/202610061814109596 [핵심 요약] [1] 미국 현지 AI·차세대 메모리",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"이기종 연결부터 심폐소생술까지\"… AI반도체 특별관, K-반도체 저력 입증",
+      "link": "https://zdnet.co.kr/view/?no=20261006180230",
+      "date": "Wed, 07 Oct 2026 08:00:02 +0900",
+      "desc": "[지디넷코리아]초거대 인공지능(AI) 시대를 맞아 데이터센터의 전력·병목 이슈를 해결하고, 실생활과 산업 현장에 AI를 적용하기 위한 국산 AI 반도체 혁신 기술이 한자리에 모였다.6일 서울 강남 코엑스에서 열린 'AI 페스타 2025' AI 반도체 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The AI Boom Has a Gigawatt Accounting Problem",
+      "link": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
+      "date": "Tue, 06 Oct 2026 21:57:47 +0000",
+      "desc": "Track energized compute, not gigawatts, as AI data centers face delays in memory, networking, cooling, and power. The post The AI Boom Has a",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)",
+      "link": "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech/",
+      "date": "Tue, 06 Oct 2026 21:45:13 +0000",
+      "desc": "Researchers at Georgia Institute of Technology published a technical paper titled “Low-loss ultra-compact photonic bends with enhanced fabri",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Monolithic 3D Memristor-TFT Stack For Programmable Neuromorphic Computing (SNU, Yonsei)",
+      "link": "https://semiengineering.com/monolithic-3d-memristor-tft-stack-for-programmable-neuromorphic-computing-snu-yonsei/",
+      "date": "Tue, 06 Oct 2026 21:29:31 +0000",
+      "desc": "Researchers at Seoul National University and Yonsei University published a technical paper titled “Monolithic three-dimensionally integrated",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)",
+      "link": "https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu/",
+      "date": "Tue, 06 Oct 2026 20:58:05 +0000",
+      "desc": "Researchers at ETH Zürich, CISPA, and New York University published a technical paper titled “Terracotta: Enabling the Adoption of New DRAM ",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
+      "link": "https://www.eetimes.com/axelera-ai-data-center-inference-performance-in-the-power-envelope-of-embedded-systems/",
+      "date": "Tue, 06 Oct 2026 18:03:14 +0000",
+      "desc": "Axelera’s Europa brings 629 TOPS inference to 35W edge systems while Voyager cuts toolchain lock-in. The post Axelera AI: Data Center Infere",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
+      "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
+      "date": "Tue, 06 Oct 2026 15:34:21 +0000",
+      "desc": "Avoid NFC failures: plan ferrite shielding, flexible placement, robust connectors, and chipset validation before prototyping. The post Solvi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴-화웨이, 5G부터 AI까지 특허 라이선스 체결",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63260",
+      "date": "2026-10-06 14:39:44",
+      "desc": "퀄컴이 화웨이와 특허 라이선스 계약을 체결했다고 5일(현지시간) 밝혔다.양사는 5세대 이동통신(5G), 네트워크, 컴퓨팅, 인공지능(AI) 등 여러 기술 분야에서 상호 특허 사용 계약을 맺었다. 상호 특허 사용 계약은 각자의 특허를 상대방이 쓸 수 있",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "CXL-Connected MRAM Address AI Storage Latency",
+      "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
+      "date": "Tue, 06 Oct 2026 10:24:22 +0000",
+      "desc": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connec",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "하정우 부위원장 \"AI 모델만 잘해선 3강 못 간다…생태계 전체 키워야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261006181222",
+      "date": "Tue, 06 Oct 2026 18:28:05 +0900",
+      "desc": "[지디넷코리아]하정우 국가인공지능전략위원회 부위원장이 한국이 인공지능(AI) 3강으로 도약하려면 AI 모델 경쟁을 넘어 전력과 반도체, 데이터센터, 산업 AI, 피지컬 AI까지 전체 생태계의 경쟁력을 함께 키워야 한다고 강조했다.하 부위원장은 6일 서",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Oct. 6",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/",
+      "date": "Tue, 06 Oct 2026 07:01:55 +0000",
+      "desc": "Low-contact-resistance WSe₂ transistors; backside clock meshes for 2nm GAAFETs; row-parallel processing in DRAM; HBF for high-throughput LLM",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations",
+      "link": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations-2/",
+      "date": "Tue, 06 Oct 2026 07:01:13 +0000",
+      "desc": "Part 2: Toward scalable sCFET standard cell architectures: split-gate devices, a 5T+1 CFET SRAM bit cell, and improved back-end-of-line rout",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
