@@ -1,6 +1,196 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-07T01:12:43.233Z",
+  "fetchedAt": "2026-10-08T01:33:43.540Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "데이터창고 넘어 ‘AI토큰 공장’으로 \"한국에 기회 왔다”",
+      "link": "https://zdnet.co.kr/view/?no=20261008095332",
+      "date": "Thu, 08 Oct 2026 09:53:32 +0900",
+      "desc": "[지디넷코리아]AI 데이터센터(AIDC)의역할이 데이터를 저장하고 처리하는 시설에서 대규모로 ‘지능’을 생산하는 ‘AI 토큰 팩토리’로 바뀌고 있다. AI 시장 중심이 모델 학습에서 서비스 추론으로 이동하면서 GPU와 전력에 이어 메모리와 사업성이 새",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직",
+      "link": "https://www.hankyung.com/article/202610080150g",
+      "date": "Thu, 08 Oct 2026 09:52:06 +0900",
+      "desc": "",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261007-TI-01호] 2026년 10월 7일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261007-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-7%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 08 Oct 2026 00:43:38 GMT",
+      "desc": "삼성전자 HBM, 내년 '1위' 올라서나…10월 가격 협상도 주도 (2026년 10월 7일, 아이뉴스24, 권서아 기자) 원문보기: https://www.inews24.com/view/2012406 [핵심 요약] [1] 삼성전자, 내년 HBM 시장 1",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "모빌린트 NPU, 누리호 탑승…K-AI 반도체 최초 우주 진출",
+      "link": "https://zdnet.co.kr/view/?no=20261008082446",
+      "date": "Thu, 08 Oct 2026 09:14:34 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 반도체 기업 모빌린트는 자사 AI 반도체가 7일 발사된 누리호 5차의 부탑재위성 'BEE-1012'에 탑재됐다고 8일 밝혔다. 국내 기업이 자체 설계·개발한 신경망처리장치(NPU) 반도체가 위성에 탑재돼 우주로 향한 것은",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "슈퍼코더, '2026 슈퍼코더 AI 면접대회' 개막",
+      "link": "https://zdnet.co.kr/view/?no=20261008090618",
+      "date": "Thu, 08 Oct 2026 09:06:18 +0900",
+      "desc": "[지디넷코리아]HR테크 기업 슈퍼코더가 반도체 기업 취업을 희망하는 전국 대학생 및 대학원생을 대상으로 '2026 슈퍼코더 AI 면접대회: 슈퍼전자'를 개최한다.8일 회사에 따르면, 이번 면접대회는 가상의 반도체 기업 '슈퍼전자'가 소프트웨어 개발 및",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "전력반도체 생태계 구축에 산학연 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63437",
+      "date": "2026-10-07 20:12:52",
+      "desc": "한국전력소자산업협회가 한국에너지공과대학(KENTECH), 한국건설생활환경시험연구원(KCL), 파워반도체 공유대학, 부산테크노파크 등 협약기관과 전력반도체 산업 생태계를 강화한다. 연구개발(R&D) 과제 발굴과 시험, 인증, 사업화, 인재 양성 등을 거",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)",
+      "link": "https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml/",
+      "date": "Wed, 07 Oct 2026 19:47:59 +0000",
+      "desc": "Researchers at Carl Zeiss SMT and ASML published a technical paper titled “Hyper-NA: a system with a numerical aperture of at least 0.75.” A",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63426",
+      "date": "2026-10-07 19:43:20",
+      "desc": "인공지능(AI) 데이터센터 확산으로 전력 사용량이 증가하면서 탄화규소(SiC)나 질화갈륨(GaN) 등 화합물 전력반도체의 중요성이 대두되고 있다. 데이터센터가 더 많은 전력을 효율적으로 공급하기 위해 고전압 전력망을 도입하고 있어서다. 기존 실리콘(S",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 연말 신규 APU 출시한다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63427",
+      "date": "2026-10-07 19:27:02",
+      "desc": "AMD가 올해 말 FSR(FidelityFX Super Resolution)4를 지원하는 차세대 가속처리장치(APU:Accelerated Processing Unit)를 출시한다.잭 후인 AMD 컴퓨팅·그래픽스 그룹 총괄 수석 부사장은 7일 용산 서울",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
+      "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
+      "date": "Wed, 07 Oct 2026 18:39:00 +0000",
+      "desc": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Vi",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리사 수 \"한국과 3~5년 중장기 파트너십 구축\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63420",
+      "date": "2026-10-07 17:19:37",
+      "desc": "리사 수 AMD 최고경영자(CEO)가 삼성전자, SK하이닉스와 중장기 협력을 확대할 것이라고 밝혔다.리사 수 CEO는 7일 용산 서울드래곤시티에서 한국 언론과 만나 \"반도체 공급망 구조는 매우 복잡해 1~3년 정도의 단기 협력 관계가 아닌 3~5년 이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "지멘스-TSMC, 반도체 설계에 에이전틱 AI 적용",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63389",
+      "date": "2026-10-07 16:00:03",
+      "desc": "지멘스 디지털 인더스트리 소프트웨어 전자설계자동화(EDA) 사업부가 대만 위탁생산(파운드리) 기업인 TSMC와 에이전틱 인공지능(AI)으로 설계 효율을 높인다. AI 기반 자동화 첨단 반도체 설계 지원 분야 협력을 강화한다고 7일 밝혔다.양사는 디지털",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "보스반도체, 미라이즈테크놀로지와 차량용 칩렛 기술 개발 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63384",
+      "date": "2026-10-07 15:42:10",
+      "desc": "보스반도체가 일본 미라이즈테크놀로지와 자동차용 칩렛 연결 기술을 개발 협력한다고 7일 밝혔다.보스반도체는 미라이즈테크놀로지의 자동차용 연구개발(R&D) 프로젝트를 지원한다. 자동차용 시스템온칩(SoC)과 칩렛 설계 경험을 제공한다. 협력 기간과 규모는",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, TV 원가 줄이는 'RGB BAR' 개발",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63381",
+      "date": "2026-10-07 15:38:41",
+      "desc": "글로벌테크놀로지가 적녹청(RGB) 백라이트 통합 설계로 발광다이오드(LED) 모듈 효율은 높이고, 완성품 원가절감을 추진한다.글로벌테크놀로지는 2027년 양산을 목표로 LED 드라이버 IC(LDI)와 패키지, 광학렌즈, 바(Bar)를 일괄 설계하는 '",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+      "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+      "date": "Wed, 07 Oct 2026 13:09:13 +0000",
+      "desc": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM estab",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD 하드웨어에 국산 NPU 심는다…한국과 AI 협력 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63359",
+      "date": "2026-10-07 11:15:44",
+      "desc": "리사 수 AMD 최고경영자(CEO)가 7일 방한했다. 국내 인공지능(AI) 기업과 만나 협력을 논의하고, AI 연구센터를 통해 한국과의 점접을 늘리겠다고도 했다.리사 수 CEO는 7일 서울 포시즌스 호텔에서 류제명 과학기술정보통신부(과기정통부) 2차관",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Silicon Labs Adds IoT Developer Platform Tools",
+      "link": "https://www.eetimes.com/silicon-labs-adds-iot-developer-platform-tools/",
+      "date": "Wed, 07 Oct 2026 11:03:18 +0000",
+      "desc": "To meet rising edge AI demands, Silicon Labs connects its development tools with generative AI and enterprise data infrastructure. The post ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Thermal Complexity Grows With AI Chips And Photonics",
+      "link": "https://semiengineering.com/thermal-complexity-grows-with-ai-chips-and-photonics/",
+      "date": "Wed, 07 Oct 2026 07:01:34 +0000",
+      "desc": "Increasing power density makes heat, stress, and aging harder to predict, and more critical to address earlier in the design flow. The post ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Oct. 7",
+      "link": "https://semiengineering.com/blog-review-oct-7-3/",
+      "date": "Wed, 07 Oct 2026 07:01:12 +0000",
+      "desc": "CFETs and buried power rails; agentic AI for EDA; 6G architecture decisions; chiplet connectivity. The post Blog Review: Oct. 7 appeared fir",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
@@ -180,6 +370,16 @@ window.NEWS_DATA = {
       "desc": "",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "3000억개 파라미터 제공, AMD '라이젠 AI 맥스 플러스'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63015",
+      "date": "2026-10-05 22:00:00",
+      "desc": "AMD가 최대 3000억개 매개변수(파라미터)를 지닌 인공지능(AI) 모델을 PC에서 구동한다. 기존에는 클라우드 데이터센터에서 주로 구동하던 대규모 AI 모델을 소형 컴퓨터로 가져온 셈이다.마이클 노드퀴스트 AMD 클라이언트 제품 마케팅 담당 부사장",
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "EE Times",
