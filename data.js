@@ -1,6 +1,126 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-09T01:44:53.482Z",
+  "fetchedAt": "2026-10-10T01:31:23.326Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "ASML, 유지보수용 노광장비 부품값 10% 일괄 인상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63515",
+      "date": "2026-10-10 09:37:29",
+      "desc": "세계 최대 반도체 장비 업체 ASML이 국내로 공급하는 교체용 장비 부품 가격을 일괄 10% 인상한다.극자외선(EUV)과 심자외선(DUV) 노광장비용 전 부품이 대상이다. 내년 1월 공급분부터 오른 가격이 적용된다.10일 업계에 따르면 ASML 본사는",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "100달러 비싸진 아이폰18프로, 수요부진 논쟁 붙었다",
+      "link": "https://zdnet.co.kr/view/?no=20261010081310",
+      "date": "Sat, 10 Oct 2026 08:13:10 +0900",
+      "desc": "[지디넷코리아]애플이 아이폰18프로의 부품 주문량을 줄였다는 보도가 나오면서 신제품 수요를 둘러싼 논쟁이 불거졌다. 메모리 가격 상승으로 전작보다 100달러 비싸진 아이폰18프로 판매가 기대에 미치지 못한 것 아니냐는 관측이 제기됐고, 일각에서는 완제",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202610103221i",
+      "date": "Sat, 10 Oct 2026 08:06:40 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261009223603",
+      "date": "Sat, 10 Oct 2026 08:00:04 +0900",
+      "desc": "[지디넷코리아]세계 최대 반도체 설계 자동화(EDA) 소프트웨어 기업 미국 시놉시스(Synopsys)가 반도체 설계효율과 개발속도를 올리기 위해 중국 인공지능(AI) 연구소, 거대언어모델(LLM) 개발사들과 기술 협업을 모색 중이다.일본 니케이아시아(",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+      "date": "Fri, 09 Oct 2026 22:00:00 +0000",
+      "desc": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfr",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "광주 간 최태원 \"용수 전력 늦어도 착공\"... 美시설 반환이 변수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63512",
+      "date": "2026-10-09 20:02:17",
+      "desc": "최태원 SK그룹 회장이 광주 반도체 클러스터 건설에 속도를 내겠다는 뜻을 밝혔다.전력과 용수 공급이 늦어지더라도 기초공사가 가능하면 먼저 착공하겠다고 했다. 다만 구체 착공 시점은 미정이다. 광주 군공항 내 미군 사용 시설 반환이 일정에 영향을 줄 최",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
+      "link": "https://zdnet.co.kr/view/?no=20261009223352",
+      "date": "Fri, 09 Oct 2026 22:33:52 +0900",
+      "desc": "[지디넷코리아]지난 8월 제12차 전력수급기본계획(전기본)의 2040년 전력소비량 전망이 약 847TWh로 제시됐다. 넉 달 전 잠정안은 약 658TWh였다. 반도체와 AI 데이터센터 투자계획을 반영하자 15년 뒤의 숫자가 넉 달 만에 29% 늘었다.",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
+      "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
+      "date": "Fri, 09 Oct 2026 12:11:04 +0000",
+      "desc": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Gro",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
+      "link": "https://www.eetimes.com/physical-ai-needs-a-neuromorphic-path-from-sensor-to-silicon/",
+      "date": "Fri, 09 Oct 2026 08:39:41 +0000",
+      "desc": "Physical AI will be limited in the real world if we keep pretending that physical data comes packaged like the digital world. The post Physi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "최태원 \"호남 반도체 팹, 용인 3분의 2 규모 검토...속도감 있게 추진\"",
+      "link": "https://zdnet.co.kr/view/?no=20261009163220",
+      "date": "Fri, 09 Oct 2026 17:09:42 +0900",
+      "desc": "[지디넷코리아]최태원 SK그룹 회장이 \"현재까지 (전남광주에) 용인 3분의 2 정도 크기 (반도체 팹 구축) 계획을 갖고 있다\"며 \"땅과 수요가 더 있다면 이쪽(전남광주)이 더 커질 것도 충분히 예상한다\"고 밝혔다. 최태원 회장은 9일 전남광주통합특별",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "韓 공략 시동 건 코어위브…데이터센터 협력·추론 사업 키운다",
+      "link": "https://zdnet.co.kr/view/?no=20261009152305",
+      "date": "Fri, 09 Oct 2026 16:06:12 +0900",
+      "desc": "[지디넷코리아]글로벌 인공지능(AI) 인프라 기업 코어위브가 한국 시장 공략에 속도를 내고 있다. 국내 여러 데이터센터 사업자들과 협력 방안을 논의하는 가운데 고성능 그래픽처리장치(GPU) 공급뿐 아니라 AI 추론 시장으로 사업 영역을 넓히려는 움직임",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-159/",
+      "date": "Fri, 09 Oct 2026 07:01:17 +0000",
+      "desc": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
@@ -900,16 +1020,6 @@ window.NEWS_DATA = {
       "desc": "As artificial intelligence makes creation abundant, proof becomes the new scarcity. The post The Proof Economy appeared first on Semiconduct",
       "category": "security",
       "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-158/",
-      "date": "Fri, 02 Oct 2026 07:01:31 +0000",
-      "desc": "Autonomous workflow design; CFETs push scaling beyond 10 angstroms; onsemi-Synaptics deal revised; physical AI M&#038;A and funding; AI data",
-      "category": "deals",
-      "domain": "business"
     },
     {
       "source": "SPTA TIMES",
