@@ -1,6 +1,26 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-10T01:31:23.326Z",
+  "fetchedAt": "2026-10-11T00:40:37.312Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"AI 주권에 GDP 1% 투자 필요…핵심은 GPU·전력 확보\"",
+      "link": "https://zdnet.co.kr/view/?no=20261010210944",
+      "date": "Sun, 11 Oct 2026 08:10:12 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 주권 확보를 위한 경쟁이 데이터 보호를 넘어 그래픽처리장치(GPU)와 전력, 네트워크 등 핵심 인프라 확보로 확대되고 있다.각국 정부와 기업이 외부 기술에 대한 의존도를 낮추고 자체 AI 운영 역량을 강화하면서 연산 자원",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁",
+      "link": "https://zdnet.co.kr/view/?no=20261010213456",
+      "date": "Sat, 10 Oct 2026 21:54:21 +0900",
+      "desc": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 정정한다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다.티",
+      "category": "legal",
+      "domain": "business"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -9,6 +29,16 @@ window.NEWS_DATA = {
       "date": "2026-10-10 09:37:29",
       "desc": "세계 최대 반도체 장비 업체 ASML이 국내로 공급하는 교체용 장비 부품 가격을 일괄 10% 인상한다.극자외선(EUV)과 심자외선(DUV) 노광장비용 전 부품이 대상이다. 내년 1월 공급분부터 오른 가격이 적용된다.10일 업계에 따르면 ASML 본사는",
       "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "IDC \"3분기 세계 PC 출하량, 전년比 20% 급감\"",
+      "link": "https://zdnet.co.kr/view/?no=20261010091103",
+      "date": "Sat, 10 Oct 2026 12:27:07 +0900",
+      "desc": "[지디넷코리아]올 3분기 세계 PC 출하량이 메모리 가격 상승과 공급 제약, 상반기 선구매에 따른 재고 부담 등 영향으로 전년 대비 20% 줄었고 시장조사업체 IDC가 8일(현지시간) 밝혔다.IDC에 따르면 3분기 PC 출하량은 6270만 대로 전년 ",
+      "category": "memory",
       "domain": "tech"
     },
     {
