@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-11T00:40:37.312Z",
+  "fetchedAt": "2026-10-12T00:59:10.971Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "평당 514만원이라니…호남 반도체 산단 '땅값'부터 비상",
+      "link": "https://www.hankyung.com/article/202610125165H",
+      "date": "Mon, 12 Oct 2026 09:01:08 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "'돈 있어도 못 구해'…AI 열풍에 GPU 임대료 60% '껑충'",
+      "link": "https://www.hankyung.com/article/202610125140i",
+      "date": "Mon, 12 Oct 2026 08:51:21 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 반도체 경쟁, 전력 인프라가 좌우…슈나이더 일렉트릭, 팹 공략 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261011122138",
+      "date": "Sun, 11 Oct 2026 12:21:59 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 반도체 수요가 늘면서 반도체 제조시설의 전력 공급과 냉각 효율이 생산 경쟁력을 좌우하는 주요 요소로 떠오르고 있다.슈나이더 일렉트릭은 고효율 전력 설비와 AI 기반 운영 기술을 결합해 국내 반도체 팹의 에너지 사용을 줄이",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "레노버·엔비디아, AI 팩토리 구축 속도 높인다…최단 15일 만에 출하",
+      "link": "https://zdnet.co.kr/view/?no=20261011120313",
+      "date": "Sun, 11 Oct 2026 12:03:29 +0900",
+      "desc": "[지디넷코리아]레노버가 엔비디아와 손잡고 기업의 인공지능(AI) 인프라 구축 기간을 단축하는 데 나선다. 사전 검증된 서버와 그래픽처리장치(GPU), AI 소프트웨어를 결합한 솔루션을 제공해 기업이 복잡한 시스템 구성 과정 없이 필요한 규모의 AI 팩",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "HPE, AMD 차세대 CPU 품은 AI 서버 4종 공개…추론부터 보안까지 잡는다",
+      "link": "https://zdnet.co.kr/view/?no=20261011115418",
+      "date": "Sun, 11 Oct 2026 11:56:04 +0900",
+      "desc": "[지디넷코리아]HPE가 AMD의 차세대 서버 프로세서를 탑재한 신제품을 앞세워 기업용 인공지능(AI) 인프라 시장 공략에 속도를 낸다. AI 에이전트와 추론 등 고성능 연산 수요에 대응하는 동시에 보안과 서버 운영 효율성을 강화해 기업의 AI 도입을 ",
+      "category": "security",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
