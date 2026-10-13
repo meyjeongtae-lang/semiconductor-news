@@ -1,6 +1,216 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-12T00:59:10.971Z",
+  "fetchedAt": "2026-10-13T02:50:17.829Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "쓰리에이로직스, 볼텐드로 국내 첫 NFC 포럼 혁신상 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63551",
+      "date": "2026-10-13 10:13:29",
+      "desc": "근거리무선통신(NFC:Near Field Communication) 반도체 설계(팹리스) 기업 쓰리에이로직스(3ALogics)가 국내 기업 최초로 '2026 국제 NFC 포럼 혁신상'을 받았다고 12일 밝혔다.NFC 포럼은 애플, 구글, 소니, NXP",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 1.3조 투자해 R&D용 초지능 인프라 구축",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63586",
+      "date": "2026-10-13 09:08:26",
+      "desc": "엔비디아가 향후 5년간 총 10억달러(약 1조3300억원)를 투자해 초지능(슈퍼 인텔리전스) 역량을 구축한다고 12일 밝혔다.젠슨 황 엔비디아 창립자 겸 최고경영자(CEO)는 지난 8일(현지시간) 미국 워싱턴 DC에서 열린 '사이언스: 뉴 골든 에이지",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 차세대 AI 통신 솔루션 4종 공개...네트워크 X 2026서 시연",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63594",
+      "date": "2026-10-13 08:56:53",
+      "desc": "퀄컴이 네트워크 X 2026 행사를 앞두고 인공지능(AI) 기반 차세대 광대역 통신 제품 4종을 12일(현지시간) 공개했다.해당 기술에는 차세대 AI 게이트웨이, 지능형 소프트웨어 프레임워크, 초고속 무선 광역 분배망과 간선망(백홀) 플랫폼, 고정형 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261012-TT-01호] 2026년 10월 12일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261012-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-12%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 13 Oct 2026 01:05:27 GMT",
+      "desc": "SK하이닉스, 범용 CPU 한계 넘는 초경량 'H-TPU' 솔루션 공개 (2026년 10월 12일, ZDNet Korea, 전화평 기자) 원문보기: https://zdnet.co.kr/view/?no=20261012144007 [핵심 요약] [1] S",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261012-TM-01호] 2026년 10월 12일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261012-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-12%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 13 Oct 2026 01:02:15 GMT",
+      "desc": "삼성 美 테일러팹 2나노 양산 임박…'수율 특공대' 파견 (2026년 10월 12일, 파이낸셜뉴스, 임수빈 기자) 원문보기: https://www.fnnews.com/news/202610121821333879 [핵심 요약] [1] 삼성전자, 2나노 수",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "1% 초고수들, 주가 4% 빠지자 줍줍… '반도체 불패 신화'에 베팅",
+      "link": "https://www.hankyung.com/article/202610137859i",
+      "date": "Tue, 13 Oct 2026 10:01:59 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261012-TI-01호] 2026년 10월 12일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261012-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-12%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 13 Oct 2026 01:00:49 GMT",
+      "desc": "메모리·CPU 가격 상승에 PC 수요 절벽 '경고' (2026년 10월 12일, ZDNet Korea, 권봉석 기자) 원문보기: https://zdnet.co.kr/view/?no=20261012150902 [핵심 요약] [1] PC 시장, 일시적 부",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "인텔, 추론 특화 GPU 정식 명칭 공개... \"GPU D시리즈\"",
+      "link": "https://zdnet.co.kr/view/?no=20261013092929",
+      "date": "Tue, 13 Oct 2026 09:30:42 +0900",
+      "desc": "[지디넷코리아]인텔이 12일(현지시간) '2026 OCP 글로벌 서밋' 행사에서 데이터센터용 추론 특화 GPU 정식 명칭과 일부 성능 지표를 공개했다.인텔은 작년 OCP 글로벌 서밋 행사에서 자체 개발한 새로운 GPU 아키텍처 'Xe3P' 기반 데이터",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전자, DS 협력사 임직원 5.8만명에 감사 인사…커피차·영화 이벤트",
+      "link": "https://zdnet.co.kr/view/?no=20261013083304",
+      "date": "Tue, 13 Oct 2026 09:01:41 +0900",
+      "desc": "[지디넷코리아]삼성전자는 반도체(DS부문) 협력사 임직원들의 헌신과 협력에 보답하기 위해 'DS 투게더(Together)' 이벤트를 진행했다고 13일 밝혔다.10월부터 두 달간 주요 협력사 근무 현장을 찾아 커피차를 제공하는 '상생 카페'를 운영하고,",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AI 인프라 임대 사업 진출한 망고부스트, 내년 매출 1000억원 도전",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63570",
+      "date": "2026-10-12 23:44:07",
+      "desc": "망고부스트가 인공지능(AI) 서버 설계를 넘어 AI 인프라 임대 서비스로 사업 영역을 확장한다. 자체 개발한 서버와 네트워크 기술에 AI 추론 소프트웨어를 결합할 예정이다. 망고부스트는 12일 서울 강남 그랜드 인티컨티넨탈 서울 파르나스에서 기자간담회",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Carbon-Dot Interface Enables Ultrathin High-κ Dielectrics on 2D Semiconductors (UIUC, NETL, Argonne, Monash)",
+      "link": "https://semiengineering.com/carbon-dot-interface-enables-ultrathin-high-%ce%ba-dielectrics-on-2d-semiconductors-uiuc-netl-argonne-monash/",
+      "date": "Mon, 12 Oct 2026 22:55:48 +0000",
+      "desc": "Researchers at the University of Illinois Urbana-Champaign, National Energy Technology Laboratory, Argonne National Laboratory, and Monash U",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
+      "link": "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi/",
+      "date": "Mon, 12 Oct 2026 22:34:47 +0000",
+      "desc": "Researchers at the University of Florida, University of Texas at Dallas, and Rensselaer Polytechnic Institute published a technical paper ti",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)",
+      "link": "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al/",
+      "date": "Mon, 12 Oct 2026 22:25:06 +0000",
+      "desc": "Researchers at KAIST, TDS Innovation, Hanyang University, UNIST, et al. published a technical paper titled “Spatially deterministic nucleati",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, SSD용 H-TPU 구조 공개…소형 프로세서 100여개 분산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63561",
+      "date": "2026-10-12 17:23:03",
+      "desc": "SK하이닉스가 자체 개발한 솔리드스테이트드라이브(SSD)용 소형 프로세서 '하이닉스 트랜잭션 처리장치(H-TPU:Hynix-Transaction Processing Unit)'의 구체 구조와 성능을 공개했다. 범용 중앙처리장치(CPU)가 맡던 반복 작",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "반도체대전 14일 개막...삼성·SK, HBM 전시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63572",
+      "date": "2026-10-12 17:15:04",
+      "desc": "한국반도체산업협회가 오는 14일부터 16일까지 사흘간 서울 강남 코엑스에서 반도체산업 종합 전시회 반도체대전(SEDEX) 2026을 개최한다고 12일 밝혔다.올해는 삼성전자와 SK하이닉스를 포함한 기업 300곳이 참가해 888개 부스를 꾸린다. 지난해",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+      "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
+      "date": "Mon, 12 Oct 2026 16:59:01 +0000",
+      "desc": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&#03",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, ADST와 CPO 정렬 장비용 UV 광원 국산화 추진",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63548",
+      "date": "2026-10-12 12:52:48",
+      "desc": "글로벌테크놀로지가 성호전자 자회사 에이디에스테크(ADST)와 공동패키지광학(CPO:Co-Packaged Optics) 공정 장비 부품 국산화에 나선다.글로벌테크놀로지는 ADST 능동정렬 장비에 들어가는 자외선(UV) 경화 광원 유닛을 공동 개발한다고 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Xanadu Builds Out Canadian Quantum Infrastructure",
+      "link": "https://www.eetimes.com/xanadu-builds-out-canadian-quantum-infrastructure/",
+      "date": "Mon, 12 Oct 2026 12:00:00 +0000",
+      "desc": "Manufacturing partnerships and public sector funding are moving Xanadu’s quantum technology toward manufacturable, utility-scale systems. Th",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Security Becomes a Sign-off Item",
+      "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
+      "date": "Mon, 12 Oct 2026 07:10:22 +0000",
+      "desc": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Startup Funding: Q3 2026",
+      "link": "https://semiengineering.com/startup-funding-q3-2026/",
+      "date": "Mon, 12 Oct 2026 07:01:27 +0000",
+      "desc": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. The post Startup Funding: Q3 2026 appeared fi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261011-TI-01호] 2026년 10월 11일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261011-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-11%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 12 Oct 2026 01:20:07 GMT",
+      "desc": "레노버·엔비디아, AI 팩토리 구축 속도 높인다…최단 15일 만에 출하 (2026년 10월 11일, ZDNet Korea, 한정호 기자) 원문보기: https://zdnet.co.kr/view/?no=20261011120313 [핵심 요약] [1] 레",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
