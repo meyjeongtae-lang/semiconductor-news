@@ -1,6 +1,186 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-14T00:51:49.358Z",
+  "fetchedAt": "2026-10-15T00:17:38.200Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엑시나, 퀄컴 출신 신임 CBO 영입...MX1 상용화 속도",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63743",
+      "date": "2026-10-15 08:44:56",
+      "desc": "반도체 팹리스 기업 엑시나가 퀄컴 출신 최고사업책임자(CBO)를 영입했다. 14일 엑시나는 반도체 업계 경력 약 25년의 스티브 핑거허트 최고사업책임자(CBO)를 선임했다고 밝혔다. 핑거허트 CBO는 영업과 사업개발 등 엑시나의 글로벌 사업 전반을 총",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[기고]AI 추론의 시대, 한국 시스템반도체 도약의 골든타임",
+      "link": "https://www.hankyung.com/article/202610153018i",
+      "date": "Thu, 15 Oct 2026 08:54:11 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "日, 美 반도체 공장건설에 28조원 투자…글로벌파운드리 주가↑ [이상은의 워싱턴나우]",
+      "link": "https://www.hankyung.com/article/202610152731i",
+      "date": "Thu, 15 Oct 2026 08:10:36 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "화웨이의 반도체 굴기…'로직폴딩'으로 EUV 벽 넘는다",
+      "link": "https://www.hankyung.com/article/202610141879i",
+      "date": "Thu, 15 Oct 2026 08:00:02 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔 \"한국 로보틱스 성장 빨라...정부·기업과 피지컬 AI 협력 확대\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63725",
+      "date": "2026-10-14 19:36:02",
+      "desc": "인텔이 한국을 물리적(피지컬) 인공지능(AI) 혁신 거점으로 삼고 기업, 정부와 협력을 전면 확대한다.존 힐리 인텔 클라이언트·피지컬 AI 그룹 산업 로보틱스 부문 총괄 부사장은 14일 JW 매리어트 호텔 서울에서 열린 '인텔 로보틱스 워크숍' 행사 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+      "link": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
+      "date": "Wed, 14 Oct 2026 19:34:54 +0000",
+      "desc": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufact",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "광학엔진, 기판에서 인터포저로...엔비디아 차세대 CPO 기술 개발",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63707",
+      "date": "2026-10-14 19:13:31",
+      "desc": "엔비디아가 광학엔진을 패키지 기판이 아니라 연산칩이 실린 인터포저 위에 올리는 차세대 공동광학패키징(CPO:Co-Packaged Optics) 기술을 공개했다.전기 신호가 유기기판을 거치지 않아 대역폭 밀도를 높이고 전력 소모를 줄일 수 있다. 시제품",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "낸드가 AI 연산...SK하이닉스, 3D FeNAND A-CiM 연구 성과 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63722",
+      "date": "2026-10-14 19:02:21",
+      "desc": "SK하이닉스가 낸드 플래시에서 인공지능(AI) 연산을 수행하는 차세대 메모리 기술을 개발했다.SK하이닉스는 14일 뉴스룸에서 강유전체 기반 3차원 낸드(3D FeNAND)를 활용한 아날로그 컴퓨팅 인 메모리(A-CiM) 연구 성과를 공개했다. 연구 결",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+      "link": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/",
+      "date": "Wed, 14 Oct 2026 18:29:24 +0000",
+      "desc": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithograp",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 6세대 에픽 '베라노' 실물 첫 공개…내년 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63665",
+      "date": "2026-10-14 17:58:28",
+      "desc": "AMD가 차세대 서버용 중앙처리장치(CPU) '에픽 베라노'의 실물을 첫 공개했다. 업계 최초 SOCAMM(Small Outline Compression Attached Memory Module)2 메모리를 채택한 에이전틱 AI용 프로세서다.리사 수 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, RTX 스파크 최적화 소프트웨어 배포...이달 노트북 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63706",
+      "date": "2026-10-14 17:56:51",
+      "desc": "엔비디아가 'RTX 스파크' 신규 노트북 출시 전 소프트웨어 최적화 업데이트를 배포한다고 14일 밝혔다.RTX 스파크는 엔비디아가 개발한 개인 PC용 고성능 시스템온칩(SoC)이다. 엔비디아 블랙웰 구조(아키텍처) 기반 그래픽처리장치(GPU)와 그레이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "수퍼게이트, 2026 대한민국 AI 50 선정...NPU 역량 인정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63678",
+      "date": "2026-10-14 17:56:14",
+      "desc": "인공지능(AI) 시스템반도체 설계(팹리스) 기업 수퍼게이트가 '2026 대한민국 AI 50'에 이름을 올렸다고 14일 밝혔다.대한민국 AI 50은 기술력과 사업 성과 등을 평가해 국내 대표 AI 기업을 50곳 선정하는 프로젝트다. 포브스코리아가 주관한",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "안현 SK하이닉스 사장 \"HBF 최종 규격 내년 1월 확정\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63687",
+      "date": "2026-10-14 17:51:15",
+      "desc": "SK하이닉스가 고대역폭메모리(HBM) 다음 세대 인공지능(AI) 메모리로 개발 중인 고대역폭플래시(HBF)의 최종 규격을 내년 1월 내놓는다.안현 SK하이닉스 개발총괄(CDO) 사장은 14일 서울 강남 코엑스에서 열린 반도체대전(SEDEX) 2026 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
+      "link": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg/",
+      "date": "Wed, 14 Oct 2026 17:44:17 +0000",
+      "desc": "Researchers at Sandia National Laboratories and Luxembourg Institute of Science and Technology published a technical paper titled “Revealing",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
+      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
+      "date": "Wed, 14 Oct 2026 15:27:00 +0000",
+      "desc": "Researchers at ETH Zürich and New York University published a technical paper titled “Understanding the Power Consumption of Modern High Ban",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "반도체산업협회, 15일 JEDEC 포럼 개최...차세대 메모리 기술 소개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63659",
+      "date": "2026-10-14 14:50:57",
+      "desc": "한국반도체산업협회는 오는 15일 서울 강남 코엑스에서 산업통상부 국가기술표준원과 함께 2026 JEDEC 포럼을 개최한다고 14일 밝혔다. 반도체 표준을 제정하는 국제반도체표준협의회(JEDEC)과 협력해 차세대 메모리 기술과 JEDEC 민간표준 동향을",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'반도체 ALD 특허분쟁' 코쿠사이·유진테크, 특허 2건 판단 확정",
+      "link": "https://zdnet.co.kr/view/?no=20261014223058",
+      "date": "Wed, 14 Oct 2026 22:48:02 +0900",
+      "desc": "[지디넷코리아]유진테크와 반도체 공정 원자층증착(ALD) 장비 특허분쟁 중인 일본 코쿠사이의 특허 2건에 대한 판단이 확정됐다. 두 업체가 다투고 있는 코쿠사이 특허는 4건이다.14일 업계에 따르면 대법원은 지난 8일 코쿠사이의 '기판 처리장치 및 반",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "ASML’s EUV Expansion Runs Through Zeiss",
+      "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+      "date": "Wed, 14 Oct 2026 12:49:10 +0000",
+      "desc": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Ex",
+      "category": "equipment",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -40,6 +220,96 @@ window.NEWS_DATA = {
       "desc": "삼성전자가 12일(현지시간) 미국 캘리포니아에서 열린 정보기술(IT) 인프라 행사 오픈컴퓨트프로젝트(OCP) 글로벌 서밋에서 차세대 메모리 전략을 공개했다고 밝혔다.심호준 삼성전자 DS부문 메모리사업부 AE팀 상무는 속도와 확장성, 영속성에 초점을 맞",
       "category": "memory",
       "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech",
+      "link": "https://www.eetimes.com/spain-indra-bets-on-qilimanjaro-quantum-for-sovereign-deep-tech/",
+      "date": "Wed, 14 Oct 2026 07:35:15 +0000",
+      "desc": "In a bid to secure domestic deep-tech infrastructure, Qilimanjaro closed €19.6 million (~$21.3 million) funding led by Indra Group. The post",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How To Define CPU And Software Stack Performance For Agentic AI",
+      "link": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
+      "date": "Wed, 14 Oct 2026 07:04:19 +0000",
+      "desc": "Measuring the performance demands of agentic AI; assessing CPU bottlenecks, SW stack efficiency, and system-level tradeoffs. The post How To",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Generative AI On A General-Purpose Neural Processor (GPNPU)",
+      "link": "https://semiengineering.com/generative-ai-on-a-general-purpose-neural-processor-gpnpu/",
+      "date": "Wed, 14 Oct 2026 07:03:02 +0000",
+      "desc": "A single processor architecture that unifies scalar, vector, and matrix execution in one ISA and one C++ programming model. The post Generat",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Simplify Electronic-Photonic Design Workflows: eBook",
+      "link": "https://semiengineering.com/simplify-electronic-photonic-design-workflows/",
+      "date": "Wed, 14 Oct 2026 07:02:41 +0000",
+      "desc": "The natural evolution of EDA, extending proven design methodologies to include photonic devices, circuits, and systems. The post Simplify El",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration",
+      "link": "https://semiengineering.com/accelerating-advanced-ic-package-design-a-methodology-for-early-and-iterative-optimization-of-chiplet-integration/",
+      "date": "Wed, 14 Oct 2026 07:02:00 +0000",
+      "desc": "Optimizing chiplet integration, power integrity, and performance through early-stage IC package design and analysis. The post Accelerating A",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Heat Is Becoming A Bigger Chip Design Issue",
+      "link": "https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue/",
+      "date": "Wed, 14 Oct 2026 07:01:20 +0000",
+      "desc": "Increasing complexity requires thermal, electrical, and mechanical effects to be analyzed together. The post Why Heat Is Becoming A Bigger C",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Oct. 14",
+      "link": "https://semiengineering.com/blog-review-oct-14-3/",
+      "date": "Wed, 14 Oct 2026 07:01:04 +0000",
+      "desc": "Engineers' role in autonomous workflows; UALink over UCIe; GDDR7; on-device speech filtering. The post Blog Review: Oct. 14 appeared first o",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261013-TT-01호] 2026년 10월 13일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261013-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 14 Oct 2026 01:01:29 GMT",
+      "desc": "AI 병목 뚫어라… 삼성·SK, 차세대 메모리 전략 맞붙었다 (2026년 10월 13일, 파이낸셜뉴스, 박소현·임수빈 기자) 원문보기: https://www.fnnews.com/news/202610131818166769 [핵심 요약] [1] 삼성·SK",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261013-TI-01호] 2026년 10월 13일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261013-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-13%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 14 Oct 2026 00:58:30 GMT",
+      "desc": "삼성전자, 반도체 거점 분산…공급 부족 이후 수주전 대비 (2026년 10월 13일, 디지털투데이, 석대건 기자) 원문보기: https://www.digitaltoday.co.kr/news/articleView.html?idxno=706480 [핵심 ",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "EE Times",
