@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-15T00:17:38.200Z",
+  "fetchedAt": "2026-10-16T00:05:09.035Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "가온칩스, Arm 피지컬 AI 파트너로 합류...설계-양산 지원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63793",
+      "date": "2026-10-16 00:01:21",
+      "desc": "반도체 디자인 하우스(DSP) 기업 가온칩스가 'Arm 피지컬 인공지능(AI) 종합 설계(Arm Total Design for Physical AI)' 협력사로 합류했다고 15일 밝혔다. 국내 DSP 중에선 첫 참여다.Arm 피지컬 AI 종합 설계는 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"AI 슈퍼사이클 끝났나\"…반도체 시총 나흘 만에 1조달러 증발",
+      "link": "https://www.hankyung.com/article/2026101653047",
+      "date": "Fri, 16 Oct 2026 08:00:31 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"메모리 절대적 위기\"…애플, 아이폰에 中 반도체 사용 검토",
+      "link": "https://www.hankyung.com/article/2026101652367",
+      "date": "Fri, 16 Oct 2026 07:03:41 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+      "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
+      "date": "Thu, 15 Oct 2026 19:00:00 +0000",
+      "desc": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. T",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, JEDEC서 “AI 메모리 표준화 한계” 토로",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63772",
+      "date": "2026-10-15 18:56:12",
+      "desc": "삼성전자가 차세대 인공지능(AI) 메모리 표준화에 한계가 있다고 토로했다. 고객 맞춤형 설계가 고대역폭메모리(HBM)의 베이스 다이를 넘어 D램 코어 안으로 들어오면서 메모리 업체가 관리하기 어려운 수준이 됐다는 것이다.황가람 삼성전자 반도체(DS)부",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "IBS, 0.7nm급 차세대 반도체 소자 제작 기술 개발…'사이언스' 실려",
+      "link": "https://zdnet.co.kr/view/?no=20261015135222",
+      "date": "Fri, 16 Oct 2026 03:00:02 +0900",
+      "desc": "[지디넷코리아]0.7nm급 차세대 반도체 소자 제작 기술이 국내서도 개발됐다. 지난 6월 IBM이 발표한 이래 두 번째다. 연구결과는 과학기술 분야 세계 3대 학술지 '사이언스'에 16일 오전 3시(KST) 게재됐다.과학기술정보통신부는 조문호 기초과학",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, 온디바이스 AI 연산 모듈 만든다...로봇 손에 탑재",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63776",
+      "date": "2026-10-15 16:26:38",
+      "desc": "반도체 팹리스 전문업체 아이언디바이스가 온디바이스 인공지능(AI) 연산 모듈 개발 국책과제를 수행한다고 15일 밝혔다.회사는 산업통상부가 주관하는 '온디바이스 AI 기반 고자유도(DOF:Degree of Freedom) 로봇 손(핸드)과 정밀 조작·조",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63766",
+      "date": "2026-10-15 16:10:51",
+      "desc": "영국 반도체 설계자산(IP) 기업 Arm이 에이전틱 인공지능(AI)용 신규 중앙처리장치(CPU) 성능 측정(벤치마크) 체계를 만들었다고 15일 밝혔다. 후지쯔, 메타, 오픈AI가 지원했다. 에이전틱 AI의 실제 작업 부하와 전체 연산 과정의 성능을 검",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "테크윙, 메모리 호황에 3분기 매출 전년비 2배 이상 성장",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63724",
+      "date": "2026-10-15 15:29:11",
+      "desc": "테크윙이 메모리 반도체 호황에 힘입어 지난해 대비 2배 이상 성장한 실적을 내놓았다.테크윙은 올해 3분기 잠정실적으로 매출이 약 878억원, 영업이익이 약 180억원이라고 14일 공시했다. 각각 전년 동기 대비 110.18%, 153.04% 증가한 규",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+      "link": "https://spectrum.ieee.org/monazite-rare-earth",
+      "date": "Thu, 15 Oct 2026 14:53:02 +0000",
+      "desc": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "8000만원 못 줘 협력사 철수…아이큐랩, 자금 상황 '빨간불'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63757",
+      "date": "2026-10-15 14:40:47",
+      "desc": "매출 뻥튀기 혐의를 받는 아이큐랩이 자금난을 겪고 있다. 경찰 수사 여파로 한국산업은행 자금 집행이 지연되면서다. 협력사 대금 지급에 차질이 빚어졌다. 협력사 이탈도 시작됐다.15일 업계에 따르면 아이큐랩 팹 유틸리티를 맡아온 협력사 A는 대금이 밀리",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "'뻥튀기 상장' 재판 중 떠난 파두 창업자... 3000억 지분 처분할까",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63751",
+      "date": "2026-10-15 12:32:36",
+      "desc": "뻥튀기 상장 논란으로 물러난 이지효 전 파두 대표가 6개월 만에 인공지능(AI) 스타트업을 설립했다.이 전 대표가 보유한 약 3000억원 규모 파두 지분의 보호예수도 풀린 상태라 향후 지분 처분 여부와 시점 등이 관심사로 떠올랐다.15일 업계에 따르면",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
+      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
+      "date": "Thu, 15 Oct 2026 10:54:08 +0000",
+      "desc": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most ad",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "유창식 교수 \"맞춤형 D램 수요 폭발…D램 팹리스·파운드리 분업화 시대 올 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20261015151345",
+      "date": "Thu, 15 Oct 2026 17:52:04 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 시스템 발전으로 고객 맞춤형 메모리 수요가 급증하면서, 시스템 반도체 전유물로 여겨지던 '팹리스(설계)'와 '파운드리(위탁생산)' 생태계가 D램 시장에도 등장할 것이라는 전망이 나왔다.유창식 성균관대 교수(반도체융합공학과",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,6 +152,126 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'4분기 스마트폰 감산' 삼성전자, PCB 원재료 수급 차질",
+      "link": "https://zdnet.co.kr/view/?no=20261015164031",
+      "date": "Thu, 15 Oct 2026 17:22:02 +0900",
+      "desc": "[지디넷코리아]삼성전자가 최근 4분기 중저가폰 생산계획을 축소한 배경에는 인쇄회로기판(PCB) 원재료인 동박적층판(CCL)용 유리섬유 수급 문제도 있는 것으로 15일 파악됐다. 메모리 반도체 가격이 크게 뛰었는데, PCB 생산에 필요한 CCL용 유리섬",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+      "link": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/",
+      "date": "Thu, 15 Oct 2026 08:00:00 +0000",
+      "desc": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+      "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+      "date": "Thu, 15 Oct 2026 07:07:45 +0000",
+      "desc": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Bey",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+      "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+      "date": "Thu, 15 Oct 2026 07:06:02 +0000",
+      "desc": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+      "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+      "date": "Thu, 15 Oct 2026 07:03:05 +0000",
+      "desc": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastru",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+      "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+      "date": "Thu, 15 Oct 2026 07:02:37 +0000",
+      "desc": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Open-Weight AI Matters",
+      "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+      "date": "Thu, 15 Oct 2026 07:02:13 +0000",
+      "desc": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters ap",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Agentic AI Alters The CPU-GPU Balance",
+      "link": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance/",
+      "date": "Thu, 15 Oct 2026 07:01:24 +0000",
+      "desc": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration. The post Age",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Close Are We To Fully Autonomous Chip Design?",
+      "link": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/",
+      "date": "Thu, 15 Oct 2026 07:01:10 +0000",
+      "desc": "Synopsys CEO Sassine Ghazi talks about AI agents, the limits of autonomous engineering, digital twins, and the challenges facing 3D-ICs. The",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
+      "link": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics/",
+      "date": "Thu, 15 Oct 2026 07:01:01 +0000",
+      "desc": "Ensuring optical engines can operate reliably alongside high-power AI processors in multi-chip packages. The post Thermal Co-Simulation Test",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261014-TE-01호] 2026년 10월 14일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261014-te-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-14%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 15 Oct 2026 00:55:31 GMT",
+      "desc": "삼성전자, 반도체 협력사에 “AI로 장비 고장·오류 사전 대응” 주문...장비업계 기술 전략 바뀌나 (2026년 10월 14일, 전자신문, 권동준 기자) 원문보기: https://www.etnews.com/20261014000307 [핵심 요약] [1",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261014-TT-01호] 2026년 10월 14일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261014-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-14%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 15 Oct 2026 00:52:51 GMT",
+      "desc": "中 CXMT 연내 적용 예고한 4F² D램…삼성전자도 “개발 중” (2026년 10월 14일, 동아일보, 이민아 기자) 원문보기: https://www.donga.com/news/Economy/article/all/20261014/134841408/1",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
       "source": "한국경제",
       "type": "kr",
       "title": "[기고]AI 추론의 시대, 한국 시스템반도체 도약의 골든타임",
@@ -20,6 +280,16 @@ window.NEWS_DATA = {
       "desc": "",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
+      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
+      "date": "Wed, 14 Oct 2026 23:27:00 +0000",
+      "desc": "Researchers at ETH Zürich and New York University published a technical paper titled “Understanding the Power Consumption of Modern High Ban",
+      "category": "research",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
@@ -138,16 +408,6 @@ window.NEWS_DATA = {
       "link": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg/",
       "date": "Wed, 14 Oct 2026 17:44:17 +0000",
       "desc": "Researchers at Sandia National Laboratories and Luxembourg Institute of Science and Technology published a technical paper titled “Revealing",
-      "category": "research",
-      "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
-      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
-      "date": "Wed, 14 Oct 2026 15:27:00 +0000",
-      "desc": "Researchers at ETH Zürich and New York University published a technical paper titled “Understanding the Power Consumption of Modern High Ban",
       "category": "research",
       "domain": "tech"
     },
