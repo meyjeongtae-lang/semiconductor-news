@@ -1,6 +1,36 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-17T00:09:15.840Z",
+  "fetchedAt": "2026-10-17T23:44:55.160Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "대만, 美 단속 발맞춰 중국 AI 칩 수출 통제 강화 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261016170803",
+      "date": "Sun, 18 Oct 2026 08:00:03 +0900",
+      "desc": "[지디넷코리아]대만이 최첨단 반도체의 중국 밀수를 차단하려는 미국 트럼프 행정부 단속에 동참하기 위해 인공지능(AI) 칩 수출 통제를 강화할 예정이다. 18일 블룸버그 통신에 따르면 궁밍신 대만 경제부장(장관)은 대만 정부가 AI 서버와 최첨단 반도체",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'",
+      "link": "https://zdnet.co.kr/view/?no=20261017151149",
+      "date": "Sat, 17 Oct 2026 19:42:59 +0900",
+      "desc": "[지디넷코리아]중국 창신메모리(CXMT)가 인공지능(AI) 열풍 수혜로 3분기 실적 대폭발을 예고했다. CXMT는 D램 메모리 시장에서 삼성전자와 SK하이닉스를 매섭게 추격 중이다. 17일 외신과 업계에 따르면 CXMT는 최근 실적 예고 공지에서 3분",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
+      "link": "https://www.hankyung.com/article/2026101779027",
+      "date": "Sat, 17 Oct 2026 18:06:38 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -252,16 +282,6 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
-      "source": "전자신문",
-      "type": "kr",
-      "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
-      "link": "https://www.etnews.com/20261015000053",
-      "date": "Fri, 16 Oct 2026 04:00:00 +0900",
-      "desc": "인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처",
-      "category": "deals",
-      "domain": "business"
-    },
-    {
       "source": "EE Times",
       "type": "intl",
       "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
@@ -270,6 +290,16 @@ window.NEWS_DATA = {
       "desc": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. T",
       "category": "equipment",
       "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
+      "link": "https://www.etnews.com/20261015000053",
+      "date": "Fri, 16 Oct 2026 04:00:00 +0900",
+      "desc": "인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처",
+      "category": "deals",
+      "domain": "business"
     },
     {
       "source": "디일렉",
