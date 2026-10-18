@@ -1,6 +1,76 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-17T23:44:55.160Z",
+  "fetchedAt": "2026-10-18T23:55:03.740Z",
   "items": [
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+      "link": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
+      "date": "Sun, 18 Oct 2026 23:28:31 +0000",
+      "desc": "Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
+      "link": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/",
+      "date": "Sun, 18 Oct 2026 22:51:32 +0000",
+      "desc": "Researchers at Cadence Design Systems and the University of Notre Dame published “A Composable AI-Accelerated Iterative Solver for 3D-IC The",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Thermal Side Channels Create New Security Risks For Autonomous Vehicles (Missouri S&T)",
+      "link": "https://semiengineering.com/thermal-side-channels-create-new-security-risks-for-autonomous-vehicles-missouri-st/",
+      "date": "Sun, 18 Oct 2026 22:10:59 +0000",
+      "desc": "Researchers at Missouri University of Science and Technology published “Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Ch",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아 \"소비자 GPU 품귀, 우리 통제 영역 아냐\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63864",
+      "date": "2026-10-18 11:11:00",
+      "desc": "엔비디아 임원이 소비자용 그래픽처리장치(GPU) 품귀 원인을 메모리 공급 부족 때문이라고 말했다. 이다 케이타 엔비디아 개발자 협력 부문 부사장은 16일 삼성동 코엑스에서 열린 RTX 스파크 출시 행사 직후 기자와 만나 \"게이머를 포함한 일반 소비자가",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"LG디스플레이, 2029년 플립 OLED 양산 목표\"...애플 스튜디오 겨냥 추정",
+      "link": "https://zdnet.co.kr/view/?no=20261018190505",
+      "date": "Sun, 18 Oct 2026 19:30:28 +0900",
+      "desc": "[지디넷코리아]\"LG디스플레이가 플립(FLiPP) 유기발광다이오드(OLED)를 2029년 양산한다는 목표를 정했다\"고 시장조사업체 시그마인텔이 최근 밝혔다. 플립 OLED는 유기재료 증착 후 노광 공정으로 적녹청(RGB) OLED 서브픽셀을 형성하는 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "중국 CXMT 차세대 D램 위협인가 [한경 프리미엄9 TODAY]",
+      "link": "https://www.hankyung.com/article/2026101889251",
+      "date": "Sun, 18 Oct 2026 18:00:07 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"4분기 성숙 공정 파운드리 가동률 91%… 내년 1분기 가격 인상\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018152447",
+      "date": "Sun, 18 Oct 2026 16:03:05 +0900",
+      "desc": "[지디넷코리아]4분기 전 세계 성숙 공정 파운드리 팹 가동률이 91%이고, 내년 1분기에도 웨이퍼 가격이 오를 것이라고 시장조사업체 시그마인텔이 최근 전망했다. 시그마인텔이 집계한 성숙 공정은 12인치 웨이퍼의 28나노미터(nm)와 40나노, 90나노",
+      "category": "foundry",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
@@ -44,7 +114,7 @@ window.NEWS_DATA = {
     {
       "source": "디일렉",
       "type": "kr",
-      "title": "580만원짜리 AI 노트북…엔비디아 'RTX 스파크' 국내 출격",
+      "title": "'최대 1000만원' AI 노트북…엔비디아 'RTX 스파크' 국내 출격",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=63851",
       "date": "2026-10-16 23:40:10",
       "desc": "엔비디아가 인공지능(AI) PC용 시스템온칩(SoC) 'RTX 스파크'로 신시장 공략에 나섰다. 윈도 PC에서 대형 AI 모델과 AI 에이전트를 직접 구동하는 온디바이스 AI 시장을 겨냥했다. 에이수스, 델, HP, 레노버, 마이크로소프트, MSI 등",
@@ -282,16 +352,6 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
-      "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
-      "date": "Thu, 15 Oct 2026 19:00:00 +0000",
-      "desc": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. T",
-      "category": "equipment",
-      "domain": "tech"
-    },
-    {
       "source": "전자신문",
       "type": "kr",
       "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
@@ -300,6 +360,16 @@ window.NEWS_DATA = {
       "desc": "인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처",
       "category": "deals",
       "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+      "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
+      "date": "Thu, 15 Oct 2026 19:00:00 +0000",
+      "desc": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. T",
+      "category": "equipment",
+      "domain": "tech"
     },
     {
       "source": "디일렉",
