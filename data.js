@@ -1,6 +1,246 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-21T00:22:54.447Z",
+  "fetchedAt": "2026-10-22T00:25:52.257Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "머크, \"한국서 반도체 신소재 생산능력 확대\"…삼성·SK 밀착 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261021214552",
+      "date": "Thu, 22 Oct 2026 09:00:01 +0900",
+      "desc": "[지디넷코리아]독일 화학기업 머크가 최첨단 낸드에 필요한 신소재 생산능력을 확대한다. 22일 충북 음성 신규 생산설비를 개소한다. 핵심 고객인 삼성전자와 SK하이닉스 대응력을 강화할 것으로 기대된다.벤자민 하인 머크 일렉트로닉스 신임 최고경영자(CEO",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "더벤처스, AI 인프라 소프트웨어 개발사 ‘애니브릿지’에 시드 투자",
+      "link": "https://zdnet.co.kr/view/?no=20261022084009",
+      "date": "Thu, 22 Oct 2026 08:40:09 +0900",
+      "desc": "[지디넷코리아]글로벌 초기 투자 전문 벤처캐피털 더벤처스가 AI 인프라 소프트웨어 스타트업 애니브릿지에 시드 투자를 완료했다.22일 회사에 따르면, 애니브릿지는 더벤처스의 추천을 통해 중소벤처기업부 기술 창업 투자 프로그램인 팁스(TIPS)에 최종 선",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"ASML 메모리 장비 매출 2배…반도체 공급 부족 장기화 신호\"-키움",
+      "link": "https://www.hankyung.com/article/2026102274786",
+      "date": "Thu, 22 Oct 2026 08:22:41 +0900",
+      "desc": "",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, FSR 4.1 지원 대상 확대...RX 6000 시리즈 포함",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64082",
+      "date": "2026-10-21 22:48:48",
+      "desc": "AMD가 FSR(FidelityFX Super Resolution) 4.1 적용 대상을 확대한다고 20일(현지시간) 밝혔다.AMD는 FSR 4.1 지원 대상에 라데온 RX 6000 시리즈, 라이젠 AI 맥스 프로세서, 엑스박스 콘솔 등을 포함했다. F",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "\"AI는 지능 찍어내는 제조업\" 젠슨 황, AI 5계층 아키텍처 발표",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64084",
+      "date": "2026-10-21 22:44:22",
+      "desc": "엔비디아가 인공지능(AI)을 '디지털 지능(토큰)을 대규모로 생산하는 새 제조업'으로 정의했다. 이를 구현하는 AI 5계층(Five-Layer Cake) 구조도 발표했다.젠슨 황 엔비디아 최고경영자(CEO)는 21일(현지시간) 연례 콘퍼런스 'GTC ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "송재혁 반도체협회장 \"반도체, 적기 투자 중요\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64081",
+      "date": "2026-10-21 20:25:17",
+      "desc": "한국반도체산업협회가 반도체 기업의 성장을 위한 정부의 적극 행정을 요청했다.송재혁 반도체협회장(삼성전자 사장)은 21일 서울 강남 그랜드 인티컨티넨탈 서울 파르나스에서 열린 제19회 반도체의 날에서 \"반도체 산업은 무엇보다 중요한 것이 적기에 맞는 투",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+      "link": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
+      "date": "Wed, 21 Oct 2026 19:00:00 +0000",
+      "desc": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "키사이트 \"데이터센터 수익성 지키려면 전계층 검증 필수\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64072",
+      "date": "2026-10-21 17:32:51",
+      "desc": "키사이트가 인공지능(AI) 데이터센터의 수익성을 지키는 시스템 수준(레벨) 검증 방식과 솔루션을 제시했다. 이선우 키사이트코리아 대표는 21일 서울 양재동에서 열린 '키사이트 월드 테크 데이 2026'에서 \"칩, 메모리, 서버, 랙(Rack), 데이터",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, AI 스타트업 육성 성과 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64078",
+      "date": "2026-10-21 17:24:08",
+      "desc": "퀄컴이 오는 23일까지 일산 킨텍스에서 진행되는 '산업 AI 엑스포 2026'에서 국내 인공지능(AI) 스타트업 지원 성과를 공개했다고 21일 밝혔다.퀄컴은 행사 현장에 퀄컴 AI 이노베이터 프로그램(QAIPI) 참여 기업 전용 공간인 'QAIPI 파",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+      "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+      "date": "Wed, 21 Oct 2026 13:39:13 +0000",
+      "desc": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체",
+      "link": "https://zdnet.co.kr/view/?no=20261021223552",
+      "date": "Wed, 21 Oct 2026 22:35:52 +0900",
+      "desc": "[지디넷코리아]지난 14일(미국 시간), AI 인프라 시장에서 두 가지 일이 같은 날 일어났다. 낮에는 GPU 임대 기업 코어위브 주가가 15% 넘게 떨어졌다. 저녁에는 앤스로픽이 예비 투자자들에게 3분기 매출 168억 달러와 조정 기준 흑자를 설명했",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD-인텔, x86 CPU AI 동맹",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64041",
+      "date": "2026-10-21 11:44:50",
+      "desc": "AMD와 인텔이 x86 중앙처리장치(CPU)용 인공지능(AI) 개발 간소화를 위해 협력한다. 20일(현지시간) 파이토치(PyTorch) 내 x86 CPU 최적화 지원 작업을 원DNN(oneAPI Deep Neural Network Library)에 통",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, V2X 플랫폼 지원 규격 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64034",
+      "date": "2026-10-21 11:29:18",
+      "desc": "퀄컴이 차량용 통신 기술(V2X:Vehicle-to-Everything) 지원 규격을 확대한다고 20일(현지시간) 밝혔다.V2X 칩에 일본 전파산업회(ARIB)가 제정한 차량 안전 운전 지원용 통신(ITS Connect) 규격 '760MHz ARIB-",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "보스반도체, 칩렛 기반 차량용 반도체 국산화 시동",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64033",
+      "date": "2026-10-21 11:20:27",
+      "desc": "보스반도체가 LG전자, 하나마이크론과 칩렛 기반 차량용 반도체 개발을 진행한다고 21일 밝혔다.차세대 차량용 반도체 개발부터 통합, 패키징, 시험·검증, 사업화까지 전주기 협력 체계를 구축한다. 산업통상부가 추진하는 제조업 인공지능(AI) 전환 연합체",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "최귀남 대원씨티에스 엔터프라이즈 부문 대표 “IT 유통 넘어 AI 풀스택 파트너로…AI 인프라 사업 본격 확대”",
+      "link": "https://www.etnews.com/20261019000003",
+      "date": "Wed, 21 Oct 2026 17:00:00 +0900",
+      "desc": "대원씨티에스가 40여년간 축적한 IT 유통 역량을 기반으로 인공지능(AI) 인프라 사업 확대에 속도를 내고 있다. 기존 PC·IT 유통사업을 지속적으로 성장시키는 동시에 기업간거래(B2B) 기반 AI 인프라 사업을 새로운 성장축으로 육성한다는 전략이다",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+      "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
+      "date": "Wed, 21 Oct 2026 07:30:00 +0000",
+      "desc": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Featur",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Scaling Data Movement For Physical AI",
+      "link": "https://semiengineering.com/scaling-data-movement-for-physical-ai/",
+      "date": "Wed, 21 Oct 2026 07:15:31 +0000",
+      "desc": "One size does not fit all. The post Scaling Data Movement For Physical AI appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Oct. 21",
+      "link": "https://semiengineering.com/blog-review-oct-21-3/",
+      "date": "Wed, 21 Oct 2026 07:01:51 +0000",
+      "desc": "From server to rack; AMBA CXS; digital twins; edge AI development loop; satellite power; global talent challenges. The post Blog Review: Oct",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Scaling CPO Testing Beyond A Single Die",
+      "link": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
+      "date": "Wed, 21 Oct 2026 07:01:32 +0000",
+      "desc": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing. The po",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins",
+      "link": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins/",
+      "date": "Wed, 21 Oct 2026 07:01:23 +0000",
+      "desc": "Fab workflow connects GDS layout import, 3D process simulation, GPU-accelerated FDTD, design of experiments, with AI-based surrogate modelin",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Accelerate Yield Ramp with Closed-Loop Yield Learning",
+      "link": "https://semiengineering.com/accelerate-yield-ramp-with-closed-loop-yield-learning/",
+      "date": "Wed, 21 Oct 2026 07:01:07 +0000",
+      "desc": "An analytics-driven approach leveraging integrated industry leading technologies targeting advanced node devices. The post Accelerate Yield ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "“AI 서버 열기, 버리지 말고 난방으로” 귀뚜라미 3사 냉각 해법 총출동",
+      "link": "https://www.etnews.com/20261021000135",
+      "date": "Wed, 21 Oct 2026 10:53:51 +0900",
+      "desc": "귀뚜라미그룹은 21일부터 3일간 경기도 고양시 킨텍스에서 열리는 '제18회 한국국제냉난방공조전(HARFKO 2026)'에 참가해 AI 데이터센터, 첨단 제조시설, 원자력발전소 등 다양한 산업 현장에 필요한 맞춤형 냉난방공조 솔루션을 선보인다고 21일 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261020-TM-01호] 2026년 10월 20일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261020-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-20%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 21 Oct 2026 01:05:56 GMT",
+      "desc": "삼성 파운드리, DUV 쓰는 8나노 공정 '8LPU' 2세대 내놓는다 (2026년 10월 20일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20261007000246 [핵심 요약] [1] 삼성전자, 8나노 2세대 공",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261020-TI-01호] 2026년 10월 20일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261020-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-20%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 21 Oct 2026 01:03:32 GMT",
+      "desc": "CXMT \"D램 시장 장기적 발전에 자신…초미세화 영역 선도할 것\" (2026년 10월 20일, 연합뉴스, 차병섭 기자) 원문보기: https://www.yna.co.kr/view/AKR20261020073400089?input=1195m [핵심 요약",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
