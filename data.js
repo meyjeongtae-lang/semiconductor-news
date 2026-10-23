@@ -1,6 +1,196 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-22T00:25:52.257Z",
+  "fetchedAt": "2026-10-23T00:23:48.211Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "티엘비, AI 서버용 차세대 SOCAMM3 기판 개발 착수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64157",
+      "date": "2026-10-23 08:53:56",
+      "desc": "메모리 기판 전문업체 티엘비가 국내외 대형 메모리 제조업체 2곳과 차세대 인공지능(AI) 서버용 저전력 메모리 모듈 규격인 SOCAMM3(Small Outline Compression Attached Memory Module 3) 기판 개발에 착수한 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "퀄컴이 닦은 길에 엔비디아 진입...Arm 윈도 PC 경쟁 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20261022155356",
+      "date": "Fri, 23 Oct 2026 08:00:03 +0900",
+      "desc": "[지디넷코리아]지난 9년간 Arm 기반 윈도 PC 시장을 사실상 독점해 온 퀄컴이 강력한 경쟁자를 맞았다. 엔비디아가 GPU 기술력을 앞세운 'RTX 스파크'를 정식 출시하면서다.퀄컴은 마이크로소프트와 함께 소프트웨어 호환성 문제를 해결하고 Arm 기",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 투자 불안에 나스닥 2.6% 급락…반도체지수 6.7%↓ [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2026102399666",
+      "date": "Fri, 23 Oct 2026 07:16:48 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "HPSP, 각자대표 체제 출범",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64136",
+      "date": "2026-10-22 18:41:33",
+      "desc": "김재현 한화세미텍 전 대표 HPSP 신임 대표 취임을 확정했다. 이케빈기두(이기두) HPSP 대표와 각자대표 체제다.HPSP는 22일 경기 화성 본사 사옥에서 임시주주총회를 열고 김 신임 대표를 신규 선임하는 안건을 상정했다. 96.3% 찬성과 3.7",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "모빌린트, 피지컬 AI용 연산 플랫폼 개발 추진",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64095",
+      "date": "2026-10-22 18:34:12",
+      "desc": "반도체 팹리스 기업 모빌린트가 휴머노이드 등 피지컬 인공지능(AI)용 연산 플랫폼 개발한다고 22일 밝혔다.모빌린트는 '휴머노이드를 위한 온디바이스 AI 가속기 개발' 세부과제의 주관연구개발기관으로 선정됐다. 해당 과제는 산업통상부 'K-온디바이스 A",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
+      "link": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
+      "date": "Thu, 22 Oct 2026 18:14:49 +0000",
+      "desc": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, AI 에이전트 감시 '오픈쉘' 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64088",
+      "date": "2026-10-22 16:59:30",
+      "desc": "엔비디아가 21일(현지시간) 연례 콘퍼런스 'GTC 2026 베를린'에사 인공지능(AI) 에이전트의 안전한 구축과 운영을 돕는 오픈쉘 레퍼런스 아키텍처를 공개했다.레퍼런스 아키텍처는 새 데이터센터 시스템을 구축할 때 참고할 수 있는 표준 청사진이다. ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, AI 인프라에 선제 투자…협력사 생산물량 확 늘린다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64103",
+      "date": "2026-10-22 16:05:34",
+      "desc": "엔비디아가 늘어나는 인공지능(AI) 인프라 수요를 충족하기 위한 투자를 진행한다. 주요 협력사에 선수금을 주고 반도체 패키징 기판, 테스트, 공동광학패키징(CPO:Co-Packaged Optics) 물량을 확보하는 것이 핵심이다.엔비디아는 21일(현지",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
+      "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
+      "date": "Thu, 22 Oct 2026 09:58:39 +0000",
+      "desc": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin E",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
+      "link": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/",
+      "date": "Thu, 22 Oct 2026 07:08:02 +0000",
+      "desc": "Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to extend semiconductor scaling. Th",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
+      "link": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/",
+      "date": "Thu, 22 Oct 2026 07:07:27 +0000",
+      "desc": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Scaling Moves Beyond The Transistor",
+      "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+      "date": "Thu, 22 Oct 2026 07:05:16 +0000",
+      "desc": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Ch",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+      "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+      "date": "Thu, 22 Oct 2026 07:05:02 +0000",
+      "desc": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+      "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+      "date": "Thu, 22 Oct 2026 07:02:07 +0000",
+      "desc": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Breaks When Packaging Moves From Wafer To Panel?",
+      "link": "https://semiengineering.com/what-breaks-when-packaging-moves-from-wafer-to-panel/",
+      "date": "Thu, 22 Oct 2026 07:01:11 +0000",
+      "desc": "Engineers are discovering many things they thought were process assumptions were actually wafer assumptions. The post What Breaks When Packa",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Foundries And OSATs Increasingly Overlap",
+      "link": "https://semiengineering.com/foundries-and-osats-increasingly-overlap/",
+      "date": "Thu, 22 Oct 2026 07:01:03 +0000",
+      "desc": "Advanced packaging growth and capacity constraints are pushing more onto OSATs. The post Foundries And OSATs Increasingly Overlap appeared f",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "33년 전 뿌린 씨앗, '세계 1위'로…삼성家 23일 이건희 선대 회장 추도식",
+      "link": "https://www.etnews.com/20261022000332",
+      "date": "Thu, 22 Oct 2026 15:00:10 +0900",
+      "desc": "25일 고(故) 이건희 삼성 선대회장의 6주기를 맞아 추도식과 추모음악회 등 기념행사가 잇따라 열린다. 반도체와 전자 산업 중흥 기틀을 마련한 고인의 뜻을 기리기 위한 자리다. 삼성은 기일(25일)을 이틀 앞둔 23일 경기 수원 선영에서 이 선대회장 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261021-TI-01호] 2026년 10월 21일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261021-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-21%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 22 Oct 2026 00:54:41 GMT",
+      "desc": "‘반도체 코어팀’ 꾸린 삼성… 초격차 드라이브 (2026년 10월 21일, 파이낸셜뉴스, 임수빈·김준석 기자) 원문보기: https://www.fnnews.com/news/202610211836169151 [1] 삼성전자, 반도체연구소 내 ‘코어팀’ ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "델 테크놀로지스, 엔비디아와 손잡고 데스크사이드부터 데이터센터까지 에이전틱 AI 인프라 확대",
+      "link": "https://www.etnews.com/20261022000034",
+      "date": "Thu, 22 Oct 2026 09:07:52 +0900",
+      "desc": "델 테크놀로지스(Dell Technologies)가 엔비디아와 협력해 기업용 에이전틱 AI 시장 공략을 강화한다. 데스크사이드 개발 환경부터 데이터센터까지 아우르는 AI 솔루션과 컴퓨팅 인프라를 확대하고, 기업이 자체적으로 소유·관리하는 환경에서 AI",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
