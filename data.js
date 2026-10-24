@@ -1,6 +1,96 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-23T00:23:48.211Z",
+  "fetchedAt": "2026-10-24T00:15:34.715Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+      "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+      "date": "Sat, 24 Oct 2026 00:00:00 +0000",
+      "desc": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as t",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "저스템, 2030년까지 매출 8배 늘린다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64211",
+      "date": "2026-10-23 18:07:04",
+      "desc": "저스템이 2030년까지 매출 3000억원을 달성하겠다는 비전을 발표했다. 지난해 매출(369억원)의 8배에 달한다.임영진 저스템 대표는 23일 경기 광주에서 열린 전직원 대상 창립 10주년 기념 워크숍에서 \"다가올 미래는 차세대 기술과 전략적인 제품군",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "박기태 아이언디바이스 대표, 자사주 12.5만주 매입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64212",
+      "date": "2026-10-23 18:03:34",
+      "desc": "혼성신호 반도체 설계(팹리스) 기업 아이언디바이스는 박기태 대표가 자사 주식 12만5000주를 장내 매수했다고 23일 공시했다. 발행주식총수의 약 0.9%에 해당한다.박 대표는 아이언디바이스 최대주주다. 보유 주식 수는 총 280만주, 지분율은 20.",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "From Chip Lab to Center Stage",
+      "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+      "date": "Fri, 23 Oct 2026 18:00:03 +0000",
+      "desc": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi A",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 차량용 반도체로 영역 확대...현기차용 첫 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64198",
+      "date": "2026-10-23 17:10:18",
+      "desc": "반도체 팹리스 기업 글로벌테크놀로지가 현대모비스와 협력해 차량용 반도체를 처음 양산한다.김민선 글로벌테크놀로지 대표는 21일 서울 판교 더블트리 바이 힐튼 호텔에서 열린 제2회 오토 세미콘 코리아 2026(ASK 2026)에서 \"진입 장벽이 높은 전장",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "피에스케이, 국민성장펀드 받아 용인에 신규 공장 세운다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64203",
+      "date": "2026-10-23 16:52:28",
+      "desc": "피에스케이(PSK)가 2028년 상반기까지 1800억원을 투입, 장비 생산시설을 새로 짓는다. 재원 대부분은 정부 금융 지원으로 확보할 계획이다.PSK는 23일 이사회를 열고 2028년 5월 31일까지 경기 용인 반도체클러스터 일반산업단지에 신규 시설",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "\"상장 못하면 망해\" vs \"오히려 보수적 전망치\"... 파두 '뻥튀기 상장' 4차 공판",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64172",
+      "date": "2026-10-23 16:11:48",
+      "desc": "검찰이 '뻥튀기 상장' 의혹을 받고 있는 파두의 자본시장법 위반 형사사건 4차 공판에서 실적 급감을 알고도 무리하게 상장을 추진한 정황이 담긴 사내 메신저 대화록을 대거 공개했다. 대화록에는 '상장 못하면 자금 빵꾸(구멍)' '연 매출 목표 낮춰도 실",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔, 애리조나 팹62 장비 반입...2028년말 가동",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64167",
+      "date": "2026-10-23 11:13:18",
+      "desc": "인텔이 미국 애리조나주 반도체 공장 '오코틸로 캠퍼스 팹62'의 건설과 장비 반입을 본격화했다.나가 찬드라세카란 인텔 파운드리 총괄 겸 최고기술·운영책임자(CTO·COO) 부사장은 22일(현지시간) \"인텔의 제조 고향 애리조나에서 팹62는 오코틸로 캠",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 솔리다임 상장 검토 중단",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64163",
+      "date": "2026-10-23 09:14:44",
+      "desc": "SK하이닉스가 손자회사 솔리다임 상장 검토를 중단한다고 공식 발표했다.상장 추진설이 처음 보도된 지 79일 만이다. 주주 반발에 이어 금융당국이 중복상장 규제 대상이라고 못 박은 다음 날 이 같은 발표가 나왔다.SK하이닉스는 23일 \"해외 종속회사인 ",
+      "category": "deals",
+      "domain": "business"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +100,76 @@ window.NEWS_DATA = {
       "desc": "메모리 기판 전문업체 티엘비가 국내외 대형 메모리 제조업체 2곳과 차세대 인공지능(AI) 서버용 저전력 메모리 모듈 규격인 SOCAMM3(Small Outline Compression Attached Memory Module 3) 기판 개발에 착수한 ",
       "category": "memory",
       "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Two Dollars and a Test Suite",
+      "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+      "date": "Fri, 23 Oct 2026 08:03:27 +0000",
+      "desc": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that cu",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-161/",
+      "date": "Fri, 23 Oct 2026 07:01:23 +0000",
+      "desc": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"AI 투자 불안은 기회\"…래블업, 공모가 하단 딛고 성장성 입증 나선다",
+      "link": "https://zdnet.co.kr/view/?no=20261023155138",
+      "date": "Fri, 23 Oct 2026 16:00:53 +0900",
+      "desc": "[지디넷코리아]코스닥 상장을 앞둔 래블업이 인공지능(AI) 투자 불안 속에서 구독 매출과 해외 성장성을 앞세워 투자자 설득에 나섰다. 코어위브발(發) 자금조달 우려가 빅테크로 번지는 가운데 기존 AI 인프라의 활용률을 높이는 소프트웨어 사업으로 차별화",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "반도체 불모지서 세계 1위로…故 이건희 6주기, 기술·문화유산 재조명",
+      "link": "https://www.etnews.com/20261023000213",
+      "date": "Fri, 23 Oct 2026 15:00:00 +0900",
+      "desc": "고(故) 이건희 삼성 선대회장의 별세 6주기를 맞아 한국 반도체 산업의 성장을 이끈 경영 성과와 문화예술 분야에 남긴 유산이 재조명되고 있다. 반도체 불황에도 선제적 투자를 이어가며 세계 시장에서 경쟁력을 확보하고, 평생 수집한 문화재와 미술품 2만3",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261022-TT-01호] 2026년 10월 22일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261022-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-22%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 23 Oct 2026 00:59:47 GMT",
+      "desc": "마이크론 “4F² D램은 신화일 뿐” 공식 포기… '3D D램·웨이퍼 본딩' 집중 승부수 (2026년 10월 22일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20261022000027 [핵심 요약] [1] 마이크론",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261022-TM-01호] 2026년 10월 22일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261022-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-22%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 23 Oct 2026 00:57:36 GMT",
+      "desc": "인텔 \"애리조나 '팹62' 제조장비 반입 본격화...2028년 가동\" (2026년 10월 22일, ZDNet Korea, 권봉석 기자) 원문보기: https://zdnet.co.kr/view/?no=20261022104559 [핵심 요약] [1] 인텔",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261022-TI-01호] 2026년 10월 22일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261022-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-22%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 23 Oct 2026 00:56:18 GMT",
+      "desc": "美 반도체 공장 첫 삽 뜬 지 30년… 이건희의 선견지명, 반도체 강국 키웠다 (2026년 10월 22일, 한국일보, 이윤주 • 김진욱 • 홍인택 기자) 원문보기: https://www.hankookilbo.com/news/article/A202610",
+      "category": "earnings",
+      "domain": "business"
     },
     {
       "source": "ZDNet Korea",
@@ -1119,16 +1279,6 @@ window.NEWS_DATA = {
       "date": "Fri, 16 Oct 2026 07:18:34 +0000",
       "desc": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, a",
       "category": "robotics",
-      "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-160/",
-      "date": "Fri, 16 Oct 2026 07:01:05 +0000",
-      "desc": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signa",
-      "category": "security",
       "domain": "tech"
     },
     {
