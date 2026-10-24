@@ -1,6 +1,36 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-24T00:15:34.715Z",
+  "fetchedAt": "2026-10-24T23:59:52.741Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "마이크로칩 \"헤일로 AI 가속기와 결합한 턴키 솔루션으로 승부\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024184335",
+      "date": "Sun, 25 Oct 2026 07:00:01 +0900",
+      "desc": "[지디넷코리아]\"폭넓은 솔루션을 제공하지 못하는 인공지능(AI) 반도체 스타트업은 경쟁하기 어려울 것입니다.\"마크 라이튼(Mark Reiten) 마이크로칩 테크놀로지 수석부사장은 최근 에지 AI 반도체 스타트업 '헤일로(Hailo)' 인수 배경을 묻는",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…\"국산화 노력 수혜\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024160155",
+      "date": "Sat, 24 Oct 2026 22:00:03 +0900",
+      "desc": "[지디넷코리아]중국 인공지능(AI) 반도체 팹리스 캠브리콘 3분기 매출이 급등했다고 사우스차이나모닝포스트(SCMP) 등이 23일(현지시간) 보도했다. 캠브리콘의 3분기 매출은 35억 3000만위안(약 6900억원)으로 전년 동기 대비 105% 뛰었다.",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[기경학회 기후에너지 칼럼] 1000조 투입 K-GX, 탄소중립 감축 어떻게 확인할까",
+      "link": "https://zdnet.co.kr/view/?no=20261024102746",
+      "date": "Sat, 24 Oct 2026 10:27:46 +0900",
+      "desc": "[지디넷코리아]정부의 9월 잠정 집계에 따르면 2025년 산업부문 온실가스 배출량은 2억 4293만 톤이다. 2023년(확정치)보다 3.3% 감소했다. 같은 기간 철강·석유화학·시멘트 부문에서는 생산지표와 배출량이 같은 방향으로 움직였다. 반면 반도체",
+      "category": "research",
+      "domain": "tech"
+    },
     {
       "source": "EE Times",
       "type": "intl",
