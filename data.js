@@ -1,6 +1,86 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-24T23:59:52.741Z",
+  "fetchedAt": "2026-10-25T23:48:45.685Z",
   "items": [
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
+      "link": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/",
+      "date": "Sun, 25 Oct 2026 21:17:41 +0000",
+      "desc": "Researchers at Chinese Academy of Sciences, Jilin University, State Key Laboratory of Advanced Manufacturing for Optical Systems, and Univer",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
+      "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
+      "date": "Sun, 25 Oct 2026 21:08:26 +0000",
+      "desc": "Researchers at KU Leuven, Kunsan National University, Vrije Universiteit Brussel, imec, et al. published “Irradiation-Source-Dependent Tone ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)",
+      "link": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/",
+      "date": "Sun, 25 Oct 2026 20:49:45 +0000",
+      "desc": "Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and Photonics Electronics Technology Research Association (",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+      "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+      "date": "Sun, 25 Oct 2026 20:30:42 +0000",
+      "desc": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneo",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)",
+      "link": "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/",
+      "date": "Sun, 25 Oct 2026 20:14:26 +0000",
+      "desc": "Researchers at Technical University of Munich published “NN-Based Transistor Modeling for Ultra-Fast SPICE Simulation and Standard Cell Libr",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"일본·독일도 한국 밑\"…반도체 호황에 경상수지 '세계 2위'",
+      "link": "https://www.hankyung.com/article/202610253648i",
+      "date": "Sun, 25 Oct 2026 18:43:53 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "메모리 대란에 3분기 PC 출하량 전년比 21% 급감",
+      "link": "https://www.etnews.com/20261025000068",
+      "date": "Sun, 25 Oct 2026 12:22:02 +0900",
+      "desc": "메모리 반도체 가격 급등 영향으로 3분기 PC 출하량이 전년 동기 대비 21% 감소한 것으로 나타났다. 25일 시장조사업체 카운터포인트리서치에 따르면 3분기 PC 출하량은 5700만대로 집계됐다. 지난해 같은 기간보다 21%, 전 분기 대비 13.8%",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[2027정기인사]삼성전자, 수시인사 기조 속 핵심 보직 정비…전영현·노태문 겸직 해소 주목",
+      "link": "https://www.etnews.com/20261023000167",
+      "date": "Sun, 25 Oct 2026 12:00:00 +0900",
+      "desc": "삼성전자의 정기 사장단 인사는 전영현 디바이스솔루션(DS) 부문장과 노태문 디바이스경험(DX) 부문장의 겸직 해소가 관심이다. 부문장과 사업부장 겸직을 통해 핵심 사업의 경쟁력 강화와 경영 안정 기조를 이어갈 지, 사업부별 책임 경영을 통해 메모리와 ",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
