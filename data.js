@@ -1,6 +1,236 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-25T23:48:45.685Z",
+  "fetchedAt": "2026-10-27T01:08:14.013Z",
   "items": [
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261026-TI-01호] 2026년 10월 26일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261026-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-26%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 27 Oct 2026 00:59:06 GMT",
+      "desc": "삼성은 테일러·SK는 인디애나…美 반도체 공급망 구축 속도 (2026년 10월 26일, 아이뉴스24, 권서아 기자) 원문보기: https://www.inews24.com/view/2018510 [핵심 요약] [1] 삼성전자, 미국 테일러 파운드리 생산",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261026-TE-01호] 2026년 10월 26일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261026-te-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-26%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 27 Oct 2026 00:55:53 GMT",
+      "desc": "차세대 노광 장비 '하이-NA EUV' 눈앞…국내 마스크 업계에 기회 열리나 (2026년 10월 26일, 디지털투데이, 석대건 기자) 원문보기: https://www.digitaltoday.co.kr/news/articleView.html?idxno=",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261026-TT-01호] 2026년 10월 26일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261026-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-26%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 27 Oct 2026 00:54:12 GMT",
+      "desc": "TSMC 8년 만에 S램 비트셀 축소…'A14' 공정 0.017㎛² 미만 (2026년 10월 26일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20261026000222 [핵심 요약] [1] TSMC, S램 비트셀 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261026-TM-01호] 2026년 10월 26일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261026-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-26%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 27 Oct 2026 00:52:53 GMT",
+      "desc": "DB하이텍, 車반도체 품질 글로벌 경쟁력 입증 (2026년 10월 26일, 파이낸셜뉴스, 임수빈 기자) 원문보기: https://www.fnnews.com/news/202610261813467596 [핵심 요약] [1] DB하이텍, 자동차 품질 국제인",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI는 지금] MS, 전체 직원 27% 대상 자발적 퇴직 시행…\"AI 투자 부담\"",
+      "link": "https://zdnet.co.kr/view/?no=20261027084704",
+      "date": "Tue, 27 Oct 2026 09:32:57 +0900",
+      "desc": "[지디넷코리아]마이크로소프트가 전체 직원 중 4분의 1이 넘는 인력을 대상으로 자발적 퇴직 프로그램을 시행한다. AI 인프라 투자 급증으로 발생한 부담을 해소하기 위한 방안이라는 분석이다.CNBC 등 주요 외신은 27일 내부 사정에 정통한 소식통을 인",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "'반도체 톱10 2배'에 다시 '베팅'…초고수의 하락장 매매법",
+      "link": "https://www.hankyung.com/article/202610276806i",
+      "date": "Tue, 27 Oct 2026 09:00:25 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체 수출 호조…3분기 GDP 1% '깜짝 성장'",
+      "link": "https://www.hankyung.com/article/202610276778i",
+      "date": "Tue, 27 Oct 2026 08:44:05 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"내년 코스피 최대 8200\"...대신증권 \"반도체 저평가 지나쳐\"",
+      "link": "https://www.hankyung.com/article/202610264950i",
+      "date": "Tue, 27 Oct 2026 08:11:30 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체가 다 먹여살리네\"…후진국도 아닌데 '두자릿수 경제성장'",
+      "link": "https://www.hankyung.com/article/202610276371g",
+      "date": "Tue, 27 Oct 2026 08:02:50 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
+      "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
+      "date": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "desc": "Getting the most power from an urban-sited panel requires deep understanding of its surroundings. The post Using a Single Image to Optimize ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍, 파운드리 분야 자동차 품질 표준 인증 갱신",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64279",
+      "date": "2026-10-26 19:13:03",
+      "desc": "DB하이텍이 자동차 품질경영시스템 표준인 'IATF 16949' 인증을 갱신했다고 26일 밝혔다.부천캠퍼스와 상우캠퍼스에서 열린 IATF 16949 갱신 심사를 통과했다. 인증 범위는 고객사 반도체 제품을 대신 생산하는 파운드리 제조 전 분야다.IAT",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LB세미콘, 퀄컴 10년 계약 등에 업고 캐파 월 1만장 증설",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64269",
+      "date": "2026-10-26 18:44:09",
+      "desc": "LB세미콘이 퀄컴용 전력관리반도체(PMIC) 후공정 생산능력을 늘린다.26일 업계에 따르면 LB세미콘은 평택 본사 공장의 200mm 웨이퍼 기반 비(非) 디스플레이구동칩(Non-DDI) 패키징 생산능력을 2028년까지 월 2만6000장에서 3만6000",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+      "link": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/",
+      "date": "Mon, 26 Oct 2026 17:00:11 +0000",
+      "desc": "Stricter European safety assessment criteria are prompting car companies to replace steering-wheel sensors with consolidated in-cabin system",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "In Orbit, Useful Life Becomes a Performance Metric",
+      "link": "https://www.eetimes.com/in-orbit-useful-life-becomes-a-performance-metric/",
+      "date": "Mon, 26 Oct 2026 08:25:36 +0000",
+      "desc": "Google’s Project Suncatcher is testing AI hardware in space, where radiation, cooling, power, and hardware lifetime determine the economics ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+      "link": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/",
+      "date": "Mon, 26 Oct 2026 07:02:36 +0000",
+      "desc": "Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers e",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Large-Format Masks Move From Aspiration To Industry Roadmap",
+      "link": "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/",
+      "date": "Mon, 26 Oct 2026 07:02:08 +0000",
+      "desc": "Expert panel sees a compelling productivity case, but the entire photomask ecosystem must be ready together. The post Large-Format Masks Mov",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Testing Silicon Photonics At Scale",
+      "link": "https://semiengineering.com/testing-silicon-photonics-at-scale/",
+      "date": "Mon, 26 Oct 2026 07:01:58 +0000",
+      "desc": "New test requirements include fiber alignment, coupling efficiency, polarization management, and optical instrumentation. The post Testing S",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Bringing Down Test Costs For Co-Packaged Optics",
+      "link": "https://semiengineering.com/bringing-down-test-costs-for-co-packaged-optics/",
+      "date": "Mon, 26 Oct 2026 07:01:57 +0000",
+      "desc": "Pinpointing failures, ensuring known-good optical engines, and controlling test costs become increasingly critical as photonics moves into a",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)",
+      "link": "https://semiengineering.com/self-heating-and-parasitics-challenge-multi-tier-cfet-scaling-tu-munich-iit-kanpur/",
+      "date": "Mon, 26 Oct 2026 07:01:24 +0000",
+      "desc": "Researchers at the Technical University of Munich and Indian Institute of Technology Kanpur published “Self-Heating and Parasitic Effects in",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "이재용 취임 4년, 반도체 부활 넘어 M&A 승부수…미래사업 확장 가속",
+      "link": "https://www.etnews.com/20261026000221",
+      "date": "Mon, 26 Oct 2026 16:00:00 +0900",
+      "desc": "이재용 삼성전자 회장이 27일 취임 4주년을 맞는다. 글로벌 빅테크 최초로 분기 영업이익 100조원대를 달성한 삼성전자를 이끄는 이 회장의 취임 5년차 행보에 이목이 집중될 전망이다. 반도체 호황으로 확보한 막대한 현금 창출력을 바탕으로 인수합병(M&",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261025-TM-01호] 2026년 10월 25일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261025-tm-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-25%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 26 Oct 2026 01:25:22 GMT",
+      "desc": "인텔 팹에 들어간 '에이전틱 AI'…이상 감지 30% 단축·750만 달러 절감 (2026년 10월 25일, 전자신문, 이형두 기자) 원문보기: https://www.etnews.com/20261023000181 [핵심 요약] [1] 인텔, 에이전틱 A",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261025-TT-01호] 2026년 10월 25일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261025-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-25%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 26 Oct 2026 01:24:02 GMT",
+      "desc": "GIST 반도체 혁신기술 2종 뜬다…'유리 기판·2차원 소재' 눈길 (2026년 10월 25일, 머니투데이, 최태범 기자) 원문보기: https://www.mt.co.kr/future/2026/10/25/2026101915054962909 [핵심 요약",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261025-TI-01호] 2026년 10월 25일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261025-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-25%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 26 Oct 2026 01:22:56 GMT",
+      "desc": "TSMC보다 더 남긴다…메모리 투톱, '영업이익률 80% 시대' 기대 (2026년 10월 25일, 아주경제, 김나윤 기자) 원문보기: https://www.ajunews.com/view/20261025151102164 [핵심 요약] [1] 삼성전자·S",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "Semiconductor Engineering",
       "type": "intl",
