@@ -1,6 +1,186 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-27T01:08:14.013Z",
+  "fetchedAt": "2026-10-28T00:58:06.451Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 분기 매출 첫 100조원 돌파…영업이익만 83조원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64393",
+      "date": "2026-10-28 09:27:52",
+      "desc": "SK하이닉스가 올해 3분기 매출 100조원을 처음 돌파했다. 현금배당과 자사주 소각을 통한 총 100조원 규모의 주주환원도 추진한다.SK하이닉스는 28일 올해 3분기 연결기준 매출 104조6155억원, 영업이익 83조3338억원을 달성했다고 밝혔다. ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261027-TI-01호] 2026년 10월 27일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261027-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-27%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 28 Oct 2026 00:52:08 GMT",
+      "desc": "베트남 첫 반도체 공장, 착공 9개월째 ‘빈터’…2027년 시험생산 불투명 (2026년 10월 27일, 아시아투데이, 정리나 하노이 특파원) 원문보기: https://www.asiatoday.co.kr/kn/view.php?key=20261027010",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SK하이닉스, 분기 매출 100조 첫 돌파…영업익 83조 '어닝 서프라이즈'",
+      "link": "https://zdnet.co.kr/view/?no=20261028085225",
+      "date": "Wed, 28 Oct 2026 09:04:48 +0900",
+      "desc": "[지디넷코리아]SK하이닉스가 사상 처음으로 분기 100조원 매출을 달성했다. 영업이익률은 80%를 돌파하며, 6개 분기 연속 사상 최대 실적 기록을 썼다. 인공지능(AI) 수요 폭발로 2030년까지 메모리 공급 부족이 지속될 것이라는 낙관적 전망 속에",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "블룸버그 \"솔리다임, 美에 60조원 낸드 공장 투자 추진\"",
+      "link": "https://zdnet.co.kr/view/?no=20261028083419",
+      "date": "Wed, 28 Oct 2026 08:57:54 +0900",
+      "desc": "[지디넷코리아]SK하이닉스의 미국 낸드플래시 손자회사 솔리다임이 미국에 첫 낸드 공장을 짓는 방안을 놓고 미국 상무부와 협의 중이라고 블룸버그가 28일(현지시간) 보도했다. 거론되는 투자 규모는 450억 달러(약 60조원)다. 솔리다임이 미국 낸드 공",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "오라클, 구글·스노우플레이크와 AI 협력 '광폭 행보'",
+      "link": "https://zdnet.co.kr/view/?no=20261028082938",
+      "date": "Wed, 28 Oct 2026 08:29:38 +0900",
+      "desc": "[지디넷코리아][라스베이거스(미국)=이나연 기자] 오라클이 오픈AI·엔비디아와 초대형 인공지능(AI) 인프라 협력을 강화하는 동시에 구글 AI 반도체 '텐서처리장치(TPU)'와 스노우플레이크 AI 데이터 플랫폼을 자사 클라우드에 도입한다. 기존 협력 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "미국 이어 中 빅테크 삼성전자 찾는 이유…메모리 '10년 전쟁'",
+      "link": "https://www.hankyung.com/article/2026102893746",
+      "date": "Wed, 28 Oct 2026 08:08:23 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
+      "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
+      "date": "Tue, 27 Oct 2026 23:00:00 +0000",
+      "desc": "High-density switching supplies help modernize legacy aircraft power systems while addressing obsolescence, efficiency, integration, and com",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체 이틀째 급반등…\"연말 랠리 시작\" vs \"조정 아직 안 끝나\" [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202610289291i",
+      "date": "Wed, 28 Oct 2026 07:58:18 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "하이퍼엑셀, 삼성증권 출신 인사 CFO로 영입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64372",
+      "date": "2026-10-27 21:15:18",
+      "desc": "반도체 팹리스 스타트업 하이퍼엑셀이 김준연 신임 최고재무책임자(CFO)를 영입했다고 27일 밝혔다.김 신임 CFO는 직전까지 삼성증권 캐피탈마켓본부 이사로 재직하며 국내 주요 인공지능(AI) 반도체 기업의 상장 자문과 투자 업무를 맡았다. 포스코인터내",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)",
+      "link": "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/",
+      "date": "Tue, 27 Oct 2026 20:37:31 +0000",
+      "desc": "Researchers at IBM Research Europe published “Superposed analog memory for vector storage in neural networks.” Summary: Researchers demonstr",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "칩스앤미디어, 3분기 실적 고른 성장...라이선스가 견인",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64333",
+      "date": "2026-10-27 17:42:37",
+      "desc": "반도체 설계자산(IP) 기업 칩스앤미디어가 인공지능(AI) 칩과 로보틱스 분야 신규 라이선스 수주로 고른 실적 성장을 이뤘다.27일 칩스앤미디어는 올해 3분기 실적을 공시했다. 연결 기준 매출액은 71억6200만원, 영업이익은 16억5700만원이다. ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔, 양자 연산 소프트웨어 기업 '클래식' 인수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64310",
+      "date": "2026-10-27 15:13:03",
+      "desc": "인텔이 양자컴퓨팅 소프트웨어 기업 클래식을 인수한다. 하드웨어부터 개발 도구까지 묶은 풀스택 양자컴퓨팅 플랫폼을 구축하기 위해서다.인텔은 26일(현지시간) 클래식 인수를 위한 최종 계약을 체결했다고 밝혔다.클래식은 특정 큐비트(qubit) 방식이나 하",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "브로드컴, 앤스로픽에 83.4조 규모 대여용 XPU 등 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64331",
+      "date": "2026-10-27 15:05:23",
+      "desc": "브로드컴이 글로벌 금융사들이 꾸린 특수목적법인(SPV)을 통해 앤트로픽에 연산처리장치(XPU)를 공급한다.금융사가 칩을 사서 앤스로픽에 빌려주고 브로드컴은 칩 값을 보증하는 방식이다.뱅크오브아메리카, 블랙스톤, 시티, 모건스탠리는 26일(현지시간) 앤",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design",
+      "link": "https://www.eetimes.com/copperpilot-raises-pre-seed-to-develop-ai-agent-for-pcb-design/",
+      "date": "Tue, 27 Oct 2026 13:58:33 +0000",
+      "desc": "CopperPilot’s CEO said the startup has built its AI design agent so that “no hardware team is ever blocked because a board is too hard to de",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "케이던스 \"칩 설계 1000배 쉬워진다\"...연간 실적 전망 또 올렸다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64296",
+      "date": "2026-10-27 10:38:58",
+      "desc": "반도체 설계자동화(EDA) 업체 케이던스가 인공지능(AI)으로 칩 설계 생산성을 과거보다 최대 1000배 높일 수 있다고 전망했다.범용 AI 모델뿐 아니라 반도체 설계에 특화된 자체 모델을 EDA 도구와 결합하겠다는 전략 방향도 소개했다.아니루드 데브",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In",
+      "link": "https://www.eetimes.com/quantum-computing-energy-bill-is-coming-and-we-havent-priced-it-in/",
+      "date": "Tue, 27 Oct 2026 09:05:54 +0000",
+      "desc": "Quantum computing’s future depends on measuring useful processing power against energy consumption and cost, not just qubit counts. The post",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The imec Report: Scaling Optical Interconnects For The AI Era",
+      "link": "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/",
+      "date": "Tue, 27 Oct 2026 07:01:34 +0000",
+      "desc": "Unprecedented demand for bandwidth calls for bringing optics closer to silicon through a fundamental rethinking of the optical interconnect ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Oct. 27",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/",
+      "date": "Tue, 27 Oct 2026 07:01:16 +0000",
+      "desc": "3D DRAM-on-GPU thermal design; multi-tier CFET self-heating and parasitics; 200G/λ silicon photonics; dry-deposited EUV and e-beam resists; ",
+      "category": "research",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
