@@ -1,6 +1,176 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-28T00:58:06.451Z",
+  "fetchedAt": "2026-10-29T01:33:15.301Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퓨리오사AI, 시리즈 D 8200억 투자유치...기업가치 3.8조 달성",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64502",
+      "date": "2026-10-29 09:43:50",
+      "desc": "인공지능(AI) 반도체 팹리스 기업 퓨리오사AI가 8200억원 규모의 시리즈 D 투자유치를 마쳤다고 29일 밝혔다.국내외 투자 수요가 몰리며 기존 4500억~7500억원 조달 목표를 8200억원으로 늘렸다. 투자 전 기업가치는 3조원으로, 투자 후 기",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261028-TT-01호] 2026년 10월 28일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261028-tt-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-28%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 29 Oct 2026 01:17:26 GMT",
+      "desc": "램리서치, “AI 반도체 미세화 한계, '건식 솔루션' 활용한 '단일 패터닝 공정'으로 돌파” (2026년 10월 28일, 전자신문, 김영호 기자) 원문보기: https://www.etnews.com/20261028000198 [핵심 요약] [1] 건",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261028-TI-01호] 2026년 10월 28일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261028-ti-01%ED%98%B8-2026%EB%85%84-10%EC%9B%94-28%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 29 Oct 2026 01:14:29 GMT",
+      "desc": "솔리다임, 美 60조 낸드공장 추진... 곽노정 \"주주가치 제고 방향 투자\" (2026년 10월 28일, 파이낸셜뉴스, 김학재·임수빈 기자) 원문보기: https://www.fnnews.com/news/202610281817579236 [핵심 요약] ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조",
+      "link": "https://zdnet.co.kr/view/?no=20261029090026",
+      "date": "Thu, 29 Oct 2026 09:21:58 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 반도체 스타트업 퓨리오사AI가 8200억원 규모 시리즈 D 투자 유치를 완료했다고 29일 밝혔다. 당초 목표했던 금액을 크게 상회했다. 투자 후 기업가치는 약 3조 8000억원으로 평가받았다. 국가 AI 컴퓨팅 인프라 확",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "코스피, 반도체 대형주 강세 지속에 상승 출발…코스닥은 약세",
+      "link": "https://www.hankyung.com/article/2026102924356",
+      "date": "Thu, 29 Oct 2026 09:19:45 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[마켓라이브] 삼성전자 컨콜 앞두고 반도체 강세…LG엔솔 -7%",
+      "link": "https://www.hankyung.com/article/202610292337i",
+      "date": "Thu, 29 Oct 2026 09:17:47 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "김병석 한미반도체 상무, 은탑산업훈장 수훈",
+      "link": "https://zdnet.co.kr/view/?no=20261029082258",
+      "date": "Thu, 29 Oct 2026 08:33:46 +0900",
+      "desc": "[지디넷코리아]한미반도체는 김병석 상무가 고대역폭메모리(HBM) 열압착(TC) 본더 세계 1위 달성 등에 기여한 공로로 은탑산업훈장을 수훈했다고 29일 밝혔다. 김병석 상무는 고정밀·고효율 TC 본더 기술 개발로 한미반도체의 HBM TC 본더 세계 1",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
+      "link": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/",
+      "date": "Wed, 28 Oct 2026 20:50:32 +0000",
+      "desc": "Toronto-based Meissner Technologies uses AI and laboratory testing to discover superconducting materials that could cut cooling costs and he",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "씨게이트, 브로드컴 대용량 HDD 호환성 확보",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64477",
+      "date": "2026-10-28 18:27:50",
+      "desc": "씨게이트가 브로드컴의 서버·저장장치 연결 부품과 대용량 하드디스크드라이브(HDD) 간 호환성을 확보했다.씨게이트는 '모자이크 드라이브'가 브로드컴 호스트 버스 어댑터(HBA) 승인 공급업체 목록에 SMR 드라이브 제품 중 유일하게 등재됐다고 28일 밝",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 블루칩 프로젝트에 스냅드래곤 X 플랫폼 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64466",
+      "date": "2026-10-28 17:35:30",
+      "desc": "퀄컴이 블루칩 프로젝트에 스냅드래곤 X 플랫폼을 공급한다고 27일(현지시간) 밝혔다.블루칩 프로젝트는 여러 공공 업무용 컴퓨터 하드웨어를 미국 내에서 직접 설계, 조립하는 것이다. 미국 내 컴퓨터 제조 기반 재건이 목적이다.퀄컴은 블루칩 제품군에 핵심",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+      "link": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/",
+      "date": "Wed, 28 Oct 2026 16:43:42 +0000",
+      "desc": "Long-term customer contracts and rising chip prices point to a change in how memory manufacturers manage multi-year production capacity and ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD \"스파르탄, 경쟁사 FPGA 대비 회로 40% 절감...속도는 1.8배\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64429",
+      "date": "2026-10-28 15:14:37",
+      "desc": "AMD가 보급형 프로그래머블 반도체(FPGA) '스파르탄 울트라스케일 플러스'로 산업용 시스템 시장을 공략한다. 경쟁사 대비 높은 성능과 장기 공급 보장을 장점으로 내세우며 고객사의 개발·운영 비용을 낮추겠다고 발표했다.로미사 샘후드 AMD 적응형 임",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "곽노정 대표, 처음으로 컨콜 마이크 잡았다... 주주 신뢰회복에 '방점'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64425",
+      "date": "2026-10-28 14:25:07",
+      "desc": "곽노정 SK하이닉스 대표가 취임 후 처음으로 실적 발표 컨퍼런스콜에 나서 주주환원 방침을 소개했다. 최근 솔리다임 기업공개(IPO)를 놓고 주주들의 반발과 주가하락이 컸던 점을 고려해 최고경영자(CEO)가 직접 나서 시장의 신뢰회복을 노린 것으로 풀이",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 2026년 3분기 실적발표 컨퍼런스콜 전문",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64413",
+      "date": "2026-10-28 13:11:14",
+      "desc": "SK하이닉스가 2026년 3분기 연결 기준 매출 104조6155억원, 영업이익 83조3338억원을 기록했다. 전년 대비 각각 327.9%, 632.1% 증가했다. 전분기 대비로는 매출 31.9%, 영업이익 37.6% 늘었다. 영업이익률은 79.7%로 ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔-오라클, 동맹 강화...서버용 CPU 장기 공급 협력 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64408",
+      "date": "2026-10-28 11:12:23",
+      "desc": "인텔이 27일(현지시간) 오라클 AI 월드 행사에서 오라클 클라우드 인프라(OCI)에 현세대 서버용 중앙처리장치(CPU) 제온 프로세서의 공급 물량을 늘리고, 차세대 제온 프로세서 '다이아몬드 래피즈'도 제공할 계획이라고 밝혔다.OCI는 오라클이 운영",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 메타에 4조 규모 지분 투자...AI 협력 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64386",
+      "date": "2026-10-28 10:12:39",
+      "desc": "엔비디아는 26일(현지시간) 메타의 유상증자에 30억달러(약 3조9840억원) 규모로 참여한다고 밝혔다. 메타는 이날 주당 50달러의 시리즈A 예탁 주식 2억5000만주, 주당 625달러인 클래스A 보통주를 250억달러(약 33조2020억원) 규모로 ",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 메타에 1.3조 지분 투자...전략적 협력 확대",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64397",
+      "date": "2026-10-28 10:06:30",
+      "desc": "AMD가 메타에 약 1조3000억원 규모의 지분을 투자한다.AMD는 27일(현지시간) 메타의 유상증자에 10억달러(약 1조3200억원) 규모로 참여하고, 메타는 AMD의 AI 연산 플랫폼을 확대 도입한다고 밝혔다.메타는 전날 시리즈A 예탁 주식을 12",
+      "category": "deals",
+      "domain": "business"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +180,86 @@ window.NEWS_DATA = {
       "desc": "SK하이닉스가 올해 3분기 매출 100조원을 처음 돌파했다. 현금배당과 자사주 소각을 통한 총 100조원 규모의 주주환원도 추진한다.SK하이닉스는 28일 올해 3분기 연결기준 매출 104조6155억원, 영업이익 83조3338억원을 달성했다고 밝혔다. ",
       "category": "earnings",
       "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Intel Wants a Quantum Business, Classiq Could Help Build One",
+      "link": "https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/",
+      "date": "Wed, 28 Oct 2026 08:05:29 +0000",
+      "desc": "After years of hardware research, Intel plans to acquire a software platform that connects quantum developers with enterprise users. The pos",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Introducing Build-A-Chip-Bench: From Workload Specification to GDS",
+      "link": "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/",
+      "date": "Wed, 28 Oct 2026 07:03:44 +0000",
+      "desc": "Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source PDK to assess their ability to",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Foundations of Power Management in the Age of AI",
+      "link": "https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/",
+      "date": "Wed, 28 Oct 2026 07:03:10 +0000",
+      "desc": "Make every layer of your hardware PDN-aware and reach your maximum compute density. The post Foundations of Power Management in the Age of A",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Using AI for Analog Design",
+      "link": "https://semiengineering.com/using-ai-for-analog-design/",
+      "date": "Wed, 28 Oct 2026 07:02:07 +0000",
+      "desc": "The growing role of AI in analog and mixed-signal design, where complexity is rising, schedules are tightening, and the cost of mistakes is ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs",
+      "link": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/",
+      "date": "Wed, 28 Oct 2026 07:01:06 +0000",
+      "desc": "How a single, integrated Foundation IP platform reduces re-spin risk and integration delays and helps lower TCO. The post Foundation IP For ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Planning Your AI Design Journey In RF EDA",
+      "link": "https://semiengineering.com/planning-your-ai-design-journey-in-rf-eda/",
+      "date": "Wed, 28 Oct 2026 07:01:05 +0000",
+      "desc": "Agentic solutions for RF design. The post Planning Your AI Design Journey In RF EDA appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Much Can Semiconductor Models Hide?",
+      "link": "https://semiengineering.com/how-much-can-semiconductor-models-hide/",
+      "date": "Wed, 28 Oct 2026 07:01:04 +0000",
+      "desc": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the pred",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Oct. 28",
+      "link": "https://semiengineering.com/blog-review-oct-28-3/",
+      "date": "Wed, 28 Oct 2026 07:01:03 +0000",
+      "desc": "Large-format/curvilinear masks; STCO for heterogeneous design; physical AI interactions; signing off AI-generated designs; workload profile ",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "SPTA TIMES",
