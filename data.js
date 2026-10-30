@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-29T01:33:15.301Z",
+  "fetchedAt": "2026-10-30T01:32:54.529Z",
   "items": [
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "자원순환을 통해 새로운 가치를 만들다! 삼성전자 DS부문의 지속가능한 미래를 위한 노력",
+      "link": "https://news.samsung.com/kr/%ec%9e%90%ec%9b%90%ec%88%9c%ed%99%98%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b0%80%ec%b9%98%eb%a5%bc-%eb%a7%8c%eb%93%a4%eb%8b%a4-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-ds%eb%b6%80",
+      "date": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "desc": "글로벌 IT 기술의 고도화와 함께 반도체는 우리 일상의 핵심 인프라가 되었고, 생산 규모도 계속해서 증가하고 있다. 반도체 생산에는 다양한 원자재와 소재가 사용되기에, 삼성전자 DS부문은 한정된 자원은 보다 효율적으로 활용하고 사용한 자원은 최대한 순",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 뺨치는 수출 효자\"…외국인 푹 빠진 '국민 반찬'",
+      "link": "https://www.hankyung.com/article/202610305058g",
+      "date": "Fri, 30 Oct 2026 08:57:30 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체·자동차 약진에…생산 15년 6개월 만에 폭등",
+      "link": "https://www.hankyung.com/article/202610305053i",
+      "date": "Fri, 30 Oct 2026 08:27:34 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "전영현 “호황일수록 겸손” vs 노태문 “원가 파고 넘자”…창립 57주년 메시지",
+      "link": "https://www.etnews.com/20261030000007",
+      "date": "Fri, 30 Oct 2026 08:24:52 +0900",
+      "desc": "삼성전자 반도체(DS)와 완제품(DX) 부문 수장이 창립 57주년을 맞아 메시지를 내놨다. 전영현 DS부문장(대표)은 역대 최대 실적 속에서도 자만을 경계했다. 노태문 DX부문장(대표)은 부품 가격 상승에 맞선 원가 경쟁력 확보를 주문했다. AI발 반",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
+      "link": "https://www.eetimes.com/infineons-oktobertech-edge-ai-sdvs-and-the-road-to-800-vdc/",
+      "date": "Thu, 29 Oct 2026 20:59:28 +0000",
+      "desc": "Explore Infineon’s OktoberTech takeaways on edge AI, SDVs, GaN power, and the shift toward 800 V DC data centers. The post Infineon’s Oktobe",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔-SAP, 피지컬 AI 협력...기업 전산-로봇 연결한다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64545",
+      "date": "2026-10-29 18:39:22",
+      "desc": "인텔과 SAP가 29일 SAP 테크에드 2026 행사에서 물리적(피지컬) 인공지능(AI) 기술 협력을 발표했다.창고 물류 관리 전산 시스템 'SAP EWM'과 인텔의 현장 장치(엣지)용 AI 하드웨어, 소프트웨어를 연동했다. 기업이 의사 결정을 내려 ",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "자람테크놀로지, 30억 규모 ASIC 공급...하이패스 결제용",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64565",
+      "date": "2026-10-29 18:18:00",
+      "desc": "자람테크놀로지는 29일 에어포인트와 29억7130만원의 ASIC 공급계약을 체결했다고 공시했다. 지난해 매출액 약 106억4350만원의 약 27.9%에 해당한다.공급하는 AISC은 유료도로의 무선 통행료 결제(ETC) 단말기용 칩이다. 하이패스 규격인",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+      "link": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
+      "date": "Thu, 29 Oct 2026 16:20:34 +0000",
+      "desc": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Sam",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD,오라클에 최신 서버용 CPU·DPU 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64518",
+      "date": "2026-10-29 13:35:47",
+      "desc": "AMD가 오라클 클라우드 인프라(OCI)에 최신 서버용 중앙처리장치(CPU)와 데이터처리장치(DPU)를 공급한다고 27일(현지시간) 밝혔다.AMD가 공급하는 제품은 6세대 에픽 베니스 CPU와 펜산도 DPU다. 에픽 베니스는 오라클의 가상 서버 서비스",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, \"엑시노스 2700 시장점유율 확대 전망\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64526",
+      "date": "2026-10-29 13:33:50",
+      "desc": "삼성전자가 엑시노스의 시장점유율이 늘어날 것이라고 전망했다. 신승철 삼성전자 디바이스솔루션(DS) 부문 시스템LSI사업부 부사장은 29일 삼성전자의 올해 3분기 실적발표 컨퍼런스콜에서 \"엑시노스 2700에서 인공지능(AI)과 게이밍 성능을 향상시켰고,",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots",
+      "link": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
+      "date": "Thu, 29 Oct 2026 11:48:02 +0000",
+      "desc": "With humanoid robot designs still evolving and volumes low, STMicroelectronics is watching how the market develops before deciding what to b",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "베리실리콘, 초저전력 및 메모리 효율적인 웨어러블 기기 위한 GLTiny™ 3D GPU 프로그래밍 모델 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261029201003",
+      "date": "Thu, 29 Oct 2026 20:10:03 +0900",
+      "desc": "[지디넷코리아]최적화된 GLTiny 모델, OpenGL ES GPU 기반의 자원 제약이 큰 웨어러블 기기에 풍부한 3D 그래픽 제공 상하이, 2026년 10월 29일 /PRNewswire/ -- 베리실리콘(VeriSilicon, 688521.SH)이 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64510",
+      "date": "2026-10-29 11:00:50",
+      "desc": "삼성전자가 3분기 반도체에서만 영업이익 106조5000억원을 기록하며 글로벌 테크 기업 최초로 분기 영업이익 100조원을 돌파했다. 내년 고대역폭메모리(HBM) 생산물량이 이미 완판되는 등 반도체 호황은 지속될 것으로 내다봤다.삼성전자는 29일 올해 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성전자, 2026년 3분기 실적 발표",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-2026%eb%85%84-3%eb%b6%84%ea%b8%b0-%ec%8b%a4%ec%a0%81-%eb%b0%9c%ed%91%9c",
+      "date": "Thu, 29 Oct 2026 10:08:00 +0000",
+      "desc": "삼성전자는 연결 기준 매출 195.3조원, 영업이익 107.4조원의 2026년 3분기 실적을 발표했다. 삼성전자는 메모리의 최대 실적에 힘입어 4분기 연속 최대 매출과 영업이익을 동시에 경신하며, 글로벌 테크 기업 중 최초로 분기 영업이익 100조원을",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -8,6 +148,146 @@ window.NEWS_DATA = {
       "link": "https://www.thelec.kr/news/articleView.html?idxno=64502",
       "date": "2026-10-29 09:43:50",
       "desc": "인공지능(AI) 반도체 팹리스 기업 퓨리오사AI가 8200억원 규모의 시리즈 D 투자유치를 마쳤다고 29일 밝혔다.국내외 투자 수요가 몰리며 기존 4500억~7500억원 조달 목표를 8200억원으로 늘렸다. 투자 전 기업가치는 3조원으로, 투자 후 기",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
+      "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
+      "date": "Thu, 29 Oct 2026 08:30:08 +0000",
+      "desc": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising per",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Auto-Generation Of Properties: Methodology Insertion",
+      "link": "https://semiengineering.com/auto-generation-of-properties-methodology-insertion/",
+      "date": "Thu, 29 Oct 2026 07:13:12 +0000",
+      "desc": "Technology is only useful if it improves an existing methodology. Property generation is still refining that goal, but in the long term it c",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rethinking Shift Left In Chip Design",
+      "link": "https://semiengineering.com/rethinking-shift-left-in-chip-design/",
+      "date": "Thu, 29 Oct 2026 07:11:57 +0000",
+      "desc": "Is it better to do everything earlier in the flow, or should design be more flexible and iterative? The post Rethinking Shift Left In Chip D",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Raises The Bar For Tomorrow’s Engineers",
+      "link": "https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/",
+      "date": "Thu, 29 Oct 2026 07:11:29 +0000",
+      "desc": "Universities are redesigning curricula and assessments around judgment, validation, and technical depth. The post AI Raises The Bar For Tomo",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Complexity Between The Bits",
+      "link": "https://semiengineering.com/the-complexity-between-the-bits/",
+      "date": "Thu, 29 Oct 2026 07:09:52 +0000",
+      "desc": "What biological reasoning can teach us about verifying silicon systems. The post The Complexity Between The Bits appeared first on Semicondu",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
+      "link": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
+      "date": "Thu, 29 Oct 2026 07:08:48 +0000",
+      "desc": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The p",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
+      "link": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/",
+      "date": "Thu, 29 Oct 2026 07:07:05 +0000",
+      "desc": "What self-verifying agents validate their decisions against and why physics-based engines are the authority on correctness. The post Physics",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The EU Cyber Resilience Act Reaches Chip And IP Suppliers",
+      "link": "https://semiengineering.com/the-eu-cyber-resilience-act-reaches-chip-and-ip-suppliers/",
+      "date": "Thu, 29 Oct 2026 07:06:49 +0000",
+      "desc": "Determining which products may fall within the CRA's scope and what information may need to be provided to customers. The post The EU Cyber ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Functional Monitoring To In-System Test: Extending Voltage-Aware Observability",
+      "link": "https://semiengineering.com/from-functional-monitoring-to-in-system-test-extending-voltage-aware-observability/",
+      "date": "Thu, 29 Oct 2026 07:05:54 +0000",
+      "desc": "Separate false failures caused by voltage droop from real structural defects. The post From Functional Monitoring To In-System Test: Extendi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Scaling Autonomous Root Cause Analysis For Regression Triage",
+      "link": "https://semiengineering.com/scaling-autonomous-root-cause-analysis-for-regression-triage/",
+      "date": "Thu, 29 Oct 2026 07:04:37 +0000",
+      "desc": "Solving difficult bugs while intelligently deciding what to investigate, what to rerun, and where to spend compute. The post Scaling Autonom",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Physics Needs To Move At The Pace Of Design",
+      "link": "https://semiengineering.com/why-physics-needs-to-move-at-the-pace-of-design/",
+      "date": "Thu, 29 Oct 2026 07:03:34 +0000",
+      "desc": "Physics-based analysis becomes more consequential as chips, packages, boards, and systems are designed together. The post Why Physics Needs ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성 “메모리 장기계약 10곳 추가 협상”",
+      "link": "https://www.etnews.com/20261029000325",
+      "date": "Thu, 29 Oct 2026 14:28:09 +0900",
+      "desc": "삼성전자가 글로벌 대형 고객사 10곳과 메모리 반도체 장기공급계약(LTA)을 체결한 데 이어 추가로 10곳과 계약 협상을 진행하고 있다. 장기적인 메모리 공급을 원하는 고객사가 늘고 있는 가운데 계약 대상도 다변화되고 있다. 기존 하이퍼스케일러와 서버",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[이슈플러스]TV·가전, 판매 호조…적자 폭은 커져",
+      "link": "https://www.etnews.com/20261029000235",
+      "date": "Thu, 29 Oct 2026 12:35:18 +0900",
+      "desc": "삼성전자 TV·가전 사업이 판매 호조에도 불구하고 적자 폭이 커졌다. 원자재 가격과 물류비 상승에 메모리 반도체 수급 불안까지 겹치면서 수익성이 악화된 영향이다. 글로벌 TV 시장의 성장 정체와 중국 업체들의 경쟁 심화까지 맞물려 수익성 회복이 쉽지 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자 “올해 시설투자 규모 84.4조원”…전년比 67.8% ↑",
+      "link": "https://www.etnews.com/20261029000152",
+      "date": "Thu, 29 Oct 2026 10:27:31 +0900",
+      "desc": "삼성전자가 올해 시설 투자에 84조4000억원을 집행한다. 삼성전자는 29일 시설투자 올해 규모를 이같이 밝히면서 디바이스솔루션(DS·반도체) 부문에 76조8000억원, 디스플레이에 3조9000억원 수준이 투입될 것이라고 설명했다. 지난해 시설투자 규",
       "category": "earnings",
       "domain": "business"
     },
