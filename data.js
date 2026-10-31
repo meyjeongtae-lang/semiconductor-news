@@ -1,6 +1,136 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-30T01:32:54.529Z",
+  "fetchedAt": "2026-10-31T01:25:24.088Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "2026 훙하이 테크 데이에서 AI용 토큰 팩토리를 구현하는 폭스콘 생태계 조명",
+      "link": "https://zdnet.co.kr/view/?no=20261031091024",
+      "date": "Sat, 31 Oct 2026 09:10:24 +0900",
+      "desc": "[지디넷코리아] 7회째 맞은 대표 연례 기술 콘퍼런스에서 기술 협력 성과 조명 역대 최대인 321개 전시물로 수직 계열화와 정밀 제조 역량 입증 20m 길이 전시벽으로 차세대 AI 인프라의 부품부터 시스템 통합까지 소개 HHTD26에 최대 규모의 체화",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "인텔 투매, 30% 추락…메모리의 복수, 애플도 쇼크? \"선거 뒤를 기다려라\" [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202610317321i",
+      "date": "Sat, 31 Oct 2026 08:27:51 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 투자 공포…美 반도체주 7곳서 하루 새 860조 증발 [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2026103172407",
+      "date": "Sat, 31 Oct 2026 07:09:18 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "범용 D램, 10월도 역대 최고가...낸드는 21개월만 상승세 멈춰",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64634",
+      "date": "2026-10-30 20:20:22",
+      "desc": "범용 D램 가격이 상승세가 이어지며 역대 최고가를 달성했다. 반면 범용 낸드 가격은 21개월 만에 상승세가 멈췄다.30일 시장조사업체 D램익스체인지에 따르면 PC용 D램인 DDR4 8Gb의 10월 평균가는 27.5달러로 전월(26달러) 대비 5.77%",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "키옥시아, 2분기 역대급 실적...영업이익률 80%로 삼전하닉 제쳐",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64635",
+      "date": "2026-10-30 20:18:12",
+      "desc": "일본 키옥시아가 인공지능(AI) 데이터센터향 제품 수요 증가에 힘입어 역대 최대 분기 매출과 영업이익을 경신했다. 영업이익률도 80%를 넘었다. 낸드플래시 가격 상승이 실적 향상을 견인했다.키옥시아는 2026회계연도 2분기(7~9월) 매출 2조4800",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Google: Agentic AI Will Drive New Demands on Data Center CPUs",
+      "link": "https://www.eetimes.com/google-agentic-ai-will-drive-new-demands-on-data-center-cpus/",
+      "date": "Fri, 30 Oct 2026 20:13:41 +0000",
+      "desc": "Agents present a bursty workload, leaving CPUs frequently idle, which is placing new demands on CPU infrastructure. The post Google: Agentic",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스, 일본 주요 협력사와 첫 '파트너스 데이' 개최",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64632",
+      "date": "2026-10-30 18:12:06",
+      "desc": "SK하이닉스가 일본에서 처음으로 협력사 행사인 '파트너스데이'를 열었다. 행사에는 이병기 양산총괄(CPO), 강유종 부사장(구매 부문장), 최우진 부사장(P&T 부문장) 등 주요 경영진과 실무진이 참석했다.SK하이닉스는 지난 29일 일본 치바현에서 파",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "테크인사이츠 \"내년 메모리가 반도체 매출 62% 차지\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64631",
+      "date": "2026-10-30 18:03:32",
+      "desc": "시장조사업체 테크인사이츠가 내년 글로벌 반도체 시장이 2조6000억달러(약 3500조원)를 넘어설 것으로 예상했다. 이 중 메모리 매출 비중은 약 62%에 달할 전망이다. 테크인사이츠는 29일(현지시간) 발표한 '2027년 전망 보고서'에서 내년 메모",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
+      "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
+      "date": "Fri, 30 Oct 2026 16:37:20 +0000",
+      "desc": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The po",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "Unleash Your Edge: 지타이, &apos;팬텀 블레이드 제로&apos;와 글로벌 전략적 파트너십 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261031011002",
+      "date": "Sat, 31 Oct 2026 01:10:02 +0900",
+      "desc": "[지디넷코리아]베이징, 2026년 10월 30일 /PRNewswire/ -- 양쯔메모리테크놀로지스(YMTC) 산하 소비자용 스토리지 브랜드 지타이(ZHITAI)가 전 세계 게이머들의 주목을 받고 있는 AAA 액션 게임 '팬텀 블레이드 제로(Phanto",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔 \"노바레이크, 초기 수주 팬서레이크 두배\"...3분기 영업익 269% 급증",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64591",
+      "date": "2026-10-30 13:43:06",
+      "desc": "인텔이 차세대 중앙처리장치(CPU) '노바레이크'를 내세워 PC 시장점유율을 확대할 수 있다고 자신했다. 초기 수주실적이 전작 대비 두 배에 달할 것으로 내다봤다.데이브 진스너 인텔 최고재무책임자(CFO)는 29일(현지시간) 인텔의 올해 3분기 실적발",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "10월 D램 가격 5.7% 상승…낸드는 보합 전환",
+      "link": "https://zdnet.co.kr/view/?no=20261030163628",
+      "date": "Fri, 30 Oct 2026 20:00:07 +0900",
+      "desc": "[지디넷코리아]메모리 반도체 공급 부족이 이어지면서 10월 D램 고정거래가격이 또 다시 역대 최고치를 경신했다. 반면 장기간 상승세가 이어졌던 낸드플래시 가격은 고점 부담에 따른 수요 위축으로 보합세로 돌아서며 21개월 연속 가격 상승 행진을 멈췄다.",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods",
+      "link": "https://www.eetimes.com/why-shrinking-component-geometries-force-a-rethink-of-bga-rework-heating-methods/",
+      "date": "Fri, 30 Oct 2026 10:32:26 +0000",
+      "desc": "As components shrink to 01005 scale and board densities rise, BGA rework requires more precise heat control. The post Why Shrinking Componen",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "삼성 뉴스룸",
       "type": "corp",
@@ -10,6 +140,16 @@ window.NEWS_DATA = {
       "desc": "글로벌 IT 기술의 고도화와 함께 반도체는 우리 일상의 핵심 인프라가 되었고, 생산 규모도 계속해서 증가하고 있다. 반도체 생산에는 다양한 원자재와 소재가 사용되기에, 삼성전자 DS부문은 한정된 자원은 보다 효율적으로 활용하고 사용한 자원은 최대한 순",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-162/",
+      "date": "Fri, 30 Oct 2026 07:01:27 +0000",
+      "desc": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost",
+      "category": "memory",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
@@ -1160,16 +1300,6 @@ window.NEWS_DATA = {
       "desc": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that cu",
       "category": "etc",
       "domain": "etc"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-161/",
-      "date": "Fri, 23 Oct 2026 07:01:23 +0000",
-      "desc": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $",
-      "category": "ai-compute",
-      "domain": "tech"
     },
     {
       "source": "ZDNet Korea",
