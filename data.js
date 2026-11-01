@@ -1,6 +1,46 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-10-31T01:25:24.088Z",
+  "fetchedAt": "2026-11-01T00:41:09.371Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼전·하닉, 3분기 실적 신기록… \"메모리 부족 2028년까지\"",
+      "link": "https://zdnet.co.kr/view/?no=20261030172212",
+      "date": "Sun, 01 Nov 2026 09:00:02 +0900",
+      "desc": "[지디넷코리아]삼성전자와 SK하이닉스가 3분기 나란히 사상 최대 실적을 기록한 가운데 2028년 이후까지 메모리 반도체 '구조적 공급 부족(쇼티지)'이 지속될 것이라고 입을 모았다. 양사는 내년 고대역폭메모리(HBM) 물량 협상을 완료하고 장기공급계약",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "日 주요 부품기업 증설 러시…삼성전기·LG이노텍과 경쟁",
+      "link": "https://zdnet.co.kr/view/?no=20261030162753",
+      "date": "Sun, 01 Nov 2026 07:00:02 +0900",
+      "desc": "[지디넷코리아]일본 적층세라믹콘덴서(MLCC)와 플립칩 볼그리드어레이(FC-BGA) 등 반도체 기판 기업이 인공지능(AI) 인프라 수요 급증에 대응하기 위해 증설을 예고했다. 전 세계 MLCC 1위 무라타제작소는 최근 2026회계연도(2026년 4월~",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보",
+      "link": "https://www.etnews.com/20261031000026",
+      "date": "Sat, 31 Oct 2026 14:04:26 +0900",
+      "desc": "삼성이 샘 올트먼 오픈AI(OpenAI) CEO를 초청해 사장단과 AI 시대 경영 전략을 논의했다. 메모리 반도체 공급과 데이터센터 협력으로 엮인 OpenAI와 접점을 한층 넓히는 행보다. 경영진의 AI 역량을 끌어올려 그룹 전반의 'AI 대전환'에 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "디에스앤지, 고대 해커톤 '2026 InThon' B300 서버 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261031121310",
+      "date": "Sat, 31 Oct 2026 12:13:10 +0900",
+      "desc": "[지디넷코리아]AI 인프라 전문기업 디에스앤지(DS&amp;G, 대표 서정열)는 10월 31일부터 11월 1일까지 고려대학교 정보대학이 개최하는 ‘2026 InThon’ 해커톤·데이터톤 대회에 엔비디아 'HGX B300 8-GPU' 서버 2대를 후원한",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
