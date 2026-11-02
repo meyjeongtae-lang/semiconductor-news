@@ -1,6 +1,86 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-01T00:41:09.371Z",
+  "fetchedAt": "2026-11-02T01:16:00.159Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"급락하면 반등한다\"…초고수들 시선은 다시 한번 '반도체 상승'으로",
+      "link": "https://www.hankyung.com/article/202611029075i",
+      "date": "Mon, 02 Nov 2026 09:01:58 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 자사주 매입, 하단 지지 효과 있지만…반등은 外人 관건\"-키움",
+      "link": "https://www.hankyung.com/article/2026110289946",
+      "date": "Mon, 02 Nov 2026 08:08:47 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "이재용 삼성전자 회장, 미래 반도체 패키징 기술 일본 현장 점검",
+      "link": "https://news.samsung.com/kr/%ec%9d%b4%ec%9e%ac%ec%9a%a9-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ed%9a%8c%ec%9e%a5-%eb%af%b8%eb%9e%98-%eb%b0%98%eb%8f%84%ec%b2%b4-%ed%8c%a8%ed%82%a4%ec%a7%95-%ea%b8%b0%ec%88%a0-%ec%9d%bc%eb%b3%b8",
+      "date": "Sun, 01 Nov 2026 16:21:41 +0000",
+      "desc": "이재용 삼성전자 회장이 1일 일본 요코하마에 위치한 첨단 반도체 패키징 연구거점 ‘Advanced Package Lab(APL)’을 찾아 차세대 패키징 요소기술 연구 현황을 점검했다. 이 회장은 APL 연구진과 함께 첨단 패키지 소재∙공정 요소기술 개",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "비아트론, 소부장 으뜸기업 선정...\"120억원 규모 반도체 장비 개발\"",
+      "link": "https://zdnet.co.kr/view/?no=20261101230401",
+      "date": "Sun, 01 Nov 2026 23:06:55 +0900",
+      "desc": "[지디넷코리아]디스플레이 열처리 장비가 주력인 비아트론이 산업통상부 주관 '소재부품장비 으뜸기업'에 선정됐다고 1일 밝혔다. 비아트론은 국내 종합반도체 기업 등과 120억여원 규모 급속열처리(RTP) 장비를 개발한다. 비아트론은 \"반도체 공정에 필수인",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "日 APL 찾은 이재용, AI승부처 '첨단 패키징' 챙겼다…소부장 협력 논의",
+      "link": "https://www.etnews.com/20261101000090",
+      "date": "Sun, 1 Nov 2026 16:10:41 +0900",
+      "desc": "이재용 삼성전자 회장이 일본 요코하마 첨단 반도체 패키징 연구거점을 직접 찾았다. AI 반도체 경쟁 승부처로 떠오른 첨단 패키징 기술 확보 상황을 챙기고, 일본 소재·부품·장비(소부장) 생태계와 협력 확대를 모색하기 위한 행보다. 삼성전자는 이 회장이",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "이재용, 日서 AI 반도체 승부처 점검…첨단 패키징 협력 강화",
+      "link": "https://zdnet.co.kr/view/?no=20261101160859",
+      "date": "Sun, 01 Nov 2026 16:08:59 +0900",
+      "desc": "[지디넷코리아]이재용 삼성전자 회장이 일본 첨단 패키징 연구거점을 찾아 인공지능(AI) 반도체 경쟁력 확보를 위한 소재·공정 기술 개발과 현지 기업 협력 현황을 점검했다.삼성전자는 이 회장이 1일 일본 요코하마에 있는 '어드밴스트 패키지랩(APL)'을",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[ZD브리핑] 반도체·로봇·수소 산업 행사 풍성…통신·게임 등 실적 주목",
+      "link": "https://zdnet.co.kr/view/?no=20261101115152",
+      "date": "Sun, 01 Nov 2026 12:19:11 +0900",
+      "desc": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "오픈 AI 올트먼, 삼성·SK 연쇄 회동…'스타게이트 동맹' 더 깊어진다",
+      "link": "https://www.etnews.com/20261101000066",
+      "date": "Sun, 1 Nov 2026 11:17:15 +0900",
+      "desc": "샘 올트먼 오픈AI 최고경영자(CEO)가 방한 기간 삼성과 SK 최고 경영진을 잇달아 만났다. 두 그룹은 오픈AI의 초대형 AI 인프라 사업 '스타게이트'에 메모리 반도체를 공급하는 핵심 파트너다. 글로벌 AI 인프라 투자 경쟁 속에서 국내 메모리 양",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
