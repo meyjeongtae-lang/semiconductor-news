@@ -1,6 +1,196 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-02T01:16:00.159Z",
+  "fetchedAt": "2026-11-03T03:18:17.684Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "마벨, 루멘텀 154조에 인수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64755",
+      "date": "2026-11-03 11:27:58",
+      "desc": "마벨테크놀로지가 광학부품 기업 루멘텀을 1150억달러(약 154조7900억원)에 인수한다고 2일(현지시간) 밝혔다. 이번 인수로 마벨은 공동패키지광학(CPO) 등 광학기술을 확보했지만, 주가는 13% 하락했다.인수는 전액 주식 교환 방식으로 이뤄진다.",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세바, 차세대 NPU 뉴프로 공개...AI 처리량 2배",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64724",
+      "date": "2026-11-03 05:58:46",
+      "desc": "반도체 설계자산(IP) 기업 세바(Ceva)가 차세대 신경망처리장치(NPU) 제품군 2세대 '뉴프로(NeuPro)'를 2일 공개했다.2세대 제품군은 1세대 대비 1mm² 면적당 인공지능(AI) 처리량을 최대 2배 높였다. 에너지 효율은 50% 개선했다",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "한화이센셜, 유리기판 사업 '고삐'…인력채용·핵심 공정 개발 나서",
+      "link": "https://zdnet.co.kr/view/?no=20261103092709",
+      "date": "Tue, 03 Nov 2026 11:02:03 +0900",
+      "desc": "[지디넷코리아]한화그룹 내 정밀소재·부품기업 한화이센셜이 유리 코어 기판(이하 유리기판)을 회사의 차세대 성장동력으로 낙점했다. 최근 유리기판의 핵심 공정 개발을 총괄할 인력 채용에 나선 것으로 3일 파악됐다.유리기판은 반도체 기판에 주로 쓰이던 유기",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 고속도로] GPU 투자 부담 커지자 네오클라우드 회의론 확산…韓 기업도 시험대",
+      "link": "https://zdnet.co.kr/view/?no=20261103103314",
+      "date": "Tue, 03 Nov 2026 11:01:54 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 인프라 투자 열풍을 타고 급성장한 네오클라우드 산업을 둘러싸고 회의론이 확산하고 있다. 고성능 그래픽처리장치(GPU) 확보와 데이터센터 구축에 막대한 자금이 투입되고 있지만, 투자 규모에 걸맞은 수익을 창출할 수 있을지 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "나무AX, 한국산업기술시험원에 AI 개발 솔루션 공급…공공시장 공략",
+      "link": "https://zdnet.co.kr/view/?no=20261103105408",
+      "date": "Tue, 03 Nov 2026 10:54:22 +0900",
+      "desc": "[지디넷코리아]나무AX가 한국산업기술시험원(KTL)의 인공지능(AI) 개발환경 구축 사업에 자체 소프트웨어(SW)를 공급하며 공공 AI 인프라 시장 공략에 나섰다. 그래픽처리장치(GPU) 자원 관리와 AI 모델 운영 기술을 바탕으로 공공 연구기관 AI",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체·배터리 일자리 들어선다…대기업 배후 주거지 분양 잇따라",
+      "link": "https://www.hankyung.com/article/202611032325i",
+      "date": "Tue, 03 Nov 2026 10:44:40 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "원익, 2027년 신입 공채에 1만2000명 몰려 '역대 최대'",
+      "link": "https://zdnet.co.kr/view/?no=20261103101531",
+      "date": "Tue, 03 Nov 2026 10:37:15 +0900",
+      "desc": "[지디넷코리아]반도체 장비·소재·부품 기업 원익그룹은 회사 2027년도 신입사원 그룹 공개채용에 1만 2천여 명이 지원했다고 3일 밝혔다. 그룹 공채를 시작한 2014년 이후 최대 규모다.원익의 그룹 공채 지원자는 2024년 7290명, 2025년 1",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화",
+      "link": "https://zdnet.co.kr/view/?no=20261102174109",
+      "date": "Tue, 03 Nov 2026 10:32:38 +0900",
+      "desc": "[지디넷코리아]국내 주요 IT서비스 기업들이 인공지능(AI) 데이터센터를 새로운 성장동력으로 키우며 수익 모델 다각화에 나섰다. 기존 데이터센터 설계·구축에 운영·관리와 그래픽처리장치(GPU) 서비스까지 결합해 일회성 프로젝트 매출을 넘어 장기적인 수",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AI 반도체 검사 수요에 '깜짝 실적'…뷰웍스, 3분기 영업익 155% 급증",
+      "link": "https://www.hankyung.com/article/202611032314i",
+      "date": "Tue, 03 Nov 2026 10:30:37 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+      "link": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/",
+      "date": "Mon, 02 Nov 2026 18:58:45 +0000",
+      "desc": "Defense procurement, patient capital, and shared infrastructure will help Canadian quantum firms scale at home. The post Canada’s Quantum Se",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 아드레날린 26.10.2 버전 출시...시스템 종료 현상 수정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64711",
+      "date": "2026-11-02 16:51:33",
+      "desc": "AMD가 '아드레날린 에디션' 26.10.2 선택형 버전을 출시했다고 2일 밝혔다.아드레날린 에디션은 AMD의 그래픽 드라이버 소프트웨어다. 이번 버전은 게임 실행 오류와 시스템 강제 종료 현상을 고쳤다.RDNA3 아키텍처 기반 라데온 RX 7600 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "코아시아세미, 삼성 파운드리 4나노 반도체 출하 시작",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64651",
+      "date": "2026-11-02 16:49:51",
+      "desc": "반도체 디자인하우스(DSP) 코아시아세미가 삼성전자 파운드리 4나노(nm) 공정 기반 반도체 소자(디바이스) 웨이퍼의 양산 출하를 시작했다고 2일 밝혔다.해당 웨이퍼에 형성된 소자는 고성능 연산(HPC) 환경에서 고속 데이터 전송, 처리를 돕는 네트워",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "이재용 삼성전자 회장, 日 첨단 패키징 연구거점 방문",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64640",
+      "date": "2026-11-02 16:30:11",
+      "desc": "이재용 삼성전자 회장이 일본 첨단 반도체 패키징 연구거점 '어드밴스트 패키지 랩(APL)'을 1일 방문했다. 공식 개소 후 두 달 만에 처음으로 현장 점검에 나섰다. APL 연구진과 첨단 패키징 개발 현황과 일본 주요 파트너와의 협력 방안을 논의했다.",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64709",
+      "date": "2026-11-02 16:27:41",
+      "desc": "삼성전자가 8인치 파운드리 사업에서 완전히 철수하기로 방침을 정하고 고객사들에 이 같은 계획을 통보한 것으로 확인됐다. 삼성전자는 그동안 8인치 생산라인을 단계적으로 축소하겠다고만 밝혀왔다. 종료 시점을 못 박은 것은 처음이다. 삼성전자에 반도체 생산",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "\"韓반도체 부품 산업 오라\" 中 '10만평의 초대'",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64698",
+      "date": "2026-11-02 14:24:23",
+      "desc": "지난달 29일 오후 중국 장쑤성 장자강시 봉황진.층고 높은 3층 철골 건물이 뼈대를 드러낸 채 서 있었다. 외벽은 아직 없어 안쪽 기둥과 바닥판이 그대로 보였고, 1층 둘레에 친 초록 안전망 뒤로 작업자를 태운 리프트 두 대가 팔을 올리고 있었다. 한",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 9일부터 AI 데이 서울 2026 개최...최신 AI 인프라 등 공개",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64663",
+      "date": "2026-11-02 13:00:01",
+      "desc": "엔비디아가 '엔비디아 인공지능(AI) 데이 서울 2026'을 이달 개최한다고 2일 밝혔다.해당 행사는 오는 9일부터 10일까지 서울 코엑스에서 열린다. 에이전틱 AI와 피지컬 AI, AI 인프라 최신 기술을 공개하는 자리다. 개발자와 스타트업, 협력사",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Andes Waits For Market Momentum For Cuzco CPU",
+      "link": "https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/",
+      "date": "Mon, 02 Nov 2026 12:00:00 +0000",
+      "desc": "Andes CTO Charlie Su said the company put its high-end RISC-V CPU on the back burner for commercial reasons. The post Andes Waits For Market",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Jevons’ Paradox and the Silicon Roadmap",
+      "link": "https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/",
+      "date": "Mon, 02 Nov 2026 08:58:48 +0000",
+      "desc": "Jevons’ paradox may fuel AI demand, but the silicon roadmap could determine which chips retain their value and which become stranded assets.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "쑥쑥 느는 AI데이터센터… “국산 NPU·냉각장비에 초기시장 열어야”",
+      "link": "https://www.etnews.com/20261102000281",
+      "date": "Mon, 2 Nov 2026 14:00:00 +0900",
+      "desc": "“인공지능(AI) 데이터센터(AIDC) 투자가 대규모 시설 건립에 그치지 않고 국내 기업 성장과 수출로 이어지려면 전력 공급·인허가 불확실성을 줄이고, 국산 AI 반도체와 전력·냉각 장비의 시장 진입 기회를 넓혀야 한다.” 한국경제인협회(한경협)가 2",
+      "category": "equipment",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
