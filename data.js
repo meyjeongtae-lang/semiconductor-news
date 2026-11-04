@@ -1,6 +1,96 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-03T03:18:17.684Z",
+  "fetchedAt": "2026-11-04T01:53:23.252Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD의 질주…3분기 최대 실적, 4분기는 더 좋다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64831",
+      "date": "2026-11-04 08:46:05",
+      "desc": "AMD가 올해 3분기 데이터센터 사업 성장으로 최대 실적을 기록했다. 4분기 실적 전망치도 시장 기대치를 상회하며 인텔과 달리 주가가 급등했다.AMD는 3일(현지시간) 올해 3분기 실적을 발표했다. 매출은 133억7700만달러(약 17조9980억원),",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스, AMD 수석부사장 만났다...기술 협력 논의",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64828",
+      "date": "2026-11-04 08:16:16",
+      "desc": "엣지 인공지능(AI) 반도체 팹리스 기업 딥엑스가 AMD와 기술 협력 방안을 논의했다고 3일 밝혔다.이날 키스 스트라이어 AMD 글로벌 AI 마켓 총괄 수석부사장과 장정희 AMD코리아 대표가 딥엑스 판교 본사를 방문했다. 이들은 김녹원 딥엑스 대표와 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LX세미콘, 상장 후 첫 분기 적자...대표도 교체",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64822",
+      "date": "2026-11-04 08:09:35",
+      "desc": "LX세미콘이 3분기 영업적자를 냈다. 2010년 상장 이후 분기 적자는 처음이다. 회사는 같은 날 대표이사 교체한다고 발표했다. LX세미콘은 3일 공개한 3분기 연결기준 잠정실적 공시를 통해 매출 3360억2000만원, 영업손실 155억6400만원을 ",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
+      "link": "https://www.eetimes.com/is-there-room-for-small-scale-osats-in-india-chip-packaging-boom/",
+      "date": "Tue, 03 Nov 2026 23:30:00 +0000",
+      "desc": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "U.S. Manufacturing Activity Gains Momentum in October",
+      "link": "https://www.eetimes.com/u-s-manufacturing-activity-gains-momentum-in-october/",
+      "date": "Tue, 03 Nov 2026 19:08:38 +0000",
+      "desc": "Economic activity in the U.S. manufacturing sector expanded in October driven by accelerating production and steady gains in new orders. The",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
+      "link": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech/",
+      "date": "Tue, 03 Nov 2026 18:01:10 +0000",
+      "desc": "Researchers at Ruhr University Bochum, the Max Planck Institute for Security and Privacy, and Georgia Tech published “Randomized Caches in H",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Fast, Sub-Volt HZO Ferroelectric Capacitors For DRAM-Like Memory (SNU)",
+      "link": "https://semiengineering.com/fast-sub-volt-hzo-ferroelectric-capacitors-for-dram-like-memory-snu/",
+      "date": "Tue, 03 Nov 2026 17:10:21 +0000",
+      "desc": "Seoul National University-led researchers published “Resolving the Kay–Dunn limit and the speed–endurance dilemma in ferroelectric Hf0.5Zr0.",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LX세미콘, 신임 대표로 나준호 부사장 내정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64817",
+      "date": "2026-11-03 17:09:46",
+      "desc": "LX세미콘이 나준호 전략마케팅부문장 부사장을 신임 대표로 내정했다고 3일 밝혔다. 내년 주주총회와 이사회 절차를 거쳐 정식으로 선임된다나 대표는 LG반도체를 거쳐 2001년 LX세미콘에 합류했다. 드라이버 집적회로(IC) 개발실장 수석연구원, 대형 디",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
+      "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
+      "date": "Tue, 03 Nov 2026 14:08:41 +0000",
+      "desc": "Alphabet’s TPU inventory, Intel’s manufacturing tradeoffs, and equipment suppliers’ balance sheets show how capital builds up along the path",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,6 +102,46 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 인프라 기업 래블업, 코스닥 데뷔 첫날 주가 하락…공모가 대비 25%↓",
+      "link": "https://zdnet.co.kr/view/?no=20261103172152",
+      "date": "Tue, 03 Nov 2026 18:17:19 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 인프라 소프트웨어 기업 래블업이 코스닥 상장 첫날 공모가 대비 25% 넘게 급락하며 부진한 출발을 보였다. 장 초반 공모가보다 약 49% 급등했지만 이후 상승분을 모두 반납하며 큰 변동성을 나타냈다.3일 한국거래소에 따르",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity",
+      "link": "https://www.eetimes.com/marvell-snaps-photonics-chipmaker-lumentum-to-bolster-ai-connectivity/",
+      "date": "Tue, 03 Nov 2026 08:50:21 +0000",
+      "desc": "The $115 billion deal aims to create a category leader in AI connectivity by co-designing network processors and lasers for optical transcei",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Nov. 3",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+      "date": "Tue, 03 Nov 2026 08:01:14 +0000",
+      "desc": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "'가전 명가' 희석 日 전자 공룡, AI 인프라 공급망 '싹쓸이' 나섰다",
+      "link": "https://www.etnews.com/20261102000334",
+      "date": "Tue, 3 Nov 2026 16:00:00 +0900",
+      "desc": "과거 글로벌 가전 시장을 주도했던 일본 전자 기업이 인공지능(AI) 분야로 사업을 전환하고 있다. AI 인프라 구축에 필수적인 소재·부품·서버 등 하드웨어 공급망 시장 공략에 속도를 내고 있다. 가전 제조사로서의 명성이 희석되고 있는 가운데 사업 구조",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "세바, 차세대 NPU 뉴프로 공개...AI 처리량 2배",
@@ -19,6 +149,16 @@ window.NEWS_DATA = {
       "date": "2026-11-03 05:58:46",
       "desc": "반도체 설계자산(IP) 기업 세바(Ceva)가 차세대 신경망처리장치(NPU) 제품군 2세대 '뉴프로(NeuPro)'를 2일 공개했다.2세대 제품군은 1세대 대비 1mm² 면적당 인공지능(AI) 처리량을 최대 2배 높였다. 에너지 효율은 50% 개선했다",
       "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "비아코어-성균관대, 유리기판 고분자층 한 겹에 최대 59%↓, 저항은 그대로",
+      "link": "https://www.etnews.com/20261103000233",
+      "date": "Tue, 3 Nov 2026 13:41:57 +0900",
+      "desc": "성균관대 기계공학부 이은호 교수 연구팀은 다이치코리아-비아코어(Via Core) 컨소시엄과 반도체 유리기판 유리관통비아(TGV) 주변 열응력을 줄이는 설계 방안을 제시했다고 3일 밝혔다. 구리 배선과 유리 사이에 유연한 고분자층을 넣고, 그 두께만큼 ",
+      "category": "research",
       "domain": "tech"
     },
     {
@@ -92,12 +232,62 @@ window.NEWS_DATA = {
       "domain": "business"
     },
     {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL, PVA TePla, ASE)",
+      "link": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/",
+      "date": "Mon, 02 Nov 2026 21:08:45 +0000",
+      "desc": "Researchers at Materials Center Leoben, PVA TePla, and Advanced Semiconductor Engineering (ASE) published “AI-Based Image Enhancement Improv",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)",
+      "link": "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/",
+      "date": "Mon, 02 Nov 2026 20:00:12 +0000",
+      "desc": "Researchers at imec and Vrije Universiteit Brussels published “Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)",
+      "link": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/",
+      "date": "Mon, 02 Nov 2026 19:45:53 +0000",
+      "desc": "Researchers at IBM Research published “Meter-scale quantum interconnects between large quantum processors.” Abstract Excerpt: &#8220;Modular",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)",
+      "link": "https://semiengineering.com/hardware-defense-blocks-memory-dependent-prefetcher-leakage-ku-leuven/",
+      "date": "Mon, 02 Nov 2026 19:24:48 +0000",
+      "desc": "Researchers at KU Leuven and EURECOM published “SecDMP: Provably Secure Data Memory-Dependent Prefetching.” Abstract Excerpt: &#8220;In this",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
       "source": "EE Times",
       "type": "intl",
       "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
       "link": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/",
       "date": "Mon, 02 Nov 2026 18:58:45 +0000",
       "desc": "Defense procurement, patient capital, and shared infrastructure will help Canadian quantum firms scale at home. The post Canada’s Quantum Se",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)",
+      "link": "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/",
+      "date": "Mon, 02 Nov 2026 18:57:45 +0000",
+      "desc": "Researchers at the University of Texas at Austin published “APPlace: Co-Optimizing Device Locations and Access Points for Routing-Aware Anal",
       "category": "etc",
       "domain": "etc"
     },
@@ -180,6 +370,26 @@ window.NEWS_DATA = {
       "desc": "Jevons’ paradox may fuel AI demand, but the silicon roadmap could determine which chips retain their value and which become stranded assets.",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Shift Left Is Becoming A System-Level Problem",
+      "link": "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/",
+      "date": "Mon, 02 Nov 2026 08:01:30 +0000",
+      "desc": "Rise in complexity is pushing engineers to validate hardware, software, and physical constraints earlier in the design flow, but fragmented ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Putting AI To The Test",
+      "link": "https://semiengineering.com/putting-ai-to-the-test/",
+      "date": "Mon, 02 Nov 2026 08:01:18 +0000",
+      "desc": "Who verifies the verifier? This is the age-old question for anyone involved in the verification of semiconductor systems. Who verifies AI? T",
+      "category": "security",
+      "domain": "tech"
     },
     {
       "source": "전자신문",
