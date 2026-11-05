@@ -1,6 +1,136 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-04T01:53:23.252Z",
+  "fetchedAt": "2026-11-05T01:59:13.532Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 4분기 매출 시장 전망 상회...내년 성장세 전환",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64920",
+      "date": "2026-11-05 08:43:21",
+      "desc": "퀄컴이 스마트폰 침체에도 시장 전망을 웃도는 분기 실적을 발표했다. 다음 분기부터는 데이터센터 매출이 실적에 잡히기 시작한다.퀄컴은 4일(현지시간) 2026회계연도 4분기 실적을 발표했다. 비일반회계기준(논GAAP) 매출은 104억4200만달러(약 1",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "시높시스 \"AI 시대, 반도체 설계 엔지니어 '시스템 검증자' 돼야\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64797",
+      "date": "2026-11-05 08:03:57",
+      "desc": "반도체 전자설계자동화(EDA) 업체 시높시스가 반도체 설계 엔지니어가 맡아야 할 역할로 '시스템 검증자'를 제시했다. 인공지능(AI)이 만든 결과물이 올바르고 안전한지 판단해야 한다는 것이다. 고대역폭메모리(HBM)와 패키징 제조 역량을 갖춘 한국에서",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[마켓라이브] 반도체 급락에 눌린 코스피…바이오·인터넷·자동차로 매수세 확산",
+      "link": "https://www.hankyung.com/article/202611057326i",
+      "date": "Thu, 05 Nov 2026 09:15:42 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+      "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
+      "date": "Wed, 04 Nov 2026 20:30:12 +0000",
+      "desc": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Silicon Photonics Hits the Big Time",
+      "link": "https://www.eetimes.com/silicon-photonics-hits-the-big-time/",
+      "date": "Wed, 04 Nov 2026 19:51:38 +0000",
+      "desc": "The land grab for silicon photonics aims to beat the power wall associated with copper interconnects. We also interviewed Salience Labs abou",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD \"라이젠 AI, RTX 스파크 대비 게이밍 성능·전력·가격 앞서\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64885",
+      "date": "2026-11-04 18:54:07",
+      "desc": "AMD가 자사 인공지능(AI) PC의 게이밍 효율성이 경쟁사 대비 뛰어나다고 강조했다. 국내 기업과 협력해 달성한 AI 최적화 성과도 공개했다.알렉세이 나볼로킨 AMD 아시아태평양(APAC) 커머셜 영업 담당 선임 디렉터는 4일 삼성동 웨스틴 서울 파",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "모빌린트 NPU, AI 소프트웨어 '레이' 지원 개선",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64902",
+      "date": "2026-11-04 18:52:44",
+      "desc": "반도체 설계(팹리스) 기업 모빌린트는 레이(Ray)에서 자사 신경망처리장치(NPU)가 자동 인식되도록 개선했다고 4일 밝혔다.레이는 대규모 AI 연산을 효율적으로 처리할 수 있도록 돕는 개방형 소프트웨어 틀(프레임워크)이다. 여러 서버와 인공지능(AI",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성, 폐쇄한 기흥 8인치 S7 장비 300대 DB에 통째 매각",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64905",
+      "date": "2026-11-04 18:47:09",
+      "desc": "삼성전자가 가동을 중단한 기흥 8인치 파운드리 공장 S7 내 반도체 제조장비를 DB그룹에 매각한다. 삼성전자가 입찰 대신 특정 회사에 폐쇄 공장 장비를 대량으로 넘기는 것은 처음 있는 일이다. 4일 업계에 따르면 삼성전자와 DB하이텍은 최근 S7 공장",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "네이버클라우드, AMD 에픽 서버 3.5만대 운용...올해 144코어 제품 도입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64857",
+      "date": "2026-11-04 14:59:40",
+      "desc": "네이버클라우드가 데이터센터에 AMD 서버용 중앙처리장치(CPU) '에픽' 도입을 대폭 확대하고 있다. 올해 하반기 144코어 에픽 제품도 추가 도입한다.박영희 네이버클라우드 IaaS 담당 센터장은 4일 삼성동 웨스틴 서울 파르나스에서 열린 AMD 어드",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD-퓨리오사AI-망고부스트, 내년 AI 인프라 클러스터 공동 구축",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64850",
+      "date": "2026-11-04 14:41:49",
+      "desc": "AMD가 퓨리오사AI, 망고부스트와 손잡고 내년 서울에 이기종 인공지능(AI) 연산 인프라 클러스터를 구축한다.키스 스트라이어 AMD 글로벌 AI 시장 담당 수석 부사장은 4일 삼성동 웨스틴 서울 파르나스에서 열린 AMD 어드밴싱 AI 서울 2026 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
+      "link": "https://www.eetimes.com/stmicroelectronics-expands-stm32-roadmap-for-cloud-ai-and-physical-ai/",
+      "date": "Wed, 04 Nov 2026 14:37:17 +0000",
+      "desc": "Unified STM32 platform adds automotive-grade STM32A and power-focused STM32G5 MCUs. The post STMicroelectronics Expands STM32 Roadmap for Cl",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD \"내년 매출 80% 이상 성장...서버 CPU 매출 두 배 증가\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64847",
+      "date": "2026-11-04 13:57:21",
+      "desc": "AMD가 내년 연간 매출이 올해보다 80% 이상 증가할 것으로 전망했다. 서버 중앙처리장치(CPU) 매출은 두 배로 늘고 인공지능(AI)용 그래픽처리장치(GPU) 매출은 그보다 더 빠르게 성장할 것으로 봤다.리사 수 AMD 최고경영자(CEO)는 3일(",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Quantum Roadmaps Are Finally Meeting Reality",
+      "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
+      "date": "Wed, 04 Nov 2026 09:11:15 +0000",
+      "desc": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery.",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -22,6 +152,16 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs",
+      "link": "https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/",
+      "date": "Wed, 04 Nov 2026 08:15:25 +0000",
+      "desc": "Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for design teams. The post Acceler",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "LX세미콘, 상장 후 첫 분기 적자...대표도 교체",
@@ -30,6 +170,86 @@ window.NEWS_DATA = {
       "desc": "LX세미콘이 3분기 영업적자를 냈다. 2010년 상장 이후 분기 적자는 처음이다. 회사는 같은 날 대표이사 교체한다고 발표했다. LX세미콘은 3일 공개한 3분기 연결기준 잠정실적 공시를 통해 매출 3360억2000만원, 영업손실 155억6400만원을 ",
       "category": "deals",
       "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Adding Network Security to AI, HPC and Data Centers",
+      "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers/",
+      "date": "Wed, 04 Nov 2026 08:04:45 +0000",
+      "desc": "How data center operators can protect critical data and communications without compromising the performance demanded by distributed AI and H",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Built to Last: Why Automotive-Grade PQC Can’t Wait",
+      "link": "https://semiengineering.com/built-to-last-why-automotive-grade-pqc-cant-wait/",
+      "date": "Wed, 04 Nov 2026 08:04:17 +0000",
+      "desc": "Why automotive-grade PQC IP matters, what sets it apart from general-purpose PQC, and what SoC design teams should look for when choosing a ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
+      "link": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/",
+      "date": "Wed, 04 Nov 2026 08:03:39 +0000",
+      "desc": "How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance. The post Validate Sovereign ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
+      "link": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/",
+      "date": "Wed, 04 Nov 2026 08:02:20 +0000",
+      "desc": "A unified, system-level environment that aggregates several proven technologies into a seamless workflow spanning architecture exploration, ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
+      "link": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/",
+      "date": "Wed, 04 Nov 2026 08:01:58 +0000",
+      "desc": "Power delivery, connectivity, advanced packaging, and supply chain resilience are emerging as the primary constraints on AI scaling. The pos",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Choosing The Right Power Transistor: Why Application Fit Matters More Than Technology",
+      "link": "https://semiengineering.com/choosing-the-right-power-transistor-why-application-fit-matters-more-than-technology/",
+      "date": "Wed, 04 Nov 2026 08:01:04 +0000",
+      "desc": "Silicon MOSFETs, IGBTs, SiC MOSFETs, and GaN HEMTs each offer meaningful advantages, but those advantages do not carry the same value across",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Nov. 4",
+      "link": "https://semiengineering.com/blog-review-nov-4-3/",
+      "date": "Wed, 04 Nov 2026 08:01:02 +0000",
+      "desc": "Chiplets for physical AI; rack-level considerations; verification complexity; sparse matrix workloads; AI data centers. The post Blog Review",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Neural Super Resolution",
+      "link": "https://semiengineering.com/neural-super-resolution/",
+      "date": "Wed, 04 Nov 2026 08:01:01 +0000",
+      "desc": "Insight into how neural graphics can improve image quality and performance while simplifying deployment on power- and bandwidth-constrained ",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "EE Times",
