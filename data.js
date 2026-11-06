@@ -1,6 +1,106 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-05T01:59:13.532Z",
+  "fetchedAt": "2026-11-06T01:59:29.217Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[마켓라이브] 오천피 붕괴·서킷브레이커…美 반도체 쇼크에 '검은 금요일'",
+      "link": "https://www.hankyung.com/article/202611069919i",
+      "date": "Fri, 06 Nov 2026 09:12:03 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "메모리 재고 확보…닌텐도, '스위치2' 추가 가격 인상 검토 안 해",
+      "link": "https://zdnet.co.kr/view/?no=20261106082648",
+      "date": "Fri, 06 Nov 2026 08:34:16 +0900",
+      "desc": "[지디넷코리아]닌텐도가 당분간 닌텐도 스위치2 가격을 추가로 인상할 계획이 없다고 게임스팟이 5일(현지시간) 보도했다.보도에 따르면 닌텐도 경영진은 최근 실적 설명회에서 메모리 재고를 충분히 확보해 부품 가격 상승에 대응할 수 있다며, 당분간 스위치2",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "20년 넘게 국가성장동력이라던 ‘제약바이오’ 현실은",
+      "link": "https://zdnet.co.kr/view/?no=20261105221129",
+      "date": "Fri, 06 Nov 2026 08:30:02 +0900",
+      "desc": "[지디넷코리아]“반도체 뒤를 이을 산업은 바이오임은 확실하다. 하지만 현재 글로벌 수준에는 미흡하다”반도체 성장 신화를 이을 산업으로 주목받는 제약바이오산업을 차세대 국가성장동력으로 발전시키기 위한 혁신을 모색하는 자리가 마련됐다.국민경제자문회의, 국",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "EE Times Magazine – November 2026",
+      "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
+      "date": "Thu, 05 Nov 2026 22:30:00 +0000",
+      "desc": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to com",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성, 미래기술 육성 우수 연구자 10명 선정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64962",
+      "date": "2026-11-05 18:59:12",
+      "desc": "삼성이 14년간 미래기술육성사업으로 지원한 연구자 중 우수 성과를 거둔 연구자를 처음 시상했다.삼성은 5일 서울 강남 웨스틴 서울 파르나스에서 삼성미래기술육성사업 2026 애뉴얼 포럼을 개최했다고 밝혔다.기초과학과 소재, ICT 분야 우수 연구자 10",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이씨티케이-부경대, 프로그래머블 양자암호 엔진 만든다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64967",
+      "date": "2026-11-05 18:58:54",
+      "desc": "양자보안 반도체 설계(팹리스) 기업 아이씨티케이(ICTK)가 국립부경대학교와 프로그래머블 양자내성암호(PQC:Post-Quantum Cryptography) 하드웨어 엔진을 개발한다고 5일 밝혔다.미국 국립표준기술연구소(NIST)의 전세계 표준 PQC",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
+      "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
+      "date": "Thu, 05 Nov 2026 16:09:46 +0000",
+      "desc": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Fr",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[기고] 프리미엄 안드로이드폰 칩셋 시장이 재편된다",
+      "link": "https://zdnet.co.kr/view/?no=20261105223454",
+      "date": "Thu, 05 Nov 2026 23:04:57 +0900",
+      "desc": "[지디넷코리아]메모리 가격 급등으로 스마트폰 제조사 부담이 점점 커지고 있다. 최근 프리미엄 스마트폰에서 시스템온칩(SoC, 모바일 AP)은 메모리와 함께 가장 비싼 두 부품 중 하나다. SoC 또한 원가 부담을 줄이려는 제조사 노력에 맞춰 변하고 있",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 스타링크 미국 5G망에 기지국 칩 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64946",
+      "date": "2026-11-05 12:30:38",
+      "desc": "퀄컴이 스페이스X에 '드래곤윙 이동통신 인프라 플랫폼'을 공급한다.퀄컴은 4일(현지시간) 스페이스X와 장기 공급 계약을 맺었다고 밝혔다. 스페이스X가 내년부터 미국 전역에 설치하는 '스타링크 모바일' 5G 기지국 수만 곳에 드래곤윙 QRU100 무선 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 \"내년 스마트폰 시장 보합...데이터센터 매출 대폭 확대\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=64940",
+      "date": "2026-11-05 11:17:27",
+      "desc": "퀄컴이 내년 스마트폰 시장 성장이 정체될 것으로 봤다. 대신 신규 데이터센터 사업 매출이 다음 분기부터 본격적으로 반영된다는 점을 강조했다.아카시 팔키왈라(Akash Palkhiwala) 최고재무책임자(CFO)는 4일(현지시간) 2026회계연도 4분기",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,6 +112,46 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Adding Network Security To AI, HPC, And Data Centers",
+      "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
+      "date": "Thu, 05 Nov 2026 08:06:45 +0000",
+      "desc": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
+      "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
+      "date": "Thu, 05 Nov 2026 08:05:35 +0000",
+      "desc": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern app",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
+      "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
+      "date": "Thu, 05 Nov 2026 08:04:55 +0000",
+      "desc": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and nei",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Fitting AI Models To Edge Applications",
+      "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
+      "date": "Thu, 05 Nov 2026 08:04:08 +0000",
+      "desc": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. T",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "시높시스 \"AI 시대, 반도체 설계 엔지니어 '시스템 검증자' 돼야\"",
@@ -20,6 +160,56 @@ window.NEWS_DATA = {
       "desc": "반도체 전자설계자동화(EDA) 업체 시높시스가 반도체 설계 엔지니어가 맡아야 할 역할로 '시스템 검증자'를 제시했다. 인공지능(AI)이 만든 결과물이 올바르고 안전한지 판단해야 한다는 것이다. 고대역폭메모리(HBM)와 패키징 제조 역량을 갖춘 한국에서",
       "category": "security",
       "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Testing Automated Driving Is Harder Than It Looks",
+      "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
+      "date": "Thu, 05 Nov 2026 08:02:40 +0000",
+      "desc": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Autom",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs",
+      "link": "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/",
+      "date": "Thu, 05 Nov 2026 08:01:35 +0000",
+      "desc": "Eliminating the need for a separate bias regulator dedicated to the gate driver for a more streamlined power architecture. The post Why Inte",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Physical AI Pushes The Limits Of Hardware",
+      "link": "https://semiengineering.com/physical-ai-pushes-the-limits-of-hardware/",
+      "date": "Thu, 05 Nov 2026 08:01:19 +0000",
+      "desc": "Autonomous machines promise to transform industries, but memory bottlenecks, power constraints, specialized architectures, and safety requir",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "College Grads And AI",
+      "link": "https://semiengineering.com/college-grads-and-ai/",
+      "date": "Thu, 05 Nov 2026 08:01:03 +0000",
+      "desc": "Computer science majors may be in an awkward space; EE grads are fine for now. The post College Grads And AI appeared first on Semiconductor",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "What Makes a Quantum Company Valuable?",
+      "link": "https://www.eetimes.com/what-makes-a-quantum-company-valuable/",
+      "date": "Thu, 05 Nov 2026 07:00:28 +0000",
+      "desc": "Quantum investors weigh technical progress against customer demand, commercial timing, and the ability to build lasting value. The post What",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "한국경제",
