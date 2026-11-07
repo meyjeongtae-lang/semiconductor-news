@@ -1,6 +1,126 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-06T01:59:29.217Z",
+  "fetchedAt": "2026-11-07T01:36:32.121Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Countdown to Q-Day Has Begun",
+      "link": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
+      "date": "Fri, 06 Nov 2026 21:00:00 +0000",
+      "desc": "Will a quantum computer break blockchain cryptography in just two years' time? The post The Countdown to Q-Day Has Begun appeared first on E",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SEM 전문 코셈, 반도체 공정용 검사장비 진입 추진",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65063",
+      "date": "2026-11-06 19:26:59",
+      "desc": "전자현미경 업체 코셈이 레이저 장비 업체 한빛레이저와 손잡고 반도체 인라인 검사장비를 개발한다.진공 환경을 만들지 않고도 미세 구조를 관찰할 수 있는 '대기압 주사전자현미경(SEM)' 기술을 반도체 제조 공정에 적용하는 것이 목표다.코셈은 6일 한빛레",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아 \"RTX 스파크, 저렴하진 않아...수요는 확인\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65040",
+      "date": "2026-11-06 17:31:32",
+      "desc": "엔비디아가 인공지능(AI) 노트북 RTX 스파크의 가격이 높다는 지적을 인정하면서도 수요는 확인되고 있다고 밝혔다.제프 옌 엔비디아 아시아태평양(APAC) 테크니컬 마케팅 디렉터는 6일 서울 JW 메리어트 호텔에서 개최된 'RTX 스파크 프레스 이벤트",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스 \"DX-M1만 버터 안 녹아\"...탑재 로봇 올해 출시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65049",
+      "date": "2026-11-06 17:26:18",
+      "desc": "딥엑스가 미국에서 저발열 인공지능(AI) 칩 DX-M1을 소개했다고 6일 밝혔다.김녹원 딥엑스 대표는 5일(현지시간) 미국 CNBC와 인터뷰에서 \"딥엑스 칩은 타사 칩 대비 섭씨 25도에서 40도 이상의 열 특성 차이를 보였다\"며 \"동일한 AI 연산 ",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아 \"RTX 스파크, 외장 GPU 노트북 대비 전성비 2배\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65019",
+      "date": "2026-11-06 17:23:24",
+      "desc": "엔비디아가 자체 중앙처리장치(CPU)와 그래픽처리장치(GPU)를 결합한 'RTX 스파크'의 전력 소모 대비 성능(전성비)과 게임 지원 계획을 공개했다. 동일 전력에서 외장 GPU 탑재 노트북보다 두 배 높은 성능을 냈고 주요 게임사와 협력해 Arm 환",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
+      "link": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
+      "date": "Fri, 06 Nov 2026 14:10:57 +0000",
+      "desc": "IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028. The post IBM, ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI가 반도체 쓸어가자 자동차업계 '비상'…내년 가격 폭등 경고",
+      "link": "https://zdnet.co.kr/view/?no=20261106194204",
+      "date": "Fri, 06 Nov 2026 19:42:04 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 데이터센터 투자 확대가 자동차 산업의 새로운 비용 부담으로 떠오르고 있다. AI 인프라 구축에 반도체 생산 역량이 집중되면서 자동차 업계 반도체 확보 경쟁이 심화하고 있기 때문이다. 특히 내년에는 반도체와 전자부품 가격 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살",
+      "link": "https://zdnet.co.kr/view/?no=20261106174059",
+      "date": "Fri, 06 Nov 2026 19:33:02 +0900",
+      "desc": "[지디넷코리아]엔비디아가 네이버에 1조3400억원 규모의 자금을 납입하며 인공지능(AI) 팩토리 투자의 매듭을 지었다. 이번 납입으로 엔비디아는 네이버의 3대 주주에 등극한다. 네이버는 AI 팩토리 구축을 기반으로 한 AI 인프라 사업을 가속화한다.6",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+      "link": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/",
+      "date": "Fri, 06 Nov 2026 09:53:05 +0000",
+      "desc": "At SEMICON Europa 2026, Europe’s chip industry will confront a “perfect storm” of geopolitical, technological, and competitive pressures. Th",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 시대 네트워크, 끊기지 않고 막히지 않고 닫히지 않아야 한다",
+      "link": "https://zdnet.co.kr/view/?no=20261106182300",
+      "date": "Fri, 06 Nov 2026 18:23:00 +0900",
+      "desc": "[지디넷코리아]AI 경쟁을 말할 때 우리는 흔히 모델과 반도체, 데이터센터를 떠올린다. 그러나 AI는 데이터를 모으고, 학습하고, 추론하고, 그 결과를 현장으로 되돌려 보내는 ‘흐름’으로 작동하며, 이 흐름의 모든 마디를 잇는 것이 통신 네트워크다.정",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "레디스, AI 에이전트 실서비스 운영에 필요한 메모리, 컨텍스트, 메시징 제공 위해 Redis Iris 확장",
+      "link": "https://zdnet.co.kr/view/?no=20261106181034",
+      "date": "Fri, 06 Nov 2026 18:10:34 +0900",
+      "desc": "[지디넷코리아]샌프란시스코, 2026년 11월 6일 /PRNewswire/ -- 레디스(Redis)가 오늘 AI 에이전트용 실시간 컨텍스트 엔진 Redis Iris의 새로운 확장을 발표했다. Redis Iris는 이제 에이전트가 실제 환경에서 안정적으",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
+      "date": "Fri, 06 Nov 2026 08:01:01 +0000",
+      "desc": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracl",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
@@ -1070,16 +1190,6 @@ window.NEWS_DATA = {
       "desc": "글로벌 IT 기술의 고도화와 함께 반도체는 우리 일상의 핵심 인프라가 되었고, 생산 규모도 계속해서 증가하고 있다. 반도체 생산에는 다양한 원자재와 소재가 사용되기에, 삼성전자 DS부문은 한정된 자원은 보다 효율적으로 활용하고 사용한 자원은 최대한 순",
       "category": "etc",
       "domain": "etc"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-162/",
-      "date": "Fri, 30 Oct 2026 07:01:27 +0000",
-      "desc": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost",
-      "category": "memory",
-      "domain": "tech"
     },
     {
       "source": "한국경제",
