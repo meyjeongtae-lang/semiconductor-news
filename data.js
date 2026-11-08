@@ -1,6 +1,16 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-07T01:36:32.121Z",
+  "fetchedAt": "2026-11-08T01:05:17.979Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"TSMC, 메모리 진출 검토…엔비디아 요청\" 디인포메이션",
+      "link": "https://zdnet.co.kr/view/?no=20261107132711",
+      "date": "Sat, 07 Nov 2026 14:15:36 +0900",
+      "desc": "[지디넷코리아]세계 최대 파운드리(반도체 위탁생산) 업체 TSMC가 메모리 시장 진출을 검토하고 있다는 보도가 나왔다. 6일(현지시간) IT 매체 디인포메이션 등 외신은 TSMC가 최근 차세대 메모리 기술인 3D D램 생산을 위한 사업화 구상에 착수했",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "EE Times",
       "type": "intl",
@@ -330,6 +340,16 @@ window.NEWS_DATA = {
       "desc": "Quantum investors weigh technical progress against customer demand, commercial timing, and the ability to build lasting value. The post What",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "HP “클라우드 AI 절반 로컬 PC로 옮겨 비용 45% 절감”…국내 반도체·의료·방송 현장 공략",
+      "link": "https://www.etnews.com/20261105000029",
+      "date": "Thu, 5 Nov 2026 16:00:00 +0900",
+      "desc": "HP가 클라우드에서 처리하던 사내 인공지능(AI) 작업 40~50%를 워크스테이션과 AI 스테이션으로 옮겨 관련 비용을 45% 줄였다. 장비 투자비는 12개월 만에 회수했다. 에이전틱 AI가 확산되면서 토큰 비용이 급증하자, 데이터가 생성되는 현장 가",
+      "category": "equipment",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
