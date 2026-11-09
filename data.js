@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-08T01:05:17.979Z",
+  "fetchedAt": "2026-11-09T01:25:22.325Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄리타스반도체, 중국 ICCAD 2026서 인터페이스 IP 실시간 시연",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65076",
+      "date": "2026-11-09 08:29:55",
+      "desc": "반도체 설계자산(IP) 기업 퀄리타스반도체가 중국 집적회로(IC) 설계 산업 전시회(ICCAD) 2026 행사에 4년 연속 참석한다고 9일 밝혔다.해당 행사는 오는 19일부터 20일까지 중국 베이징에서 열린다. 전시관 내 부스에서 초고속 데이터 통신 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261108-TE-01호] 2026년 11월 8일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261108-te-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-8%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 09 Nov 2026 01:01:13 GMT",
+      "desc": "\"ASML EUV 공급 모자란다\"… 삼성전자·SK하이닉스 장비 확보 경쟁 (2026년 11월 8일, 조선비즈, 황민규 기자) 원문보기: https://biz.chosun.com/it-science/ict/2026/11/08/NH76WABRAVCZJL7",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261108-TI-01호] 2026년 11월 8일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261108-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-8%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 09 Nov 2026 00:59:35 GMT",
+      "desc": "\"지금 주문하면 1년 뒤에나\"...MLCC 품귀 절정에 삼성전기 더 웃는다 (2026년 11월 8일, 파이낸셜뉴스, 박지연 기자) 원문보기: https://www.fnnews.com/news/202611061637452296 [핵심 요약] [1] AI",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "中 렌즈테크놀로지, 연내 유리기판 양산라인 가동…\"韓기업과 협력 기대\"",
+      "link": "https://zdnet.co.kr/view/?no=20261109081004",
+      "date": "Mon, 09 Nov 2026 08:56:03 +0900",
+      "desc": "[지디넷코리아][선전(중국)=장경윤기자] “30년 이상 축적해 온 유리 가공 기술을 바탕으로 유리관통전극(TGV) 유리기판 분야에서 독보적인 경쟁력을 확보하고 있습니다. 현재 업계 선도 기업들과 적극적으로 협력하고 있으며, 한국 반도체 및 메모리 기업",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자,현대차그룹 초청 첫 '감사 데이' 9일 개최…주요 경영진 참석",
+      "link": "https://www.etnews.com/20261108000055",
+      "date": "Sun, 8 Nov 2026 12:26:02 +0900",
+      "desc": "삼성전자와 현대자동차그룹이 처음으로 그룹 차원의 경영진 교류 행사를 개최한다. 반도체와 배터리, 전장부품 등 미래차 핵심 분야로 협력이 확대되는 가운데 주요 경영진간 교류를 통해 파트너십을 강화하기 위한 의도로 해석된다. 삼성전자는 9일 경기 용인 연",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
