@@ -1,6 +1,226 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-09T01:25:22.325Z",
+  "fetchedAt": "2026-11-10T03:57:28.959Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "동운아나텍, 독립이사에 전세일 전 동국제약 사장 추천",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65164",
+      "date": "2026-11-10 11:18:28",
+      "desc": "반도체 팹리스 업체 동운아나텍이 전세일 전 동국제약 사장을 독립이사로 영입한다. 동운아나텍은 오는 24일 임시주주총회를 열고 독립이사 2명과 사내이사 1명을 선임한다고 9일 공시했다.독립이사 후보는 전세일 전 동국제약 사장과 임채승 고려대학교 의과대학",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "대한상의 “美 중간선거 이후에도 관세·투자 압박 지속…반도체·로봇 대응 필요”",
+      "link": "https://www.etnews.com/20261110000091",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0900",
+      "desc": "미국 중간선거로 의회 권력 구도가 바뀌더라도 한국 기업에 대한 관세와 투자 압박은 지속될 것이라는 분석이 나왔다. 반도체와 로봇, 산업기계 등 주요 제조업을 대상으로 한 통상 조치는 물론 대미 투자 이행과 관련한 의회의 감독도 강화될 수 있다는 전망이",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "구글이 AI 칩 직접 만들어도…AMD는 CPU를 판다 [오기자의 미주ㅊㅊ]",
+      "link": "https://www.hankyung.com/article/202611107120i",
+      "date": "Tue, 10 Nov 2026 11:20:17 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "AMD가 GPU 72개를 묶으면…뒤에서 돈 버는 두 회사 [오기자의 미주ㅊㅊ+]",
+      "link": "https://www.hankyung.com/article/202611107155i",
+      "date": "Tue, 10 Nov 2026 11:20:02 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "애널리스트들은 왜 지금 반도체를 팔지 말라고 할까",
+      "link": "https://www.hankyung.com/article/202611095370i",
+      "date": "Tue, 10 Nov 2026 11:00:08 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "李대통령 \"미 중간선거 변화 대비...반도체·AI 경쟁력 높여야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261110105033",
+      "date": "Tue, 10 Nov 2026 10:50:33 +0900",
+      "desc": "[지디넷코리아]이재명 대통령이 미국 중간선거 이후 대외 환경 변화에 대비해 미 의회와의 초당적 협력을 강화하고 반도체와 인공지능(AI) 등 핵심 전략산업의 경쟁력을 높일 것을 주문했다.이 대통령은 10일 오전 청와대에서 열린 국무회의에서 “미국 중간선",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"GPU 확보 자신\"…젠슨 황 '中 스파이 의혹' 여성, 대규모 투자 유치",
+      "link": "https://www.hankyung.com/article/202611106374i",
+      "date": "Tue, 10 Nov 2026 10:48:03 +0900",
+      "desc": "",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI는 지금] 美 AI 투자 주춤…中에 열린 추격의 틈",
+      "link": "https://zdnet.co.kr/view/?no=20261110095956",
+      "date": "Tue, 10 Nov 2026 10:33:07 +0900",
+      "desc": "[지디넷코리아]미국 중간선거에서 민주당이 상·하원을 장악하면서 중국이 인공지능(AI) 기술 격차를 좁힐 기회를 얻을 수 있다는 분석이 나왔다. 미국의 대규모 데이터센터 투자가 둔화할 경우 중국 자체 반도체와 AI 인프라 확충에 유리한 환경이 조성될 수",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "NHN클라우드, 3분기 매출 75.5% 성장…내년까지 AI 데이터센터 100MW 확보",
+      "link": "https://zdnet.co.kr/view/?no=20261110100637",
+      "date": "Tue, 10 Nov 2026 10:32:50 +0900",
+      "desc": "[지디넷코리아]NHN클라우드가 인공지능(AI) 그래픽처리장치(GPU) 사업 확대에 힘입어 올해 3분기에도 높은 매출 성장세를 이어갔다. 정부 GPU 구축 사업과 민간 고객 대상 서비스 매출이 늘면서 안정적인 흑자 구조를 유지한 가운데, 신규 AI 데이",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261109-TT-01호] 2026년 11월 9일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261109-tt-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 10 Nov 2026 00:50:57 GMT",
+      "desc": "삼성전자 \"엔비디아 AI로 반도체 시뮬레이션 4000배 가속\" (2026년 11월 9일, 아이뉴스24, 박지은 기자) 원문보기: https://www.inews24.com/view/2024251 [핵심 요약] [1] 엔비디아 AI 활용해 시뮬레이션 속",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261109-TE-01호] 2026년 11월 9일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261109-te-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-9%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 10 Nov 2026 00:49:22 GMT",
+      "desc": "中반도체 장비업체 \"노광장비 핵심부품 국산화율 90% 넘어\" (2026년 11월 9일, 뉴스1, 노민호 특파원) 원문보기: https://www.news1.kr/world/northeast-asia/6347469 [핵심 요약] [1] 중국 SMEE, ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261109-TI-01호] 2026년 11월 9일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261109-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-9%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 10 Nov 2026 00:46:18 GMT",
+      "desc": "'젠슨 황 쇼크' 반도체·AI 규제 영향 미칠까…산업계 후폭풍 촉각 (2026년 11월 9일, 아시아경제, 권현지·박준이 기자) 원문보기: https://view.asiae.co.kr/article/2026110909400473079 [핵심 요약] [",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아, 업스테이지·모티프·리얼월드 투자 계획 발표",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65139",
+      "date": "2026-11-09 23:00:50",
+      "desc": "엔비디아가 국내 인공지능(AI) 스타트업에 투자할 계획이라고 9일 밝혔다.엔비디아는 이날 서울 코엑스에서 열린 '과학기술정보통신부-엔비디아 AI 스타트업 파트너십 포럼'에서 이같이 발표했다. 투자 대상은 업스테이지, 모티프 테크놀로지스, 리얼월드 3곳",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Can Jensen Keep His Job?",
+      "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
+      "date": "Mon, 09 Nov 2026 19:59:12 +0000",
+      "desc": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job?",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "리벨리온, 엔비디아와 한국 소버린 AI 인프라 만든다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65134",
+      "date": "2026-11-09 18:43:40",
+      "desc": "리벨리온이 엔비디아, SK텔레콤(SKT)와 손잡고 차세대 신경망처리장치(NPU) 기반 한국 표준 소버린 인공지능(AI) 연산 인프라를 만든다.리벨리온의 NPU와 엔비디아의 개방형 인프라 플랫폼을 NV링크 퓨전으로 연결하고, SKT AI 데이터센터에 공",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성, 감사의 날 행사에 현대차 초청",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65118",
+      "date": "2026-11-09 18:00:07",
+      "desc": "삼성은 삼성전자 경기 용인 서천연수원에서 현대자동차그룹 주요 경영진을 초청하는 'HMG Appreciation Day'를 개최했다고 9일 밝혔다. 삼성이 국내 그룹 대상 대규모 초청 행사를 연 것은 현대차그룹이 처음이다.삼성과 현대차그룹 주요 계열사 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "매디슨 황 빠진 엔비디아 AI 데이…韓협력은 예정대로",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65102",
+      "date": "2026-11-09 17:59:25",
+      "desc": "젠슨 황 엔비디아 최고경영자(CEO)가 불륜 사실을 인정한 가운데 장녀 매디슨 황 수석이사의 한국 방문이 취소됐다. 매디슨 황은 9일 서울에서 열린 '엔비디아 AI 데이'에 참석하고 국내 기업과의 업무협약 체결을 위해 방한할 예정이었다. 매디슨 황의 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이큐랩, 공사대금 31억 밀려 부산 사옥 가압류",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65104",
+      "date": "2026-11-09 16:52:17",
+      "desc": "매출 부풀리기와 부정 대출 의혹으로 경찰 수사를 받는 아이큐랩의 부산 사옥이 가압류됐다. 산업은행의 대출금 집행이 중단되면서 클린룸 공사대금 약 31억원을 지급하지 못한 데 따른 것이다. 공사를 맡은 업체도 하위 협력사에 대금을 지급하는 데 어려움을 ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 중국서 디스플레이 기술 심포지엄 개최",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65115",
+      "date": "2026-11-09 16:08:04",
+      "desc": "글로벌테크놀로지가 중국 선전에서 현지 디스플레이 업체와 산업 파트너를 대상으로 기술 심포지엄을 열었다. 시분할 구동(TSO) 기술과 IC, 광학, 패키지를 결합한 솔루션을 소개하고 제품 적용과 생산·판매 협력 방안을 논의했다.글로벌테크놀로지는 최근 중",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Still Looking for Diamonds",
+      "link": "https://www.eetimes.com/still-looking-for-diamonds/",
+      "date": "Mon, 09 Nov 2026 13:31:16 +0000",
+      "desc": "Silicon carbide demand surges, but Europe risks hollow sovereignty as investment flows abroad; see why Bulgaria’s fab needs customers first.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "type": "intl",
+      "title": "The Race to Build a “Find My” for AI Chips",
+      "link": "https://spectrum.ieee.org/find-my-ai-chip",
+      "date": "Mon, 09 Nov 2026 13:00:02 +0000",
+      "desc": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "\"변명 여지 없다\" 젠슨 황 불륜 시인…이사회 조사 착수",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65083",
+      "date": "2026-11-09 10:37:34",
+      "desc": "젠슨 황 엔비디아 최고경영자(CEO)가 불륜 사실을 인정했다. 엔비디아 이사회는 황 CEO가 중국 정보기관의 표적이 됐다는 의혹과 관련해 독립조사에 착수했다.황 CEO는 8일(현지시간) 직원들에게 보낸 이메일에서 \"저는 아내에게 부정을 저질렀다\"며 \"",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +230,46 @@ window.NEWS_DATA = {
       "desc": "반도체 설계자산(IP) 기업 퀄리타스반도체가 중국 집적회로(IC) 설계 산업 전시회(ICCAD) 2026 행사에 4년 연속 참석한다고 9일 밝혔다.해당 행사는 오는 19일부터 20일까지 중국 베이징에서 열린다. 전시관 내 부스에서 초고속 데이터 통신 ",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Memory In Physical AI",
+      "link": "https://semiengineering.com/memory-in-physical-ai/",
+      "date": "Mon, 09 Nov 2026 08:15:21 +0000",
+      "desc": "LPDDR6 becomes an essential ingredient as intelligence moves into autonomous and mobile edge systems. The post Memory In Physical AI appeare",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Optical Superhighway For AI",
+      "link": "https://semiengineering.com/the-optical-super-highway-for-ai/",
+      "date": "Mon, 09 Nov 2026 08:01:28 +0000",
+      "desc": "Exponentially increasing AI compute performance requires exponential interconnect speeds. The post The Optical Superhighway For AI appeared ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성-현대차, 미래 모빌리티 '원팀' 선언",
+      "link": "https://www.etnews.com/20261109000305",
+      "date": "Mon, 9 Nov 2026 17:00:00 +0900",
+      "desc": "삼성그룹과 현대자동차그룹이 차세대 모빌리티 시장 선점을 위해 전략적 협력 관계를 강화한다. 반도체·배터리·디스플레이 등 기존 전장 사업을 넘어 피지컬 인공지능(AI) 분야에서도 협력 가능성을 모색할 방침이다. 삼성은 9일 삼성전자 서천연수원에 현대차그",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
+      "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "date": "Mon, 09 Nov 2026 06:47:26 +0000",
+      "desc": "DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 ",
+      "category": "robotics",
+      "domain": "tech"
     },
     {
       "source": "SPTA TIMES",
@@ -177,7 +437,7 @@ window.NEWS_DATA = {
       "title": "Chip Industry Week In Review",
       "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
       "date": "Fri, 06 Nov 2026 08:01:01 +0000",
-      "desc": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracl",
+      "desc": "Updated 11/8: Nvidia CEO under investigation; HBM smuggling routes into China; Micron pauses Taiwan fab work; Samsung expands HBM base-die c",
       "category": "memory",
       "domain": "tech"
     },
