@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-10T03:57:28.959Z",
+  "fetchedAt": "2026-11-11T01:42:35.717Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스, 삼성 2나노 칩 'DX-M2' 마스크 제작 착수...내년 4분기 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65250",
+      "date": "2026-11-11 09:59:35",
+      "desc": "반도체 설계(팹리스) 기업 딥엑스는 차세대 인공지능(AI) 반도체 'DX-M2'의 칩 설계를 완료했다고 10일 밝혔다.삼성전자 파운드리 2세대 2나노(nm) 회로선폭(노드) 공정 SF2P로 제조된다. 이달 초 시제품 제작용 마스크의 테이프 아웃(MTO",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "파네시아, 미주법인 설립...마이크로소프트 출신 총괄대표 영입",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65238",
+      "date": "2026-11-11 09:58:46",
+      "desc": "인공지능(AI) 인프라 연결 솔루션 개발기업 파네시아가 미주법인을 설립하고 총괄대표를 영입했다고 10일 밝혔다.신규 미주법인 총괄대표는 엘리스 윌슨 전 마이크로소프트(MS) 수석 소프트웨어 엔지니어 매니저다. MS와 파나사스(現 비듀라), 서머 리서치",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄리타스반도체, 모빌린트 로봇용 SoC에 통합 솔루션 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65235",
+      "date": "2026-11-11 09:33:07",
+      "desc": "반도체 설계자산(IP) 기업 퀄리타스반도체가 모빌린트에 초고속 데이터 통신 규격(인터페이스) IP 통합 솔루션을 공급한다고 10일 밝혔다.해당 솔루션은 PCI익스프레스(PCIe) 서브시스템, 모바일·임베디드용 영상 인터페이스(MIPI) 서브시스템, 칩",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261110-TM-01호] 2026년 11월 10일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261110-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-10%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 11 Nov 2026 01:02:53 GMT",
+      "desc": "에이텍솔루션, 1514억원 투자 아산 신공장 준공…반도체 재생 웨이퍼 국산화 가속 (2026년 11월 10일, 전자신문, 권상희 기자) 원문보기: https://www.etnews.com/20261110000116 [핵심 요약] [1] 에이텍솔루션, ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261110-TT-01호] 2026년 11월 10일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261110-tt-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-10%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 11 Nov 2026 01:00:25 GMT",
+      "desc": "삼성전자, 첨단 패키징 '3D 큐브-H' 내년 초 개발완료 목표 (2026년 11월 10일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20261110104822 [핵심 요약] [1] 삼성전자,",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261110-TI-01호] 2026년 11월 10일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261110-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-10%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 11 Nov 2026 00:58:30 GMT",
+      "desc": "삼성·SK 'HBM 완판' 선언했지만… 젠슨 황 리스크에 장기계약 '경고등' (2026년 11월 10일, 한국일보, 이윤주 기자) 원문보기: https://www.hankookilbo.com/news/article/A2026111015030001446",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[마켓라이브] 미국 물가 부담에 반도체 대형주 주춤…보안·바이오·클라우드는 강세",
+      "link": "https://www.hankyung.com/article/202611119266i",
+      "date": "Wed, 11 Nov 2026 09:19:31 +0900",
+      "desc": "",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AMD, AI 인프라 겨냥 에픽 임베디드 9006 SP7 CPU 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261111021324",
+      "date": "Wed, 11 Nov 2026 07:00:01 +0900",
+      "desc": "[지디넷코리아]AMD가 10일(현지시간) 임베디드 환경을 겨냥한 x86 프로세서인 에픽 임베디드 9006 SP7 CPU를 출시했다. 작년 3월 젠5 아키텍처 기반 에픽 임베디드 9005 프로세서를 출시한 지 1년 8개월만이다.에픽 임베디드 9006 S",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
+      "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
+      "date": "Tue, 10 Nov 2026 20:00:00 +0000",
+      "desc": "Saskatchewan brings together AI infrastructure, quantum research, chip design talent, and advanced materials expertise to expand its role in",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성 EUV 블랭크마스크 조달 비상…日호야 \"더 못 늘린다\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65231",
+      "date": "2026-11-10 17:47:42",
+      "desc": "삼성전자의 내년 극자외선(EUV) 블랭크마스크 조달에 비상이 걸렸다. 10일 업계에 따르면 삼성전자 반도체 구매조직은 지난 9월 내년 공정 상황을 시뮬레이션한 결과 EUV 블랭크마스크 사용량이 급증할 것으로 판단하고 일본 호야에 공급량 확대를 요청했다",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 \"130개국 통신망 검증 역량 로봇에 이식\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65219",
+      "date": "2026-11-10 17:20:01",
+      "desc": "퀄컴이 모바일 칩셋을 개발하며 축적한 통신망 검증 역량을 로보틱스 플랫폼에 이식하고 있다. 극한의 물리적 환경에서 발생하는 로봇의 치명적 오작동을 차단한다.박재현 퀄컴코리아 상무는 10일 그랜드하얏트 서울에서 열린 딥 다이브 인투(DETO) 2026 ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+      "link": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "desc": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 구글 차세대 AI 연산 시스템에 5세대 에픽 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65200",
+      "date": "2026-11-10 14:13:22",
+      "desc": "AMD가 서버용 중앙처리장치(CPU) 에픽을 구글 인공지능(AI) 연산 시스템에 공급한다고 9일(현지시간) 밝혔다.해당 시스템은 구글 차세대 TPU 8tx다. 구글 클라우드의 차세대 AI 가속기 칩인 8세대 텐서처리장치(TPU) 기반이다. 구글이 AI",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "쎄크, 마이크론에 HBM 검사장비 공급",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65201",
+      "date": "2026-11-10 13:19:26",
+      "desc": "전자빔 원천기술 기업 쎄크가 마이크론에 고대역폭메모리(HBM) 생산라인에 적용되는 엑스레이 검사장비를 공급한다. 전자부품, 배터리, 방산에 이어 반도체로 사업영역 확대에 속도가 붙을 전망이다.쎄크는 10일 마이크론 싱가포르 법인과 58억원 규모의 HB",
+      "category": "equipment",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +150,106 @@ window.NEWS_DATA = {
       "desc": "반도체 팹리스 업체 동운아나텍이 전세일 전 동국제약 사장을 독립이사로 영입한다. 동운아나텍은 오는 24일 임시주주총회를 열고 독립이사 2명과 사내이사 1명을 선임한다고 9일 공시했다.독립이사 후보는 전세일 전 동국제약 사장과 임채승 고려대학교 의과대학",
       "category": "labor",
       "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "What It Takes to Let a Farm Robot Work Alone",
+      "link": "https://www.eetimes.com/what-it-takes-to-let-a-farm-robot-work-alone/",
+      "date": "Tue, 10 Nov 2026 08:32:00 +0000",
+      "desc": "Safe agricultural autonomy depends on matching safeguards to the machine, its surroundings, and the people who interact with it. The post Wh",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps",
+      "link": "https://semiengineering.com/reducing-lithography-learning-cycles-to-accelerate-foplp-ramps/",
+      "date": "Tue, 10 Nov 2026 08:08:35 +0000",
+      "desc": "How yield prediction technology can reduce trial-and-error in advanced packaging lithography. The post Reducing Lithography Learning Cycles ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Test Struggles To Keep Pace With AI",
+      "link": "https://semiengineering.com/test-struggles-to-keep-pace-with-ai/",
+      "date": "Tue, 10 Nov 2026 08:07:24 +0000",
+      "desc": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing. The post Test Struggles To Keep Pace With AI ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Which Passing Chips Need More Testing?",
+      "link": "https://semiengineering.com/which-passing-chips-need-more-testing/",
+      "date": "Tue, 10 Nov 2026 08:05:20 +0000",
+      "desc": "Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified. The",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI’s Efficiency Challenge For The Semiconductor Industry",
+      "link": "https://semiengineering.com/ais-efficiency-challenge-for-the-semiconductor-industry/",
+      "date": "Tue, 10 Nov 2026 08:03:58 +0000",
+      "desc": "AI is reshaping the tools, data, and collaboration models used to design, manufacture, and test silicon. The post AI&#8217;s Efficiency Chal",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Definitive AFM Modes Handbook: 2026 Edition",
+      "link": "https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/",
+      "date": "Tue, 10 Nov 2026 08:01:35 +0000",
+      "desc": "A comprehensive guide to expanding materials research capabilities. The post The Definitive AFM Modes Handbook: 2026 Edition appeared first ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Streaming Scan Network Test Over PCIe",
+      "link": "https://semiengineering.com/streaming-scan-network-test-over-pcie/",
+      "date": "Tue, 10 Nov 2026 08:01:27 +0000",
+      "desc": "Changing test strategies put a premium on how closely the design ecosystem and the test ecosystem line up. The post Streaming Scan Network T",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits",
+      "link": "https://semiengineering.com/shrinking-hybrid-bonding-pitches-push-inspection-limits/",
+      "date": "Tue, 10 Nov 2026 08:01:24 +0000",
+      "desc": "Existing inspection tools struggle to capture defects, especially those hidden at the bond interface. The post Shrinking Hybrid Bonding Pitc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Overcoming Silicon Photonics Process Control Challenges in the AI Era",
+      "link": "https://semiengineering.com/overcoming-silicon-photonics-process-control-challenges-in-the-ai-era/",
+      "date": "Tue, 10 Nov 2026 08:01:10 +0000",
+      "desc": "How connected inspection, metrology and software can help manufacturers move SiPh and CPO toward high-volume production. The post Overcoming",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[CES 2027] 최고혁신상 60% 韓 차지…로봇·AI칩 '왕좌'는 中·美",
+      "link": "https://www.etnews.com/20261110000251",
+      "date": "Tue, 10 Nov 2026 16:00:00 +0900",
+      "desc": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다. 미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작",
+      "category": "robotics",
+      "domain": "tech"
     },
     {
       "source": "전자신문",
