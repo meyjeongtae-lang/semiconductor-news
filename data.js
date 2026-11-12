@@ -1,6 +1,276 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-11T01:42:35.717Z",
+  "fetchedAt": "2026-11-12T02:41:22.250Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "포인투테크놀로지, DETO 2026서 e튜브 공개...내년 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65303",
+      "date": "2026-11-12 08:38:27",
+      "desc": "인터커넥트 반도체 설계 업체(팹리스) 포인투테크놀로지가 'e-튜브'를 DETO(Deep Dive InTo) 2026 행사에서 소개했다고 11일 밝혔다.조병학 포인투테크놀로지 최고기술책임자(CTO)는 전날 DETO 2026 행사에서 '인터커넥트·AI 반",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엔비디아 이사회, 젠슨 황 해임 준비…이르면 오늘 거취 결정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65313",
+      "date": "2026-11-12 08:27:27",
+      "desc": "엔비디아 이사회가 창업자 젠슨 황 최고경영자(CEO) 해임을 준비하고 있다고 월스트리트저널(WSJ)이 11일(현지시간) 보도했다. 황 CEO가 불륜을 인정한 지 사흘 만이다.WSJ는 사안에 정통한 관계자들을 인용해 이사회가 이르면 이날 회의를 열어 황",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "李대통령 \"대한민국 산업지도 바꿀 첨단 투자...4개월만에 현실로\"",
+      "link": "https://zdnet.co.kr/view/?no=20261112105653",
+      "date": "Thu, 12 Nov 2026 11:14:23 +0900",
+      "desc": "[지디넷코리아]이재명 대통령이 충청권 메가 프로젝트 투자 사업 착공식에 참석해 첨단 산업 투자를 통한 지역 경제 활성화와 국가 균형 발전의 중요성을 강조했다.이 대통령은 12일 충남 아산의 삼성전자 반도체 첨단패키징 팹(Fab) 착공식 현장에 참석해 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "K-온디바이스, 2030년까지 자율주행 AI칩 등 10종 개발",
+      "link": "https://zdnet.co.kr/view/?no=20261112092039",
+      "date": "Thu, 12 Nov 2026 11:00:02 +0900",
+      "desc": "[지디넷코리아]산업통상부(이하 산업부)는 서울 포시즌스호텔에서 수요기업, 팹리스, 파운드리, 반도체 IP기업 등 산·학·연 관계자 150여명이 참석한 가운데 '2026년 AI반도체 M.AX 얼라이언스 하반기 총회'를 개최한다고 12일 밝혔다.이번 총회",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "젠슨 황 해임 위기에 K반도체도 긴장…삼성·SK하이닉스에 악재일까",
+      "link": "https://www.hankyung.com/article/202611122331i",
+      "date": "Thu, 12 Nov 2026 10:54:56 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "이재용 회장 \"충청 온양캠, 최첨단 HBM 거점으로 변모\"",
+      "link": "https://zdnet.co.kr/view/?no=20261112102736",
+      "date": "Thu, 12 Nov 2026 10:52:13 +0900",
+      "desc": "[지디넷코리아]이재용 삼성전자 회장이 온양캠퍼스를 고대역폭메모리(HBM) 등 최첨단 패키징 생산거점으로 삼겠다는 의지를 드러냈다.이 회장은 12일 오전 충남 아산시 삼성전자 온양캠퍼스 내 첨단패키징 공장 건설 현장에서 열린 '충청권 메가프로젝트 착공식",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "조선 백자에서 반도체까지…OCI, 미술관서 '규소' 조명한다",
+      "link": "https://zdnet.co.kr/view/?no=20261112103916",
+      "date": "Thu, 12 Nov 2026 10:39:16 +0900",
+      "desc": "[지디넷코리아]OCI미술관(서울 종로구 수송동)은 20일 오후 2시 OCI미술관 5층 강당에서 조선 백자와 반도체를 잇는 ‘규소(Si)’를 주제로 라운드테이블 ‘그게 다 규소였다니’를 개최한다고 13일 밝혔다.이번 행사는 OCI미술관 대표 소장품인 백",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "李대통령, 충청권 메가프로젝트 착공식 참석…\"지역 성장 기회 마련\"",
+      "link": "https://zdnet.co.kr/view/?no=20261112102308",
+      "date": "Thu, 12 Nov 2026 10:35:39 +0900",
+      "desc": "[지디넷코리아]이재명 대통령이 충청권 반도체 투자 현장을 찾아 지역 경제 활성화와 중소·중견기업 상생을 위한 정부 차원의 총력 지원을 약속했다.대통령실에 따르면 이 대통령은 12일 충남 아산시 삼성전자 온양캠퍼스에서 열린 반도체 첨단패키징 팹(Fab)",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
+      "link": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/",
+      "date": "Thu, 12 Nov 2026 00:59:35 +0000",
+      "desc": "Researchers at Texas A&#38;M University published “5G CATS: 5G-Based Cryptographic Authorization Against Trafficking of Semiconductor Device",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)",
+      "link": "https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida/",
+      "date": "Thu, 12 Nov 2026 00:42:18 +0000",
+      "desc": "Researchers at the University of Florida published “SANAI: Secure ECC Distributed Keyed Parity Embedded in Weights for Protecting Neural Net",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Single-Crystal High-κ Dielectric Enables Low-Power 2D CFETs (NUS et al.)",
+      "link": "https://semiengineering.com/single-crystal-high-%ce%ba-dielectric-enables-low-power-2d-cfets-nus-et-al/",
+      "date": "Thu, 12 Nov 2026 00:28:49 +0000",
+      "desc": "Researchers led by the National University of Singapore and Nexstrom published “Low-power 2D CFETs using single-crystal high-κ dielectrics.”",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+      "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
+      "date": "Wed, 11 Nov 2026 23:39:41 +0000",
+      "desc": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Aut",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
+      "link": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
+      "date": "Wed, 11 Nov 2026 23:34:28 +0000",
+      "desc": "Explore how 800V SiC MOSFETs boost EV range, charging, and performance—and see what next-gen designs make possible. The post Automotive Tech",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
+      "link": "https://www.eetimes.com/automotive-tech-forum-lidar-is-key-to-safer-adas-and-autonomous-vehicles/",
+      "date": "Wed, 11 Nov 2026 23:28:21 +0000",
+      "desc": "This keynote explores how LiDAR is shaping the future of mobility by improving safety, reliability, and performance in autonomous systems. T",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+      "link": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/",
+      "date": "Wed, 11 Nov 2026 23:22:01 +0000",
+      "desc": "This keynote exmines GaN reliability and present the case for GaN being not only the most efficient solution, but also a necessary step for ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Optimized E-Beam Evaporation Reduces Metal-Semiconductor Contact Degradation (RWTH Aachen)",
+      "link": "https://semiengineering.com/optimized-e-beam-evaporation-reduces-metal-semiconductor-contact-degradation-rwth-aachen/",
+      "date": "Wed, 11 Nov 2026 23:00:41 +0000",
+      "desc": "Researchers at RWTH Aachen University published “Mitigating the degradation of metal–semiconductor contacts with optimized electron beam eva",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
+      "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
+      "date": "Wed, 11 Nov 2026 23:00:05 +0000",
+      "desc": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model design",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits?",
+      "link": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
+      "date": "Wed, 11 Nov 2026 22:39:24 +0000",
+      "desc": "As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constra",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability",
+      "link": "https://www.eetimes.com/chiplets-panel-discussion-how-should-we-reimagine-the-design-flow-for-chiplet-scalability/",
+      "date": "Wed, 11 Nov 2026 22:35:01 +0000",
+      "desc": "This panel discusses whether today’s design flows can scale to support reusable chiplets and multi-vendor integration, or whether more funda",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
+      "link": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
+      "date": "Wed, 11 Nov 2026 20:23:13 +0000",
+      "desc": "Explore NXP CTO Lars Reger’s view of physical AI beyond humanoids, from NavQ95 robot kits to edge trust, security, and geopolitics. The post",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "8개월째 대표 월급 못 준 어보브반도체… 꺼낸 카드가?",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65296",
+      "date": "2026-11-11 18:36:08",
+      "desc": "반도체 팹리스 업체 어보브반도체가 8개월째 보수를 받지 못하고 있는 최원 대표 문제를 해결하기 위해 정관 변경을 추진한다.매년 주주총회에서 이사 보수한도를 승인받는 대신 정관에 한도를 정해두고 이사회가 개별 보수를 정하도록 하려는 것이다. 다만 정관 ",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "STMicro’s Maria Heriz on Moving All Its MCUs to One STM32 Platform",
+      "link": "https://www.eetimes.com/stmicros-maria-heriz-on-moving-all-its-mcus-to-one-stm32-platform/",
+      "date": "Wed, 11 Nov 2026 18:28:10 +0000",
+      "desc": "Explore how STMicro is unifying its MCUs on STM32, preparing for EU cyber rules, and weighing RISC-V, AI agents, and robotics. The post STMi",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 6세대 에픽 '베니스' 공식 출시...\"엔비디아 대비 성능 3.7배\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65270",
+      "date": "2026-11-11 15:47:13",
+      "desc": "AMD가 6세대 서버용 중앙처리장치(CPU) 에픽 '베니스'를 공식 출시했다. 경쟁사 보다 높은 가격 대비 성능 효율(가성비)을 앞세워 시장 점유율을 확대한다.AMD는 10일(현지시간) Zen 6 마이크로아키텍처 기반 6세대 에픽의 주요 정보를 공개했",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엠케이피 \"내년 매출 최대 800억\"…美대형 장비사와 양산 공급 논의",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65283",
+      "date": "2026-11-11 15:45:30",
+      "desc": "엠케이피가 반도체 장비용 질량유량제어기(MFC:Mass Flow Controller) 주문 급증에 힘입어 올해 매출이 작년 대비 두 배 늘어날 것이라고 전망했다. 미국 장비 업체 A사와도 대규모 양산 공급을 논의하고 있다. 이 건이 성사되면 내년 매출",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 LPDDR5X, 산업용 기능안전 인증 획득",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65280",
+      "date": "2026-11-11 15:33:41",
+      "desc": "SK하이닉스가 저전력 D램 LPDDR5X의 적용처를 차량에서 로봇과 스마트팩토리로 넓힌다. 지난 1월 차량용 기능안전 인증을 받은 데 이어 산업용 기능안전 국제표준 인증을 획득했다.SK하이닉스는 LPDDR5X 제품과 개발 프로세스가 'IEC 61508",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "엑사리온, 삼성 C랩 데모데이서 사운드 트레이싱 체험 공간 열어",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65276",
+      "date": "2026-11-11 15:33:31",
+      "desc": "공간음향 인공지능(AI) 기업 엑사리온이 삼성전자 2026 C랩 스타트업 데모데이에서 '사운드 트레이싱(Sound-Tracing)'을 선보였다고 11일 밝혔다.삼성전자 지난 10일 C랩 스타트업 데모데이는 서울 서초 삼성전자 서울R&D캠퍼스에서 열렸다",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴 손잡고 AI OS 개발하는 '코라' 무슨 회사?",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65244",
+      "date": "2026-11-11 13:16:46",
+      "desc": "퀄컴과 손잡고 인공지능(AI) 중심의 새로운 운영체제(OS)를 개발하는 기업이 등장했다. 미국 실리콘밸리 스타트업 코라 시스템즈(KORA Systems)다. 이 회사는 내년 PC용 OS를 먼저 출시한 뒤 스마트폰용으로 사업을 확대할 계획이다.커트 맥마",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -29,6 +299,46 @@ window.NEWS_DATA = {
       "date": "2026-11-11 09:33:07",
       "desc": "반도체 설계자산(IP) 기업 퀄리타스반도체가 모빌린트에 초고속 데이터 통신 규격(인터페이스) IP 통합 솔루션을 공급한다고 10일 밝혔다.해당 솔루션은 PCI익스프레스(PCIe) 서브시스템, 모바일·임베디드용 영상 인터페이스(MIPI) 서브시스템, 칩",
       "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Variable-Length Prompts on Chimera GPNPU",
+      "link": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
+      "date": "Wed, 11 Nov 2026 08:02:29 +0000",
+      "desc": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+      "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+      "date": "Wed, 11 Nov 2026 08:01:52 +0000",
+      "desc": "The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs. The post U",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Nov. 11",
+      "link": "https://semiengineering.com/blog-review-nov-11-3/",
+      "date": "Wed, 11 Nov 2026 08:01:21 +0000",
+      "desc": "Interconnects key in AI infrastructure; floating nets; mitigating Control Flow attacks; PNT trends; SEMI Market Symposium. The post Blog Rev",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "미국발 불확실성에 삼성 AI 인프라 현지 전략도 '주춤'…美 비스트라, 헬릭스 자금납입 연기",
+      "link": "https://www.etnews.com/20261111000159",
+      "date": "Wed, 11 Nov 2026 16:00:00 +0900",
+      "desc": "삼성전자 등 삼성 6개 계열사가 공동 출자로 추진하는 미국 인공지능(AI) 인프라 사업에 불확실성이 커지고 있다. 미국 중간선거 전후로 인공지능 데이터센터(AIDC) 개발을 둘러싼 정치적 불확실성이 확대되는 가운데 삼성과 투자에 참여한 핵심 전력 공급",
+      "category": "ai-compute",
       "domain": "tech"
     },
     {
