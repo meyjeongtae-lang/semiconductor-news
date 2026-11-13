@@ -1,6 +1,186 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-12T02:41:22.250Z",
+  "fetchedAt": "2026-11-13T02:23:05.743Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원 \"한일 빅텐트 준비 중\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65381",
+      "date": "2026-11-13 09:00:24",
+      "desc": "최태원 SK그룹 회장이 한국과 일본의 경제협력 의제를 모으는 상설 플랫폼 '빅텐트'를 준비 중이라고 밝혔다. 지난 6월 일본 닛케이포럼에서 해당 플랫폼 구축을 제안한 지 5개월 만이다. 최 회장은 지난 12일 서울 강남구 한국고등교육재단에서 열린 '한",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "파네시아-인텔 MOU...제온에 CXL 스위치 접목한다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65380",
+      "date": "2026-11-13 08:52:31",
+      "desc": "파네시아가 인텔코리아와 CXL(Compute Express Link) 기술 협력 목적의 업무협약(MOU)을 체결했다고 12일 밝혔다.체결식은 이날 '인텔 인공지능(AI) 서밋 서울 2026' 행사가 열린 서울 코엑스에서 이뤄졌다. 정명수 파네시아 대표",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "켐트로스, 반도체 소재 매출 185% 급증…3분기 최대 실적",
+      "link": "https://www.hankyung.com/article/202611134546i",
+      "date": "Fri, 13 Nov 2026 09:55:19 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261112-TI-01호] 2026년 11월 12일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261112-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-12%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 00:52:07 GMT",
+      "desc": "AMD, 3Q 데이터센터 매출 인텔 추월…\"내년 매출 80% 이상 성장\" (2026년 11월 12일, 뉴스1, 정윤미 기자) 원문보기: https://www.news1.kr/industry/general-industry/6352040 [핵심 요약] [",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261112-TE-01호] 2026년 11월 12일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261112-te-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-12%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 00:48:50 GMT",
+      "desc": "반도체 장비 정비도 로봇이 한다…韓·日 국제 표준 개발 속도 (2026년 11월 12일, 이데일리, 송재민 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=03952406645645064&#38;mediaC",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261112-TM-01호] 2026년 11월 12일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261112-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-12%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 00:47:16 GMT",
+      "desc": "SK하이닉스 ‘AI 전력칩’ 생산 늘린다 (2026년 11월 12일, 서울경제, 이석진 기자) 원문보기: https://www.sedaily.com/article/20113690?ref=naver [핵심 요약] [1] SK키파운드리, AI 서버용 전력",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "SFA, 3분기 영업익 전년비 17.2% ↓…\"반도체 기반 고수익 수주 확대\"",
+      "link": "https://zdnet.co.kr/view/?no=20261113085128",
+      "date": "Fri, 13 Nov 2026 09:35:23 +0900",
+      "desc": "[지디넷코리아]SFA(대표 김상경)는 올해 3분기 연결기준 매출 4302억원, 영업이익 221억원을 거뒀다고 지난 12일 밝혔다. 전년 동기 대비 매출은 9.2% 증가했고 영업이익은 17.2% 감소했다.별도기준으로는 매출액 1923억원, 영업이익 26",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[마켓라이브] 젠슨 황 사임에도 반도체 반등…한전은 실적 충격에 급락",
+      "link": "https://www.hankyung.com/article/202611134438i",
+      "date": "Fri, 13 Nov 2026 09:20:39 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍, 3분기 누적 영업익 24% 증가...\"공장 가동률 100%\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65372",
+      "date": "2026-11-12 23:59:31",
+      "desc": "DB하이텍이 전력반도체 파운드리를 중심으로 실적 개선을 이뤘다고 12일 밝혔다.이날 DB하이텍은 올해 3분기 연결기준 잠정 실적을 공시했다. 매출은 4033억5800만원으로 지난해 같은 기간보다 14% 늘었다. 영업이익은 900억1900만원으로 전년 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "젠슨 황 엔비디아 CEO 전격 사임",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65377",
+      "date": "2026-11-12 23:21:52",
+      "desc": "젠슨 황 엔비디아 창업자 겸 최고경영자(CEO)가 전격 사임했다.중국 정보기관과 연계 의혹을 받는 여성과의 불륜 사실을 인정한 데 이어 사내 여성 임원과의 추가 불륜 의혹까지 불거지면서 결국 자리에서 물러났다. 1993년 엔비디아를 공동 창업해 줄곧 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[포스트 젠슨 황] 엔비디아 성장세 이어질까...국내 반도체 공급망도 주목",
+      "link": "https://zdnet.co.kr/view/?no=20261113073707",
+      "date": "Fri, 13 Nov 2026 07:43:52 +0900",
+      "desc": "[지디넷코리아]엔비디아 이사회가 창업자이자 33년간 최고경영자(CEO)로 재직한 젠슨 황을 경질하고 콜렛 크레스 최고재무책임자(CFO)를 임시 CEO로 삼아 사태 진화에 나섰다. 콜렛 크레스 임시 CEO 체제의 경영 정상화 과제, 엔비디아의 향후 사업",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Jensen Resigns Over Second Affair",
+      "link": "https://www.eetimes.com/jensen-resigns-over-second-affair/",
+      "date": "Thu, 12 Nov 2026 20:48:35 +0000",
+      "desc": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔, 韓기업 23곳과 AI 동맹…국산 서버로 소버린 AI 공략",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65349",
+      "date": "2026-11-12 17:14:47",
+      "desc": "인텔이 국내 기업 23곳과 손잡고 한국형 인공지능(AI) 인프라 구축에 나선다. 인텔 반도체를 탑재한 국산 서버를 중심으로 하드웨어부터 소프트웨어, AI 서비스까지 아우르는 협력체를 출범시켰다. 국내 기업들과 함께 소버린 AI와 피지컬 AI 시장을 공",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Semiconductor Singularity",
+      "link": "https://semiengineering.com/the-semiconductor-singularity/",
+      "date": "Thu, 12 Nov 2026 15:57:50 +0000",
+      "desc": "Accelerating IC innovation with AI. The post The Semiconductor Singularity appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "하이퍼엑셀 \"삼성 파운드리도 SK 메모리도 구하기 어렵다\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65328",
+      "date": "2026-11-12 14:36:52",
+      "desc": "국내 인공지능(AI) 반도체 팹리스 스타트업 하이퍼엑셀이 내년 제품 양산을 앞두고 삼성전자 파운드리와 SK하이닉스 메모리 물량 확보에 어려움을 겪고 있다.삼성전자에는 AI 가속기 2만개 생산을 요청했으나 절반인 1만개를 우선 배정받았다. SK하이닉스에",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스, 파이프라인 구조 가속장치로 2026 특허기술상 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65311",
+      "date": "2026-11-12 13:53:19",
+      "desc": "반도체 설계(팹리스) 기업 딥엑스가 2026 특허기술상에서 홍대용상을 수상했다고 11일 밝혔다.특허기술상은 우수 발명과 특허기술을 발굴하고 발명자의 기술 개발 의욕을 높이고자 마련됐다. 지식재산처가 주관한다.딥엑스는 '파이프라인 구조를 가지는 인공신경",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+      "link": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
+      "date": "Thu, 12 Nov 2026 13:00:00 +0000",
+      "desc": "Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성, 충청권 144조 투자 본격화…HBM·OLED·반도체 기판 증설",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65339",
+      "date": "2026-11-12 12:31:22",
+      "desc": "삼성이 충청권에 총 144조원을 투자해 반도체와 디스플레이, 기판, 배터리 생산시설을 확충한다.삼성전자는 12일 온양캠퍼스에서 '충청권 메가프로젝트 착공식'을 열고 주요 계열사의 투자 계획과 추진 현황을 공개했다. 이재명 대통령과 이재용 삼성전자 회장",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,6 +192,16 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
+      "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
+      "date": "Thu, 12 Nov 2026 08:30:00 +0000",
+      "desc": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to ero",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "엔비디아 이사회, 젠슨 황 해임 준비…이르면 오늘 거취 결정",
@@ -20,6 +210,96 @@ window.NEWS_DATA = {
       "desc": "엔비디아 이사회가 창업자 젠슨 황 최고경영자(CEO) 해임을 준비하고 있다고 월스트리트저널(WSJ)이 11일(현지시간) 보도했다. 황 CEO가 불륜을 인정한 지 사흘 만이다.WSJ는 사안에 정통한 관계자들을 인용해 이사회가 이르면 이날 회의를 열어 황",
       "category": "ai-compute",
       "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Rethinking Memory For AI Inference",
+      "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+      "date": "Thu, 12 Nov 2026 08:11:46 +0000",
+      "desc": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The p",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
+      "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
+      "date": "Thu, 12 Nov 2026 08:08:39 +0000",
+      "desc": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+      "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+      "date": "Thu, 12 Nov 2026 08:06:49 +0000",
+      "desc": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singula",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
+      "link": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
+      "date": "Thu, 12 Nov 2026 08:05:04 +0000",
+      "desc": "Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits. The post Design",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "IP Integration Challenges Evolve",
+      "link": "https://semiengineering.com/ip-integration-challenges-evolve/",
+      "date": "Thu, 12 Nov 2026 08:05:00 +0000",
+      "desc": "Integration challenges are growing more complex, but the problem is well understood and solutions are emerging. The post IP Integration Chal",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "The Memory Challenge Of Physical AI",
+      "link": "https://semiengineering.com/the-memory-challenge-of-physical-ai/",
+      "date": "Thu, 12 Nov 2026 08:04:39 +0000",
+      "desc": "Right-size the memory hierarchy around the device's data streams, reuse patterns, latency requirements, and operating constraints. The post ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Introduction To FP8 Formats: Part 1",
+      "link": "https://semiengineering.com/introduction-to-fp8-formats-part-1/",
+      "date": "Thu, 12 Nov 2026 08:03:25 +0000",
+      "desc": "The rationale behind 8-bit floating-point data formats, their ecosystem momentum, and hardware support. The post Introduction To FP8 Formats",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "RISC-V For AI: Breakthrough Or Bad Idea?",
+      "link": "https://semiengineering.com/risc-v-for-ai-breakthrough-or-bad-idea/",
+      "date": "Thu, 12 Nov 2026 08:01:26 +0000",
+      "desc": "Custom instructions promise flexibility, but experts question whether RISC-V belongs at the heart of AI acceleration. The post RISC-V For AI",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Foundation IP For The AI Era: Why Execution Shapes SoC Cost ─ eBook",
+      "link": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-shapes-soc-cost/",
+      "date": "Thu, 12 Nov 2026 08:01:23 +0000",
+      "desc": "How an integrated foundation IP strategy can reduce execution risk, enable faster tape-out, and lower TCO. The post Foundation IP For The AI",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "ZDNet Korea",
