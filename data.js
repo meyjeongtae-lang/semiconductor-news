@@ -1,6 +1,96 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-13T02:23:05.743Z",
+  "fetchedAt": "2026-11-14T01:58:17.889Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 3분기 신규 수주 1784억 '역대 최대'…매출도 첫 500억 돌파",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65444",
+      "date": "2026-11-14 10:21:53",
+      "desc": "세미파이브가 인공지능(AI) 반도체 수요 확대에 힘입어 역대 최대 규모의 신규 수주를 기록했다. 분기 매출도 처음으로 500억원을 넘어섰다. 세미파이브는 13일 올해 3분기 연결 기준 매출 514억원, 영업손실 97억원을 기록했다고 밝혔다. 매출은 전",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+      "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+      "date": "Fri, 13 Nov 2026 21:53:30 +0000",
+      "desc": "Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: H",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "아이언디바이스, 3분기 매출 전년비 60% 증가...누적 154억",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65435",
+      "date": "2026-11-13 18:58:26",
+      "desc": "혼성신호 반도체 팹리스 업체 아이언디바이스가 스마트파워앰프의 안정적 공급으로 매출이 크게 증가했다.아이언디바이스는 13일 올해 3분기 실적을 발표했다. 연결 기준 매출액은 전년 동기 대비 약 60% 증가한 49억7500만원이다.3분기 누적 매출액은 1",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+      "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "desc": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea researc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "텔레칩스, 3분기 영업이익 흑자전환…매출 26% 증가",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65413",
+      "date": "2026-11-13 15:44:31",
+      "desc": "텔레칩스가 해외 차량용 반도체 판매 확대에 힘입어 3분기 매출 성장을 이루면서 이익 지표도 흑자로 돌아섰다. 다만 환율 하락과 신규 반도체 개발에 투입한 비용이 회계상 반영되면서 전 분기와 비교해선 이익이 감소했다.텔레칩스는 12일 3분기 연결기준 매",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+      "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
+      "date": "Fri, 13 Nov 2026 14:47:27 +0000",
+      "desc": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄리타스반도체, SK하이닉스 공급 IP 규모 확대...총 39억",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65399",
+      "date": "2026-11-13 13:19:45",
+      "desc": "퀄리타스반도체의 SK하이닉스용 반도체 설계자산(IP) 라이선스 규모가 39억원으로 확대됐다.퀄리타스반도체는 SK하이닉스와 지난 3월 체결한 단일판매 공급계약 내용을 정정했다고 12일 공시했다. 계약금액 총액이 기존 24억2352만원에서 39억2199만",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"젠슨 황 불륜녀, 中 국가안전부 반도체팀 소속 요원\"",
+      "link": "https://www.hankyung.com/article/2026111360497",
+      "date": "Fri, 13 Nov 2026 21:35:57 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "아이티센피엔에스, 3분기 영업익 17억원…흑자전환",
+      "link": "https://zdnet.co.kr/view/?no=20261113182928",
+      "date": "Fri, 13 Nov 2026 18:29:39 +0900",
+      "desc": "[지디넷코리아]아이티센피엔에스(대표 박원규)가 올해 3분기 매출 증가와 함께 영업이익 흑자전환에 성공했다. 자회사 씨플랫폼의 그래픽처리장치(GPU) 서버와 메모리 관련 매출이 확대되면서 연결 실적 개선을 이끌었다.아이티센피엔에스는 올해 3분기 별도 기",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -19,6 +109,46 @@ window.NEWS_DATA = {
       "date": "2026-11-13 08:52:31",
       "desc": "파네시아가 인텔코리아와 CXL(Compute Express Link) 기술 협력 목적의 업무협약(MOU)을 체결했다고 12일 밝혔다.체결식은 이날 '인텔 인공지능(AI) 서밋 서울 2026' 행사가 열린 서울 코엑스에서 이뤄졌다. 정명수 파네시아 대표",
       "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
+      "date": "Fri, 13 Nov 2026 08:01:34 +0000",
+      "desc": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; im",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261113-TT-01호] 2026년 11월 13일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261113-tt-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 04:24:23 GMT",
+      "desc": "칩·패키지에 미세 '물길'… AI 반도체 발열 잡는다 (2026년 11월 13일, 조선일보, 안별 기자) 원문보기: https://www.chosun.com/economy/tech_it/2026/11/13/PXGEEQHSFVHQTP3PFJYFANMOX",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261113-TM-01호] 2026년 11월 13일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261113-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-13%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 04:21:31 GMT",
+      "desc": "SK하이닉스, HBM4 수율 70% 넘어 (2026년 11월 13일, 조선일보, 최효정 기자) 원문보기: https://www.chosun.com/economy/tech_it/2026/11/13/2AUQ4KJZHREENLTIEO4TZWM4DA/ [핵심",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261113-TI-01호] 2026년 11월 13일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261113-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-13%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 13 Nov 2026 04:17:21 GMT",
+      "desc": "메모리 호황에 대만도 EUV 투자 본격화… 삼성전자·SK하이닉스 추격 나선 난야·윈본드 (2026년 11월 13일, 조선비즈, 최효정 기자) 원문보기: https://biz.chosun.com/it-science/ict/2026/11/13/7DDBMZ",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -1258,16 +1388,6 @@ window.NEWS_DATA = {
       "link": "https://zdnet.co.kr/view/?no=20261106181034",
       "date": "Fri, 06 Nov 2026 18:10:34 +0900",
       "desc": "[지디넷코리아]샌프란시스코, 2026년 11월 6일 /PRNewswire/ -- 레디스(Redis)가 오늘 AI 에이전트용 실시간 컨텍스트 엔진 Redis Iris의 새로운 확장을 발표했다. Redis Iris는 이제 에이전트가 실제 환경에서 안정적으",
-      "category": "memory",
-      "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
-      "date": "Fri, 06 Nov 2026 08:01:01 +0000",
-      "desc": "Updated 11/8: Nvidia CEO under investigation; HBM smuggling routes into China; Micron pauses Taiwan fab work; Samsung expands HBM base-die c",
       "category": "memory",
       "domain": "tech"
     },
