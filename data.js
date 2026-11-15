@@ -1,6 +1,16 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-14T01:58:17.889Z",
+  "fetchedAt": "2026-11-15T01:30:09.392Z",
   "items": [
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, 'CES 2027' 혁신상 19개 수상",
+      "link": "https://www.etnews.com/20261115000037",
+      "date": "Sun, 15 Nov 2026 10:00:08 +0900",
+      "desc": "삼성전자가 내년 1월 미국 라스베이거스에서 열리는 세계 최대 전자 전시회 'CES 2027'을 앞두고 최고 혁신상 4개 등 CES 혁신상 총 19개를 수상했다. 삼성전자는 영상디스플레이 13개·생활가전 1개·모바일 2개·반도체 3개 등에서 수상했다고 ",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +20,16 @@ window.NEWS_DATA = {
       "desc": "세미파이브가 인공지능(AI) 반도체 수요 확대에 힘입어 역대 최대 규모의 신규 수주를 기록했다. 분기 매출도 처음으로 500억원을 넘어섰다. 세미파이브는 13일 올해 3분기 연결 기준 매출 514억원, 영업손실 97억원을 기록했다고 밝혔다. 매출은 전",
       "category": "earnings",
       "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화",
+      "link": "https://zdnet.co.kr/view/?no=20261114191001",
+      "date": "Sat, 14 Nov 2026 19:10:01 +0900",
+      "desc": "[지디넷코리아]하노이, 베트남 2026년 11월 14일 /PRNewswire/ -- 제1회 베트남-한국 AI-반도체 서밋(Vietnam – Korea AI – Semiconductor Summit, VKAISS 2026)에 50개가 넘는 양국의 반도체",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "Semiconductor Engineering",
