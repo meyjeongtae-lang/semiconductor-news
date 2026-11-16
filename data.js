@@ -1,6 +1,116 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-15T01:30:09.392Z",
+  "fetchedAt": "2026-11-16T01:34:31.281Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "한쪽은 메모리 공장, 한쪽은 소부장 실험실... SK하이닉스 용인 팹 3층 가보니",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65286",
+      "date": "2026-11-16 09:26:11",
+      "desc": "지난 10일 경기 용인 처인구 원삼면 SK하이닉스 용인 클러스터. 건설 중인 1기 팹 3층 북서쪽 코너 바닥에 빨간 선이 그어져 있었다. 선 안쪽 1000평은 반도체 소재, 부품, 장비(소부장) 기업들이 개발한 신기술을 검증할 '트리니티팹' 자리다. ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK그룹, AI 연산 서비스 기업으로 도약",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65452",
+      "date": "2026-11-16 07:49:33",
+      "desc": "SK그룹이 반도체, 인프라, 에너지 사업을 기반으로 인공지능(AI) 모델과 애플리케이션으로 사업 영역을 넓힌다. AI 연산과 서비스를 거래하는 '토큰 이코노미' 시장을 겨냥한다. 최태원 SK그룹 회장은 각 사업의 성장이 다른 사업의 수요로 이어지는 '",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261115-TI-01호] 2026년 11월 15일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261115-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-15%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 16 Nov 2026 01:17:50 GMT",
+      "desc": "LG이노텍, 기판 수요 증가에 공장 ‘풀가동’…연내 대규모 투자 계획 발표 (2026년 11월 15일, 헤럴드경제, 이정완 기자) 원문보기: https://www.biz.heraldcorp.com/article/10936975?ref=naver [핵심",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261115-TM-01호] 2026년 11월 15일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261115-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-15%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 16 Nov 2026 01:16:33 GMT",
+      "desc": "“AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다 (2026년 11월 15일, 전자신문, 권동준 기자) 원문보기: https://www.etnews.com/20261113000212 [핵심 요약] [1] SK하이닉스, HB",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261115-TT-01호] 2026년 11월 15일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261115-tt-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-15%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 16 Nov 2026 01:15:19 GMT",
+      "desc": "CSOT, 반도체 유리 코어 기판 시제품 공개...종횡비 10:1 (2026년 11월 15일, ZDNet Korea, 이기종 기자) 원문보기: https://zdnet.co.kr/view/?no=20261113124245 [핵심 요약] [1] CSOT",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "코스피, 美 반도체 급락에도…개인 매수에 보합권 등락",
+      "link": "https://www.hankyung.com/article/2026111682746",
+      "date": "Mon, 16 Nov 2026 09:15:26 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "초고수들, 다시 삼전닉스로 전진…반도체 곱버스도 사들였다",
+      "link": "https://www.hankyung.com/article/202611168123i",
+      "date": "Mon, 16 Nov 2026 09:06:15 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 기술 혼자 안 쓴다\"…SK하이닉스가 만든 '비밀병기'",
+      "link": "https://www.hankyung.com/article/202611168049i",
+      "date": "Mon, 16 Nov 2026 09:00:07 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"제품 상용화 1년도 줄이죠\"…SK하이닉스 상생협력에 소부장 '함박웃음'",
+      "link": "https://zdnet.co.kr/view/?no=20261113145501",
+      "date": "Mon, 16 Nov 2026 09:00:02 +0900",
+      "desc": "[지디넷코리아]\"통상 반도체 장비가 개발·평가를 거쳐 양산 적용되려면 5년이 걸립니다. 트리니티팹이 생기면 이 시간이 1년 가까이 줄어들 것 같습니다. 굉장히 중요한 역할을 하는거죠.\"이재호 테스 부회장은 지난 10일 경기 용인시 처인구 SK하이닉스 ",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "CSOT, 반도체 유리 코어 기판 시제품 공개...종횡비 10:1",
+      "link": "https://zdnet.co.kr/view/?no=20261113124245",
+      "date": "Sun, 15 Nov 2026 23:38:58 +0900",
+      "desc": "[지디넷코리아][우한(중국)=이기종 기자] CSOT가 지난 13일 중국 우한에서 개최한 자체 연례행사 DTC 2026에서 반도체 패키징 유리기판 시제품 3종을 전시했다. 지난 9월 BOE도 베이징에서 열린 자체 연례행사 IPC 2026에서 반도체 유리",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제 20261115-AI-01호] 2026년 11월 3주차 글로벌 반도체산업 관련 기사 분석",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C-20261115-ai-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%82%AC-%EB%B6%84%EC%84%9D",
+      "date": "Sun, 15 Nov 2026 01:52:04 GMT",
+      "desc": "AI 반도체 산업의 새로운 변곡점: 엔비디아 리스크, 중국의 기술 자립, 그리고 차세대 반도체 공급망 재편 글쓴이: 이종욱 2026년 11월 3주차 글로벌 반도체 산업에서는 AI 반도체 시장의 성장세가 지속되는 가운데, 산업의 주도권을 둘러싼 경쟁 양",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "전자신문",
       "type": "kr",
