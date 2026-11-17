@@ -1,6 +1,206 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-16T01:34:31.281Z",
+  "fetchedAt": "2026-11-17T04:19:12.183Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "앤씨앤, 창업자 김경수 물러났다…비투엔 체제로 경영진 전면 교체",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65424",
+      "date": "2026-11-17 12:04:17",
+      "desc": "앤씨앤이 창업자 김경수를 포함한 기존 경영진을 전면 교체했다. 지난 9월 최대주주가 된 비투엔 측 인사들이 새 경영진을 맡았다. 김경수 창업자는 앤씨앤 이사직에서 물러나지만 자회사 넥스트칩 대표직은 유지한다.앤씨앤은 지난 13일 본사에서 임시주주총회를",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"반도체 흔들리자 18조 몰렸다\"…단기자금 피난처",
+      "link": "https://www.hankyung.com/article/202611171574i",
+      "date": "Tue, 17 Nov 2026 11:39:19 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "美, 中 AI칩 우회접근 통제 강화…5개국 선적 허가제 도입",
+      "link": "https://zdnet.co.kr/view/?no=20261117095135",
+      "date": "Tue, 17 Nov 2026 10:49:55 +0900",
+      "desc": "[지디넷코리아]미국 트럼프 행정부가 중국 기업이 해외 데이터센터를 빌려 첨단 인공지능(AI) 칩을 우회 사용하는 길을 막는 새 수출통제 규정을 16일(현지시간) 발표했다. 이번 조치는 도널드 트럼프 대통령이 시진핑 중국 국가주석과의 아시아태평양경제협력",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "인텔 \"GPU D270, 고성능컴퓨팅 분야로 확장 가능\"",
+      "link": "https://zdnet.co.kr/view/?no=20261117104728",
+      "date": "Tue, 17 Nov 2026 10:47:54 +0900",
+      "desc": "[지디넷코리아]인텔이 내년 출시할 추론 특화 GPU D270(크레센트 아일랜드) 관련 자체 성능시험 결과를 일부 공개하고 \"D270을 AI 추론 뿐만 아니라 고성능컴퓨팅(HPC) 분야까지 활용할 수 있다\"고 설명했다.인텔 GPU D시리즈 중 최상위 제",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 고속도로] \"엔비디아 의존도 낮춘다\"…오픈AI, AMD 기반 AI 인프라 457MW 확보",
+      "link": "https://zdnet.co.kr/view/?no=20261117101352",
+      "date": "Tue, 17 Nov 2026 10:23:09 +0900",
+      "desc": "[지디넷코리아]오픈AI가 미국 인공지능(AI) 클라우드 기업 텐서웨이브와 손잡고 AMD 기반 AI 인프라를 대규모로 확보한다. 엔비디아 중심의 그래픽처리장치(GPU) 공급망을 다변화하는 동시에 급증하는 AI 학습·추론 수요에 대응하기 위한 조치로, 지",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[AI 고속도로] 엔비디아 AI 인프라 금융 이어지지만…월가, 네오클라우드에는 신중",
+      "link": "https://zdnet.co.kr/view/?no=20261117095312",
+      "date": "Tue, 17 Nov 2026 10:22:03 +0900",
+      "desc": "[지디넷코리아]엔비디아가 추진하는 대규모 인공지능(AI) 인프라 금융 계획이 유지될 것으로 전망되는 가운데 네오클라우드 기업들의 자금 조달에는 새로운 변수가 떠오르고 있다. 월가 금융기관들이 투자 위험을 줄이기 위해 고객 계약과 추가 보증을 중시하면서",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "코아시아, 3분기 영업익 31억…흑자전환",
+      "link": "https://zdnet.co.kr/view/?no=20261117093234",
+      "date": "Tue, 17 Nov 2026 10:08:14 +0900",
+      "desc": "[지디넷코리아]코아시아가 시스템 반도체 부문 성장에 힘입어 3분기 흑자 전환에 성공했다.코아시아는 3분기 연결기준 매출 1149억원, 영업이익 31억원을 기록했다고 17일 밝혔다. 매출은 전 분기(1321억원)보다 다소 감소했으나 전년 동기(907억원",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
+      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
+      "date": "Tue, 17 Nov 2026 00:56:29 +0000",
+      "desc": "Researchers at Singapore University of Technology and Design (SUTD), A*STAR, and National University of Singapore (NUS) published “Self-Supe",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "델 테크놀로지스, 에이전틱 AI 인프라 시장 공략 강화…데이터부터 운영까지 풀스택 지원",
+      "link": "https://www.etnews.com/20261117000087",
+      "date": "Tue, 17 Nov 2026 09:53:52 +0900",
+      "desc": "델 테크놀로지스(Dell Technologies)가 기업용 인공지능(AI) 시장의 새로운 성장 동력으로 부상한 에이전틱 AI(Agentic AI) 인프라 사업을 대폭 강화한다. AI 에이전트가 기업 내부 데이터를 직접 활용하고 업무를 자율적으로 수행하",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261116-TM-01호] 2026년 11월 16일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261116-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-16%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 17 Nov 2026 00:46:29 GMT",
+      "desc": "‘단군 이래 최대’ 600조원 투입하는 신규 팹 속도전 (2026년 11월 16일, 헤럴드경제, 김현일 기자) 원문보기: https://biz.heraldcorp.com/article/10938514?ref=naver [핵심 요약] [1] SK하이닉스",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261116-TI-01호] 2026년 11월 16일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261116-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-16%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 17 Nov 2026 00:44:46 GMT",
+      "desc": "반도체 장기 호황에…팹리스 실적 '온기' (2026년 11월 16일, 파이낸셜뉴스, 강경래 기자) 원문보기: https://www.fnnews.com/news/202611161812504924 [핵심 요약] [1] 제주반도체, 3분기 영업이익 1050",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
+      "link": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/",
+      "date": "Mon, 16 Nov 2026 23:52:56 +0000",
+      "desc": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, 3분기 누적 매출 419억원...지난해 연매출 상회",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65490",
+      "date": "2026-11-16 17:52:38",
+      "desc": "반도체 팹리스 업체 글로벌테크놀로지가 올해 9개월 만에 지난해 연간 매출을 넘어섰다. 주력 제품인 발광다이오드(LED) 구동칩(LDI) 공급이 크게 늘면서 실적 개선을 이끌었다.글로벌테크놀로지는 16일 올해 3분기 매출이 131억원으로 전년 동기 대비",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Taking a Tour of Canada’s Particle Accelerator",
+      "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+      "date": "Mon, 16 Nov 2026 17:52:31 +0000",
+      "desc": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything f",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD \"MI455X 토큰 처리량 엔비디아 대비 30% 향상\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65482",
+      "date": "2026-11-16 16:53:55",
+      "desc": "AMD가 최신 서버용 그래픽처리장치(GPU) 인스팅트의 인공지능(AI) 연산 성능을 공개하고 추가 제품군도 발표했다.AMD는 12일(현지시간) AMD 헬리오스에 탑재된 MI455X는 MLPerf의 AI 추론 성능 오프라인 테스트에서 딥시크-R1 모델 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB글로벌칩, '네뷸라 AI' 조직 개편...3년 내 독자 PMIC 확보",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65475",
+      "date": "2026-11-16 16:16:12",
+      "desc": "반도체 팹리스 기업 DB글로벌칩이 인공지능(AI) 기반 차세대 디스플레이 구동칩(DDI) 사업을 위해 연구개발(R&D) 조직을 확대 개편했다. 내년 신제품 양산을 추진하는 한편 현재 외부 업체에 의존하는 전력관리반도체(PMIC) 기술도 자체 확보할 계",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Technology as a Trojan Horse",
+      "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
+      "date": "Mon, 16 Nov 2026 13:59:50 +0000",
+      "desc": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell an",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "노타, 인텔 K-AI 풀스택 얼라이언스 참여...AI 최적화 협력 강화",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65446",
+      "date": "2026-11-16 12:54:02",
+      "desc": "노타가 인텔코리아의 'K-AI 풀스택 얼라이언스'에 참여한다고 14일 밝혔다.K-AI 풀스택 얼라이언스는 인텔 반도체를 탑재한 국산 서버 설계, 공급 목적의 개방형 AI 협력체다. 하드웨어부터 소프트웨어, AI 서비스 전반에서 23개 참여사가 협업한다",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 한국서 '퀄컴 인 유어 라이프 2026' 개최",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65459",
+      "date": "2026-11-16 12:53:51",
+      "desc": "퀄컴이 서울 강남에서 '퀄컴 인 유어 라이프 2026' 행사를 개최했다고 16일 밝혔다.해당 행사는 퀄컴 협력사와 크리에이터, 국내 스냅드래곤 인사이더즈가 교류할 수 있도록 마련됐다. 2024년부터 올해 2번째 개최다. 올해는 자율형(에이전틱) 인공지",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "권미령 파네시아 총괄, IITP 원장 표창 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65445",
+      "date": "2026-11-16 12:53:32",
+      "desc": "파네시아는 권미령 총괄대표가 정보통신기획평가원(IITP) 원장 표창을 받았다고 13일 밝혔다. 지난 11일 '2027 AI·ICT 기술전망 컨퍼런스' 개회식에서 '정보통신기술(ICT) 성과확산 유공자 포상' 시상식이 열렸다. 권 총괄대표는 AI 데이터",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -12,12 +212,62 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process",
+      "link": "https://semiengineering.com/what-is-acoustic-micro-imaging-a-quick-guide-to-this-inspection-process/",
+      "date": "Mon, 16 Nov 2026 08:01:29 +0000",
+      "desc": "Obtaining clear images of gaps and delaminations in advanced packages. The post What Is Acoustic Micro Imaging? A Quick Guide To This Inspec",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Are AI Agents The New Semiconductor IP?",
+      "link": "https://semiengineering.com/are-ai-agents-the-new-semiconductor-ip/",
+      "date": "Mon, 16 Nov 2026 08:01:17 +0000",
+      "desc": "Agents are emerging as reusable design tools, but trust and use models remain challenging. The post Are AI Agents The New Semiconductor IP? ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "SK그룹, AI 연산 서비스 기업으로 도약",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=65452",
       "date": "2026-11-16 07:49:33",
       "desc": "SK그룹이 반도체, 인프라, 에너지 사업을 기반으로 인공지능(AI) 모델과 애플리케이션으로 사업 영역을 넓힌다. AI 연산과 서비스를 거래하는 '토큰 이코노미' 시장을 겨냥한다. 최태원 SK그룹 회장은 각 사업의 성장이 다른 사업의 수요로 이어지는 '",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "코웨이엔텍, 반도체 수처리 사업 성장에 3분기 만에 역대 최대 매출",
+      "link": "https://www.etnews.com/20261116000272",
+      "date": "Mon, 16 Nov 2026 16:00:00 +0900",
+      "desc": "코웨이 자회사 코웨이엔텍이 반도체 수처리 사업 성장에 힘입어 3분기 만에 역대 최대 매출을 달성했다. 2016년 법인 설립 이후 처음으로 매출 1000억원을 돌파했다. 코웨이엔텍 올해 3분기 누적 매출은 1084억원으로, 전년 동기 대비 88.4% 증",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "메모리 대란, 프린터까지 덮쳤다…원가 급등에 제품 가격 15% 인상",
+      "link": "https://www.etnews.com/20261116000211",
+      "date": "Mon, 16 Nov 2026 16:00:00 +0900",
+      "desc": "메모리 반도체 가격 급등 여파가 프린터 기업으로 번지고 있다. 글로벌 프린터 기업이 제조원가 상승에 따른 수익성 방어를 위해 제품 가격을 인상, 소비자 부담이 커질 전망이다. HP 일본법인은 내년 2월 4일부터 잉크젯 프린터 전 제품 가격을 약 15%",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Sound of Smarter Farming",
+      "link": "https://www.eetimes.com/the-sound-of-smarter-farming/",
+      "date": "Mon, 16 Nov 2026 06:59:20 +0000",
+      "desc": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monit",
       "category": "etc",
       "domain": "etc"
     },
@@ -152,6 +402,16 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+      "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+      "date": "Fri, 13 Nov 2026 20:00:00 +0000",
+      "desc": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea researc",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "아이언디바이스, 3분기 매출 전년비 60% 증가...누적 154억",
@@ -160,16 +420,6 @@ window.NEWS_DATA = {
       "desc": "혼성신호 반도체 팹리스 업체 아이언디바이스가 스마트파워앰프의 안정적 공급으로 매출이 크게 증가했다.아이언디바이스는 13일 올해 3분기 실적을 발표했다. 연결 기준 매출액은 전년 동기 대비 약 60% 증가한 49억7500만원이다.3분기 누적 매출액은 1",
       "category": "earnings",
       "domain": "business"
-    },
-    {
-      "source": "EE Times",
-      "type": "intl",
-      "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
-      "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "desc": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea researc",
-      "category": "etc",
-      "domain": "etc"
     },
     {
       "source": "디일렉",
