@@ -1,6 +1,186 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-17T04:19:12.183Z",
+  "fetchedAt": "2026-11-18T03:18:57.738Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "젠슨 황 공백 없었다…엔비디아 3분기 매출 시장 전망 상회",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65581",
+      "date": "2026-11-18 10:53:10",
+      "desc": "젠슨 황 최고경영자(CEO)가 사임한 가운데 엔비디아가 실적 성장세를 이어갔다. 17일(현지시간) 2027회계연도 3분기 실적을 발표에서 반회계기준(GAAP) 매출 1158억달러(약 154조6509억원), 영업이익 775억2000만달러(약 103조52",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원 SK 회장, '한일 경제협력 빅텐트' 출범",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65584",
+      "date": "2026-11-18 10:30:54",
+      "desc": "최태원 SK그룹 회장이 지난 6월 일본 도쿄 닛케이포럼에서 제안한 한일 협력 플랫폼 '빅텐트'가 5개월 만에 출범했다. 양국 경제단체와 연구기관이 쌓아온 협력 성과를 공유하고 공동 과제를 발굴한다. 최종현학술원은 일본 요미우리신문과 '한일 신시대 전략",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "초고수들, 반도체 다시 사들여…제약·바이오 차익실현",
+      "link": "https://www.hankyung.com/article/202611184151i",
+      "date": "Wed, 18 Nov 2026 11:00:03 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[오전 시황] 코스피 상승폭 0.74%로 축소…반도체 초반 급등 반납",
+      "link": "https://www.hankyung.com/article/202611184191i",
+      "date": "Wed, 18 Nov 2026 10:48:51 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "모빌린트, 日 AI 전시회서 엣지 AI 솔루션 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261118095704",
+      "date": "Wed, 18 Nov 2026 10:13:55 +0900",
+      "desc": "[지디넷코리아]AI 반도체 전문기업 모빌린트가 일본에서 열린 대규모 AI 전시회에 참가해 현지 파트너사와 협력 기반 엣지 AI 솔루션을 대거 선보였다.모빌린트는 지난 11일부터 13일까지 일본 마쿠하리 멧세에서 개최된 ‘AI EXPO TOKYO Aut",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261117-TI-01호] 2026년 11월 17일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261117-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-17%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 18 Nov 2026 00:51:42 GMT",
+      "desc": "8인치 단계적 철수 삼성 파운드리...韓 팹리스 \"12인치 전환 정책 시급\" (2026년 11월 17일, ZDNet Korea, 장경윤 기자) 원문보기: https://zdnet.co.kr/view/?no=20261117111401 [핵심 요약] [1",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261117-TM-01호] 2026년 11월 17일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261117-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-17%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 18 Nov 2026 00:47:55 GMT",
+      "desc": "삼성전자, 자체 AI로 반도체 미세결함 검사 (2026년 11월 17일, 헤럴드경제, 이정완 기자) 원문보기: https://biz.heraldcorp.com/article/10939593?ref=naver [핵심 요약] [1] 삼성전자, 자체 개발 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
+      "date": "Tue, 17 Nov 2026 22:37:22 +0000",
+      "desc": "Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview. The pos",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "데브 쇼퀴스트 엔비디아 부사장, '2026 리사 수 여성 혁신상' 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65560",
+      "date": "2026-11-17 18:23:14",
+      "desc": "엔비디아는 데브 쇼퀴스트 운영 부문 수석부사장이 세계반도체연맹(GSA)의 ‘2026 리사 수 여성 혁신상'을 받았다고 17일 밝혔다.GSA는 반도체 산업 발전에 기여한 여성 지도자에게 이 상을 준다. 쇼퀴스트 수석부사장은 2007년부터 엔비디아의 공급",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성 DSP 5곳 중 4곳 매출 증가…수익성은 엇갈려",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65532",
+      "date": "2026-11-17 18:12:46",
+      "desc": "삼성전자 파운드리 디자인솔루션파트너(DSP)인 코아시아세미와 가온칩스가 올해 3분기 매출을 크게 늘리며 영업흑자로 돌아섰다. 국내 주요 DSP 5곳 중 4곳의 매출이 증가했지만 수익성은 업체별로 차이를 보였다.17일 디일렉이 국내 삼성전자 파운드리 D",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+      "link": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/",
+      "date": "Tue, 17 Nov 2026 17:44:39 +0000",
+      "desc": "Researchers at Arizona State University and Ampere Computing published “DT-MATCH: Defect- and Topology-Aware Chiplet Matching for Yield Opti",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
+      "link": "https://semiengineering.com/backside-clock-mesh-reduces-skew-and-power-in-backside-power-delivery-kaist/",
+      "date": "Tue, 17 Nov 2026 17:35:37 +0000",
+      "desc": "Researchers at Korea Advanced Institute of Science and Technology (KAIST) published “Clock Distribution Network with Backside Clock Mesh in ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "인텔 \"GPU D270 성능 엔비디아 5.9배\"...FP64 지원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65551",
+      "date": "2026-11-17 17:30:07",
+      "desc": "인텔이 데이터센터용 그래픽처리장치(GPU) '인텔 GPU D270' 성능이 엔비디아 시스템 대비 최대 5.9배에 달한다고 16일(현지시간) 발표했다.인텔 D270은 코드명 크레센트 아일랜드로 알려졌던 인텔의 인공지능(AI) 추론용 GPU다. 인텔은 G",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
+      "link": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/",
+      "date": "Tue, 17 Nov 2026 17:26:57 +0000",
+      "desc": "An exploratory JEDEC task group is weighing how controller vendors could support MRAM with hard IP to work with newer LPDDR implementations.",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성 차세대 D램 '3트랙' 개발 확정…HBM5는 D0A 웨이퍼 본딩",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65559",
+      "date": "2026-11-17 16:34:48",
+      "desc": "삼성전자가 고대역폭메모리(HBM)5에 메모리 셀과 주변회로를 각각 다른 웨이퍼에서 만든 뒤 붙이는 새로운 D램 구조를 적용한다. 셀에는 D1b 공정을, 코어와 주변회로는 이보다 미세한 D1d 공정을 적용한다. 이 구조는 내부에서 D0A로 불린다.기존 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "마벨-펭귄솔루션즈 전략적 협력...CXL·광솔루션 통합",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65506",
+      "date": "2026-11-17 13:54:16",
+      "desc": "마벨과 펭귄솔루션즈가 인공지능(AI) 데이터센터의 메모리 인프라 기술 관련 전략적 협력을 16일(현지시간) 발표했다.양사는 CXL(Compute eXpress Link) 기반 서버단 메모리 확장 기술, 랙(Rack) 간 광학 상호연결(인터커넥트) 기술",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 월드랩스 인수 완료...'AI 대모' 수석과학자로 품었다",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65504",
+      "date": "2026-11-17 13:53:58",
+      "desc": "AMD가 인공지능(AI) 모델 개발 기업 월드랩스 인수 절차를 완료했다고 16일(현지시간) 밝혔다.이번 인수로 AMD는 기존 AI 반도체와 소프트웨어에 더해 AI 모델 연구 역량도 확보했다. 페이페이 리 월드랩스 전 최고경영자(CEO) 겸 스탠퍼드대 ",
+      "category": "deals",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "세미파이브, 로직 위에 D램 쌓는 AI 칩 설계…내년 1분기 테이프아웃",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65513",
+      "date": "2026-11-17 13:46:57",
+      "desc": "맞춤형 반도체(ASIC) 설계 기업 세미파이브가 로직 반도체와 D램을 수직으로 쌓는 3D 집적회로(IC) 플랫폼을 프리퍼드 네트웍스(PFN)의 차세대 AI 추론 반도체에 처음 적용했다고 밝혔다. 해당 칩은 내년 1분기에 설계를 마치고 제조 단계로 넘기",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +190,36 @@ window.NEWS_DATA = {
       "desc": "앤씨앤이 창업자 김경수를 포함한 기존 경영진을 전면 교체했다. 지난 9월 최대주주가 된 비투엔 측 인사들이 새 경영진을 맡았다. 김경수 창업자는 앤씨앤 이사직에서 물러나지만 자회사 넥스트칩 대표직은 유지한다.앤씨앤은 지난 13일 본사에서 임시주주총회를",
       "category": "market",
       "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
+      "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
+      "date": "Tue, 17 Nov 2026 09:16:07 +0000",
+      "desc": "The banking group reports double-digit cost savings from quantum-inspired optimization, but useful quantum hardware faces a tougher test tha",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Physics Vs. Data",
+      "link": "https://semiengineering.com/physics-vs-data/",
+      "date": "Tue, 17 Nov 2026 08:15:58 +0000",
+      "desc": "Why both approaches are needed at angstrom-level dimensions. The post Physics Vs. Data appeared first on Semiconductor Engineering .",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Nov. 17",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+      "date": "Tue, 17 Nov 2026 08:01:08 +0000",
+      "desc": "HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embe",
+      "category": "research",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
