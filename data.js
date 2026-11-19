@@ -1,6 +1,146 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-18T03:18:57.738Z",
+  "fetchedAt": "2026-11-19T02:56:11.570Z",
   "items": [
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "삼전 늘리고, 없던 하이닉스 담고…ETF마다 갈린 '반도체 셈법'",
+      "link": "https://www.hankyung.com/article/202611196862i",
+      "date": "Thu, 19 Nov 2026 11:18:36 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다",
+      "link": "https://zdnet.co.kr/view/?no=20261119105719",
+      "date": "Thu, 19 Nov 2026 10:57:19 +0900",
+      "desc": "[지디넷코리아]인공지능(AI) 학습·추론 수요 확대와 메모리 가격 상승이 맞물리면서 내년 글로벌 AI 시장에서 인프라 지출 비중이 더 커질 전망이다. 기업들 AI 도입이 확대되는 동시에 대규모 컴퓨팅 자원 확보 경쟁이 이어지면서 서버를 중심으로 투자 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "예스티, HPSP 상대 특허분쟁 우위 재확인...대법원, HPSP 상고 기각",
+      "link": "https://zdnet.co.kr/view/?no=20261119101851",
+      "date": "Thu, 19 Nov 2026 10:48:25 +0900",
+      "desc": "[지디넷코리아]예스티가 HPSP 상대 반도체 공정용 고압수소어닐링(HPA) 장비 특허분쟁에서 우위를 재차 확인했다. HPSP가 예스티의 특허 비침해 판결에 불복하고 상고했지만 대법원이 받아들이지 않았다. 다만, HPSP가 제기한 민사소송인 특허침해 본",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "디노티시아, AI 검색 반도체 'VDPU' ASIC 구동 첫 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261119095429",
+      "date": "Thu, 19 Nov 2026 10:10:02 +0900",
+      "desc": "[지디넷코리아]장기기억 인공지능(AI) 및 반도체 통합 솔루션 전문기업 디노티시아가 주문형 반도체(ASIC) 기반 AI 데이터 검색 반도체의 실시간 구동 모습을 세계 무대에 처음으로 선보였다.디노티시아는 미국 시카고에서 열린 ‘슈퍼컴퓨팅 2026(SC",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "인텔 파운드리, 2.5차원 패키징 'EMIB' 첫 외부 고객사로 MS 확보",
+      "link": "https://zdnet.co.kr/view/?no=20261119100612",
+      "date": "Thu, 19 Nov 2026 10:08:01 +0900",
+      "desc": "[지디넷코리아]인텔 파운드리가 2.5차원 반도체 연결 기술 'EMIB' 첫 외부 고객사로 마이크로소프트(MS)를 확보했다. 인텔 자체 제품에 주로 적용해 온 EMIB를 외부 기업의 반도체 패키징에 적용하는 첫 사례다.양사는 18일(현지시간) 공동으로 ",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261118-TM-01호] 2026년 11월 18일 반도체 제조 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261118-tm-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-18%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%9C%EC%A1%B0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 19 Nov 2026 00:53:55 GMT",
+      "desc": "삼성전자, 국내 반도체 장비 옮겨 오스틴 재편… \"美 공장 '이원화' 전략 (2026년 11월 18일, 조선비즈, 황민규 기자) 원문보기: https://biz.chosun.com/it-science/ict/2026/11/18/MRQGZESE3RGEN",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261118-TI-01호] 2026년 11월 18일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261118-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-18%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 19 Nov 2026 00:52:40 GMT",
+      "desc": "트럼프-시진핑, 반도체·희토류 해법 나올까 (2026년 11월 18일, 한국경제, 김은정·김동현 기자) 원문보기: https://www.hankyung.com/article/2026111856131 [핵심 요약] [1] 미·중 정상회담, 반도체·희토류",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
+      "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
+      "date": "Wed, 18 Nov 2026 23:39:34 +0000",
+      "desc": "Charles Beyrouthy warns quantum stocks face a correction as investors ignore revenue and tech differences; watch where he sees opportunity n",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "쓰리에이로직스, 다이나믹 NFC 태그칩 '세계일류상품' 선정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65622",
+      "date": "2026-11-18 17:42:47",
+      "desc": "근거리무선통신(NFC) 반도체 팹리스 기업 쓰리에이로직스(3ALogics)가 다이나믹 NFC 태그칩이 '현재 세계일류상품'에 선정됐다고 18일 밝혔다.다이나믹 NFC 태그칩은 무선 통신(RF) 인터페이스와 마이크로컨트롤러유닛(MCU) 연결용 유선 인터",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "수퍼게이트, 베트남 반도체 기업과 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65603",
+      "date": "2026-11-18 17:40:18",
+      "desc": "국내 팹리스 기업 수퍼게이트가 베트남 FPT 세미컨덕터(FPT)와 인공지능(AI) 반도체 사업 협력을 위한 양해각서(MOU)를 체결했다고 18일 밝혔다.양사는 반도체 테스트와 패키징부터 클라우드, 비전 AI 솔루션 등 분야에서 협력 기회를 발굴한다.먼",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "DB하이텍, '대한민국 안전대상' 행정안전부 장관상 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65615",
+      "date": "2026-11-18 17:13:16",
+      "desc": "DB하이텍이 '제25회 대한민국 안전대상' 시상식에서 행정안전부 장관상을 받았다고 18일 밝혔다.이 시상식은 지난 17일 경기도 고양시 킨텍스에서 열렸다. DB하이텍 부천캠퍼스는 체계적 화재 예방 활동과 소방안전관리 체계 구축 성과를 인정받아 '우수관",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "딥엑스 NPU 탑재 제품, 대만서 우수제품상 수상",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65627",
+      "date": "2026-11-18 17:08:45",
+      "desc": "반도체 팹리스 기업 딥엑스의 신경망처리장치(NPU)를 탑재한 제품이 '2027 대만 우수제품상'을 수상했다.딥엑스는 18일 대만 에이페이서의 현장 단말용 인공지능(AI) 가속기 카드 '바이클로'가 대만 우수제품상을 받았다고 밝혔다. 이 제품은 NPU ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "망고부스트-PFN, 이기종 AI 추론 시스템 협력",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65594",
+      "date": "2026-11-18 15:27:52",
+      "desc": "망고부스트가 인공지능(AI) 추론 인프라 기술 협력 목적으로 프리퍼드 네트웍스(PFN)와 업무협약(MOU)을 체결했다고 18일 밝혔다.양사는 차세대 'AI 토큰팩토리' 구조의 기술 검증(PoC)을 진행한다. AI 추론 처리량 확대와 지연시간 감소 등 ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+      "link": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/",
+      "date": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "desc": "India's AI infrastructure needs could exceed 6 GW by 2030. Oxmiq Labs CEO Raja Koduri explains why domestic chip design and custom systems m",
+      "category": "etc",
+      "domain": "etc"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -20,6 +160,36 @@ window.NEWS_DATA = {
       "desc": "최태원 SK그룹 회장이 지난 6월 일본 도쿄 닛케이포럼에서 제안한 한일 협력 플랫폼 '빅텐트'가 5개월 만에 출범했다. 양국 경제단체와 연구기관이 쌓아온 협력 성과를 공유하고 공동 과제를 발굴한다. 최종현학술원은 일본 요미우리신문과 '한일 신시대 전략",
       "category": "etc",
       "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Can AI Agents Really Shift Chip Design Left?",
+      "link": "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
+      "date": "Wed, 18 Nov 2026 08:01:53 +0000",
+      "desc": "Agentic AI promises to automate more of the chip flow, but integration with EDA tools and capturing decades of engineering expertise are non",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Nov. 18",
+      "link": "https://semiengineering.com/blog-review-nov-18-3/",
+      "date": "Wed, 18 Nov 2026 08:01:49 +0000",
+      "desc": "PCIe and trust; rack-scale co-design; heterogeneous scaling; AI data center primer; on-device balancing; EU semi trends. The post Blog Revie",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
+      "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
+      "date": "Wed, 18 Nov 2026 06:59:00 +0000",
+      "desc": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomo",
+      "category": "ai-compute",
+      "domain": "tech"
     },
     {
       "source": "한국경제",
