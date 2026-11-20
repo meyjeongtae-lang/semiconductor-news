@@ -1,6 +1,276 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-19T02:56:11.570Z",
+  "fetchedAt": "2026-11-20T02:49:43.582Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메모리는 HBM 개발통, 갤럭시는 퀄컴 출신…삼성전자 투톱 겸직 해제",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65701",
+      "date": "2026-11-20 10:27:42",
+      "desc": "삼성전자가 전영현 부회장과 노태문 사장의 2인 대표이사 체제는 유지하고 두 사람이 겸직해 온 사업부장직은 떼어냈다. 메모리사업부장과 모바일경험(MX)사업부장에는 각각 황상준 사장과 최원준 사장이 선임됐다. 전 부회장은 파운드리 등 미래사업에 집중한다.",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "삼성 뉴스룸",
+      "type": "corp",
+      "title": "삼성전자 사장단 인사",
+      "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%82%ac%ec%9e%a5%eb%8b%a8-%ec%9d%b8%ec%82%ac-2",
+      "date": "Fri, 20 Nov 2026 09:01:00 +0000",
+      "desc": "삼성전자는 11월 20일 사장 승진 3명, 위촉업무 변경 3명 등 총 6명 규모로 ‘2027년 정기 사장단 인사’를 발표했다. ▲ 승진 삼성전자 DS부문 메모리사업부 메모리개발담당 겸)DRAM개발실장 황상준 부사장→ 삼성전자 DS부문 메모리사업부장 사",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "에이직랜드, 메모리 컨트롤러 양산 수주",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65695",
+      "date": "2026-11-20 08:39:45",
+      "desc": "에이직랜드가 고성능 메모리 컨트롤러 양산 공급 계약을 따냈다. 첫 발주서(PO) 기준 계약 규모는 1047만달러(약 139억원)다.에이직랜드는 20일 고성능 메모리 컨트롤러 신규 양산 공급 계약을 체결했다고 밝혔다. 계약 종료일은 내년 4월 30일이다",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[프로필] 이종명 삼성전자 DS부문 CTO 겸 반도체연구소장 사장",
+      "link": "https://zdnet.co.kr/view/?no=20261120105240",
+      "date": "Fri, 20 Nov 2026 10:54:28 +0900",
+      "desc": "[지디넷코리아]삼성전자는 2027년 정기 사장단 인사에서 이종명 DS부문 CTO 반도체연구소 공정개발실장 부사장을 DS부문 CTO 겸 반도체연구소장 사장으로 승진시켰다.이 신임 사장은 약 28년 이상 축적한 반도체 공정 전문성과 노하우를 바탕으로 공정",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "중국이 메모리 주문 확 줄였다…삼전닉스 '날벼락' 맞은 이유",
+      "link": "https://www.hankyung.com/article/202611209413i",
+      "date": "Fri, 20 Nov 2026 10:53:46 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "위기 속 중책 맡은 최원준 신임 삼성 MX사업부장, 수익성 개선이 과제",
+      "link": "https://zdnet.co.kr/view/?no=20261120104740",
+      "date": "Fri, 20 Nov 2026 10:52:39 +0900",
+      "desc": "[지디넷코리아]최원준 삼성전자 DX(완제품)부문 MX(스마트폰)사업부 최고운영책임자(COO) 겸 개발실장이 2027년 정기 사장단 인사에서 MX사업부장 사장을 맡았다. 올해 메모리 등 세트 부품 가격 급등으로 모바일 사업이 수익성 악화라는 위기를 맞고",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "[프로필] 조상연 삼성전자 DS부문 시스템 LSI사업부장 사장",
+      "link": "https://zdnet.co.kr/view/?no=20261120104727",
+      "date": "Fri, 20 Nov 2026 10:50:15 +0900",
+      "desc": "[지디넷코리아]삼성전자는 2027년 정기 사장단 인사에서 조상연 DS부문 DSA총괄 겸 DSRA-메모리(Memory) 연구소장 부사장을 DS부문 시스템 LSI사업부장 사장으로 승진시켰다.조 신임 사장은 시스템반도체, 메모리 소프트웨어 개발과 글로벌 고",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "\"최대 실적 주도\"…삼성전자 '반도체 3인방' 사장 승진",
+      "link": "https://www.hankyung.com/article/202611209158g",
+      "date": "Fri, 20 Nov 2026 10:35:16 +0900",
+      "desc": "",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "'올해의 나'를 서버랙 안에...SKT, 성수에 ‘기억 저장소’ 열었다",
+      "link": "https://zdnet.co.kr/view/?no=20261120103451",
+      "date": "Fri, 20 Nov 2026 10:34:51 +0900",
+      "desc": "[지디넷코리아]올해 가장 많이 들은 노래는 무엇이었을까. 나를 가장 많이 성장시킨 경험은 뭘까. 서울 성수동 T팩토리에서 이런 질문에 답하면 AI가 나만의 ‘기억 결산표’를 만들어준다. 올해 찍은 사진으로 꾸민 메모리 카드 모형은 하나를 키링으로 가져",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "에이직랜드, 메모리 컨트롤러 1047만달러 양산 수주",
+      "link": "https://www.hankyung.com/article/202611209445i",
+      "date": "Fri, 20 Nov 2026 10:11:15 +0900",
+      "desc": "",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "인텔, 1.8나노급 첨단 파운드리 공정서 첫 외부 고객사 확보",
+      "link": "https://www.hankyung.com/article/202611209295i",
+      "date": "Fri, 20 Nov 2026 10:03:37 +0900",
+      "desc": "",
+      "category": "foundry",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체 굴기?…알고 보니 中 반도체주도 고점대비 반토막",
+      "link": "https://www.hankyung.com/article/202611197975i",
+      "date": "Fri, 20 Nov 2026 10:00:05 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261119-TI-01호] 2026년 11월 19일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261119-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-19%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 20 Nov 2026 00:42:51 GMT",
+      "desc": "삼성전자 '투톱' 유지…메모리 대거 승진 전망 (2026년 11월 19일, 한국경제, 김채연·원종환 기자) 원문보기: https://www.hankyung.com/article/2026111982761 [핵심 요약] [1] 삼성전자, 전영현·노태문 투",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
+      "link": "https://www.etnews.com/20261120000029",
+      "date": "Fri, 20 Nov 2026 09:16:55 +0900",
+      "desc": "삼성전자가 반도체 최대 실적과 개발 경쟁력 제고를 이끈 부사장 3명을 사장으로 승진시키며 세대교체에 나섰다. 전영현 부회장과 노태문 사장은 겸직하던 메모리사업부장과 MX사업부장을 각각 내려놓고 미래사업 육성에 집중한다. 삼성전자는 20일 사장 승진 3",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Memory R&D Is a High-Stakes Game",
+      "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
+      "date": "Thu, 19 Nov 2026 22:21:15 +0000",
+      "desc": "AI is driving memory makers’ research agenda, while partnerships help share the cost and risk of developing technologies beyond the next pro",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "LG이노텍, 조지태 부사장 승진",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65673",
+      "date": "2026-11-19 16:42:25",
+      "desc": "LG이노텍이 2027년 정기 임원인사에서 패키지솔루션 사업부장을 부사장으로 승진시켰다. 연구개발(R&D) 인력을 상무로 발탁하며 반도체 기판 등 차세대 사업 육성을 가속한다.LG이노텍은 19일 이사회를 열고 부사장 승진 1명, 전무 승진 1명, 상무 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
+      "link": "https://www.eetimes.com/gartner-warns-of-risks-behind-sovereign-tech-claims/",
+      "date": "Thu, 19 Nov 2026 16:30:35 +0000",
+      "desc": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post G",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "글로벌테크놀로지, '딥테크혁신' 중기부 장관표창",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65644",
+      "date": "2026-11-19 13:24:14",
+      "desc": "글로벌테크놀로지가 발광다이오드(LED) 구동 반도체 기술을 TV와 자동차, 차세대 디스플레이 분야로 확대한 성과를 인정받아 중소벤처기업부 장관표창을 받았다.글로벌테크놀로지는 지난 18일 청주 오스코에서 열린 '2026 중소기업 혁신 유공 포상'에서 딥",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "메모리 팹리스도 폭발적 실적 성장",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65646",
+      "date": "2026-11-19 13:22:40",
+      "desc": "글로벌 인공지능(AI) 인프라 확산과 메모리 수요 증가로 국내 메모리 팹리스 업체들의 실적이 크게 개선됐다. 피델릭스와 파두, 제주반도체가 올해 3분기 세자릿수 매출 증가율을 기록했다. 영업손익도 흑자로 돌아서거나 큰 폭으로 개선됐다.18일 디일렉이 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW",
+      "link": "https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/",
+      "date": "Thu, 19 Nov 2026 08:06:18 +0000",
+      "desc": "Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future d",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Accelerators Drive Changes In Power Delivery Networks",
+      "link": "https://semiengineering.com/ai-accelerators-drive-changes-in-power-delivery-networks/",
+      "date": "Thu, 19 Nov 2026 08:05:17 +0000",
+      "desc": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and sy",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+      "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+      "date": "Thu, 19 Nov 2026 08:03:18 +0000",
+      "desc": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins A",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+      "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+      "date": "Thu, 19 Nov 2026 08:02:31 +0000",
+      "desc": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Q",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "What Is Driving Silicon Wafer Demand Recovery?",
+      "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+      "date": "Thu, 19 Nov 2026 08:01:54 +0000",
+      "desc": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufacturing",
+      "link": "https://semiengineering.com/simulation-of-plasma-chambers-for-predictive-simulation-of-semiconductor-manufacturing/",
+      "date": "Thu, 19 Nov 2026 08:01:39 +0000",
+      "desc": "Linking plasma chamber simulation with feature-scale process modeling to predict etch profiles, evaluate wafer uniformity, and optimize plas",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Detachable Fiber Connectors Pose New Challenges For Photonics",
+      "link": "https://semiengineering.com/detachable-fiber-connectors-pose-new-challenges-for-photonics/",
+      "date": "Thu, 19 Nov 2026 08:01:36 +0000",
+      "desc": "Multiple designs are emerging for CPO and NPO, but standardization and high-volume manufacturing are still not ready. The post Detachable Fi",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Can AI Make Its Own Manufacturing Decisions?",
+      "link": "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/",
+      "date": "Thu, 19 Nov 2026 08:01:02 +0000",
+      "desc": "AI can optimize processes and find defects, but autonomous decisions require better data and strict process controls. The post Can AI Make I",
+      "category": "robotics",
+      "domain": "tech"
+    },
     {
       "source": "한국경제",
       "type": "kr",
