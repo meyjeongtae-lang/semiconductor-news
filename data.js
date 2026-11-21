@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-20T02:49:43.582Z",
+  "fetchedAt": "2026-11-21T02:58:31.387Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+      "link": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/",
+      "date": "Fri, 20 Nov 2026 22:23:32 +0000",
+      "desc": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sover",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "\"에지 AI 확산이 메모리 성장 견인\"…CXMT, 차세대 저전력 제품 양산",
+      "link": "https://zdnet.co.kr/view/?no=20261118203029",
+      "date": "Sat, 21 Nov 2026 07:00:01 +0900",
+      "desc": "[지디넷코리아]에지 인공지능(AI)이 글로벌 메모리 시장 확장을 이끄는 동력으로 부상했다. 데이터센터에 집중됐던 메모리 반도체 수요가 AI 스마트폰과 자동차, 소비자용 기기 전반으로 확산하고 있다. 중국 메모리 반도체 기업 창신메모리테크놀로지(CXMT",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "오킨스전자, 케미텍 반도체 검사장비 커넥터 특허 2건 무효심판 청구",
+      "link": "https://zdnet.co.kr/view/?no=20261121002518",
+      "date": "Sat, 21 Nov 2026 00:38:23 +0900",
+      "desc": "[지디넷코리아]반도체 검사장비 부품업체 오킨스전자가 케미텍 특허 2건을 상대로 무효심판을 청구했다. 반도체 검사장비 커넥터 기술이 쟁점이다. 오킨스전자는 특허 2건 중 1건에 대해선 특허를 침해하지 않았다고 주장하는 소극적 권리범위확인심판(소극심판)도",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
+      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
+      "date": "Fri, 20 Nov 2026 15:37:26 +0000",
+      "desc": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models. T",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "AMD, 언슬로스 데스크톱에 NPU 지원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65704",
+      "date": "2026-11-20 14:12:11",
+      "desc": "AMD가 인공지능(AI) 소프트웨어 기업 언슬로스와 협력해 PC용 신경망처리장치(NPU)에서 대규모 AI 모델을 구동하는 기술을 선보였다.AMD는 19일(현지시간) 언슬로스의 AI 실행 소프트웨어 '언슬로스 데스크톱'에 자사 XDNA 2 아키텍처 기반",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
@@ -10,6 +60,16 @@ window.NEWS_DATA = {
       "desc": "삼성전자가 전영현 부회장과 노태문 사장의 2인 대표이사 체제는 유지하고 두 사람이 겸직해 온 사업부장직은 떼어냈다. 메모리사업부장과 모바일경험(MX)사업부장에는 각각 황상준 사장과 최원준 사장이 선임됐다. 전 부회장은 파운드리 등 미래사업에 집중한다.",
       "category": "memory",
       "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Anthropic’s IPO and the B2D Strategy",
+      "link": "https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/",
+      "date": "Fri, 20 Nov 2026 09:43:53 +0000",
+      "desc": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conve",
+      "category": "deals",
+      "domain": "business"
     },
     {
       "source": "삼성 뉴스룸",
@@ -29,6 +89,36 @@ window.NEWS_DATA = {
       "date": "2026-11-20 08:39:45",
       "desc": "에이직랜드가 고성능 메모리 컨트롤러 양산 공급 계약을 따냈다. 첫 발주서(PO) 기준 계약 규모는 1047만달러(약 139억원)다.에이직랜드는 20일 고성능 메모리 컨트롤러 신규 양산 공급 계약을 체결했다고 밝혔다. 계약 종료일은 내년 4월 30일이다",
       "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Week In Review",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-165/",
+      "date": "Fri, 20 Nov 2026 08:01:14 +0000",
+      "desc": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261120-TE-01호] 2026년 11월 20일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261120-te-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-20%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 20 Nov 2026 07:11:27 GMT",
+      "desc": "샘플링 검사 한계 넘는다…SK하이닉스 33년 노하우 담은 '미르테크' (2026년 11월 20일, 조선비즈, 김정은 기자) 원문보기: https://biz.chosun.com/industry/business-venture/2026/11/20/ZZ6M6",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261120-TI-01호] 2026년 11월 20일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261120-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-20%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Fri, 20 Nov 2026 07:09:24 GMT",
+      "desc": "美, 엔비디아 사태에 中 'AI 칩 원격 우회' 차단…장비 수출도 옥죈다 (2026년 11월 20일, 뉴시스, 박미선 기자) 원문보기: https://www.newsis.com/view/NISX20261120_0003876231?utm_source=c",
+      "category": "equipment",
       "domain": "tech"
     },
     {
@@ -1139,16 +1229,6 @@ window.NEWS_DATA = {
       "date": "2026-11-13 08:52:31",
       "desc": "파네시아가 인텔코리아와 CXL(Compute Express Link) 기술 협력 목적의 업무협약(MOU)을 체결했다고 12일 밝혔다.체결식은 이날 '인텔 인공지능(AI) 서밋 서울 2026' 행사가 열린 서울 코엑스에서 이뤄졌다. 정명수 파네시아 대표",
       "category": "ai-compute",
-      "domain": "tech"
-    },
-    {
-      "source": "Semiconductor Engineering",
-      "type": "intl",
-      "title": "Chip Industry Week In Review",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
-      "date": "Fri, 13 Nov 2026 08:01:34 +0000",
-      "desc": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; im",
-      "category": "security",
       "domain": "tech"
     },
     {
