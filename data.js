@@ -1,6 +1,56 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-22T01:54:20.343Z",
+  "fetchedAt": "2026-11-23T02:14:21.821Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "래블업, 美 AI 인프라 시장 공략 속도…글로벌 유통망 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261123102914",
+      "date": "Mon, 23 Nov 2026 10:29:33 +0900",
+      "desc": "[지디넷코리아]래블업이 미국 기업용 인공지능(AI) 인프라 시장 공략에 나선다. 현지 IT 솔루션 기업과 공급 계약을 체결하고 자체 AI 인프라 소프트웨어 '백엔드닷에이아이(Backend.AI)'의 해외 판매 채널을 확대한다는 전략이다.래블업은 미국 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "美 재무장관 \"엔비디아, 中 반도체 수출 의혹 해명해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261123094715",
+      "date": "Mon, 23 Nov 2026 10:21:23 +0900",
+      "desc": "[지디넷코리아]스콧 베센트 미 재무부 장관이 엔비디아의 대중국 반도체 수출 의혹과 관련 신속한 규명을 요구했다.스콧 베센트 장관은 22일(현지시간) 미국 CBS뉴스 시사 프로그램 '페이스 더 네이션'에 출연해 \"미국 정부가 콜렛 크레스 엔비디아 임시 ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261122-TI-01호] 2026년 11월 22일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261122-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-22%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Mon, 23 Nov 2026 00:52:36 GMT",
+      "desc": "D램값 내년 상승 전망에도 … 데이터센터 막히면 급랭 불가피 (2026년 11월 22일, 매일경제, 한지연 기자) 원문보기: https://www.mk.co.kr/news/business/12215688 [핵심 요약] [1] 낸드 가격, 중국 CSP ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, 한일 '빅텐트' 출범 이어 AI 인재 공동 육성 제안",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65742",
+      "date": "2026-11-22 13:09:52",
+      "desc": "최태원 SK그룹 회장이 한일 양국이 인공지능(AI) 인재를 공동 육성하자고 제안했다. 지난 6월 한일 협력 플랫폼 '빅텐트'를 제안하고 최근 플랫폼을 출범시킨 데 이어 양국의 협력을 다시 강조했다. 22일 SK그룹은 최 회장이 지난 21일 일본 도쿄대",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "메모리 가격 폭등에 PC 사양 '역주행'…고육지책 꺼낸 제조사",
+      "link": "https://www.etnews.com/20261120000238",
+      "date": "Sun, 22 Nov 2026 16:00:00 +0900",
+      "desc": "메모리 반도체 가격 급등에 글로벌 PC 제조사들이 제품에 탑재되는 메모리 용량을 줄이는 방안을 검토 중이다. PC 가격 인상만으로 원가 상승을 감당하기 어려워지자 제품 사양까지 낮추는 고육지책이다. 에이수스는 중저가 PC에 탑재되는 메모리 용량을 16",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "SPTA TIMES",
       "type": "digest",
