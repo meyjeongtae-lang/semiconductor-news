@@ -1,6 +1,206 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-23T02:14:21.821Z",
+  "fetchedAt": "2026-11-24T05:44:09.762Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "피델릭스, 분식회계 파장…中 최대주주도 제재",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65824",
+      "date": "2026-11-24 14:36:18",
+      "desc": "중국에 경영권이 넘어간 국내 메모리 반도체 설계전문기업(팹리스) 피델릭스의 분식회계 파장이 중국 최대주주인 동심반도체로 확산됐다. 국내 금융당국이 피델릭스와 전 경영진 등에 과징금을 부과한 가운데 중국 금융당국도 동심반도체와 회장을 제재했다.24일 업",
+      "category": "policy",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자 역대급 실적에도 임원 승진은 9년 만에 최소",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65820",
+      "date": "2026-11-24 11:20:31",
+      "desc": "삼성전자가 사상 최대 실적을 내고도 정기 임원 승진자를 9년 만에 가장 적게 냈다. 완제품 사업을 맡는 디바이스경험(DX) 부문 승진자가 큰 폭으로 줄었기 때문이다.반도체 사업을 맡는 디바이스솔루션(DS) 부문도 역대 최대 실적을 내고 있으나 승진자는",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "젠슨 황, 복귀 첫날 본사 찾아 직원에 사과…\"더 나은 CEO 되겠다\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65803",
+      "date": "2026-11-24 08:44:59",
+      "desc": "젠슨 황 엔비디아 최고경영자(CEO)가 복귀 첫날 본사를 찾아 직원들에게 사과했다. 직원들은 박수와 환호로 그를 맞았다.황 CEO는 23일(현지시간) 미국 캘리포니아주 샌타클래라 본사 로비에서 직원들에게 \"이 모든 일을 겪게 해 정말 미안하다\"고 말했",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…美 정치권 반발 확산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65796",
+      "date": "2026-11-24 06:27:56",
+      "desc": "젠슨 황이 사임 11일 만에 엔비디아 최고경영자(CEO)로 복귀했다.엔비디아는 23일(현지시간) 황이 CEO와 이사회 이사로 복귀한다고 발표했다. 이사회는 이를 만장일치로 의결했다. 복귀 결정은 즉시 효력이 발생했다.이사회는 \"황과 일련의 논의와 회의",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[2027 삼성전자 인사]HBM 성과 보상·파운드리 인재 중용…로봇·AI 전진 배치",
+      "link": "https://www.etnews.com/20261124000316",
+      "date": "Tue, 24 Nov 2026 13:36:52 +0900",
+      "desc": "삼성전자가 2027년 정기 임원인사에서 반도체 사업을 담당하는 DS부문에서 70명 승진·선임자를 배출했다. 전체 인사 대상자(131명) 절반 이상이다. 고대역폭메모리(HBM)와 차세대 D램 개발, 수율 개선으로 최대 실적에 기여한 인재를 중용한 것으로",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "델, AMD와 AI 인프라 협력 강화…단일 서버부터 랙스케일까지",
+      "link": "https://zdnet.co.kr/view/?no=20261124124343",
+      "date": "Tue, 24 Nov 2026 12:43:56 +0900",
+      "desc": "[지디넷코리아]델 테크놀로지스가 AMD와 협력해 인공지능(AI) 인프라 제품군을 확대한다. 에이전틱 AI에 대응하는 고밀도 공랭식 서버부터 대규모 그래픽처리장치(GPU) 기반 랙스케일 솔루션까지 기업 규모와 업무 특성에 맞는 AI 인프라 구축을 지원한",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "에이전트가 일하는 클라우드 만든다…AWS가 그리는 차세대 AI 인프라는",
+      "link": "https://zdnet.co.kr/view/?no=20261124120458",
+      "date": "Tue, 24 Nov 2026 12:06:27 +0900",
+      "desc": "[지디넷코리아]아마존웹서비스(AWS)가 인공지능(AI) 에이전트 시대에 맞춰 클라우드 인프라 고도화에 나섰다. 사람이 직접 클라우드 자원을 관리하던 환경에서 AI 에이전트가 자율적으로 업무를 수행하는 환경으로 바뀌면서 컴퓨팅과 데이터 처리, 보안 등 ",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "삼성전자, 임원 131명 승진 인사...HBM4·파운드리 주역 전진 배치",
+      "link": "https://zdnet.co.kr/view/?no=20261124104420",
+      "date": "Tue, 24 Nov 2026 11:56:40 +0900",
+      "desc": "[지디넷코리아]삼성전자가 2027년 정기 임원인사에서 전체 절반을 웃도는 70명 승진자를 DS(반도체) 부문에서 발탁하며 '성과주의'와 '기술 리더십 강화' 기조를 분명히 했다.지난해보다 승진 규모는 줄었지만 내년 인공지능(AI) 수요 확대에 대응해 ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[오전시황] 코스피 5000선 회복…반도체·로봇·MLCC株 줄줄이 급등",
+      "link": "https://www.hankyung.com/article/202611246282i",
+      "date": "Tue, 24 Nov 2026 11:44:49 +0900",
+      "desc": "",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261123-TI-01호] 2026년 11월 23일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261123-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-23%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Tue, 24 Nov 2026 00:44:16 GMT",
+      "desc": "삼성·SK 반도체, 몸값 높아진 ‘미주 사령탑’ (2026년 11월 23일, 헤럴드경제, 김현일 기자) 원문보기: https://biz.heraldcorp.com/article/10946006?ref=naver [핵심 요약] [1] 삼성·SK, 북미 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중",
+      "link": "https://www.etnews.com/20261124000060",
+      "date": "Tue, 24 Nov 2026 09:13:41 +0900",
+      "desc": "삼성전자가 2027년 정기 임원인사에서 131명을 승진시켰다. 지난해보다 승진 규모를 30명 줄이면서도 역대 최대 실적을 이끈 반도체 분야 인재는 대거 중용했다. 로봇·인공지능(AI)·파운드리 등 미래 성장동력 분야 기술리더도 전면에 배치했다. ◇승진",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
+      "link": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/",
+      "date": "Mon, 23 Nov 2026 21:35:38 +0000",
+      "desc": "Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bonded 3D-NAND-Flash-based Analog ",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
+      "link": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/",
+      "date": "Mon, 23 Nov 2026 21:34:45 +0000",
+      "desc": "Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses in SOI Waveguides Fabricated v",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
+      "link": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl/",
+      "date": "Mon, 23 Nov 2026 21:19:13 +0000",
+      "desc": "Researchers at Lucid Motors and EYL Inc. published “From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+      "link": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
+      "date": "Mon, 23 Nov 2026 18:17:02 +0000",
+      "desc": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen ",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "최태원, 대법원에 화해권고 신청…재산분할금 9440억원 마련 완료",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65769",
+      "date": "2026-11-23 16:55:44",
+      "desc": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장과의 재산분할 사건을 심리 중인 대법원에 화해권고 결정을 요청했다. 지급해야 할 재산분할금 약 9440억원을 마련하면서 분쟁 종결에 나선 것으로 파악된다. 최 회장은 지난 8월 재상고로 판결 확정이 미뤄",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Sovereign AI Paradox: Who Controls the Compute?",
+      "link": "https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/",
+      "date": "Mon, 23 Nov 2026 16:08:35 +0000",
+      "desc": "U.S. restrictions on overseas AI infrastructure could accelerate sovereign computing and weaken American technology dominance. The post The ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "브이엠, 장비개발 총괄 이상우 사장 각자대표 선임",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65760",
+      "date": "2026-11-23 15:00:52",
+      "desc": "반도체 식각장비 업체 브이엠이 장비 개발을 총괄해온 이상우 사장을 대표로 선임했다. 최우형 대표와 함께 각자대표 체제를 이어간다.브이엠은 23일 이사회를 열어 이상우 사내이사를 각자대표로 선임했다고 공시했다. 이 신임 대표는 브이엠에 개발팀장으로 입사",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
+      "link": "https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt/",
+      "date": "Mon, 23 Nov 2026 08:30:00 +0000",
+      "desc": "Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBa",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Changes What Chip Engineers Need To Learn",
+      "link": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn/",
+      "date": "Mon, 23 Nov 2026 08:01:13 +0000",
+      "desc": "AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to ",
+      "category": "security",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
