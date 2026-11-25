@@ -1,15 +1,95 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-24T05:44:09.762Z",
+  "fetchedAt": "2026-11-25T04:46:22.392Z",
   "items": [
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "GPU 많이 사는 게 능사 아니다…AI 인프라 경쟁, SW로 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261125115444",
+      "date": "Wed, 25 Nov 2026 12:03:54 +0900",
+      "desc": "[지디넷코리아]\"이제는 그래픽처리장치(GPU)를 몇 개 더 사느냐의 싸움이 아닙니다.\"서영석 오케스트로 부사장은 25일 서울 삼정호텔에서 한국인공지능·소프트웨어산업협회(KOSA)가 개최한 '제40회 KOSA 런앤그로우 포럼'에서 인공지능(AI) 서비스",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[오전시황] 반도체주 충격에 코스피 5.65% 급락...바이오·화장품株는 급등",
+      "link": "https://www.hankyung.com/article/202611259156i",
+      "date": "Wed, 25 Nov 2026 11:30:42 +0900",
+      "desc": "",
+      "category": "market",
+      "domain": "business"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "반도체가 바꾼 성장률 계산법…한은, 내년 전망치 대폭 상향하나 [심성미의 중앙은행 워치]",
+      "link": "https://www.hankyung.com/article/202611258895i",
+      "date": "Wed, 25 Nov 2026 11:13:24 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
+      "title": "[ET톡] '삼성전자 성과주의' 다음 과제",
+      "link": "https://www.etnews.com/20261125000213",
+      "date": "Wed, 25 Nov 2026 10:54:31 +0900",
+      "desc": "삼성전자가 2027년 임원인사를 마무리했다. '성과 있는 곳에 보상 있다'는 삼성전자 인사 원칙이 변함없이 적용됐다. 반도체를 담당하는 디바이스솔루션(DS)부문은 승진자가 지난해 69명에서 올해 70명으로 늘었지만, 스마트폰·가전 사업을 맡는 디바이스",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261124-TE-01호] 2026년 11월 24일 반도체 장비 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261124-te-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-24%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%9E%A5%EB%B9%84-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 25 Nov 2026 00:37:54 GMT",
+      "desc": "예스티, 세계 최초 D램용 125매 고압어닐링장비 출하 (2026년 11월 24일, 이데일리, 김아름 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=02043446645649000&#38;mediaCode",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261124-TI-01호] 2026년 11월 24일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261124-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-24%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Wed, 25 Nov 2026 00:35:45 GMT",
+      "desc": "SK하이닉스, 소부장 R&#38;D에 1000억원…개발 실패해도 보상 (2026년 11월 24일, 이데일리, 최오현 기자) 원문보기: https://www.edaily.co.kr/News/Read?newsId=03247206645649000&#38;m",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+      "link": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/",
+      "date": "Tue, 24 Nov 2026 16:16:56 +0000",
+      "desc": "Edge AI and robotics bring greater precision and autonomy to agricultural machinery, from targeted spraying to harvesting. The post From Pre",
+      "category": "robotics",
+      "domain": "tech"
+    },
     {
       "source": "디일렉",
       "type": "kr",
-      "title": "피델릭스, 분식회계 파장…中 최대주주도 제재",
+      "title": "메모리 팹리스 피델릭스, 분식회계 파장…中 최대주주도 제재",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=65824",
       "date": "2026-11-24 14:36:18",
       "desc": "중국에 경영권이 넘어간 국내 메모리 반도체 설계전문기업(팹리스) 피델릭스의 분식회계 파장이 중국 최대주주인 동심반도체로 확산됐다. 국내 금융당국이 피델릭스와 전 경영진 등에 과징금을 부과한 가운데 중국 금융당국도 동심반도체와 회장을 제재했다.24일 업",
       "category": "policy",
       "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2)",
+      "link": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/",
+      "date": "Tue, 24 Nov 2026 11:53:11 +0000",
+      "desc": "Vehicle-to-grid technology promises grid benefits but raises concerns over battery life, charging access, costs, and driver convenience. The",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "디일렉",
@@ -32,6 +112,116 @@ window.NEWS_DATA = {
       "domain": "tech"
     },
     {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
+      "link": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream/",
+      "date": "Tue, 24 Nov 2026 08:40:49 +0000",
+      "desc": "Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehic",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why AI Struggles To Reuse Chip Designs",
+      "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+      "date": "Tue, 24 Nov 2026 08:11:47 +0000",
+      "desc": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggle",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Vs. High-Level Synthesis",
+      "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+      "date": "Tue, 24 Nov 2026 08:11:34 +0000",
+      "desc": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results?",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "AI Can Read The Code, But Can It Understand The Chip?",
+      "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+      "date": "Tue, 24 Nov 2026 08:11:31 +0000",
+      "desc": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that gene",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+      "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+      "date": "Tue, 24 Nov 2026 08:08:01 +0000",
+      "desc": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Si",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Why Photonic Design Is Becoming a System-Level Challenge",
+      "link": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge/",
+      "date": "Tue, 24 Nov 2026 08:07:22 +0000",
+      "desc": "A component can meet its individual design targets and still behave differently as part of a complete optical link. The post Why Photonic De",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Designing A Microarchitecture From Formal Proof To Full-System",
+      "link": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system/",
+      "date": "Tue, 24 Nov 2026 08:06:57 +0000",
+      "desc": "Combining architectural proof, software-driven verification, simulation, emulation, and cloud-based compute infrastructure. The post Designi",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "How Can AI Build Faster And Better Silicon For Physical AI?",
+      "link": "https://semiengineering.com/how-can-ai-build-faster-and-better-silicon-for-physical-ai/",
+      "date": "Tue, 24 Nov 2026 08:04:22 +0000",
+      "desc": "Shortening the path from design intent to verified implementation could put custom silicon within reach of more teams. The post How Can AI B",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "A Link Is Not Architecture: Why Multi-Die Systems Need More Than Die-to-Die Connectivity",
+      "link": "https://semiengineering.com/a-link-is-not-architecture-why-multi-die-systems-need-more-than-die-to-die-connectivity/",
+      "date": "Tue, 24 Nov 2026 08:03:55 +0000",
+      "desc": "Maintaining consistent communication behavior, integration, and security across configurations. The post A Link Is Not Architecture: Why Mul",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture",
+      "link": "https://semiengineering.com/securing-the-chiplet-future-with-a-ucie-4-0-aware-verification-architecture/",
+      "date": "Tue, 24 Nov 2026 08:03:00 +0000",
+      "desc": "Bringing together compliance tests, protocol-aware monitoring, transaction recording, scoreboarding, error-injection callbacks, and targeted",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets",
+      "link": "https://semiengineering.com/verifying-ucie-mem-flexible-verification-for-compute-and-memory-chiplets/",
+      "date": "Tue, 24 Nov 2026 08:02:43 +0000",
+      "desc": "Validate UCIe.mem implementations across development stages while reusing a common verification environment. The post Verifying UCIe.mem: Fl",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
       "source": "디일렉",
       "type": "kr",
       "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…美 정치권 반발 확산",
@@ -44,10 +234,20 @@ window.NEWS_DATA = {
     {
       "source": "전자신문",
       "type": "kr",
+      "title": "[2027 삼성전자 인사] 'HBM4 주역' 전면에…반도체가 승진자 절반 넘었다",
+      "link": "https://www.etnews.com/20261124000378",
+      "date": "Tue, 24 Nov 2026 14:38:16 +0900",
+      "desc": "삼성전자가 고대역폭메모리(HBM)4 개발·양산을 주도한 메모리 핵심 인재를 대거 중용했다. 역대 최대 실적을 기록한 반도체 부문에 보상을 집중하는 한편 로봇·인공지능(AI)·파운드리 부문에서 미래기술을 선도할 인물을 발탁했다. 삼성전자는 24일 부사장",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
+      "source": "전자신문",
+      "type": "kr",
       "title": "[2027 삼성전자 인사]HBM 성과 보상·파운드리 인재 중용…로봇·AI 전진 배치",
       "link": "https://www.etnews.com/20261124000316",
       "date": "Tue, 24 Nov 2026 13:36:52 +0900",
-      "desc": "삼성전자가 2027년 정기 임원인사에서 반도체 사업을 담당하는 DS부문에서 70명 승진·선임자를 배출했다. 전체 인사 대상자(131명) 절반 이상이다. 고대역폭메모리(HBM)와 차세대 D램 개발, 수율 개선으로 최대 실적에 기여한 인재를 중용한 것으로",
+      "desc": "삼성전자가 2027년 정기 임원인사에서 반도체 사업을 담당하는 DS부문에서 70명 승진·선임자를 배출했다. 전체 인사 대상자(131명) 절반 이상이다. 고대역폭메모리(HBM)와 차세대 D램 개발, 수율 개선으로 최대 실적에 기여한 인재를 중용했다. 디",
       "category": "robotics",
       "domain": "tech"
     },
