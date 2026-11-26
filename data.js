@@ -1,6 +1,176 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-25T04:46:22.392Z",
+  "fetchedAt": "2026-11-26T03:57:09.992Z",
   "items": [
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "퀄컴, 국내 이공계 석박사 논문 34편 선정",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65935",
+      "date": "2026-11-26 09:16:22",
+      "desc": "퀄컴이 국내 이공계 석박사 과정 대학원생의 연구 논문 34편을 선정해 장학금을 지원했다.퀄컴은 25일 서울 퀄컴코리아 사무실에서 '퀄컴 이노베이션 펠로우십 코리아 2026'을 열었다고 26일 밝혔다.선정된 논문은 온디바이스 AI, 자율주행·피지컬 AI",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "서학 초고수들, 다시 반도체 반등에 베팅...칩 레버리지 ETF·마이크론 사들여",
+      "link": "https://www.hankyung.com/article/202611261940i",
+      "date": "Thu, 26 Nov 2026 12:14:17 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 한은 총재 \"반도체 시총 2000조, 수익 3배밖에 안돼…설명 불가\"",
+      "link": "https://www.hankyung.com/article/2026112620127",
+      "date": "Thu, 26 Nov 2026 11:57:24 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "[속보] 한은 총재 \"올해 명목GDP 3000조원 상회…반도체 영업익 700조원\"",
+      "link": "https://www.hankyung.com/article/2026112619557",
+      "date": "Thu, 26 Nov 2026 11:36:52 +0900",
+      "desc": "",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261125-TT-01호] 2026년 11월 25일 반도체 기술 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261125-tt-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-25%EC%9D%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 26 Nov 2026 01:01:30 GMT",
+      "desc": "삼성전자, 세계 최초 500단급 낸드 연구개발…'퀀텀 점프' 노린다 (2026년 11월 25일, 아주경제, 박진영 기자) 원문보기: https://www.ajunews.com/view/20261125152539761 [핵심 요약] [1] 삼성전자, 세",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "SPTA TIMES",
+      "type": "digest",
+      "title": "[제20261125-TI-01호] 2026년 11월 25일 글로벌 반도체 산업 관련 주요 뉴스 요약",
+      "link": "https://www.sptatimeskorea.com/post/%EC%A0%9C20261125-ti-01%ED%98%B8-2026%EB%85%84-11%EC%9B%94-25%EC%9D%BC-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%B0%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD",
+      "date": "Thu, 26 Nov 2026 00:49:54 GMT",
+      "desc": "美정보당국 \"앨리스 황, 中에 정보 넘겼다\" (2026년 11월 25일, 파이낸셜뉴스, 홍채완 기자) 원문보기: https://www.fnnews.com/news/202611251824060700 [핵심 요약] [1] 앨리스 황의 중국 정보기관 정보 ",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "노소영, 화해권고 요청 거부…최태원 \"유감\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65933",
+      "date": "2026-11-25 21:15:16",
+      "desc": "노소영 아트센터 나비 관장 측이 재산분할금 9440억원을 전액 지급하겠다는 최태원 SK그룹 회장 측의 화해권고 요청을 거부했다. 최 회장에게 먼저 상고를 취하하라고 요구했다. 최 회장 측은 유감을 표하고 재판을 이어가겠다는 입장을 밝혔다. 노 관장 측",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "SK하이닉스 \"3D D램 첫 제품은 100층부터, 4~5년 내 양산 목표\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65900",
+      "date": "2026-11-25 17:44:52",
+      "desc": "SK하이닉스는 3D D램이 2031년께 상용화될 것으로 전망했다. 첫 제품은 메모리 셀을 100층 쌓은 형태가 될 것으로 내다봤다.최강식 SK하이닉스 DE(Distinguished Engineer)는 25일 서울 관악구 서울대학교에서 열린 서울대 AI",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AI Makes Formal Verification Practical",
+      "link": "https://www.eetimes.com/ai-makes-formal-verification-practical/",
+      "date": "Wed, 25 Nov 2026 17:34:58 +0000",
+      "desc": "AI model startup Harmonic is expanding into formal verification for software and hardware. The post AI Makes Formal Verification Practical a",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "팹리스협회 'AI반도체팹리스산업협회'로 개명",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65887",
+      "date": "2026-11-25 17:30:00",
+      "desc": "한국팹리스산업협회가 한국AI반도체팹리스산업협회(KAISA)로 이름을 바꾸고 인공지능(AI)과 소프트웨어(SW) 산업으로 활동 범위를 넓히기로 했다.협회는 25일 경기 성남시 그래비티 조선 판교에서 '2026 K-팹리스 테크포럼 및 제4회 반도체팹리스인",
+      "category": "earnings",
+      "domain": "business"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "화웨이 HBM, CXMT는 수직 게이트 D램…ISSCC서 삼성·SK에 도전장",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65899",
+      "date": "2026-11-25 16:46:17",
+      "desc": "삼성전자와 SK하이닉스가 내년 2월 국제반도체기술학회(ISSCC)에서 각각 7세대 고대역폭메모리(HBM4E)와 수직 게이트를 적용한 차세대 D램 구조의 연구 성과를 발표할 예정인 가운데 중국 화웨이와 창신메모리(CXMT)도 같은 세션에서 같은 분야 논",
+      "category": "research",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "삼성전자, 내년 초 CXL 3.2 샘플 공급...하반기 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65894",
+      "date": "2026-11-25 14:02:59",
+      "desc": "삼성전자가 컴퓨트익스프레스링크(CXL:Compute Express Link) 3.2 기반 메모리 모듈(CMM-D) 샘플을 내년 초 고객에 공급한다. 양산 시점은 내년 하반기로 예상했다.심호준 삼성전자 반도체(DS)부문 메모리사업부 상무는 25일 서울대",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "AMD Tackles DRAM Shortages with AI and Flash Storage",
+      "link": "https://www.eetimes.com/amd-tackles-dram-shortages-with-ai-and-flash-storage/",
+      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "desc": "AMD MEXT uses AI to park cold memory pages in flash, cutting DRAM costs and easing data center shortages. The post AMD Tackles DRAM Shortage",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "서울반도체, RGB 백라이트 '와이콥 픽셀' 양산",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=65881",
+      "date": "2026-11-25 13:35:36",
+      "desc": "서울반도체는 25일 자회사 서울바이오시스의 적녹청(RGB) 백라이트 기술 '와이콥 픽셀(WICOP Pixel)'을 양산하고 글로벌 TV 제조사에 공급하기 시작했다고 밝혔다.와이콥 픽셀은 별도 패키지 없이 광반도체 칩을 사용할 수 있는 와이콥 기술을 적",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
+      "link": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash/",
+      "date": "Wed, 25 Nov 2026 08:59:51 +0000",
+      "desc": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag. The post Wi",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Blog Review: Nov. 25",
+      "link": "https://semiengineering.com/blog-review-nov-25-3/",
+      "date": "Wed, 25 Nov 2026 08:01:39 +0000",
+      "desc": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability. The post Blog Review: Nov. 25 appeared fir",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "Semiconductor Engineering",
+      "type": "intl",
+      "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+      "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
+      "date": "Wed, 25 Nov 2026 08:01:01 +0000",
+      "desc": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes f",
+      "category": "research",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
