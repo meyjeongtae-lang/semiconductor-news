@@ -1,6 +1,96 @@
 window.NEWS_DATA = {
-  "fetchedAt": "2026-11-27T03:56:09.479Z",
+  "fetchedAt": "2026-11-28T03:43:03.720Z",
   "items": [
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "GTA: Grand Three Assumptions",
+      "link": "https://www.eetimes.com/gta-grand-three-assumptions/",
+      "date": "Sat, 28 Nov 2026 02:00:00 +0000",
+      "desc": "GTA 6 broke sales records, but consoles running it rest on assumptions that failed: cheaper hardware, commodity memory, frozen platforms. Th",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "중국이 쓰던 GPU, 미국에 쏟아진다…젠슨 황 스캔들의 나비효과 [김인엽의 AI프런티어]",
+      "link": "https://www.hankyung.com/article/202611274543i",
+      "date": "Sat, 28 Nov 2026 10:00:02 +0900",
+      "desc": "",
+      "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "한국경제",
+      "type": "kr",
+      "title": "韓 반도체 '성과급 잔치'에 들썩일 때…中·日은 칼 갈았다 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026112750696",
+      "date": "Sat, 28 Nov 2026 09:30:06 +0900",
+      "desc": "",
+      "category": "labor",
+      "domain": "business"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Penguin Revives Retired DDR4 for AI Servers",
+      "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+      "date": "Fri, 27 Nov 2026 19:17:00 +0000",
+      "desc": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The p",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "디일렉",
+      "type": "kr",
+      "title": "파네시아, AI 데이터센터에 메모리 중심 구조 제시",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=66026",
+      "date": "2026-11-27 16:34:49",
+      "desc": "인공지능(AI) 인터커넥트 기업 파네시아가 메모리를 중심으로 한 차세대 AI 데이터센터 구조와 컴퓨트익스프레스링크(CXL) 활용 방안을 제시했다.파네시아는 27일 정명수 대표가 서울 워커힐 호텔에서 열린 'K-AI 얼라이언스 서울 밋업 2026'의 A",
+      "category": "memory",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
+      "date": "Fri, 27 Nov 2026 14:22:45 +0000",
+      "desc": "The proposed MATCH Act exposes a strategic vulnerability extending beyond ASML to the technologies that determine manufacturing productivity",
+      "category": "security",
+      "domain": "tech"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엑시콘, 반도체 검사장비 국책과제 특허 삼성전자와 공유",
+      "link": "https://zdnet.co.kr/view/?no=20261127221442",
+      "date": "Fri, 27 Nov 2026 22:14:42 +0900",
+      "desc": "[지디넷코리아]반도체 검사장비 업체 엑시콘이 국책과제로 확보한 SSD 테스트 장치 특허권 일부를 삼성전자에 이전했다. 엑시콘과 삼성전자는 해당 특허를 함께 사용할 수 있다. 27일 업계에 따르면 엑시콘은 지난 5월 한국 지식재산처에 등록한 '테스트 장",
+      "category": "legal",
+      "domain": "business"
+    },
+    {
+      "source": "ZDNet Korea",
+      "type": "kr",
+      "title": "엑시콘, \"와이씨·'전략투자자'에 샘씨엔에스 지분 10% 양도\"...745억원",
+      "link": "https://zdnet.co.kr/view/?no=20261127194330",
+      "date": "Fri, 27 Nov 2026 19:57:11 +0900",
+      "desc": "[지디넷코리아]반도체 검사장비업체 엑시콘이 관계사인 검사장비 부품업체 샘씨엔에스 지분 10%를 또 다른 관계사인 와이씨와 아직 정해지지 않은 '전략적 투자자'에 양도할 예정이라고 27일 공시했다. 양도 예정 금액은 745억원이다. 엑시콘이 양도할 예정",
+      "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "EE Times",
+      "type": "intl",
+      "title": "Huawei’s Next Big AI Move: HBM Workaround",
+      "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+      "date": "Fri, 27 Nov 2026 08:56:46 +0000",
+      "desc": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawe",
+      "category": "memory",
+      "domain": "tech"
+    },
     {
       "source": "ZDNet Korea",
       "type": "kr",
@@ -109,6 +199,26 @@ window.NEWS_DATA = {
       "date": "Thu, 26 Nov 2026 14:00:00 +0000",
       "desc": "Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths",
       "category": "ai-compute",
+      "domain": "tech"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[Semi City] 정밀 분석에서 시작되는 디에프텍의 품질 경쟁력(ft. 공유 인프라)​",
+      "link": "https://news.skhynix.co.kr/semi-city-sh-2/",
+      "date": "Thu, 26 Nov 2026 09:38:18 +0000",
+      "desc": "데이터가 만드는 고품질 반도체! 📊​ SK하이닉스 내부와 동일한 기준으로​ 72시간 이내에 분석 데이터를 받아볼 수 있는​ ‘분석/측정 지원센터’​ 정밀한 데이터에 협력사만의 노하우를 더하고​ ‘반도체 아카데미’로 다진 전문성까지!​ 교육부터 현장실",
+      "category": "etc",
+      "domain": "etc"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[하이패스] 높아진 메모리 장벽, 대역폭의 병목을 넘는 HBM",
+      "link": "https://news.skhynix.co.kr/hy-pass-1/",
+      "date": "Thu, 26 Nov 2026 09:32:01 +0000",
+      "desc": "AI 시대를 움직이는 건 GPU만이 아닙니다. AI 성능을 좌우하는 또 하나의 핵심 요소, ‘대역폭의 병목’에 주목해 볼까요? 데이터 통로(Bandwidth)를 넓힌 HBM의 등장부터 개발과 협업을 통한 고객 맞춤형 HBM까지. BCG 김창욱 파트너와",
+      "category": "memory",
       "domain": "tech"
     },
     {
@@ -292,6 +402,16 @@ window.NEWS_DATA = {
       "domain": "etc"
     },
     {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[더넥스트톡 EP.2] 피지컬 AI가 완성하는 자동화, 반도체 FAB의 내일",
+      "link": "https://news.skhynix.co.kr/thenexttalk-ep-2-sh/",
+      "date": "Wed, 25 Nov 2026 09:36:09 +0000",
+      "desc": "인지와 판단을 넘어 실행까지 스스로 수행하는 Autonomous FAB🤖⚙️ 그리고 자동화 FAB의 마지막 퍼즐 Physical AI 데이터를 바탕으로 로봇의 역량을 높이고, 자동화의 새로운 가능성을 열어가는 SK하이닉스! Physical AI가 열",
+      "category": "robotics",
+      "domain": "tech"
+    },
+    {
       "source": "EE Times",
       "type": "intl",
       "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
@@ -420,6 +540,16 @@ window.NEWS_DATA = {
       "desc": "삼성전자가 사상 최대 실적을 내고도 정기 임원 승진자를 9년 만에 가장 적게 냈다. 완제품 사업을 맡는 디바이스경험(DX) 부문 승진자가 큰 폭으로 줄었기 때문이다.반도체 사업을 맡는 디바이스솔루션(DS) 부문도 역대 최대 실적을 내고 있으나 승진자는",
       "category": "memory",
       "domain": "tech"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[Semi City] 기술과 인재가 함께 성장하는 코미코의 상생협력 (ft. 공유 인프라)​",
+      "link": "https://news.skhynix.co.kr/semi-city-sh-1/",
+      "date": "Tue, 24 Nov 2026 09:35:04 +0000",
+      "desc": "함께 성장하는 파트너십! 🤝 ​ ‘분석/측정 지원센터’의 정밀한 데이터로​ 미세 오염과 스크래치 문제까지 해결하며​ 한층 고도화된 기술력을 갖추고​ ‘청년 Hy-Five’로 함께하게 된 인재들과​ 반도체의 내일을 준비하는​ 코미코의 이야기를 만나보세",
+      "category": "etc",
+      "domain": "etc"
     },
     {
       "source": "디일렉",
@@ -709,6 +839,16 @@ window.NEWS_DATA = {
       "date": "2026-11-23 15:00:52",
       "desc": "반도체 식각장비 업체 브이엠이 장비 개발을 총괄해온 이상우 사장을 대표로 선임했다. 최우형 대표와 함께 각자대표 체제를 이어간다.브이엠은 23일 이사회를 열어 이상우 사내이사를 각자대표로 선임했다고 공시했다. 이 신임 대표는 브이엠에 개발팀장으로 입사",
       "category": "equipment",
+      "domain": "tech"
+    },
+    {
+      "source": "SK하이닉스 뉴스룸",
+      "type": "corp",
+      "title": "[더넥스트톡 EP.3] 고객과 함께 설계하는 최적의 구조, 메모리 Solution의 내일",
+      "link": "https://news.skhynix.co.kr/the-next-talk-ep-3/",
+      "date": "Mon, 23 Nov 2026 09:29:24 +0000",
+      "desc": "AI가 더 오래 생각할수록, 길어지는 추론 과정과 끊임없이 쌓이는 KV 캐시 Memory Wall의 한계를 넘어 AI시대의 새로운 해답을 찾아가는 SK하이닉스. 고객과 함께 설계하는 메모리 아키텍쳐와 HBM과 HBF를 비롯한 메모리 계층구조, 그리고 ",
+      "category": "memory",
       "domain": "tech"
     },
     {
